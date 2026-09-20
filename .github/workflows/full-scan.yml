@@ -1,0 +1,37 @@
+name: Full scan
+
+on:
+  schedule:
+    - cron: "0 3 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: entitlements-catalog
+  cancel-in-progress: false
+
+jobs:
+  full:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run full scan
+        run: python scripts/update_catalog.py --storefront steam --mode full --concurrency 16
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: "catalogs/steam/v1/dlc.json state/steam/**"
+          commit_message: "Full entitlements catalog scan"
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
