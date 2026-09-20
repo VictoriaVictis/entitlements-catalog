@@ -2,7 +2,7 @@ name: Update catalog
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 6,18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,6 +21,14 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
 
+      - name: Cache state
+        uses: actions/cache@v4
+        with:
+          path: state/steam
+          key: steam-state-${{ github.run_id }}
+          restore-keys: |
+            steam-state-
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -30,7 +38,17 @@ jobs:
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
 
+      - name: Check for catalog changes
+        id: check_catalog
+        run: |
+          if [ -n "$(git status --porcelain catalogs/steam/v1/dlc.json)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Commit changes
+        if: steps.check_catalog.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: "catalogs/steam/v1/dlc.json state/steam/**"
