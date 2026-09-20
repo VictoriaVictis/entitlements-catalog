@@ -2,6 +2,7 @@ import argparse
 import ast
 import concurrent.futures
 import gzip
+import html
 import json
 import os
 import sys
@@ -28,7 +29,7 @@ class CatalogHTTPError(RuntimeError):
 def decode_body(raw, headers):
     if headers is not None and headers.get("Content-Encoding") == "gzip":
         raw = gzip.decompress(raw)
-    return raw.decode("utf-8")
+    return raw.decode("utf-8", errors="replace")
 
 
 def log(message):
@@ -214,7 +215,7 @@ def normalize_dlc_map(dlcs):
         return result
     for dlc in dlcs:
         dlc_id = str(dlc.get("appid", ""))
-        name = str(dlc.get("name", ""))
+        name = html.unescape(str(dlc.get("name", ""))).strip()
         if dlc_id:
             result[dlc_id] = name
     return result
@@ -248,7 +249,7 @@ def merge_manual(output, manual):
             continue
         entry = output.setdefault(str(app_id), {"dlcs": {}})
         for dlc_id, name in dlcs.items():
-            name = str(name)
+            name = html.unescape(str(name)).strip()
             if name:
                 entry["dlcs"][str(dlc_id)] = name
 
