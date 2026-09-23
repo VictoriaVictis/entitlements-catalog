@@ -301306,5 +301306,3937 @@
   "3999300": {
     "parent": 2901810,
     "name": "Supermrket: Donuts!!"
+  },
+  "4000030": {
+    "parent": 2890150,
+    "name": "u4ia - In game walkthrough mod/guide and unlocker"
+  },
+  "4000270": {
+    "parent": 3877400,
+    "name": "Contingency Artbook"
+  },
+  "4000740": {
+    "parent": 2138670,
+    "name": "Tireless pig Artbook"
+  },
+  "4000800": {
+    "parent": 3476730,
+    "name": "Killer Chat! Original Edition - Ronin's Valentine's Bundle"
+  },
+  "4000810": {
+    "parent": 3476730,
+    "name": "Killer Chat! Original Edition - Angel's Valentine's Bundle"
+  },
+  "4000820": {
+    "parent": 3476730,
+    "name": "Killer Chat! Original Edition - Misaki's Valentine's Bundle"
+  },
+  "4000830": {
+    "parent": 3476730,
+    "name": "Killer Chat! Original Edition - V's Valentine's Bundle"
+  },
+  "4000920": {
+    "parent": 2353220,
+    "name": "Tales of Legendary Lust: Aphrodisia - Through Stone & Steel"
+  },
+  "4001200": {
+    "parent": 3990350,
+    "name": "Arithmetic Arena - Premium Priority Pass"
+  },
+  "4001560": {
+    "parent": 1778820,
+    "name": "TEKKEN 8 - Miary Zo"
+  },
+  "4001570": {
+    "parent": 1778820,
+    "name": "TEKKEN 8 - BAOBAB HORIZON"
+  },
+  "4001630": {
+    "parent": 1870300,
+    "name": "SOVL - Abyssal Demons"
+  },
+  "4001650": {
+    "parent": 3483740,
+    "name": "Cast n Chill - Eastern Winds"
+  },
+  "4001670": {
+    "parent": 3606930,
+    "name": "虚拟萌伴-魔法师与魔女"
+  },
+  "4001690": {
+    "parent": 3991680,
+    "name": "Gogyō - Boost XP"
+  },
+  "4001810": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - BR CoalHop Pack"
+  },
+  "4001970": {
+    "parent": 3693720,
+    "name": "Concerto on White: Cajon Story - Touhou Project Music Pack"
+  },
+  "4002040": {
+    "parent": 1551160,
+    "name": "Combat Mission Cold War - British Army of the Rhine"
+  },
+  "4002060": {
+    "parent": 620980,
+    "name": "Beat Saber - Katseye - Gabriela"
+  },
+  "4002070": {
+    "parent": 3435690,
+    "name": "All Characters DLC Pack"
+  },
+  "4002110": {
+    "parent": 2138720,
+    "name": "REMATCH - 4500 Quants"
+  },
+  "4002120": {
+    "parent": 2138720,
+    "name": "REMATCH - 1100 Quants"
+  },
+  "4002240": {
+    "parent": 1675830,
+    "name": "1000xRESIST - Piano Book Vol.3"
+  },
+  "4002330": {
+    "parent": 3769780,
+    "name": "Among Us Ranked - Visor Colors Bundle"
+  },
+  "4002620": {
+    "parent": 212070,
+    "name": "Star Conflict - Drag’thir (Deluxe edition)"
+  },
+  "4002630": {
+    "parent": 212070,
+    "name": "Star Conflict - Carolingian (Deluxe edition)"
+  },
+  "4002640": {
+    "parent": 212070,
+    "name": "Star Conflict - Carolingian"
+  },
+  "4003050": {
+    "parent": 1478980,
+    "name": "Oktoberfest"
+  },
+  "4003090": {
+    "parent": 3942710,
+    "name": "Infinite Game Cartridge Collection - Color Shapes"
+  },
+  "4003100": {
+    "parent": 3942710,
+    "name": "Infinite Game Cartridge Collection - 10 Seconds"
+  },
+  "4003110": {
+    "parent": 3942710,
+    "name": "Infinite Game Cartridge Collection - Morph Ranger"
+  },
+  "4003120": {
+    "parent": 3942710,
+    "name": "Infinite Game Cartridge Collection - Endless Diver"
+  },
+  "4003200": {
+    "parent": 3809620,
+    "name": "100 Cats Lost In Thailand - Extra Content"
+  },
+  "4003420": {
+    "parent": 3585790,
+    "name": "Battle Tokens - castle class pack"
+  },
+  "4003530": {
+    "parent": 2353220,
+    "name": "Tales of Legendary Lust: Aphrodisia - Lewds Library & Bonus Art Pack"
+  },
+  "4003630": {
+    "parent": 3960930,
+    "name": "Umbral Crown: Mark Art Book"
+  },
+  "4003720": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - GT46C-ACe G1 - Pacific National"
+  },
+  "4003870": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - GT46C-ACe G1 - GWA / ORA / Aurizon"
+  },
+  "4003880": {
+    "parent": 3681010,
+    "name": "Nioh 3 - Hellfire Equipment Set (Hellfire Warrior Armor set + Hellfire Ninja Attire set)"
+  },
+  "4003890": {
+    "parent": 3681010,
+    "name": "Nioh 3 - Scampuss Furball Netsuke Charm"
+  },
+  "4003900": {
+    "parent": 3681010,
+    "name": "Nioh 3 - Hellfrost Equipment Set (Hellfrost Warrior Armor set + Hellfrost Ninja Attire set)"
+  },
+  "4003910": {
+    "parent": 3681010,
+    "name": "Nioh 3 - Infernal Weapons Set"
+  },
+  "4003920": {
+    "parent": 3681010,
+    "name": "Nioh 3 - Kodama Netsuke Charm"
+  },
+  "4003930": {
+    "parent": 3681010,
+    "name": "Nioh 3 Season Pass"
+  },
+  "4003940": {
+    "parent": 3681010,
+    "name": "Nioh 3 - Chijiko Netsuke Charm"
+  },
+  "4003950": {
+    "parent": 3681010,
+    "name": "Nioh 3 Hell Rising"
+  },
+  "4004330": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - BR CoalHop Pack"
+  },
+  "4004460": {
+    "parent": 2077750,
+    "name": "Standard Edition"
+  },
+  "4004470": {
+    "parent": 2077750,
+    "name": "Deluxe Edition"
+  },
+  "4005000": {
+    "parent": 897330,
+    "name": "Coloring Pixels - Playing Cards Pack"
+  },
+  "4005010": {
+    "parent": 1286830,
+    "name": "STAR WARS™: The Old Republic™ - Enter the Fight"
+  },
+  "4005020": {
+    "parent": 223750,
+    "name": "DCS: NS 430 Navigation System for MiG-29A"
+  },
+  "4005100": {
+    "parent": 2687400,
+    "name": "GODBREAKERS: Juice Items Pack"
+  },
+  "4005180": {
+    "parent": 3905730,
+    "name": "NSFW Content - Nekopedia: Find Her Tail"
+  },
+  "4005670": {
+    "parent": 3614500,
+    "name": "Alternative Alliance Alpha : Guide + Art"
+  },
+  "4005820": {
+    "parent": 2719750,
+    "name": "Star Birds Supporter Upgrade"
+  },
+  "4005950": {
+    "parent": 3165690,
+    "name": "Fences 6 - Multi-Device Upgrade"
+  },
+  "4005960": {
+    "parent": 3636130,
+    "name": "Laurel's Day Collector's Edition"
+  },
+  "4006120": {
+    "parent": 887490,
+    "name": "Burden of Command™ - Three Nations"
+  },
+  "4006460": {
+    "parent": 1914980,
+    "name": "Golfing in Aether - Anniversary"
+  },
+  "4006550": {
+    "parent": 3882020,
+    "name": "Avernum 4 Hintbook and Bonuses"
+  },
+  "4006620": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Unearthed Spoils Anthology Two"
+  },
+  "4006640": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Starfinder 2 RPG - Flip-Mat: Derelict Starships"
+  },
+  "4006730": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - BR Lowfit Wagon Pack"
+  },
+  "4006780": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - BR Lowfit Wagon Pack"
+  },
+  "4006900": {
+    "parent": 3620780,
+    "name": "AI-deal-Rays - Adult Content Pack"
+  },
+  "4007080": {
+    "parent": 3165830,
+    "name": "JASON, Coming of Age - Walkthrough Mod"
+  },
+  "4007190": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - BR Presflo Wagon Pack"
+  },
+  "4007220": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - BR Presflo Wagon Pack"
+  },
+  "4007350": {
+    "parent": 1036640,
+    "name": "RPG Developer Bakin Vibrato HERO PIXEL PACK Vol.2"
+  },
+  "4007360": {
+    "parent": 1036640,
+    "name": "RPG Developer Bakin PixelScapes Modern Suburban Pack"
+  },
+  "4007520": {
+    "parent": 2852190,
+    "name": "Monster Hunter Stories 3: Twisted Reflection - Additional Side Story: Rudy"
+  },
+  "4007620": {
+    "parent": 2692280,
+    "name": "My Ex-future Family: Twists of Fate"
+  },
+  "4007660": {
+    "parent": 3165830,
+    "name": "JASON, Coming of Age - NSFW Realism Pack"
+  },
+  "4007860": {
+    "parent": 3612060,
+    "name": "Idle Land of Exile-DLC2"
+  },
+  "4007870": {
+    "parent": 3612060,
+    "name": "Idle Land of Exile-DLC3"
+  },
+  "4007900": {
+    "parent": 2829700,
+    "name": "百变灵狐—支持者包"
+  },
+  "4008150": {
+    "parent": 2514630,
+    "name": "Marisa of Liartop Mountain Digital Artwork"
+  },
+  "4008230": {
+    "parent": 3634590,
+    "name": "Coloring Voxels - Crazy Golf Pack"
+  },
+  "4008250": {
+    "parent": 2062430,
+    "name": "BALL x PIT: Risen Ballbylon"
+  },
+  "4008520": {
+    "parent": 1895900,
+    "name": "1348 - Artbook"
+  },
+  "4008530": {
+    "parent": 3976540,
+    "name": "Defense X – Expansion Pack"
+  },
+  "4008610": {
+    "parent": 1538750,
+    "name": "Master of Pieces © Jigsaw Puzzle DLC - Flora of Nations"
+  },
+  "4008660": {
+    "parent": 686810,
+    "name": "Hell Let Loose – Red Army Cossack"
+  },
+  "4008670": {
+    "parent": 686810,
+    "name": "Hell Let Loose – US & German Armor Pack"
+  },
+  "4008760": {
+    "parent": 3916540,
+    "name": "BBY DON'T HURT ME x BEAT BANGER"
+  },
+  "4009000": {
+    "parent": 1422130,
+    "name": "SimRail - The Railway Simulator: Łódź Junction"
+  },
+  "4009020": {
+    "parent": 1422130,
+    "name": "SimRail - The Railway Simulator: CD 163 Series"
+  },
+  "4009260": {
+    "parent": 3999010,
+    "name": "Katavader - Monolith Katana Skin"
+  },
+  "4009520": {
+    "parent": 3877570,
+    "name": "Spencer's Spaghetti Quest - Early Supporter Pack"
+  },
+  "4009780": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - [TL] Crawfordsville -  Clements"
+  },
+  "4009800": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - [TL] Crawfordsville -  Clements"
+  },
+  "4009820": {
+    "parent": 553520,
+    "name": "Trainz 2019 DLC - [TL] Crawfordsville -  Clements"
+  },
+  "4009860": {
+    "parent": 2288150,
+    "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE EP \"Romance of the Three Kingdoms Hadou\" Officer CG Portrait Set 1"
+  },
+  "4009870": {
+    "parent": 2288150,
+    "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE EP Scenario \"Guan Yu Advances\""
+  },
+  "4009880": {
+    "parent": 2288150,
+    "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE EP Scenario \"Loyal Han Retainer Ma Teng\""
+  },
+  "4009890": {
+    "parent": 2288150,
+    "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE EP Bonus Scenario \"The Age of Division\""
+  },
+  "4009970": {
+    "parent": 2256450,
+    "name": "RAM: Random Access Mayhem - Supporter Pack"
+  },
+  "4010000": {
+    "parent": 3218710,
+    "name": "Everlusting Life - Mascot Vex"
+  },
+  "4010190": {
+    "parent": 248390,
+    "name": "Craft The World - Magic Mirror"
+  },
+  "4010200": {
+    "parent": 3726040,
+    "name": "Skull8 - Supporter Pack"
+  },
+  "4010300": {
+    "parent": 3148160,
+    "name": "Dragon Song Tavern: Cozy & Adventurous “Breeze of the Sea”DLC"
+  },
+  "4010310": {
+    "parent": 3148160,
+    "name": "Dragon Song Tavern: Pumpkin Masquerade DLC"
+  },
+  "4010320": {
+    "parent": 3148160,
+    "name": "Dragon Song Tavern: Winter’s Carol DLC"
+  },
+  "4010370": {
+    "parent": 3148160,
+    "name": "Dragon Song Tavern:Festival of the Returning Tides DLC"
+  },
+  "4010380": {
+    "parent": 3148160,
+    "name": "Dragon Song Tavern: Southern Miracle Snow DLC"
+  },
+  "4010390": {
+    "parent": 3148160,
+    "name": "Dragon Song Tavern: Cozy & Adventurous Detective Outfit DLC"
+  },
+  "4010480": {
+    "parent": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Kaigaku Character Pack"
+  },
+  "4010490": {
+    "parent": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Zenitsu Agatsuma (Infinity Castle) Character Pack"
+  },
+  "4010500": {
+    "parent": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Akaza (Infinity Castle) Character Pack"
+  },
+  "4010510": {
+    "parent": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Tanjiro Kamado (Infinity Castle) Character Pack"
+  },
+  "4010530": {
+    "parent": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Giyu Tomioka (Infinity Castle) Character Pack"
+  },
+  "4010540": {
+    "parent": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Shinobu Kocho (Infinity Castle) Character Pack"
+  },
+  "4010550": {
+    "parent": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Doma Character Pack"
+  },
+  "4010560": {
+    "parent": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\" Character Pass"
+  },
+  "4010590": {
+    "parent": 518790,
+    "name": "theHunter: Call of the Wild™ - Scotland Hunting Reserve"
+  },
+  "4010600": {
+    "parent": 2064870,
+    "name": "Deceit 2 - Alien Pack"
+  },
+  "4010720": {
+    "parent": 3148160,
+    "name": "Dragon Song Tavern: Spring Festival DLC"
+  },
+  "4010730": {
+    "parent": 3148160,
+    "name": "Dragon Song Tavern: Visitor from the East DLC"
+  },
+  "4010810": {
+    "parent": 2299690,
+    "name": "《AROMA LOVE READY!》CG Illustrated Handbook DLC"
+  },
+  "4011320": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the mountains"
+  },
+  "4011330": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the beach"
+  },
+  "4011340": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the desert"
+  },
+  "4011350": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the rain forest"
+  },
+  "4011360": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the pier"
+  },
+  "4011370": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the arcade"
+  },
+  "4011380": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the big city"
+  },
+  "4011390": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the aquarium"
+  },
+  "4011400": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the zoo"
+  },
+  "4011410": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the allotment"
+  },
+  "4011450": {
+    "parent": 2820700,
+    "name": "A Gentlemen's Dispute - Supporter Pack"
+  },
+  "4011470": {
+    "parent": 3951700,
+    "name": "Do NOT say 21! - Take Layla to the bank"
+  },
+  "4011510": {
+    "parent": 2353220,
+    "name": "Tales of Legendary Lust: Aphrodisia - Alternative Portraits Archive"
+  },
+  "4011590": {
+    "parent": 2353220,
+    "name": "Tales of Legendary Lust: Aphrodisia - Walkthrough & Guide"
+  },
+  "4011950": {
+    "parent": 3939080,
+    "name": "Ironwood Conquest: Romans"
+  },
+  "4011960": {
+    "parent": 3939080,
+    "name": "Ironwood Conquest: Revenge for betrayal"
+  },
+  "4011970": {
+    "parent": 3939080,
+    "name": "Ironwood Conquest: Fortress siege"
+  },
+  "4011980": {
+    "parent": 3939080,
+    "name": "Ironwood Conquest: Stopping the invasion"
+  },
+  "4011990": {
+    "parent": 3939080,
+    "name": "Ironwood Conquest: Recapture of the village"
+  },
+  "4012000": {
+    "parent": 3939080,
+    "name": "Ironwood Conquest: Destruction of the camp"
+  },
+  "4012010": {
+    "parent": 3939080,
+    "name": "Ironwood Conquest: Elimination of the leader"
+  },
+  "4012020": {
+    "parent": 3939080,
+    "name": "Ironwood Conquest: Legendary battle"
+  },
+  "4012030": {
+    "parent": 393380,
+    "name": "Squad - Fireteam"
+  },
+  "4012290": {
+    "parent": 1473060,
+    "name": "Reality Break - Ship Types"
+  },
+  "4012700": {
+    "parent": 3304320,
+    "name": "Chinese Football Simulator - Dream Start DLC"
+  },
+  "4012990": {
+    "parent": 2092840,
+    "name": "The Occultist - Deluxe Upgrade Pack"
+  },
+  "4013080": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Special Investigation B"
+  },
+  "4013140": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Special Investigation C"
+  },
+  "4013190": {
+    "parent": 3464370,
+    "name": "Sani Yang's Laboratory - Secret Plus"
+  },
+  "4013200": {
+    "parent": 2073850,
+    "name": "THE FINALS - ALLIANCE TGM25"
+  },
+  "4013210": {
+    "parent": 2073850,
+    "name": "THE FINALS - ENVY TGM25"
+  },
+  "4013220": {
+    "parent": 2073850,
+    "name": "THE FINALS - KCP TGM25"
+  },
+  "4013230": {
+    "parent": 2073850,
+    "name": "THE FINALS - NTMR TGM25"
+  },
+  "4013240": {
+    "parent": 2073850,
+    "name": "THE FINALS - PULSAR TGM25"
+  },
+  "4013250": {
+    "parent": 2073850,
+    "name": "THE FINALS - SSG TGM25"
+  },
+  "4013290": {
+    "parent": 1361210,
+    "name": "Warhammer 40,000: Darktide - Hive Scum Class"
+  },
+  "4013300": {
+    "parent": 1361210,
+    "name": "Warhammer 40,000: Darktide - Hive Scum Class Cosmetic Upgrade"
+  },
+  "4013310": {
+    "parent": 1361210,
+    "name": "Warhammer 40,000: Darktide - Hive Scum Class Deluxe Edition"
+  },
+  "4013350": {
+    "parent": 3548540,
+    "name": "Fight For America: Iron Patriot DLC"
+  },
+  "4013360": {
+    "parent": 3548540,
+    "name": "Fight For America: Zap Gun DLC"
+  },
+  "4013370": {
+    "parent": 3548540,
+    "name": "Fight For America: Golden Gun DLC"
+  },
+  "4013380": {
+    "parent": 3548540,
+    "name": "Fight For America: Fire Guns DLC"
+  },
+  "4013390": {
+    "parent": 3548540,
+    "name": "Fight For America: Ice Guns DLC"
+  },
+  "4013420": {
+    "parent": 1385380,
+    "name": "Across the Obelisk: Golden Season Pack"
+  },
+  "4013570": {
+    "parent": 3316350,
+    "name": "Flesh Made Fear: Summer in Rotwood"
+  },
+  "4013580": {
+    "parent": 3316350,
+    "name": "Flesh Made Fear: 1998 Theme"
+  },
+  "4013850": {
+    "parent": 3115130,
+    "name": "NBA BOUNCE - Retro Party Pack"
+  },
+  "4013880": {
+    "parent": 2795540,
+    "name": "The Midnight Walkers - Early Access Supporter Pack"
+  },
+  "4013890": {
+    "parent": 3115130,
+    "name": "NBA BOUNCE - GOAT: The Movie"
+  },
+  "4013900": {
+    "parent": 2779120,
+    "name": "Modulus: Factory Automation Deluxe Upgrade Pack"
+  },
+  "4014000": {
+    "parent": 2475490,
+    "name": "Mouthwashing - Work In Progress"
+  },
+  "4014110": {
+    "parent": 3911920,
+    "name": "无限升级的战士传说：5.0.0"
+  },
+  "4014150": {
+    "parent": 2912430,
+    "name": "Platypus Reclayed - Spooky Platypus"
+  },
+  "4014370": {
+    "parent": 799960,
+    "name": "Wizard101 - Classic Steamboat Mount"
+  },
+  "4014380": {
+    "parent": 620620,
+    "name": "Pirate101 - Classic Steamboat Mount"
+  },
+  "4014990": {
+    "parent": 3375780,
+    "name": "Trails in the Sky 1st Chapter Season Pass"
+  },
+  "4015170": {
+    "parent": 3496340,
+    "name": "Welcome to the Sharehouse! Digital Artbook"
+  },
+  "4015580": {
+    "parent": 2918720,
+    "name": "Kana - More Colors"
+  },
+  "4015910": {
+    "parent": 2274120,
+    "name": "NSFW Solitaire - Masturbation"
+  },
+  "4017250": {
+    "parent": 3408170,
+    "name": "Deadswitch Combat: Weapon Skins Bundle"
+  },
+  "4017260": {
+    "parent": 3408170,
+    "name": "Deadswitch Combat: Attachment Skins Bundle"
+  },
+  "4017270": {
+    "parent": 3408170,
+    "name": "Deadswitch Combat: Soldier Bundle"
+  },
+  "4017280": {
+    "parent": 3408170,
+    "name": "Deadswitch Combat: Callsign Bundle"
+  },
+  "4017400": {
+    "parent": 2529610,
+    "name": "Para Ark 2: Angel From Afar"
+  },
+  "4017430": {
+    "parent": 2353220,
+    "name": "Tales of Legendary Lust: Aphrodisia - Spicy Short Stories"
+  },
+  "4017550": {
+    "parent": 2953510,
+    "name": "I Wanna Be A Game Dev! - Expansion"
+  },
+  "4017630": {
+    "parent": 2118370,
+    "name": "Bosorka - Witchrise"
+  },
+  "4017800": {
+    "parent": 3978150,
+    "name": "soundless - A MODERN SALEM IN REMOTE AREA - Official Artbook"
+  },
+  "4018440": {
+    "parent": 3165470,
+    "name": "Treasure Drop: Open Sea DLC"
+  },
+  "4018450": {
+    "parent": 3165470,
+    "name": "Treasure Drop: Deep Trench DLC"
+  },
+  "4018460": {
+    "parent": 3165470,
+    "name": "Treasure Drop: Algae Valley DLC"
+  },
+  "4018470": {
+    "parent": 3165470,
+    "name": "Treasure Drop: Coral Reef DLC"
+  },
+  "4018660": {
+    "parent": 3301060,
+    "name": "Desktop Mate 東方Project 博麗霊夢 DLC"
+  },
+  "4018670": {
+    "parent": 3301060,
+    "name": "Desktop Mate 東方Project 霧雨魔理沙 DLC"
+  },
+  "4018680": {
+    "parent": 3301060,
+    "name": "Desktop Mate 紲星あかり DLC"
+  },
+  "4018690": {
+    "parent": 3301060,
+    "name": "Desktop Mate 鏡音リン DLC"
+  },
+  "4018700": {
+    "parent": 3301060,
+    "name": "Desktop Mate 鏡音レン DLC"
+  },
+  "4018720": {
+    "parent": 3301060,
+    "name": "Desktop Mate 雪ミク「SNOW MIKU 2026 Ver.」DLC"
+  },
+  "4018820": {
+    "parent": 2451010,
+    "name": "PROJECT HUNT - LONE STAR HUNTING RANCH"
+  },
+  "4018960": {
+    "parent": 2250500,
+    "name": "Rhythia Plus"
+  },
+  "4019100": {
+    "parent": 2884070,
+    "name": "Elleria - Sands of Time"
+  },
+  "4019110": {
+    "parent": 2421510,
+    "name": "Crescent Quest - Digital Artbook"
+  },
+  "4019120": {
+    "parent": 2176130,
+    "name": "Tower! Simulator 3 - YSSY Airport"
+  },
+  "4019300": {
+    "parent": 223750,
+    "name": "DCS: F/A-18C & F-14B Operation Iron Tide Campaign by Sandman Simulations"
+  },
+  "4019590": {
+    "parent": 381210,
+    "name": "Dead by Daylight - Sinister Grace"
+  },
+  "4019710": {
+    "parent": 3858850,
+    "name": "Hydra Heli - Supporter Pack"
+  },
+  "4019870": {
+    "parent": 3511030,
+    "name": "Mini Cozy Room : Lo-Fi - nawhij Pack"
+  },
+  "4020140": {
+    "parent": 951830,
+    "name": "The Last Sovereign - Complete Art Pack"
+  },
+  "4020260": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Starfinder 2 RPG - Flip-Mat: Garage Warehouse"
+  },
+  "4020460": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Starfinder 2 RPG - Guilt of the Grave World"
+  },
+  "4020580": {
+    "parent": 2085970,
+    "name": "Cracking the Cryptic - The Sudoku Worm of Michael Lefkowitz"
+  },
+  "4020590": {
+    "parent": 2085970,
+    "name": "Cracking the Cryptic - The Sudoku Worm of Phistomefel"
+  },
+  "4020620": {
+    "parent": 3145370,
+    "name": "Muffles' Life Sentence EPISODE 4"
+  },
+  "4020890": {
+    "parent": 3504780,
+    "name": "Wildgate - Full Game Unlock"
+  },
+  "4021310": {
+    "parent": 3825620,
+    "name": "COWGIRL SEX FARM - Digital Artbook"
+  },
+  "4021320": {
+    "parent": 3825620,
+    "name": "COWGIRL SEX FARM - Wallpapers Pack"
+  },
+  "4021330": {
+    "parent": 3825620,
+    "name": "COWGIRL SEX FARM - Animation Pack"
+  },
+  "4021340": {
+    "parent": 3959100,
+    "name": "XXX Pussy House - Digital Artbook"
+  },
+  "4021350": {
+    "parent": 3959100,
+    "name": "XXX Pussy House - Wallpapers Pack"
+  },
+  "4021360": {
+    "parent": 3959100,
+    "name": "XXX Pussy House - Animation Pack"
+  },
+  "4021450": {
+    "parent": 2530490,
+    "name": "Lost Eidolons: Veil of the Witch - Main Character Skin Set"
+  },
+  "4021460": {
+    "parent": 3034340,
+    "name": "Halloween Attire - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure"
+  },
+  "4021470": {
+    "parent": 3034340,
+    "name": "Nightfall Attire - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure"
+  },
+  "4021480": {
+    "parent": 3034340,
+    "name": "Gift from Naruelu Kingdom - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure"
+  },
+  "4021490": {
+    "parent": 3034340,
+    "name": "Ihm Set - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure"
+  },
+  "4021500": {
+    "parent": 3034340,
+    "name": "Noël Set - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure"
+  },
+  "4021520": {
+    "parent": 3034340,
+    "name": "Noël Attire - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure"
+  },
+  "4021600": {
+    "parent": 553520,
+    "name": "Trainz 2019 DLC - Pro Train: CSX Heritage Loco Bundle 4"
+  },
+  "4021610": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - Pro Train: CSX Heritage Loco Bundle 4"
+  },
+  "4021620": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - Pro Train: CSX Heritage Loco Bundle 4"
+  },
+  "4021810": {
+    "parent": 3809570,
+    "name": "100 Cats Lost In Turkey - Extra Content"
+  },
+  "4022060": {
+    "parent": 3916620,
+    "name": "Idle Pixel Fantasy - Time Hero Unit"
+  },
+  "4022120": {
+    "parent": 444930,
+    "name": "Zaccaria Pinball - Star's Phoenix Deluxe Pinball Table"
+  },
+  "4022270": {
+    "parent": 3862340,
+    "name": "Halloween Waifu 18+"
+  },
+  "4022560": {
+    "parent": 897330,
+    "name": "Coloring Pixels - Zoom Out Pack"
+  },
+  "4022690": {
+    "parent": 2328760,
+    "name": "Pinball FX - Williams™ Pinball: Scared Stiff"
+  },
+  "4022700": {
+    "parent": 2328760,
+    "name": "Pinball FX - Williams™ Pinball: Elvira and The Party Monsters"
+  },
+  "4022720": {
+    "parent": 1282270,
+    "name": "Strinova - 幽影之魔女捆绑包（梅瑞狄斯）"
+  },
+  "4022920": {
+    "parent": 247080,
+    "name": "Crypt of the NecroDancer: Supporter Upgrade"
+  },
+  "4022990": {
+    "parent": 1843310,
+    "name": "Funko Fusion - Fantastik Plastik Pack 1 - Monkey Assassin and Sam"
+  },
+  "4023000": {
+    "parent": 1843310,
+    "name": "Funko Fusion - Fantastik Plastik Pack 2 - Rocko Billy and Chet"
+  },
+  "4023010": {
+    "parent": 1843310,
+    "name": "Funko Fusion - Fantastik Plastik Pack 3 - Frank Von Veiner and Cutey Corn"
+  },
+  "4023020": {
+    "parent": 1843310,
+    "name": "Funko Fusion - Fantastik Plastik Pack 4 - T-Bone and El Diablo"
+  },
+  "4023090": {
+    "parent": 3979440,
+    "name": "Puzzle Gallery - Whispers of the Arcane by Antonio Rizzati"
+  },
+  "4023130": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Starfinder 2 RPG - Flip-Mat: Cityscape Multi-Pack"
+  },
+  "4023140": {
+    "parent": 2878960,
+    "name": "WWE 2K25 Farewell Tour Bundle Virtual Currency Pack"
+  },
+  "4023150": {
+    "parent": 2878960,
+    "name": "WWE 2K25 Deadman Bundle Virtual Currency Pack"
+  },
+  "4023180": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Star Trek Adventures - The Roleplaying Game - Exploration Guide"
+  },
+  "4023370": {
+    "parent": 1286830,
+    "name": "STAR WARS™: The Old Republic™ - Master the Fight: Mobile Market Edition"
+  },
+  "4023380": {
+    "parent": 1286830,
+    "name": "STAR WARS™: The Old Republic™ - Continue the Fight"
+  },
+  "4024140": {
+    "parent": 3686930,
+    "name": "頭七-樱桃小姐"
+  },
+  "4024310": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - FV Actor Animations Plugin"
+  },
+  "4024320": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Vocal Sounds Battle"
+  },
+  "4024330": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Vocal Sounds Labyrinth"
+  },
+  "4024340": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - NEONPIXEL - Anime Expedition Tileset I"
+  },
+  "4024350": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Actors graphic set 01"
+  },
+  "4024380": {
+    "parent": 363890,
+    "name": "RPG Maker MV - FV Actor Animations Plugin"
+  },
+  "4024390": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Vocal Sounds  Battle"
+  },
+  "4024400": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Vocal Sounds Labyrinth"
+  },
+  "4024410": {
+    "parent": 363890,
+    "name": "RPG Maker MV - NEONPIXEL - Anime Expedition Tileset I"
+  },
+  "4024420": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Actors graphic set 01"
+  },
+  "4024620": {
+    "parent": 3321460,
+    "name": "Crimson Desert - Deluxe Pack"
+  },
+  "4024630": {
+    "parent": 3321460,
+    "name": "Crimson Desert - Pre Order Pack"
+  },
+  "4024720": {
+    "parent": 2701700,
+    "name": "La Crème de la Crème"
+  },
+  "4024880": {
+    "parent": 837510,
+    "name": "Pixel Game Maker MV - Vocal Sounds Battle"
+  },
+  "4024890": {
+    "parent": 837510,
+    "name": "Pixel Game Maker MV - Vocal Sounds Labyrinth"
+  },
+  "4024910": {
+    "parent": 1282270,
+    "name": "Strinova - 不给糖就捣蛋！捆绑包（艾卡）"
+  },
+  "4024920": {
+    "parent": 1282270,
+    "name": "Strinova - 万人迷南瓜头捆绑包（白墨）"
+  },
+  "4025220": {
+    "parent": 2487060,
+    "name": "Anonymous Hacker Simulator - Temporal Reckoning"
+  },
+  "4025570": {
+    "parent": 2973830,
+    "name": "Prison Boss Prohibition - Free Pack 7"
+  },
+  "4025580": {
+    "parent": 2973830,
+    "name": "Prison Boss Prohibition - Halloween Pack"
+  },
+  "4025710": {
+    "parent": 4021780,
+    "name": "God'n Spy Add-on for Geo-Political Simulator 2026 Edition"
+  },
+  "4025720": {
+    "parent": 4021780,
+    "name": "Modding Tool Add-on for Geo-Political Simulator 2026 Edition"
+  },
+  "4025970": {
+    "parent": 2912430,
+    "name": "Platypus Reclayed Artbook"
+  },
+  "4026280": {
+    "parent": 2103090,
+    "name": "Campus Life - Digital Goodies"
+  },
+  "4026960": {
+    "parent": 1618380,
+    "name": "Spellmasons - Desktop Pet"
+  },
+  "4026970": {
+    "parent": 427410,
+    "name": "Abiotic Factor - Temple of Stone"
+  },
+  "4027020": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】Find me (Japanese Ver.) | Tacitly"
+  },
+  "4027030": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】Find me (English Ver.) | Tacitly"
+  },
+  "4027040": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】Find me (Chinese Ver.) | Tacitly"
+  },
+  "4027050": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】Just You and I (Japanese Ver.) | Tacitly"
+  },
+  "4027060": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】Just You and I (English Ver.) | Tacitly"
+  },
+  "4027070": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】Just You and I (Chinese Ver.) | Tacitly"
+  },
+  "4027080": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】アイノホシ (Japanese Ver.) | Tacitly"
+  },
+  "4027090": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】アイノホシ (English Ver.) | Tacitly"
+  },
+  "4027100": {
+    "parent": 2776670,
+    "name": "Atchmo -【SPECIAL LIVE】アイノホシ (Chinese Ver.) | Tacitly"
+  },
+  "4027190": {
+    "parent": 3770000,
+    "name": "FlowerDungeon-DLC : Mercenary&Berserker"
+  },
+  "4027500": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - GT46C-ACe G1 - QR National"
+  },
+  "4027520": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - GT46C-ACe G1 - QR National"
+  },
+  "4027660": {
+    "parent": 3437200,
+    "name": "LUNA - Digital Artbook"
+  },
+  "4027770": {
+    "parent": 2692280,
+    "name": "My Ex-Future Family Season 2: Walkthrough"
+  },
+  "4028280": {
+    "parent": 2076140,
+    "name": "Tavern Talk - Pirate Palooza (Costume Pack)"
+  },
+  "4028400": {
+    "parent": 2928520,
+    "name": "Recycling Center Simulator: E-Waste DLC"
+  },
+  "4028440": {
+    "parent": 1757300,
+    "name": "Jump Space - Supporter Upgrade"
+  },
+  "4028500": {
+    "parent": 3504780,
+    "name": "无主星渊 - 复仇者包"
+  },
+  "4028530": {
+    "parent": 2095420,
+    "name": "Bus Bound - Bus Pass"
+  },
+  "4029110": {
+    "parent": 1286830,
+    "name": "STAR WARS™: The Old Republic™ - Master the Fight: Cargo Transport Edition"
+  },
+  "4029190": {
+    "parent": 4022630,
+    "name": "Shapeweaver - Nature & Serenity Background Pack"
+  },
+  "4029200": {
+    "parent": 4022630,
+    "name": "Shapeweaver - Digital & Sci-Fi Background Pack"
+  },
+  "4029410": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Dungeon Denizens"
+  },
+  "4029640": {
+    "parent": 4029590,
+    "name": "Between Love & Uprising: Guide"
+  },
+  "4029650": {
+    "parent": 4029590,
+    "name": "Between Love & Uprising: Art Pack"
+  },
+  "4029730": {
+    "parent": 1892370,
+    "name": "Riding to Bounce City - Fishnet Lingerie set A"
+  },
+  "4029920": {
+    "parent": 1803390,
+    "name": "Bounty Drag Racing - Outlaw Pack 9"
+  },
+  "4030120": {
+    "parent": 1239020,
+    "name": "Together BnB – Emily: Sapphire Quarry Photo Collection"
+  },
+  "4030380": {
+    "parent": 2124100,
+    "name": "Transience Official Artbook"
+  },
+  "4030770": {
+    "parent": 1611600,
+    "name": "WARNO - Nemesis #4 - Capital Defence"
+  },
+  "4030870": {
+    "parent": 2747330,
+    "name": "Species: Unknown - Supporter Pack"
+  },
+  "4030960": {
+    "parent": 1451190,
+    "name": "Undisputed - The Senator Pack"
+  },
+  "4031020": {
+    "parent": 3483510,
+    "name": "The Adventures of Elliot: The Millennium Tales Digital Deluxe Upgrade"
+  },
+  "4031030": {
+    "parent": 3483510,
+    "name": "Elliot’s Departure Pack"
+  },
+  "4031100": {
+    "parent": 1588550,
+    "name": "Cairn - Deluxe Upgrade Pack"
+  },
+  "4031130": {
+    "parent": 255710,
+    "name": "Cities: Skylines - Race Day"
+  },
+  "4031140": {
+    "parent": 255710,
+    "name": "Cities: Skylines - Content Creator Pack: Renewed History"
+  },
+  "4031150": {
+    "parent": 255710,
+    "name": "Cities: Skylines - Content Creator Pack: Iconic Brutalism"
+  },
+  "4031160": {
+    "parent": 255710,
+    "name": "Cities: Skylines - 8 Gear Radio"
+  },
+  "4031570": {
+    "parent": 3943750,
+    "name": "Fly Over! 100KM! Mountains! - Hangar No. 1"
+  },
+  "4031580": {
+    "parent": 3943750,
+    "name": "Fly Over! 100KM! Mountains! - Hangar No. 2"
+  },
+  "4031590": {
+    "parent": 3943750,
+    "name": "Fly Over! 100KM! Mountains! - Hangar No. 3"
+  },
+  "4031600": {
+    "parent": 3943750,
+    "name": "Fly Over! 100KM! Mountains! - Hangar No. 4"
+  },
+  "4031610": {
+    "parent": 3943750,
+    "name": "Fly Over! 100KM! Mountains! - Hangar No. 5"
+  },
+  "4031620": {
+    "parent": 2138720,
+    "name": "Rematch - 2400 Quants"
+  },
+  "4031710": {
+    "parent": 2807960,
+    "name": "Battlefield™ 6  Standard Edition Marker"
+  },
+  "4031720": {
+    "parent": 2807960,
+    "name": "Battlefield™ 6 Standard Edition Pre-order Marker"
+  },
+  "4031730": {
+    "parent": 2807960,
+    "name": "Battlefield™ 6 Phantom Edition Marker"
+  },
+  "4031740": {
+    "parent": 2807960,
+    "name": "Battlefield™ 6 Phantom Edition Pre-order Marker"
+  },
+  "4031750": {
+    "parent": 2807960,
+    "name": "Battlefield™ Standard Edition Marker"
+  },
+  "4031760": {
+    "parent": 1492070,
+    "name": "Sker Ritual - Hazard Levels"
+  },
+  "4031790": {
+    "parent": 4018910,
+    "name": "Twins of the Sun - Ray of Sunshine"
+  },
+  "4031800": {
+    "parent": 4018910,
+    "name": "Twins of the Sun - Arena of Heroes"
+  },
+  "4031830": {
+    "parent": 1451190,
+    "name": "Undisputed - The Championship Upgrade Pack"
+  },
+  "4032960": {
+    "parent": 3135200,
+    "name": "Legacy of Defense - Supporter Pack"
+  },
+  "4033030": {
+    "parent": 3471590,
+    "name": "Coffee & Boobs - Raiders of the Witch’s Elixir"
+  },
+  "4033390": {
+    "parent": 3464570,
+    "name": "Я беременна в 16: Эпизод 2 — Дополнительные материалы"
+  },
+  "4034970": {
+    "parent": 2901810,
+    "name": "Supermrket: Gamestudio"
+  },
+  "4035100": {
+    "parent": 1240590,
+    "name": "Sir Whoopass™: WholeAss Emote Pack"
+  },
+  "4035430": {
+    "parent": 3411020,
+    "name": "村与地下城 - 混沌统治者"
+  },
+  "4035670": {
+    "parent": 1266470,
+    "name": "Real VR Fishing - Europe DLC Vol.2"
+  },
+  "4035680": {
+    "parent": 1266470,
+    "name": "Real VR Fishing - United Kingdom"
+  },
+  "4035690": {
+    "parent": 1266470,
+    "name": "Real VR Fishing - Oceania DLC"
+  },
+  "4035700": {
+    "parent": 1266470,
+    "name": "Real VR Fishing - Canada DLC"
+  },
+  "4035800": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: Medway Valley Line: Strood - Tonbridge Route Add-On"
+  },
+  "4035810": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On"
+  },
+  "4035820": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: Frankenbahn: Stuttgart - Heilbronn Route Add-On"
+  },
+  "4035830": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: Northeast Corridor Metro-North: New York - Stamford Route Add-On"
+  },
+  "4035840": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: BR Class 90 Electric Freight Loco Add-On"
+  },
+  "4035860": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: DB BR 147 Loco Add-On"
+  },
+  "4035910": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: BNSF GP60M & GP60B Loco Add-On"
+  },
+  "4035920": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: Thames Valley: Windsor, Henley & Marlow Branch Lines Add-On"
+  },
+  "4035940": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: Great British Railways Class 802 BMU Add-On"
+  },
+  "4035960": {
+    "parent": 3656800,
+    "name": "Train Sim World® 6: Cargo Line Vol. 6 - Gas"
+  },
+  "4035990": {
+    "parent": 2087030,
+    "name": "Shatterline - Randy"
+  },
+  "4036060": {
+    "parent": 2359470,
+    "name": "Strayed - Sundown Pack"
+  },
+  "4036090": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Metro Enforcer A"
+  },
+  "4036100": {
+    "parent": 2744010,
+    "name": "Urban Jungle: Brother's Wedding Story"
+  },
+  "4036200": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Metro Enforcer B"
+  },
+  "4036400": {
+    "parent": 3879270,
+    "name": "Vision Twist - GPU Pack"
+  },
+  "4036570": {
+    "parent": 3353830,
+    "name": "LivingBattle Rugby Office Worker"
+  },
+  "4036610": {
+    "parent": 3027490,
+    "name": "LivingForest Dirty Buggy"
+  },
+  "4036620": {
+    "parent": 3027490,
+    "name": "LivingForest Tired Waitress"
+  },
+  "4036940": {
+    "parent": 3979440,
+    "name": "Puzzle Gallery - Black Sailors Pack by Mandinga Games"
+  },
+  "4036950": {
+    "parent": 3979440,
+    "name": "Puzzle Gallery - Modo Invisível by EdH Müller"
+  },
+  "4036960": {
+    "parent": 3979440,
+    "name": "Puzzle Gallery - Mystic Pulse by Vitor Nascimento"
+  },
+  "4037140": {
+    "parent": 2845830,
+    "name": "Altered Bloodlines - Chapter 1"
+  },
+  "4037500": {
+    "parent": 2488370,
+    "name": "Cash Cleaner Simulator - LOUD & LOADED"
+  },
+  "4037630": {
+    "parent": 3104920,
+    "name": "Splat Splat - Supporter Pack"
+  },
+  "4037750": {
+    "parent": 230410,
+    "name": "Warframe: Nokko Bundle"
+  },
+  "4037760": {
+    "parent": 230410,
+    "name": "Warframe: Wukong Qitian Collection"
+  },
+  "4037940": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Traveller - The Fifth Frontier War: The ICS Papers"
+  },
+  "4038210": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Deadlands: Carnage in the Cascades"
+  },
+  "4038230": {
+    "parent": 1328350,
+    "name": "Turbo Overkill Digital Art Book"
+  },
+  "4038350": {
+    "parent": 1328350,
+    "name": "Turbo Overkill - Original Syn Prequel Comic"
+  },
+  "4038420": {
+    "parent": 1288920,
+    "name": "Element-174 - Part 2"
+  },
+  "4038540": {
+    "parent": 3770470,
+    "name": "FrenchConnection - Artbook"
+  },
+  "4038770": {
+    "parent": 2890940,
+    "name": "Cat Girl Survivor - Extra Episodes and Additional Chapters"
+  },
+  "4038930": {
+    "parent": 2384580,
+    "name": "DYNASTY WARRIORS: ORIGINS Visions of Four Heroes"
+  },
+  "4039120": {
+    "parent": 2077750,
+    "name": "Endurance Classics Part 1"
+  },
+  "4039130": {
+    "parent": 2077750,
+    "name": "Touring Classics Part 1"
+  },
+  "4039210": {
+    "parent": 3594000,
+    "name": "性感史莱姆派对（Slime Sexy Party）--扩展包"
+  },
+  "4039280": {
+    "parent": 3175530,
+    "name": "Kokoro Clover SUN Art Book"
+  },
+  "4039310": {
+    "parent": 3758430,
+    "name": "CODE: PANDORA 2 BONUS PACK"
+  },
+  "4039430": {
+    "parent": 212070,
+    "name": "Star Conflict - Lazy raider"
+  },
+  "4039650": {
+    "parent": 3446190,
+    "name": "Hatsune Miku Logic Paint S+ SNOW MIKU Sky Town"
+  },
+  "4039700": {
+    "parent": 3218710,
+    "name": "Everlusting Life - Mascot Colombina"
+  },
+  "4039770": {
+    "parent": 1477590,
+    "name": "EZ2ON REBOOT : R - Lucent Soirée"
+  },
+  "4039780": {
+    "parent": 3570340,
+    "name": "这个CEO我当定了 - 精品剧照集"
+  },
+  "4039880": {
+    "parent": 3970710,
+    "name": "Exilium:Kiro Supporter Pack"
+  },
+  "4039950": {
+    "parent": 2077750,
+    "name": "Pre-Order Bonus"
+  },
+  "4040200": {
+    "parent": 552500,
+    "name": "Warhammer: Vermintide 2 - Return to the Reik"
+  },
+  "4040310": {
+    "parent": 2564520,
+    "name": "Lost in Random: The Eternal Die - Cursed Couture"
+  },
+  "4040350": {
+    "parent": 3393240,
+    "name": "Banker Simulator - Gold Pack"
+  },
+  "4040360": {
+    "parent": 3495110,
+    "name": "A Killer Chat! Christmas - Official Guidebook"
+  },
+  "4040370": {
+    "parent": 3495110,
+    "name": "A Killer Chat! Christmas - Wallpaper Bundle"
+  },
+  "4040910": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Handout Kit Art Pack"
+  },
+  "4040950": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Stormlight Scenarios"
+  },
+  "4041010": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Stormlight Advanced Adversaries"
+  },
+  "4041070": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Tales of the Valiant - Monster Vault 2"
+  },
+  "4041130": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - G.I. JOE Roleplaying Game Ferocious Fighters: Factions in Action Vol. 1"
+  },
+  "4041320": {
+    "parent": 4113830,
+    "name": "CFB27 College Football Test Realm"
+  },
+  "4041390": {
+    "parent": 1645620,
+    "name": "Axiom Alternative III Script"
+  },
+  "4041510": {
+    "parent": 4032350,
+    "name": "EA SPORTS™ College Football 27"
+  },
+  "4041670": {
+    "parent": 2212520,
+    "name": "The Last Werewolf - Supporter Pack"
+  },
+  "4041710": {
+    "parent": 3836960,
+    "name": "ENCOUNTER BAR - Maid的高潮礼包"
+  },
+  "4041720": {
+    "parent": 3836960,
+    "name": "ENCOUNTER BAR - Vivian的SM礼包"
+  },
+  "4041930": {
+    "parent": 3818810,
+    "name": "EVE—15天欧米伽克隆"
+  },
+  "4042080": {
+    "parent": 3748110,
+    "name": "초동수사 추리게임 - 에피소드 3, 4"
+  },
+  "4042240": {
+    "parent": 2928330,
+    "name": "MASH VP! Re:VISION - Best Selection vol.1 - Legendary Artists -"
+  },
+  "4042250": {
+    "parent": 2928330,
+    "name": "MASH VP! Re:VISION - Best Selection vol.2 - New Arc -"
+  },
+  "4042260": {
+    "parent": 2928330,
+    "name": "MASH VP! Re:VISION - Best Selection vol.3 - Featured Mashups -"
+  },
+  "4042270": {
+    "parent": 2928330,
+    "name": "MASH VP! Re:VISION - Best Selection vol.4 - For Challengers -"
+  },
+  "4042280": {
+    "parent": 2928330,
+    "name": "MASH VP! Re:VISION - Unlock conflict PATH"
+  },
+  "4042290": {
+    "parent": 2928330,
+    "name": "MASH VP! Re:VISION - Unlock CHRONO CIRCLE PATH"
+  },
+  "4042300": {
+    "parent": 2928330,
+    "name": "MASH VP! Re:VISION - Unlock AXTORM SELECTION PATH vol.1"
+  },
+  "4042350": {
+    "parent": 3225420,
+    "name": "Recharge - Car Pack"
+  },
+  "4042410": {
+    "parent": 1097580,
+    "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic Shopping Addiction in Fall ALL in ONE Pack"
+  },
+  "4042760": {
+    "parent": 307960,
+    "name": "IL-2 Sturmovik: Hornet's Nest Campaign"
+  },
+  "4042860": {
+    "parent": 1934300,
+    "name": "Armored Brigade II: Scandinavia"
+  },
+  "4043680": {
+    "parent": 1593230,
+    "name": "Beneath - Artbook"
+  },
+  "4043780": {
+    "parent": 3582390,
+    "name": "Sinisomnia - Digital Artbook"
+  },
+  "4043800": {
+    "parent": 1556200,
+    "name": "Predator: Hunting Grounds - Father Predator"
+  },
+  "4043970": {
+    "parent": 2176130,
+    "name": "Tower! Simulator 3 - EDDV Airport"
+  },
+  "4044330": {
+    "parent": 2357570,
+    "name": "Overwatch® 2 - Ultimate Battle Pass Bundle: Season 20"
+  },
+  "4044340": {
+    "parent": 2357570,
+    "name": "Overwatch® 2 Starter Pack: Season 20"
+  },
+  "4044570": {
+    "parent": 393380,
+    "name": "Squad Weapon Skins - Kobzar Pack"
+  },
+  "4044630": {
+    "parent": 2576600,
+    "name": "Bottle Can Float - Paper Boat"
+  },
+  "4044660": {
+    "parent": 1066890,
+    "name": "Automobilista 2 - Historical Endurance Pack Pt1"
+  },
+  "4044670": {
+    "parent": 1066890,
+    "name": "Automobilista 2 - Historical Track Pack Pt3"
+  },
+  "4044740": {
+    "parent": 1426440,
+    "name": "MICROVOLTS: Recharged - 2025 AUTUMN SEASON Starter Pack : Platinum"
+  },
+  "4044750": {
+    "parent": 1426440,
+    "name": "MICROVOLTS: Recharged - 2025 AUTUMN SEASON Starter Pack : Gold"
+  },
+  "4044760": {
+    "parent": 1426440,
+    "name": "MICROVOLTS: Recharged - 2025 AUTUMN SEASON Starter Pack : Silver"
+  },
+  "4044800": {
+    "parent": 3813330,
+    "name": "Vibe Clicker - Supporter Pack"
+  },
+  "4045410": {
+    "parent": 3687940,
+    "name": "Missing Hearts: Crimson Cruise DLC"
+  },
+  "4045570": {
+    "parent": 3766190,
+    "name": "100 Cats Lost In England - Extra Content"
+  },
+  "4045630": {
+    "parent": 3809590,
+    "name": "100 Cats Lost In China - Extra Content"
+  },
+  "4045650": {
+    "parent": 3809600,
+    "name": "100 Cats Lost In Italy - Extra Content"
+  },
+  "4045770": {
+    "parent": 1309000,
+    "name": "Escape Dungeon 2 - Art book"
+  },
+  "4045800": {
+    "parent": 3376850,
+    "name": "Bomb Vehicle The Idle Clicker - Doom Vanguard Tank"
+  },
+  "4045820": {
+    "parent": 2975950,
+    "name": "Solasta II - Supporter Pack"
+  },
+  "4045910": {
+    "parent": 3344360,
+    "name": "Convict Team Tactics Battle Rattle"
+  },
+  "4046130": {
+    "parent": 1524630,
+    "name": "KeepUp Survival - Supporter Pack"
+  },
+  "4046140": {
+    "parent": 4045150,
+    "name": "Feeding Yuyuko - Youmu Cursor"
+  },
+  "4046290": {
+    "parent": 1569820,
+    "name": "Shades of Rayna - Ancient Altar Season Event Pass"
+  },
+  "4046390": {
+    "parent": 3670140,
+    "name": "Godzilla x Kong: Titan Chasers - Primal Starter Pack"
+  },
+  "4046850": {
+    "parent": 1481170,
+    "name": "ZEPHON - The Platinum & The Infinite"
+  },
+  "4046940": {
+    "parent": 2295940,
+    "name": "Master Of Realms - Dwarven STL Pack"
+  },
+  "4046960": {
+    "parent": 2404880,
+    "name": "Car Dealer Simulator - Up 2 You DLC"
+  },
+  "4047280": {
+    "parent": 3184590,
+    "name": "Ferret Frenzy - Cosmetic Collection"
+  },
+  "4047440": {
+    "parent": 1135810,
+    "name": "Vault of the Void: The Weaver"
+  },
+  "4047690": {
+    "parent": 2174300,
+    "name": "Piczle World of Puzzles: Old Masters"
+  },
+  "4047700": {
+    "parent": 3353830,
+    "name": "LivingBattle Office Building"
+  },
+  "4047770": {
+    "parent": 3027490,
+    "name": "LivingForest Garbage Dump Diner"
+  },
+  "4047840": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Sexy Maid (Pink)"
+  },
+  "4048000": {
+    "parent": 3446680,
+    "name": "心跳大冒险：泰遇 - 4K高清视频 资源包"
+  },
+  "4048010": {
+    "parent": 3446680,
+    "name": "心跳大冒险：泰遇 - 2K高清视频 资源包"
+  },
+  "4048210": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Sexy Maid (White)"
+  },
+  "4048290": {
+    "parent": 3706430,
+    "name": "The Falling Star - Supporter Pack"
+  },
+  "4048380": {
+    "parent": 1808500,
+    "name": "ARC Raiders - Standard Edition Bonus (Pre-Order Exclusive)"
+  },
+  "4049060": {
+    "parent": 4029210,
+    "name": "Dev Support DLC"
+  },
+  "4049400": {
+    "parent": 2657360,
+    "name": "Legacy Of Evil - In the name of God"
+  },
+  "4049720": {
+    "parent": 3476730,
+    "name": "Killer Chat! Original Edition - Wallpaper Bundle"
+  },
+  "4049770": {
+    "parent": 1794880,
+    "name": "Ys vs. Trails in the Sky: Alternative Saga - Digital Art Book"
+  },
+  "4050040": {
+    "parent": 2717010,
+    "name": "KALPA: Cosmic Symphony - Mass Recall Omega"
+  },
+  "4050150": {
+    "parent": 3464570,
+    "name": "Я беременна в 16: Эпизод 3"
+  },
+  "4050220": {
+    "parent": 2173760,
+    "name": "Super Video Golf - The Adventurer DLC"
+  },
+  "4050450": {
+    "parent": 1940870,
+    "name": "The Creator - Holiday Pack"
+  },
+  "4050700": {
+    "parent": 2896380,
+    "name": "Beyond the Map - Supporter Pack"
+  },
+  "4050730": {
+    "parent": 386970,
+    "name": "Memory's Dogma CODE:01 - CODE:01 Light Novel"
+  },
+  "4050740": {
+    "parent": 386970,
+    "name": "Memory's Dogma CODE:01 - CODE:02 Light Novel"
+  },
+  "4050750": {
+    "parent": 386970,
+    "name": "Memory's Dogma CODE:01 - CODE:03 Light Novel"
+  },
+  "4050760": {
+    "parent": 386970,
+    "name": "Memory's Dogma CODE:01 - CODE:04 Light Novel"
+  },
+  "4050770": {
+    "parent": 386970,
+    "name": "Memory's Dogma CODE:01 - CODE:05 Light Novel"
+  },
+  "4051310": {
+    "parent": 1587130,
+    "name": "Blood West: Scavengers"
+  },
+  "4051390": {
+    "parent": 3864530,
+    "name": "炽澜号沉浸电影画面风格包"
+  },
+  "4052870": {
+    "parent": 3436860,
+    "name": "RadioWave: Black Signal"
+  },
+  "4053020": {
+    "parent": 2638890,
+    "name": "Onimusha: WotS - Cloudbiter Haori"
+  },
+  "4053040": {
+    "parent": 3357870,
+    "name": "Roll & Win CASINO PARTY - More Skins Collection"
+  },
+  "4053160": {
+    "parent": 3375780,
+    "name": "Trails in the Sky 1st Chapter - Neo Bracer Costume (Estelle)"
+  },
+  "4053240": {
+    "parent": 3915230,
+    "name": "Monster Girls Onsen - Animation Pack"
+  },
+  "4053250": {
+    "parent": 3915230,
+    "name": "Monster Girls Onsen - Wallpapers Pack"
+  },
+  "4053260": {
+    "parent": 3915230,
+    "name": "Monster Girls Onsen - Digital Artbook"
+  },
+  "4053270": {
+    "parent": 3596280,
+    "name": "Night of the Skwer"
+  },
+  "4053320": {
+    "parent": 3280020,
+    "name": "Eclipse : Special Forces_Digital Lorebook"
+  },
+  "4053510": {
+    "parent": 1985170,
+    "name": "Warhammer 40,000: Warpforge - Space Wolves starter bundle"
+  },
+  "4053660": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - Pro Train: SW1500 Loco Pack 2"
+  },
+  "4053670": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - Pro Train: SW1500 Loco Pack 2"
+  },
+  "4053680": {
+    "parent": 553520,
+    "name": "Trainz 2019 DLC - Pro Train: SW1500 Loco Pack 2"
+  },
+  "4053730": {
+    "parent": 2933080,
+    "name": "Crime Boss: Rockay City - Shaman Chase Character Pack"
+  },
+  "4053820": {
+    "parent": 2670630,
+    "name": "Supermarket Simulator - Clothing DLC"
+  },
+  "4053830": {
+    "parent": 1922010,
+    "name": "Breachers - Hellfire Bundle"
+  },
+  "4054090": {
+    "parent": 3731020,
+    "name": "Five Hearts Under One Roof season2 Photobook"
+  },
+  "4054140": {
+    "parent": 2358040,
+    "name": "Magisterium: Fantasy Craft Supporter’s Pack: Decorations"
+  },
+  "4054180": {
+    "parent": 1153410,
+    "name": "JDM: Made in USA"
+  },
+  "4054280": {
+    "parent": 2818260,
+    "name": "Vigor - Phantom Investigator Pack"
+  },
+  "4054300": {
+    "parent": 2526310,
+    "name": "Out of Sight: Stage Fright"
+  },
+  "4054340": {
+    "parent": 2870220,
+    "name": "Tuggowar - Full Range"
+  },
+  "4054370": {
+    "parent": 2300320,
+    "name": "Farming Simulator 25: JCB - WFT"
+  },
+  "4054510": {
+    "parent": 4054310,
+    "name": "Mystery of Myths: Whisper of Depth DLC"
+  },
+  "4054700": {
+    "parent": 3889960,
+    "name": "Warface - Мощное начало"
+  },
+  "4055140": {
+    "parent": 2495100,
+    "name": "Hello Kitty Island Adventure - City Town"
+  },
+  "4055290": {
+    "parent": 3477590,
+    "name": "Culinary Wizard - Wild Taste Wardrobe Expansion"
+  },
+  "4055350": {
+    "parent": 1449110,
+    "name": "The Outer Worlds 2 Pet Tie-in 2"
+  },
+  "4055420": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Bounty Hunter"
+  },
+  "4055540": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Against Tsathogga (5e)"
+  },
+  "4055620": {
+    "parent": 291480,
+    "name": "Warface: Clutch — Game Time"
+  },
+  "4055660": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Against Tsathogga (Pathfinder)"
+  },
+  "4055790": {
+    "parent": 611790,
+    "name": "House Party - Nocturnal Temptations Expansion Pack"
+  },
+  "4055980": {
+    "parent": 3065800,
+    "name": "Marathon Tech Test Access"
+  },
+  "4056280": {
+    "parent": 3417120,
+    "name": "Lakeside Bar - Amber Snowfall - Soundtrack DLC"
+  },
+  "4056310": {
+    "parent": 3417120,
+    "name": "Lakeside Bar - Autumn Jazz DLC"
+  },
+  "4056340": {
+    "parent": 4028620,
+    "name": "恋爱的不在场证明 - 战书"
+  },
+  "4056650": {
+    "parent": 1985960,
+    "name": "Ogu and the Secret Forest - Winter Festival Blast"
+  },
+  "4056720": {
+    "parent": 3874950,
+    "name": "Bit Buddy - Developer Support Pack"
+  },
+  "4056800": {
+    "parent": 451340,
+    "name": "Gold Mining Simulator - Gems & Glory"
+  },
+  "4056900": {
+    "parent": 1985050,
+    "name": "Field of Glory: Kingdoms - Burghers and Bombards"
+  },
+  "4056980": {
+    "parent": 3376850,
+    "name": "Bomb Vehicle The Idle Clicker - Game Speed Shifter"
+  },
+  "4057250": {
+    "parent": 3607040,
+    "name": "Waifu Discovered 3 - Exposed DLC"
+  },
+  "4057370": {
+    "parent": 699130,
+    "name": "World War Z x The Walking Dead"
+  },
+  "4057480": {
+    "parent": 270880,
+    "name": "American Truck Simulator - British Columbia"
+  },
+  "4058170": {
+    "parent": 2973830,
+    "name": "Prison Boss Prohibition - Free Pack 8"
+  },
+  "4058180": {
+    "parent": 2973830,
+    "name": "Prison Boss Prohibition - Punk Pack"
+  },
+  "4058220": {
+    "parent": 1163340,
+    "name": "CB4G - Philippine Sea & Pilots"
+  },
+  "4058360": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Bear Furry Idol DLC"
+  },
+  "4058370": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Bunny Furry Idol DLC"
+  },
+  "4058380": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Cow Furry Idol DLC"
+  },
+  "4058400": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Deer Furry Idol DLC"
+  },
+  "4058410": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Dog Furry Idol DLC"
+  },
+  "4058420": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Fox Furry Idol DLC"
+  },
+  "4058430": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Horse Furry Idol DLC"
+  },
+  "4058440": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Hyena Furry Idol DLC"
+  },
+  "4058450": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Red Panda Furry Idol DLC"
+  },
+  "4058460": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Sheep Furry Idol DLC"
+  },
+  "4058480": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Wolf Furry Idol DLC"
+  },
+  "4058490": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Bear Furry DLC"
+  },
+  "4058500": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Cat Furry DLC"
+  },
+  "4058510": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Cow Furry DLC"
+  },
+  "4058520": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Deer Furry DLC"
+  },
+  "4058530": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Fox Furry DLC"
+  },
+  "4058540": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Hamster Furry DLC"
+  },
+  "4058550": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Hyena Furry DLC"
+  },
+  "4058560": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Red Panda Furry DLC"
+  },
+  "4058570": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Sheep Furry DLC"
+  },
+  "4058580": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Maid Wolf Furry DLC"
+  },
+  "4058590": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Boar Furry DLC"
+  },
+  "4058600": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Bunny Furry DLC"
+  },
+  "4058610": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Cat Furry DLC"
+  },
+  "4058620": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Cow Furry DLC"
+  },
+  "4058630": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Deer Furry DLC"
+  },
+  "4058650": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Dog Furry DLC"
+  },
+  "4058660": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Fox Furry DLC"
+  },
+  "4058670": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Hamster Furry DLC"
+  },
+  "4058680": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Hyena Furry DLC"
+  },
+  "4058690": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Raccoon Furry DLC"
+  },
+  "4058720": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Red Panda Furry DLC"
+  },
+  "4058730": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Sheep Furry DLC"
+  },
+  "4058740": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Squirrel Furry DLC"
+  },
+  "4058750": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Wild Cat Furry DLC"
+  },
+  "4058760": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Farmer Wolf Furry DLC"
+  },
+  "4058780": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Closes DLC 2"
+  },
+  "4058790": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Closes DLC 3"
+  },
+  "4058800": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Closes DLC 4"
+  },
+  "4058810": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Closes DLC 5"
+  },
+  "4058820": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Closes DLC 6"
+  },
+  "4058830": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Closes DLC 7"
+  },
+  "4058840": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Closes DLC 8"
+  },
+  "4058850": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Pixel Closes DLC"
+  },
+  "4058860": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Pixel Closes DLC 2"
+  },
+  "4058870": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Pixel Closes DLC 3"
+  },
+  "4058880": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Pixel Closes DLC 4"
+  },
+  "4058890": {
+    "parent": 1896840,
+    "name": "Sexy Furry - Pixel Closes DLC 5"
+  },
+  "4059340": {
+    "parent": 4059320,
+    "name": "Room 304 - Art Pack"
+  },
+  "4059370": {
+    "parent": 3674980,
+    "name": "Explosive Odds - Supporter Pack"
+  },
+  "4059840": {
+    "parent": 3500390,
+    "name": "Mega Man Star Force Legacy Collection – Geo Stelar and Omega-Xis Character Model Pack"
+  },
+  "4059850": {
+    "parent": 3500390,
+    "name": "Mega Man Star Force Legacy Collection – Mega Man Battle Network Series BGM"
+  },
+  "4059860": {
+    "parent": 3500390,
+    "name": "Mega Man Star Force Legacy Collection – Sonia Strumm and Luna Platz Character Model Pack"
+  },
+  "4060090": {
+    "parent": 2235200,
+    "name": "Neon Abyss 2 - Archenemy Returns"
+  },
+  "4060310": {
+    "parent": 2009780,
+    "name": "Napoleon's Eagles - Game of the Napoleonic Wars : La Marseillaise"
+  },
+  "4060330": {
+    "parent": 3994260,
+    "name": "Lust Office MILFs - Animation pack"
+  },
+  "4060460": {
+    "parent": 2581410,
+    "name": "Stygian: Outer Gods Supporter Pack"
+  },
+  "4060690": {
+    "parent": 1445790,
+    "name": "Make Way: Legends Pack"
+  },
+  "4060830": {
+    "parent": 3194360,
+    "name": "Formula Legends DLC 1"
+  },
+  "4060840": {
+    "parent": 3194360,
+    "name": "Formula Legends DLC2"
+  },
+  "4060920": {
+    "parent": 897330,
+    "name": "Coloring Pixels - Halloween 7 Pack"
+  },
+  "4060950": {
+    "parent": 1957780,
+    "name": "Ghosts of Tabor - Terminator Dark Fate DLC"
+  },
+  "4061140": {
+    "parent": 3878190,
+    "name": "Wordcaster - 100 Gem"
+  },
+  "4061150": {
+    "parent": 3878190,
+    "name": "Wordcaster - 500 Gem"
+  },
+  "4061160": {
+    "parent": 3878190,
+    "name": "Wordcaster - 5000 Gem"
+  },
+  "4061380": {
+    "parent": 3222920,
+    "name": "Interior Tales - Housewarming Kit"
+  },
+  "4061640": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Student DLC"
+  },
+  "4061650": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Student DLC 2"
+  },
+  "4061660": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Maid DLC"
+  },
+  "4061670": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Maid DLC 2"
+  },
+  "4061680": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Maid Cafe DLC"
+  },
+  "4061690": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Maid Cafe DLC 2"
+  },
+  "4061700": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Maid Cafe DLC 3"
+  },
+  "4061710": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Idol DLC"
+  },
+  "4061720": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Idol DLC 2"
+  },
+  "4061730": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Fast Food DLC"
+  },
+  "4061740": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Fast Food DLC 2"
+  },
+  "4061750": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Elf DLC"
+  },
+  "4061760": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Elf DLC 2"
+  },
+  "4061770": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Agent DLC"
+  },
+  "4061780": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Pixel Agent DLC 2"
+  },
+  "4061930": {
+    "parent": 3916620,
+    "name": "Idle Pixel Fantasy - Creature Pack"
+  },
+  "4062350": {
+    "parent": 393380,
+    "name": "Squad Emotes - Downtime Pack"
+  },
+  "4062430": {
+    "parent": 2073850,
+    "name": "THE FINALS - The Apothecarion Set"
+  },
+  "4062450": {
+    "parent": 2157560,
+    "name": "GBVSR - Character Costume: Spooky Vicky (Vikala)"
+  },
+  "4062460": {
+    "parent": 2157560,
+    "name": "GBVSR - Color Set: Battle Pass Pack 6"
+  },
+  "4062470": {
+    "parent": 2157560,
+    "name": "GBVSR - Weapon Skin Set: Battle Pass Pack 6"
+  },
+  "4062620": {
+    "parent": 3770470,
+    "name": "FrenchConnection - Seo-Arin Voice Pack"
+  },
+  "4062630": {
+    "parent": 3770470,
+    "name": "FrenchConnection - Seo-Ara Voice Pack"
+  },
+  "4062640": {
+    "parent": 3770470,
+    "name": "FrenchConnection - Shin Yu-hwa Voice Pack"
+  },
+  "4062720": {
+    "parent": 2925210,
+    "name": "Overkill Protocol"
+  },
+  "4062830": {
+    "parent": 3677020,
+    "name": "Waifu by Myside: Patch Me In - Animation pack"
+  },
+  "4062860": {
+    "parent": 513710,
+    "name": "SCUM Base Building Decor Pack"
+  },
+  "4062960": {
+    "parent": 386180,
+    "name": "Crossout — Project “Shadow”"
+  },
+  "4062970": {
+    "parent": 386180,
+    "name": "Crossout — Project “Shadow” (Deluxe edition)"
+  },
+  "4062980": {
+    "parent": 386180,
+    "name": "Crossout — Project “Shadow” (Lite edition)"
+  },
+  "4063360": {
+    "parent": 3103660,
+    "name": "Ark's Wonder Dungeon - Evil Empress"
+  },
+  "4063520": {
+    "parent": 2643390,
+    "name": "Star Trek: Voyager - Across the Unknown - Deluxe DLC"
+  },
+  "4063610": {
+    "parent": 887330,
+    "name": "Glassbreakers - Starter Pack"
+  },
+  "4063620": {
+    "parent": 3308200,
+    "name": "Gunslinger's Guide to Tombwater"
+  },
+  "4063710": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Fantasy Token Collection - Undead 04"
+  },
+  "4063730": {
+    "parent": 3916620,
+    "name": "Idle Pixel Fantasy - History Pack"
+  },
+  "4063940": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Fantasy Token Collection - Swamp Denizens 01"
+  },
+  "4063970": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Fantasy Token Collection - Monstrosity 01"
+  },
+  "4063980": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Fantasy Token Collection - Beast 01"
+  },
+  "4064150": {
+    "parent": 4003010,
+    "name": "FLOSS: Colorful developer support"
+  },
+  "4064190": {
+    "parent": 2221490,
+    "name": "Tom Clancy’s The Division 2 – Mutiny Season Bundle"
+  },
+  "4064200": {
+    "parent": 2221490,
+    "name": "Y7S3 Mutiny Season Bundle Ubisoft Activation"
+  },
+  "4064210": {
+    "parent": 2221490,
+    "name": "Tom Clancy’s The Division 2 – Fang Pack"
+  },
+  "4064220": {
+    "parent": 2221490,
+    "name": "[One Time Offer] Fang Pack 2025 Ubisoft Activation"
+  },
+  "4064330": {
+    "parent": 2174300,
+    "name": "Piczle World of Puzzles: Starter Pack"
+  },
+  "4064720": {
+    "parent": 1803850,
+    "name": "Lock & Key: A Magical Girl Mystery - Official Artbook"
+  },
+  "4064730": {
+    "parent": 3092190,
+    "name": "Our Home, My Keeper - Official Artbook"
+  },
+  "4064780": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Metro Enforcer C"
+  },
+  "4064850": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Metro Enforcer D"
+  },
+  "4064910": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Sexy Maid (Purple)"
+  },
+  "4064970": {
+    "parent": 2197740,
+    "name": "Goblin Dungeons: Digital Artbook"
+  },
+  "4065020": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Sexy Maid (Black)"
+  },
+  "4065130": {
+    "parent": 2063090,
+    "name": "Ultra Neon Arcade Pack"
+  },
+  "4065140": {
+    "parent": 1761380,
+    "name": "Otherworld Legends - Yoiko"
+  },
+  "4065150": {
+    "parent": 3366710,
+    "name": "Color-A-Cube - Horror Pack"
+  },
+  "4065190": {
+    "parent": 1278540,
+    "name": "电竞教父扩展包-2"
+  },
+  "4065240": {
+    "parent": 2197740,
+    "name": "Goblin Dungeons: Wallpapers Pack"
+  },
+  "4065280": {
+    "parent": 3582340,
+    "name": "紅蜘蛛クロニクル"
+  },
+  "4065430": {
+    "parent": 1601580,
+    "name": "Frostpunk 2: Deluxe Edition Upgrade"
+  },
+  "4065570": {
+    "parent": 2197740,
+    "name": "Goblin Dungeons: Ellie Cosplay"
+  },
+  "4065760": {
+    "parent": 3073070,
+    "name": "Magic Forge Tycoon - Supporter pack"
+  },
+  "4065780": {
+    "parent": 3071670,
+    "name": "Pixel Cross Stitch - Autumn Miniatures Pack"
+  },
+  "4066020": {
+    "parent": 1997660,
+    "name": "GreedFall: The Dying World - Gacane Pioneers Pack"
+  },
+  "4066030": {
+    "parent": 1997660,
+    "name": "GreedFall: The Dying World - Peren's Black Mass Pack"
+  },
+  "4066050": {
+    "parent": 2818260,
+    "name": "Vigor - The Ghost of Christmas Past Pack"
+  },
+  "4066260": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Daggerheart Core Rulebook"
+  },
+  "4066340": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Stormlight: Speak the Words"
+  },
+  "4066610": {
+    "parent": 4013450,
+    "name": "Doki Doki: School of Muscular Finance - Artbook"
+  },
+  "4066620": {
+    "parent": 4013450,
+    "name": "Doki Doki: School of Muscular Finance - ASMR"
+  },
+  "4066630": {
+    "parent": 4013450,
+    "name": "Doki Doki: School of Muscular Finance - Chibistickers"
+  },
+  "4066850": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Belowdown for Shadowdark RPG"
+  },
+  "4066930": {
+    "parent": 4066790,
+    "name": "The Backrooms Deluxe 2: Founder's Edition"
+  },
+  "4066980": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Traveller Companion Update 2024"
+  },
+  "4067120": {
+    "parent": 2881610,
+    "name": "Mohrta - Artbook"
+  },
+  "4067560": {
+    "parent": 4065050,
+    "name": "bygone snow supporter pack"
+  },
+  "4068020": {
+    "parent": 2142300,
+    "name": "Alquiem - Croisade de l'Aube Sanctifiée"
+  },
+  "4068030": {
+    "parent": 2142300,
+    "name": "Alquiem - Croisade Infernale"
+  },
+  "4068040": {
+    "parent": 2142300,
+    "name": "Alquiem - Croisade Abyssale"
+  },
+  "4068050": {
+    "parent": 2142300,
+    "name": "Alquiem - Artefact Eridien"
+  },
+  "4068060": {
+    "parent": 2142300,
+    "name": "Alquiem - Éclat Radieux"
+  },
+  "4068070": {
+    "parent": 2142300,
+    "name": "Alquiem - Lot de gemmes"
+  },
+  "4068080": {
+    "parent": 2142300,
+    "name": "Alquiem - Catalyseur Asmodéen"
+  },
+  "4068090": {
+    "parent": 2142300,
+    "name": "Alquiem - Emblème du Chaos"
+  },
+  "4068490": {
+    "parent": 3477590,
+    "name": "Culinary Wizard - Seasonal Selection Wardrobe Expansion"
+  },
+  "4069120": {
+    "parent": 3112290,
+    "name": "Legacy Wallpaper Back"
+  },
+  "4070490": {
+    "parent": 3961110,
+    "name": "Sleepover: reWake Guidebook"
+  },
+  "4070840": {
+    "parent": 2001340,
+    "name": "Fuga: Melodies of Steel (Manga) Vol. 9"
+  },
+  "4070850": {
+    "parent": 3081320,
+    "name": "Fuga: Melodies of Steel (Manga) Vol. 9"
+  },
+  "4070950": {
+    "parent": 2492040,
+    "name": "FATAL FURY: CotW - Season Pass 2"
+  },
+  "4070970": {
+    "parent": 4068800,
+    "name": "The Call of Darkness - Adult Romance DLC"
+  },
+  "4071070": {
+    "parent": 2492040,
+    "name": "FATAL FURY: CotW - Season Pass 3"
+  },
+  "4071260": {
+    "parent": 3813570,
+    "name": "Pixel Combat Starter Pack"
+  },
+  "4071720": {
+    "parent": 1288320,
+    "name": "Way of the Hunter - Christensen Arms Pack"
+  },
+  "4071730": {
+    "parent": 1288320,
+    "name": "Way of the Hunter - Strasser Pack"
+  },
+  "4071760": {
+    "parent": 2849180,
+    "name": "The Book of Outcasts - Cheat gear"
+  },
+  "4071830": {
+    "parent": 3371110,
+    "name": "究极少女阿尔特斯-高清艺术资产包"
+  },
+  "4072150": {
+    "parent": 4071380,
+    "name": "Cosmo Knight Zion - Special Mini Comic - DLC"
+  },
+  "4072380": {
+    "parent": 945770,
+    "name": "Dark Envoy Bonus Pack"
+  },
+  "4072680": {
+    "parent": 3597020,
+    "name": "Becoming a King - Digital Artbook"
+  },
+  "4072690": {
+    "parent": 3597020,
+    "name": "Becoming a King - Animations Pack"
+  },
+  "4072700": {
+    "parent": 3597020,
+    "name": "Becoming a King - Wallpapers Pack"
+  },
+  "4072720": {
+    "parent": 1665190,
+    "name": "Monster Roadtrip Playable character - Jacqueline"
+  },
+  "4072970": {
+    "parent": 1408230,
+    "name": "Walkabout Mini Golf - Alice's Adventure in Wonderland"
+  },
+  "4073030": {
+    "parent": 1896170,
+    "name": "Prince of Suburbia - I'm Pregnant!"
+  },
+  "4073130": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Shunned Valley of the Three Tombs Collector's Edition"
+  },
+  "4073310": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Savage Worlds - Necessary Evil Action Deck"
+  },
+  "4073600": {
+    "parent": 2806050,
+    "name": "Foundry Armory Pack - Halo: Campaign Evolved"
+  },
+  "4074020": {
+    "parent": 1425000,
+    "name": "EndlessAlice: Takehime Bunny Girl"
+  },
+  "4074060": {
+    "parent": 3704300,
+    "name": "FIND ALL 9: Fantasy - Coloring Book"
+  },
+  "4074380": {
+    "parent": 3279830,
+    "name": "导演，请多多指教 - 超清版"
+  },
+  "4074440": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - UNDERMAX - Easy Gacha System Plugin"
+  },
+  "4074450": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Gothic Castle Music DLC II"
+  },
+  "4074460": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - TinyRPG - Hero Printer"
+  },
+  "4074470": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - 2Way-type Enemy Pack Vol.1 Insect"
+  },
+  "4074480": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Demon Lord Army Set 4"
+  },
+  "4074530": {
+    "parent": 2549190,
+    "name": "弥留：遗忘的噩梦"
+  },
+  "4074540": {
+    "parent": 3957240,
+    "name": "Sail Girl - Expansion DLC"
+  },
+  "4074560": {
+    "parent": 1546400,
+    "name": "GigaBash - GAMERA -Rebirth- DLC"
+  },
+  "4074630": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Gothic Castle Music DLC II"
+  },
+  "4074640": {
+    "parent": 363890,
+    "name": "RPG Maker MV - TinyRPG - Hero Printer"
+  },
+  "4074650": {
+    "parent": 363890,
+    "name": "RPG Maker MV - 2Way-type Enemy Pack Vol.1 Insect"
+  },
+  "4074660": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Demon Lord Army Set 4"
+  },
+  "4074710": {
+    "parent": 2654690,
+    "name": "Mutants Ate My Carrots - Sketchbook"
+  },
+  "4074720": {
+    "parent": 2654690,
+    "name": "Mutants Ate My Carrots - Animalies Comic Book"
+  },
+  "4075010": {
+    "parent": 1386890,
+    "name": "Hyper Dash - Hellfire Bundle"
+  },
+  "4075070": {
+    "parent": 3483920,
+    "name": "SixteenPetals - Art Book"
+  },
+  "4075120": {
+    "parent": 2849180,
+    "name": "The Book of Outcasts - Sketches"
+  },
+  "4075280": {
+    "parent": 2461280,
+    "name": "Lessaria - Supporter Pack"
+  },
+  "4075290": {
+    "parent": 1771300,
+    "name": "Kingdom Come: Deliverance II Artbook"
+  },
+  "4075310": {
+    "parent": 2698780,
+    "name": "ContractVille - Japanese Furniture Pack"
+  },
+  "4075340": {
+    "parent": 3086580,
+    "name": "LOST EMBER: Legendary Souls"
+  },
+  "4075350": {
+    "parent": 2197740,
+    "name": "Goblin Dungeons: Flame Mage Set"
+  },
+  "4075410": {
+    "parent": 2197740,
+    "name": "Goblin Dungeons: Frost Mage Set"
+  },
+  "4075480": {
+    "parent": 2197740,
+    "name": "Goblin Dungeons: Storm Mage Set"
+  },
+  "4075580": {
+    "parent": 2197740,
+    "name": "Goblin Dungeons: Crimson Mage Set"
+  },
+  "4075910": {
+    "parent": 1878910,
+    "name": "WooLoop - Steampunk Pack"
+  },
+  "4076040": {
+    "parent": 2808930,
+    "name": "Lust Goddess — Mascot Selina"
+  },
+  "4076410": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Pathfinder 2 RPG - Myth-Speaker Adventure Path: Titanbane (3 of 3)"
+  },
+  "4076990": {
+    "parent": 3151670,
+    "name": "Trombone Champ: Unflattened - Halloween Pack"
+  },
+  "4077430": {
+    "parent": 960170,
+    "name": "DJMAX RESPECT V - V LIBERTY IV PACK"
+  },
+  "4077560": {
+    "parent": 2073850,
+    "name": "THE FINALS - The Chirurgeon Set"
+  },
+  "4078070": {
+    "parent": 3207300,
+    "name": "Office After Hours - Extra Coffee"
+  },
+  "4078090": {
+    "parent": 3237360,
+    "name": "Lone Soul - Supporter Pack"
+  },
+  "4078390": {
+    "parent": 2814990,
+    "name": "Screamer - Chromed Style Pack"
+  },
+  "4078400": {
+    "parent": 2814990,
+    "name": "Screamer - Iridescent Style Pack"
+  },
+  "4078560": {
+    "parent": 2670630,
+    "name": "Supermarket Simulator - Electronics DLC"
+  },
+  "4078570": {
+    "parent": 2670630,
+    "name": "Supermarket Simulator - Hardware DLC"
+  },
+  "4078590": {
+    "parent": 1284190,
+    "name": "The Planet Crafter - Toxicity"
+  },
+  "4078870": {
+    "parent": 236390,
+    "name": "War Thunder - Su-30MK2 AMV Pack"
+  },
+  "4078880": {
+    "parent": 236390,
+    "name": "War Thunder - JH-7A Prototype Pack"
+  },
+  "4078890": {
+    "parent": 236390,
+    "name": "War Thunder - Senrai Maidens: Kate Pack"
+  },
+  "4078900": {
+    "parent": 236390,
+    "name": "War Thunder - Senrai Maidens: Elsa Pack"
+  },
+  "4078910": {
+    "parent": 236390,
+    "name": "War Thunder - Senrai Maidens: Maria Pack"
+  },
+  "4079230": {
+    "parent": 1478980,
+    "name": "Samurai Battle Royale Pinball"
+  },
+  "4079610": {
+    "parent": 2352620,
+    "name": "Fellowship - Guardian's Supporter Pack"
+  },
+  "4079760": {
+    "parent": 2853730,
+    "name": "Skull & Bones - Seasonal Boatload Bundle Y2S3"
+  },
+  "4079770": {
+    "parent": 2853730,
+    "name": "Skull & Bones - Seasonal Boatload Bundle Y2S3 Ubisoft Activation"
+  },
+  "4079780": {
+    "parent": 2853730,
+    "name": "Skull & Bones - Seasonal Box Bundle Y2S3"
+  },
+  "4079790": {
+    "parent": 2853730,
+    "name": "Skull & Bones - Seasonal Box Bundle Y2S3 Ubisoft Activation"
+  },
+  "4079860": {
+    "parent": 1235110,
+    "name": "Rising Star 2 - ¡Viva México!"
+  },
+  "4080090": {
+    "parent": 304390,
+    "name": "For Honor - Y9S3 TU2 Orochi Hero Skin - Ubisoft Activation"
+  },
+  "4080100": {
+    "parent": 304390,
+    "name": "Yoshiro the Damned - Orochi Hero Skin - FOR HONOR"
+  },
+  "4080110": {
+    "parent": 304390,
+    "name": "For Honor - Y9S3 TU2 Orochi + Kensei Hero Skin Bundle - Ubisoft Activation"
+  },
+  "4080120": {
+    "parent": 304390,
+    "name": "Yokai Banishers - Hero Skin Bundle - FOR HONOR"
+  },
+  "4080540": {
+    "parent": 4054680,
+    "name": "Floorball Editor"
+  },
+  "4080560": {
+    "parent": 2197740,
+    "name": "Goblin Dungeons: Bunny Set"
+  },
+  "4080670": {
+    "parent": 212070,
+    "name": "Star Conflict - Ace"
+  },
+  "4080680": {
+    "parent": 212070,
+    "name": "Star Conflict - Ace (Deluxe edition)"
+  },
+  "4080770": {
+    "parent": 2740090,
+    "name": "Oil Strike ’75 - WDC Charity Donation, Small"
+  },
+  "4080780": {
+    "parent": 2740090,
+    "name": "Oil Strike ’75 - WDC Charity Donation, Medium"
+  },
+  "4081030": {
+    "parent": 2740090,
+    "name": "Oil Strike ’75 - WDC Charity Donation, Large"
+  },
+  "4081180": {
+    "parent": 1478980,
+    "name": "Only For Eagles Pinball"
+  },
+  "4081330": {
+    "parent": 2808930,
+    "name": "Lust Goddess — Mascot Tsintah"
+  },
+  "4081340": {
+    "parent": 2808930,
+    "name": "Lust Goddess — Mascot Vespina"
+  },
+  "4081350": {
+    "parent": 2808930,
+    "name": "Lust Goddess — Mascot Britney"
+  },
+  "4081400": {
+    "parent": 4050600,
+    "name": "Darkzan Adventure Supporter Pack"
+  },
+  "4081420": {
+    "parent": 4050600,
+    "name": "Darkzan Adventure Blazeborn"
+  },
+  "4081450": {
+    "parent": 4050600,
+    "name": "Darkzan Adventure DustWest"
+  },
+  "4081990": {
+    "parent": 342200,
+    "name": "MechWarrior Online™ - Icons Booster pack"
+  },
+  "4082060": {
+    "parent": 3108980,
+    "name": "Part Time Witch - Artbook"
+  },
+  "4082070": {
+    "parent": 3108980,
+    "name": "Part Time Witch - Animations Pack"
+  },
+  "4082080": {
+    "parent": 3108980,
+    "name": "Part Time Witch - Wallpapers Pack"
+  },
+  "4082150": {
+    "parent": 3413800,
+    "name": "Hotel Tales - Artbook"
+  },
+  "4082160": {
+    "parent": 3413800,
+    "name": "Hotel Tales - Animations Pack"
+  },
+  "4082170": {
+    "parent": 3413800,
+    "name": "Hotel Tales - Wallpapers Pack"
+  },
+  "4082180": {
+    "parent": 3413800,
+    "name": "Hotel Tales - Skins Pack"
+  },
+  "4082200": {
+    "parent": 3597000,
+    "name": "Umbranomicon - Artbook"
+  },
+  "4082210": {
+    "parent": 3597000,
+    "name": "Umbranomicon - Animations Pack"
+  },
+  "4082220": {
+    "parent": 3597000,
+    "name": "Umbranomicon - Wallpapers Pack"
+  },
+  "4082620": {
+    "parent": 1617400,
+    "name": "Jules - Celebrity Chef Warrior Mom"
+  },
+  "4082970": {
+    "parent": 2352620,
+    "name": "Fellowship - Exile's Supporter Pack"
+  },
+  "4082980": {
+    "parent": 2352620,
+    "name": "Fellowship - Wanderer’s Supporter Pack"
+  },
+  "4083350": {
+    "parent": 3926150,
+    "name": "Fortiori Wallpaper Editor"
+  },
+  "4083930": {
+    "parent": 1097580,
+    "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic Empire Maid Cafe"
+  },
+  "4084080": {
+    "parent": 3734200,
+    "name": "Desktop Heroes - Supporter Pack"
+  },
+  "4084100": {
+    "parent": 3604520,
+    "name": "The Mare Show - Skin Package"
+  },
+  "4084330": {
+    "parent": 470220,
+    "name": "Uno - Ultimate Edition 2025 - Ubisoft Activation"
+  },
+  "4084340": {
+    "parent": 470220,
+    "name": "Uno - Legacy Edition 2025 - Ubisoft Activation"
+  },
+  "4084420": {
+    "parent": 3150460,
+    "name": "Gloomy Clues: Classic Edition (2024)"
+  },
+  "4084450": {
+    "parent": 2126190,
+    "name": "Rue Valley — Digital Artbook"
+  },
+  "4084460": {
+    "parent": 2126190,
+    "name": "Rue Valley — Supporter Pack"
+  },
+  "4084510": {
+    "parent": 620980,
+    "name": "Beat Saber - Andrew Gold - Spooky Scary Skeletons – Undead Tombstone Remix"
+  },
+  "4084570": {
+    "parent": 3834120,
+    "name": "Lucid Clowder - Super Support Pack"
+  },
+  "4084640": {
+    "parent": 489630,
+    "name": "Warhammer 40,000: Gladius - Rampage Pack"
+  },
+  "4084650": {
+    "parent": 4081860,
+    "name": "MandelCraft - PRO Pack"
+  },
+  "4084840": {
+    "parent": 2246040,
+    "name": "The Phoenix Gene: Origins of Darkness - eBook"
+  },
+  "4085000": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Boston Breach Team Pack 2026"
+  },
+  "4085010": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Carolina Royal Ravens Team Pack 2026"
+  },
+  "4085020": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Los Angeles Thieves Team Pack 2026"
+  },
+  "4085030": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - FaZe Vegas Team Pack 2026"
+  },
+  "4085040": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Miami Heretics Team Pack 2026"
+  },
+  "4085060": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - G2 Minnesota Team Pack 2026"
+  },
+  "4085070": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Cloud9 New York Team Pack 2026"
+  },
+  "4085080": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Paris Gentle Mates Team Pack 2026"
+  },
+  "4085090": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Riyadh Falcons Team Pack 2026"
+  },
+  "4085110": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Toronto KOI Team Pack 2026"
+  },
+  "4085120": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - OpTic Texas Team Pack 2026"
+  },
+  "4085130": {
+    "parent": 1938090,
+    "name": "Call of Duty League™ - Vancouver Surge Team Pack 2026"
+  },
+  "4085140": {
+    "parent": 3035490,
+    "name": "N3Rally: Touge Pack"
+  },
+  "4085240": {
+    "parent": 4013450,
+    "name": "Doki Doki: School of Muscular Finance - Morning Call"
+  },
+  "4085290": {
+    "parent": 363890,
+    "name": "RPG Maker MV - KR Solar Base Tileset"
+  },
+  "4085300": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - KR Solar Base Tileset"
+  },
+  "4085310": {
+    "parent": 363890,
+    "name": "RPG Maker MV - KR Elemental Statues"
+  },
+  "4085320": {
+    "parent": 363890,
+    "name": "RPG Maker MV - KR Furniture Store - Lamps and Lighting"
+  },
+  "4085330": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - KR Elemental Statues"
+  },
+  "4085340": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - KR Furniture Store - Lamps and Lighting"
+  },
+  "4085380": {
+    "parent": 2385530,
+    "name": "PGA TOUR 2K25 Clubhouse Pass Premium Season 6"
+  },
+  "4085390": {
+    "parent": 2385530,
+    "name": "PGA TOUR 2K25 - Clubhouse Pass Premium Season 7"
+  },
+  "4085410": {
+    "parent": 2385530,
+    "name": "PGA TOUR 2K25 Clubhouse Gear Pack Year 2"
+  },
+  "4085420": {
+    "parent": 2385530,
+    "name": "PGA TOUR 2K25 Year 2 Member's Pass"
+  },
+  "4085440": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - D&D Classics: TRS3 Assault on Raven's Ruin (1E)"
+  },
+  "4085930": {
+    "parent": 3606890,
+    "name": "Daily Tokens+"
+  },
+  "4086920": {
+    "parent": 1574570,
+    "name": "Choice of Life: Samosbor - Wallpapers"
+  },
+  "4087110": {
+    "parent": 4013450,
+    "name": "Doki Doki: School of Muscular Finance - R18 Side Story"
+  },
+  "4087170": {
+    "parent": 2670810,
+    "name": "Candy Bandits - Supporter Pack"
+  },
+  "4087470": {
+    "parent": 3084180,
+    "name": "Staff Expansion Pack"
+  },
+  "4087970": {
+    "parent": 3045540,
+    "name": "Breakthrough DLC: Additional Contents"
+  },
+  "4088170": {
+    "parent": 1036950,
+    "name": "Super Jigsaw Puzzle: Generations - Food 2"
+  },
+  "4088180": {
+    "parent": 1036950,
+    "name": "Super Jigsaw Puzzle: Generations - Tokyo"
+  },
+  "4088190": {
+    "parent": 1036950,
+    "name": "Super Jigsaw Puzzle: Generations - Beaches 4"
+  },
+  "4088200": {
+    "parent": 1036950,
+    "name": "Super Jigsaw Puzzle: Generations - Winter 5"
+  },
+  "4088210": {
+    "parent": 1036950,
+    "name": "Super Jigsaw Puzzle: Generations - Thailand"
+  },
+  "4088230": {
+    "parent": 1036950,
+    "name": "Super Jigsaw Puzzle: Generations - Landscapes 6"
+  },
+  "4088600": {
+    "parent": 3883500,
+    "name": "Echoes of the Cave: Tiziri’s Path"
+  },
+  "4088790": {
+    "parent": 3408170,
+    "name": "Deadswitch Combat: Survival Bundle"
+  },
+  "4088950": {
+    "parent": 2893580,
+    "name": "AI-VJ - Horror 2 Visuals"
+  },
+  "4088960": {
+    "parent": 2893580,
+    "name": "AI-VJ - Party 5 Visuals"
+  },
+  "4088970": {
+    "parent": 2893580,
+    "name": "AI-VJ - Anime Party Visuals"
+  },
+  "4088980": {
+    "parent": 2893580,
+    "name": "AI-VJ - Party 6 Visuals"
+  },
+  "4089790": {
+    "parent": 3204120,
+    "name": "Maestro's Cold War 2 - Pax Americana"
+  },
+  "4089880": {
+    "parent": 518790,
+    "name": "theHunter: Call of the Wild™ - Premium Trophy Mount Pack"
+  },
+  "4089920": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Cinematic Set"
+  },
+  "4089930": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - My Channel Pack for YouTube #2"
+  },
+  "4089940": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Digital Overlay Pack"
+  },
+  "4089950": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Text Projection Overlay Pack"
+  },
+  "4089960": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Good Game Pack"
+  },
+  "4089970": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Vlog Titles Pack"
+  },
+  "4089980": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Dynamic Transitions Pack"
+  },
+  "4089990": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Business Booster Pack"
+  },
+  "4090000": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Timer Pack"
+  },
+  "4090020": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Emoji Speech Bubbles Pack"
+  },
+  "4090030": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Action Scene Pack"
+  },
+  "4090040": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Click The Bell Pack"
+  },
+  "4090050": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Pop Science Pack"
+  },
+  "4090060": {
+    "parent": 4036790,
+    "name": "Movavi Video Editor 2026 - Racing Pack"
+  },
+  "4090080": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Cinematic Set"
+  },
+  "4090090": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - My Channel Pack for YouTube #2"
+  },
+  "4090100": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Digital Overlay Pack"
+  },
+  "4090110": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Text Projection Overlay Pack"
+  },
+  "4090120": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Good Game Pack"
+  },
+  "4090130": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Vlog Titles Pack"
+  },
+  "4090140": {
+    "parent": 3151710,
+    "name": "Ace Squared - Complete Class Pack"
+  },
+  "4090150": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Dynamic Transitions Pack"
+  },
+  "4090160": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Business Booster Pack"
+  },
+  "4090170": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Timer Pack"
+  },
+  "4090180": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Emoji Speech Bubbles Pack"
+  },
+  "4090190": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Action Scene Pack"
+  },
+  "4090200": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Click The Bell Pack"
+  },
+  "4090210": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Pop Science Pack"
+  },
+  "4090220": {
+    "parent": 4060620,
+    "name": "Movavi Video Suite 2026 Steam Edition - Racing Pack"
+  },
+  "4090460": {
+    "parent": 1442530,
+    "name": "Outbreak Island - Supporter Pack"
+  },
+  "4090490": {
+    "parent": 3844930,
+    "name": "Your Adult Store - HALLOWEEN DLC"
+  },
+  "4090620": {
+    "parent": 3916620,
+    "name": "Idle Pixel Fantasy - Halloween Pack"
+  },
+  "4090770": {
+    "parent": 553520,
+    "name": "Trainz 2019 DLC - Pro Train: Eureka Valley"
+  },
+  "4090780": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - Pro Train: Eureka Valley"
+  },
+  "4090790": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - Pro Train: Eureka Valley"
+  },
+  "4090950": {
+    "parent": 3932890,
+    "name": "Escape from Tarkov: Left Behind - Expansion Pack"
+  },
+  "4090970": {
+    "parent": 3932890,
+    "name": "Escape from Tarkov: Prepare for Escape - Expansion Pack"
+  },
+  "4090980": {
+    "parent": 3932890,
+    "name": "Escape From Tarkov: The Unheard - Expansion Pack"
+  },
+  "4091000": {
+    "parent": 1968430,
+    "name": "Camp Buddy: Scoutmaster Season - The Journal"
+  },
+  "4091040": {
+    "parent": 1190340,
+    "name": "Super People - Paid Package User"
+  },
+  "4091080": {
+    "parent": 2525310,
+    "name": "Drop Duchy - The North"
+  },
+  "4091120": {
+    "parent": 4089330,
+    "name": "Starbrew Station - Interior Decorator's Pack"
+  },
+  "4091130": {
+    "parent": 4089330,
+    "name": "Starbrew Station - Station Mascot 'Pip'"
+  },
+  "4091150": {
+    "parent": 4089330,
+    "name": "Starbrew Station - Auto-Maintenance Droid"
+  },
+  "4091160": {
+    "parent": 4089330,
+    "name": "Starbrew Station - Symbiotic Sprout"
+  },
+  "4091170": {
+    "parent": 4089330,
+    "name": "Starbrew Station - The Galactic Tycoon"
+  },
+  "4091260": {
+    "parent": 1265820,
+    "name": "Fights in Tight Spaces - DLC3"
+  },
+  "4091290": {
+    "parent": 3932890,
+    "name": "Escape from Tarkov: PVE Zone"
+  },
+  "4091520": {
+    "parent": 3146120,
+    "name": "Ayasa: Shadows of Silence – Digital Artbook"
+  },
+  "4091650": {
+    "parent": 3450310,
+    "name": "Europa Universalis V: Ancient Monuments"
+  },
+  "4092210": {
+    "parent": 1653230,
+    "name": "Guild & Gals - Community Appreciation Pack"
+  },
+  "4092270": {
+    "parent": 3766130,
+    "name": "Mirror Atelier - Cloud Machina: City of Vapour"
+  },
+  "4092380": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Unnatural Selection Adventures for Shadowdark RPG"
+  },
+  "4092430": {
+    "parent": 4092410,
+    "name": "Magic Exposure 2 - Art Pack"
+  },
+  "4092500": {
+    "parent": 2385530,
+    "name": "PGA TOUR 2K25 Pro Accelerator Bonus Pack"
+  },
+  "4092530": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Savage Worlds - Horror Companion Action Deck"
+  },
+  "4092580": {
+    "parent": 2963240,
+    "name": "Generation Exile - Supporter Sustainability Pack"
+  },
+  "4092820": {
+    "parent": 2359470,
+    "name": "Strayed - Pumpkin Helmet"
+  },
+  "4092830": {
+    "parent": 2359470,
+    "name": "Strayed - Halloween Skin Pack"
+  },
+  "4093000": {
+    "parent": 3302080,
+    "name": "Effulgence RPG: ASCII Animations Supporter Pack"
+  },
+  "4093410": {
+    "parent": 1036640,
+    "name": "RPG Developer Bakin Clean City Kit"
+  },
+  "4093420": {
+    "parent": 1036640,
+    "name": "RPG Developer Bakin Smile Objects Vol.3"
+  },
+  "4093460": {
+    "parent": 3841720,
+    "name": "Under the Table - Micro Daze Expansion"
+  },
+  "4093490": {
+    "parent": 1247290,
+    "name": "GameGuru MAX - Offworld Bunker"
+  },
+  "4093670": {
+    "parent": 3357650,
+    "name": "PRAGMATA: Mega Man Pack"
+  },
+  "4093730": {
+    "parent": 470220,
+    "name": "Uno - Brawlhalla DLC"
+  },
+  "4093740": {
+    "parent": 470220,
+    "name": "Uno - Brawlhalla DLC Ubisoft Activation"
+  },
+  "4093750": {
+    "parent": 1072040,
+    "name": "Panzer Corps 2: Elite - 1st Guards"
+  },
+  "4093780": {
+    "parent": 3218710,
+    "name": "Everlusting Life - Mascot Luna"
+  },
+  "4093790": {
+    "parent": 2073850,
+    "name": "THE FINALS - TEAM SECRET TGM25"
+  },
+  "4093800": {
+    "parent": 2073850,
+    "name": "THE FINALS - FNATIC TGM25"
+  },
+  "4093810": {
+    "parent": 2073850,
+    "name": "THE FINALS - GEN.G TGM25"
+  },
+  "4093820": {
+    "parent": 2073850,
+    "name": "THE FINALS - KINGZERO TGM25"
+  },
+  "4093830": {
+    "parent": 2073850,
+    "name": "THE FINALS - TSM TGM25"
+  },
+  "4093840": {
+    "parent": 2073850,
+    "name": "THE FINALS - VANGUARD TGM25"
+  },
+  "4093930": {
+    "parent": 3994260,
+    "name": "Lust Office MILFs - Digital Artbook"
+  },
+  "4093940": {
+    "parent": 3994260,
+    "name": "Lust Office MILFs - Wallpapers Pack"
+  },
+  "4094000": {
+    "parent": 2418520,
+    "name": "Farm Together 2 - Gothic Pack"
+  },
+  "4094040": {
+    "parent": 3757060,
+    "name": "Shana - Priestess of Tona - Animations Pack"
+  },
+  "4094050": {
+    "parent": 3757060,
+    "name": "Shana - Priestess of Tona - Wallpapers Pack"
+  },
+  "4094060": {
+    "parent": 3757060,
+    "name": "Shana - Priestess of Tona - Digital Artbook"
+  },
+  "4094140": {
+    "parent": 2176130,
+    "name": "Tower! Simulator 3 - KEWR Airport"
+  },
+  "4094160": {
+    "parent": 380600,
+    "name": "Fishing Planet: Pro Fishing Starter Pack"
+  },
+  "4094180": {
+    "parent": 380600,
+    "name": "Fishing Planet: Pro Upgrade Pack"
+  },
+  "4094190": {
+    "parent": 380600,
+    "name": "Fishing Planet: Easy Going Starter Pack"
+  },
+  "4094200": {
+    "parent": 380600,
+    "name": "Fishing Planet: Power Boost Pack"
+  },
+  "4094210": {
+    "parent": 380600,
+    "name": "Fishing Planet: Instant Lift Pack"
+  },
+  "4094480": {
+    "parent": 3634590,
+    "name": "Coloring Voxels - Halloween Pack"
+  },
+  "4094590": {
+    "parent": 897450,
+    "name": "The Survivalists - Frostbite Fortress"
+  },
+  "4094610": {
+    "parent": 2973830,
+    "name": "Prison Boss Prohibition - Human Pack"
+  },
+  "4094630": {
+    "parent": 2973830,
+    "name": "Prison Boss Prohibition - Free Pack 9"
+  },
+  "4094650": {
+    "parent": 2973830,
+    "name": "Prison Boss Prohibition - Free Pack 10"
+  },
+  "4094710": {
+    "parent": 1201830,
+    "name": "For The Warp: Void Echoes"
+  },
+  "4094750": {
+    "parent": 4020030,
+    "name": "Cardinal Fall - Bronze Donation DLC"
+  },
+  "4094760": {
+    "parent": 4020030,
+    "name": "Cardinal Fall - Silver Donation DLC"
+  },
+  "4094770": {
+    "parent": 4020030,
+    "name": "Cardinal Fall - Gold Donation DLC"
+  },
+  "4094870": {
+    "parent": 3848570,
+    "name": "Supermarket Billionaire - Support Pack"
+  },
+  "4094930": {
+    "parent": 4064870,
+    "name": "Dopaminer - Supporter Pack I"
+  },
+  "4094940": {
+    "parent": 4064870,
+    "name": "Dopaminer - Supporter Pack II"
+  },
+  "4094950": {
+    "parent": 4064870,
+    "name": "Dopaminer - Supporter Pack III"
+  },
+  "4095280": {
+    "parent": 2359470,
+    "name": "Strayed - Pumpkin Rock & Skull Torch Pack"
+  },
+  "4095530": {
+    "parent": 238960,
+    "name": "Path of Exile - Champion of Theopolis Supporter Pack"
+  },
+  "4095540": {
+    "parent": 238960,
+    "name": "Path of Exile - Grand Champion of Theopolis Supporter Pack"
+  },
+  "4095550": {
+    "parent": 238960,
+    "name": "Path of Exile - Eternal Champion of Theopolis Supporter Pack"
+  },
+  "4095560": {
+    "parent": 238960,
+    "name": "Path of Exile - Verdant Magus Supporter Pack"
+  },
+  "4095570": {
+    "parent": 238960,
+    "name": "Path of Exile - Grand Verdant Magus Supporter Pack"
+  },
+  "4095580": {
+    "parent": 238960,
+    "name": "Path of Exile - Supreme Verdant Magus Supporter Pack"
+  },
+  "4095640": {
+    "parent": 3185890,
+    "name": "打不过：高清主题PV+高清人物写真"
+  },
+  "4095650": {
+    "parent": 1848440,
+    "name": "Foolish Mortals Artbook"
+  },
+  "4095660": {
+    "parent": 1848440,
+    "name": "Foolish Mortals Murphy's Diary"
+  },
+  "4095900": {
+    "parent": 1677280,
+    "name": "Company of Heroes 3: Endure & Defy"
+  },
+  "4095910": {
+    "parent": 887330,
+    "name": "Glassbreakers - Frosty Pack"
+  },
+  "4096360": {
+    "parent": 960090,
+    "name": "Bloons TD 6: Frontier Legends"
+  },
+  "4096430": {
+    "parent": 3979300,
+    "name": "FIND ALL: Halloween - Coloring Book"
+  },
+  "4096440": {
+    "parent": 3979300,
+    "name": "FIND ALL: Halloween - Extra Level"
+  },
+  "4096560": {
+    "parent": 3979310,
+    "name": "FIND KITTENS 6: After us - Coloring Book"
+  },
+  "4096570": {
+    "parent": 3979310,
+    "name": "FIND KITTENS 6: After us - Extra Level"
+  },
+  "4097430": {
+    "parent": 444930,
+    "name": "Zaccaria Pinball - Devil Riders Deluxe Pinball Table"
+  },
+  "4097520": {
+    "parent": 444930,
+    "name": "Zaccaria Pinball  - Winter Sports Deluxe Pinball Table"
+  },
+  "4097600": {
+    "parent": 444930,
+    "name": "Zaccaria Pinball - Aerobatics Deluxe Pinball Table"
+  },
+  "4097630": {
+    "parent": 1659040,
+    "name": "HITMAN WOA - The Eminem vs. Slim Shady Pack"
+  },
+  "4098010": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Shepherd's Bane (5E)"
+  },
+  "4098260": {
+    "parent": 2790700,
+    "name": "SWAPMEAT - Brain Rot"
+  },
+  "4098270": {
+    "parent": 2790700,
+    "name": "SWAPMEAT - Founder"
+  },
+  "4098300": {
+    "parent": 2790700,
+    "name": "SWAPMEAT - Quack Ops"
+  },
+  "4098550": {
+    "parent": 2995670,
+    "name": "Reaper Actual - Foundation Alpha - Charon's Pact Edition"
+  },
+  "4098560": {
+    "parent": 2995670,
+    "name": "Reaper Actual - Foundation Alpha - Stygian Oath Edition"
+  },
+  "4098660": {
+    "parent": 1938090,
+    "name": "Call of Duty®: Black Ops 7 - Arachnid's Mark: Starter Pack"
+  },
+  "4098940": {
+    "parent": 4039470,
+    "name": "5 minutes-DLC 1"
+  },
+  "4098950": {
+    "parent": 4039470,
+    "name": "5 minutes- DLC 2"
+  },
+  "4099440": {
+    "parent": 3550260,
+    "name": "双雄风流传（Romantic Emperor）- 扩展包"
+  },
+  "4099570": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Battle and Dungeon Anthems Vol01"
+  },
+  "4099580": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - RPG Sound Stories Vol01 -The CLOCKWORK EMPIRE-"
+  },
+  "4099600": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Media Maiden's A Little Bit of 8 Bit"
+  },
+  "4099610": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Media Maiden's Acoustic Vibe"
+  },
+  "4099620": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Rhythm Game Maker"
+  },
+  "4099680": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Battle and Dungeon Anthems Vol01"
+  },
+  "4099690": {
+    "parent": 363890,
+    "name": "RPG Maker MV - RPG Sound Stories Vol01 -The CLOCKWORK EMPIRE-"
+  },
+  "4099700": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Media Maiden's A Little Bit of 8 Bit"
+  },
+  "4099710": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Media Maiden's Acoustic Vibe"
+  },
+  "4099720": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Rhythm Game Maker"
+  },
+  "4099750": {
+    "parent": 2928330,
+    "name": "MASH VP! Re:VISION - Anniversary Pack"
+  },
+  "4099830": {
+    "parent": 2103140,
+    "name": "魔法工艺 潜水员戴夫 Content Pack"
+  },
+  "4099860": {
+    "parent": 3898750,
+    "name": "VoxMagic - GPU Plugin"
+  },
+  "4099960": {
+    "parent": 1643310,
+    "name": "Dungeons 4 - Double Trouble"
   }
 }
