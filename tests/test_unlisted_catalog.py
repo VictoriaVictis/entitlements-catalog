@@ -57,6 +57,10 @@ class CatalogTests(unittest.TestCase):
                 })
                 self.assertEqual(set(json.loads(records.read_text())), {"1", "3"})
 
+                catalog.scan(2, 10, Path("scanner.dll"), frontier=True)
+                self.assertEqual(json.loads(cursor.read_text())["next_app_id"], 1)
+                self.assertEqual(set(json.loads(records.read_text())), {"1", "3", "9"})
+
 
 if __name__ == "__main__":
     unittest.main()

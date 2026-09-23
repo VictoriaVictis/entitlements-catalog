@@ -35,7 +35,6 @@ def load_env():
 
 
 def steam_key():
-    load_env()
     key = os.environ.get("STEAM_API_KEY", "").strip()
     if not key:
         raise RuntimeError("STEAM_API_KEY is required for Store app-list requests")
@@ -104,13 +103,14 @@ def store_app_ids(*, include_all=False):
     return result
 
 
-def scan(count, ceiling, scanner):
-    if not 1 <= count <= 100000:
-        raise ValueError("count must be between 1 and 100000")
+def scan(count, ceiling, scanner, frontier=False):
+    """Scan the next checkpointed range, or with frontier the top count IDs below ceiling."""
+    if not 1 <= count <= 500000:
+        raise ValueError("count must be between 1 and 500000")
     if ceiling < 1:
         raise ValueError("ceiling must be positive")
     cursor = read_json(CURSOR, {"next_app_id": 1, "completed_passes": 0})
-    start = int(cursor["next_app_id"])
+    start = max(1, ceiling - count + 1) if frontier else int(cursor["next_app_id"])
     if start < 1 or start > ceiling:
         raise ValueError("scan cursor lies outside the current ceiling")
     size = min(count, ceiling - start + 1)
@@ -129,6 +129,9 @@ def scan(count, ceiling, scanner):
         records[str(dlc_id)] = {"parent": parent, "name": str(item["name"]).strip()}
     # Write records first: an interrupted run repeats the segment rather than losing it.
     write_json(RECORDS, dict(sorted(records.items(), key=lambda pair: int(pair[0]))))
+    if frontier:
+        print(f"Scanned {start}..{start + size - 1}; {len(data['dlcs'])} DLC records")
+        return
     wrapped = start + size > ceiling
     write_json(CURSOR, {
         "next_app_id": 1 if wrapped else start + size,
@@ -187,20 +190,32 @@ def base_dlc_references(parents, scanner):
     return {int(parent): set(map(int, ids)) for parent, ids in data["references"].items()}
 
 
+class NoRedirect(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, *args):
+        return None
+
+
 def store_dlc_references(parents):
+    opener = urllib.request.build_opener(NoRedirect)
+
     def fetch(parent):
         url = f"https://store.steampowered.com/dlc/{parent}/ajaxgetdlclist?cc=us&l=english"
         for attempt in range(3):
             try:
                 request = urllib.request.Request(url, headers={"User-Agent": "entitlements-catalog/2"})
-                with urllib.request.urlopen(request, timeout=20) as response:
+                with opener.open(request, timeout=20) as response:
                     data = json.load(response)
                 if int(data.get("success", 0)) != 1:
                     return parent, None
                 return parent, {int(item["appid"]) for item in data.get("dlcs", [])}
+            except urllib.error.HTTPError as error:
+                # Store redirects games without a Store page; they list no Store DLC.
+                if 300 <= error.code < 400:
+                    return parent, set()
             except (urllib.error.URLError, TimeoutError, ValueError, KeyError):
-                if attempt < 2:
-                    time.sleep(1 << attempt)
+                pass
+            if attempt < 2:
+                time.sleep(1 << attempt)
         return parent, None
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
@@ -238,17 +253,20 @@ def main():
     scan_cmd.add_argument("--count", type=int, default=100000)
     scan_cmd.add_argument("--ceiling", type=int, required=True)
     scan_cmd.add_argument("--scanner", type=Path, required=True)
+    scan_cmd.add_argument("--frontier", action="store_true",
+                          help="scan the top --count IDs below the ceiling without moving the cursor")
     publish_cmd = commands.add_parser("publish", help="publish DLC absent from client discovery sources")
     publish_cmd.add_argument("--scanner", type=Path, required=True)
     args = parser.parse_args()
+    load_env()
     if args.command == "ceiling":
-        ids = store_app_ids(include_all=True)
         if args.margin < 0:
             raise ValueError("margin must be nonnegative")
+        ids = store_app_ids(include_all=True)
         cursor = read_json(CURSOR, {"next_app_id": 1})
         print(max(max(ids) + args.margin, int(cursor["next_app_id"])))
     elif args.command == "scan":
-        scan(args.count, args.ceiling, args.scanner)
+        scan(args.count, args.ceiling, args.scanner, args.frontier)
     else:
         publish(args.scanner)
 
