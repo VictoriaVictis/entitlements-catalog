@@ -4,6 +4,8 @@
 __pycache__/
 *.pyc
 *.tmp
+**/bin/
+**/obj/
 .venv/
 venv/
 env/

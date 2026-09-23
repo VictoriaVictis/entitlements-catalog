@@ -1,0 +1,5506 @@
+{
+  "456": {
+    "parent": 440,
+    "name": "Team Fortress 2 - Summer 2012 Community Bundle DLC"
+  },
+  "457": {
+    "parent": 440,
+    "name": "Team Fortress 2 - Summer 2012 Sale Bundle DLC"
+  },
+  "458": {
+    "parent": 440,
+    "name": "Team Fortress 2 - Summer 2011 DLC"
+  },
+  "459": {
+    "parent": 440,
+    "name": "Team Fortress 2 - Premium DLC"
+  },
+  "565": {
+    "parent": 550,
+    "name": "Left 4 Dead 2 Preorder DLC"
+  },
+  "576": {
+    "parent": 570,
+    "name": "Dota 2 - SteelSeries DLC"
+  },
+  "581": {
+    "parent": 570,
+    "name": "Dota 2 - Murrissey the Smeevil"
+  },
+  "582": {
+    "parent": 570,
+    "name": "Dota 2 - Lockjaw the Boxhound"
+  },
+  "583": {
+    "parent": 570,
+    "name": "Dota 2 - Drodo the Druffin"
+  },
+  "584": {
+    "parent": 570,
+    "name": "Dota 2 - Inflatable Donkey Courier"
+  },
+  "585": {
+    "parent": 570,
+    "name": "Dota 2 - Plush Donkey Courier"
+  },
+  "586": {
+    "parent": 570,
+    "name": "Dota 2 - International Axe"
+  },
+  "650": {
+    "parent": 620,
+    "name": "Portal 2 - Gamestop PS3 DLC"
+  },
+  "651": {
+    "parent": 620,
+    "name": "Portal 2 - Bot Paint Job DLC"
+  },
+  "652": {
+    "parent": 620,
+    "name": "Portal 2 - Bot Roll Cage DLC"
+  },
+  "653": {
+    "parent": 620,
+    "name": "Portal 2 - Bot Antenna Topper DLC"
+  },
+  "654": {
+    "parent": 620,
+    "name": "Portal 2 - Summer 2011 DLC"
+  },
+  "660": {
+    "parent": 620,
+    "name": "Portal 2 Sixense MotionPack"
+  },
+  "669": {
+    "parent": 620,
+    "name": "Portal 2 - Sixense Motion Preorder"
+  },
+  "1255": {
+    "parent": 1250,
+    "name": "Killing Floor DLC 1"
+  },
+  "1256": {
+    "parent": 1250,
+    "name": "Killing Floor - Outbreak Character Pack"
+  },
+  "1257": {
+    "parent": 1250,
+    "name": "Killing Floor - Nightfall Character Pack"
+  },
+  "1507": {
+    "parent": 1500,
+    "name": "ValveTestApp1507-do-not-use"
+  },
+  "1515": {
+    "parent": 1500,
+    "name": "Darwinia Soundtrack DLC"
+  },
+  "1528": {
+    "parent": 1520,
+    "name": "ValveTestApp1528-do-not-use"
+  },
+  "1535": {
+    "parent": 1520,
+    "name": "DEFCON Soundtrack DLC"
+  },
+  "2726": {
+    "parent": 2720,
+    "name": "ThreadSpace: Hyperbol Soundtrack"
+  },
+  "2767": {
+    "parent": 2760,
+    "name": "Neverwinter Nights 2 Expansion 1"
+  },
+  "2768": {
+    "parent": 2760,
+    "name": "Neverwinter Nights 2 Expansion 2"
+  },
+  "2826": {
+    "parent": 2820,
+    "name": "X3: Terran Conflict"
+  },
+  "2827": {
+    "parent": 2820,
+    "name": "X3: A Sunny Place"
+  },
+  "3750": {
+    "parent": 3740,
+    "name": "ValveTestApp3750"
+  },
+  "4780": {
+    "parent": 4700,
+    "name": "Medieval II: Total War Kingdoms"
+  },
+  "4856": {
+    "parent": 4850,
+    "name": "Cossacks Campaign Expansion"
+  },
+  "4930": {
+    "parent": 4920,
+    "name": "Natural Selection 2 - Black Armor"
+  },
+  "4931": {
+    "parent": 4920,
+    "name": "Natural Selection 2 - PAX DLC"
+  },
+  "4932": {
+    "parent": 4920,
+    "name": "Natural Selection 2 - Deluxe DLC"
+  },
+  "6122": {
+    "parent": 6120,
+    "name": "Shank Soundtrack"
+  },
+  "8955": {
+    "parent": 8980,
+    "name": "Borderlands DLC: Claptrap's New Robot Revolution"
+  },
+  "8960": {
+    "parent": 8950,
+    "name": "Borderlands DLC"
+  },
+  "8990": {
+    "parent": 8980,
+    "name": "Borderlands DLC: The Zombie Island of Dr. Ned"
+  },
+  "9240": {
+    "parent": 9200,
+    "name": "Rage Authority Pack DLC"
+  },
+  "9241": {
+    "parent": 9200,
+    "name": "Rage Sewers DLC"
+  },
+  "9905": {
+    "parent": 9900,
+    "name": "Star Trek Online - Deluxe CD Key"
+  },
+  "9906": {
+    "parent": 9900,
+    "name": "Star Trek Online - Standard CD Key"
+  },
+  "9907": {
+    "parent": 9900,
+    "name": "Star Trek Online - Phaser Turret Unlock Key"
+  },
+  "9908": {
+    "parent": 9900,
+    "name": "Star Trek Online Steam Starter Pack"
+  },
+  "9910": {
+    "parent": 9900,
+    "name": "Star Trek Online - Beta"
+  },
+  "9932": {
+    "parent": 9930,
+    "name": "Test Drive Unlimited 2: Pagani Zonda Key"
+  },
+  "9933": {
+    "parent": 9930,
+    "name": "Test Drive Unlimited 2: 2010 Audi RS 5 Coupe Key"
+  },
+  "9942": {
+    "parent": 9940,
+    "name": "BKEpisode2"
+  },
+  "9992": {
+    "parent": 9990,
+    "name": "Ghostbusters Sanctum of Slime Challenge Pack"
+  },
+  "10195": {
+    "parent": 10190,
+    "name": "Call of Duty: Modern Warfare 2 Stimulus Package"
+  },
+  "10196": {
+    "parent": 10190,
+    "name": "Call of Duty: Modern Warfare 2 - Resurgence Pack"
+  },
+  "10197": {
+    "parent": 10190,
+    "name": "Call of Duty: Modern Warfare 2 - Resurgence Pack"
+  },
+  "10600": {
+    "parent": 10500,
+    "name": "Empire: Total War - Special Forces Unit"
+  },
+  "10601": {
+    "parent": 10500,
+    "name": "Empire: Total War - Dahomey Amazons Unit"
+  },
+  "10602": {
+    "parent": 10500,
+    "name": "Empire: Total War - Death's Head Hussars Unit"
+  },
+  "10603": {
+    "parent": 10500,
+    "name": "Empire: Total War - USS Constitution Unit"
+  },
+  "10604": {
+    "parent": 10500,
+    "name": "Empire Total War: Elite Units of the West"
+  },
+  "10605": {
+    "parent": 10500,
+    "name": "Empire: Total War - Multiplayer Beta"
+  },
+  "10606": {
+    "parent": 10500,
+    "name": "Empire: Total War™ - The Warpath Campaign"
+  },
+  "10607": {
+    "parent": 10500,
+    "name": "Empire: Total War - Elite Units of America DLC"
+  },
+  "10608": {
+    "parent": 10500,
+    "name": "Empire: Total War™ - Elite Units of the East"
+  },
+  "10609": {
+    "parent": 10500,
+    "name": "Empire: Total War - Elite Units of the East (pre-order)"
+  },
+  "10695": {
+    "parent": 10680,
+    "name": "Aliens vs Predator Swarm Map Pack"
+  },
+  "10696": {
+    "parent": 10680,
+    "name": "Aliens vs Predator Exclusive Multiplayer Skins"
+  },
+  "10697": {
+    "parent": 10680,
+    "name": "Aliens vs Predator: Bug Hunt Pack"
+  },
+  "11172": {
+    "parent": 11170,
+    "name": "Bloodbowl Activation Key"
+  },
+  "15522": {
+    "parent": 15520,
+    "name": "Aaaaa!!! Brutal Concussion"
+  },
+  "16465": {
+    "parent": 16450,
+    "name": "F.E.A.R. 2: Reborn"
+  },
+  "16860": {
+    "parent": 8930,
+    "name": "Civilization V - Cradle of Civilization Map Pack: Mediterranean"
+  },
+  "16861": {
+    "parent": 8930,
+    "name": "Civilization V - Cradle of Civilization Map Pack: Asia"
+  },
+  "16862": {
+    "parent": 8930,
+    "name": "Civilization V - Cradle of Civilization Map Pack: Americas"
+  },
+  "16863": {
+    "parent": 8930,
+    "name": "Civilization V - Cradle of Civilization Map Pack: Mesopotamia"
+  },
+  "16864": {
+    "parent": 8930,
+    "name": "Civilization V - Digital Deluxe Content"
+  },
+  "16865": {
+    "parent": 8930,
+    "name": "Civilization V - Civ and Scenario Pack: Mongols (Genghis Khan)"
+  },
+  "16866": {
+    "parent": 8930,
+    "name": "Civilization V - Explorer’s Map Pack"
+  },
+  "16867": {
+    "parent": 8930,
+    "name": "Civilization V - Civ and Scenario Double Pack: Spain and Inca"
+  },
+  "16868": {
+    "parent": 8930,
+    "name": "Civilization V - Babylon (Nebuchadnezzar II)"
+  },
+  "16870": {
+    "parent": 8930,
+    "name": "Sid Meier's Civilization V: Gods and Kings"
+  },
+  "16872": {
+    "parent": 8930,
+    "name": "Civ V Expansion - Gods and Kings"
+  },
+  "16879": {
+    "parent": 8930,
+    "name": "Civ V Gods and Kings Pre-Order"
+  },
+  "17095": {
+    "parent": 17080,
+    "name": "Tribes: Ascend - Steam Starter Pack"
+  },
+  "17096": {
+    "parent": 17080,
+    "name": "Tribes: Ascend - Steam Premium Pack"
+  },
+  "17097": {
+    "parent": 17080,
+    "name": "Tribes: Ascend - Ultimate Weapons Pack"
+  },
+  "17210": {
+    "parent": 17200,
+    "name": "F.E.A.R. 3 (Beta) Hammer"
+  },
+  "17220": {
+    "parent": 17200,
+    "name": "F.E.A.R. 3 (Beta) Shredder"
+  },
+  "17714": {
+    "parent": 17710,
+    "name": "Nuclear Dawn DLC"
+  },
+  "18052": {
+    "parent": 18050,
+    "name": "DeathSpankTOV-DLCPack1"
+  },
+  "18053": {
+    "parent": 18050,
+    "name": "DeathSpankTOV-DLCPack2"
+  },
+  "18060": {
+    "parent": 18050,
+    "name": "DLC: The Snowy Mountain Dungeon"
+  },
+  "18061": {
+    "parent": 18050,
+    "name": "DLC: Tankko the Warrior"
+  },
+  "18080": {
+    "parent": 18070,
+    "name": "TheBaconing-DLC"
+  },
+  "18081": {
+    "parent": 18070,
+    "name": "TheBaconing-DLC-Mac"
+  },
+  "18403": {
+    "parent": 18400,
+    "name": "Crazy Machines 2: Back to the Shop Add-On"
+  },
+  "18407": {
+    "parent": 18400,
+    "name": "Crazy Machines 2: Fluid Add-On"
+  },
+  "18408": {
+    "parent": 18400,
+    "name": "Crazy Machines 2 Time Travel Addon"
+  },
+  "18507": {
+    "parent": 18500,
+    "name": "Defense Grid: Borderlands DLC"
+  },
+  "18508": {
+    "parent": 18500,
+    "name": "Defense Grid: Resurgence Map Pack 1"
+  },
+  "18509": {
+    "parent": 18500,
+    "name": "Defense Grid: Resurgence Map Pack 2"
+  },
+  "18520": {
+    "parent": 18500,
+    "name": "Defense Grid: Resurgence Map Pack 3"
+  },
+  "18521": {
+    "parent": 18500,
+    "name": "Defense Grid: Resurgence Map Pack 4"
+  },
+  "18522": {
+    "parent": 18500,
+    "name": "Defense Grid: The Awakening - You Monster DLC"
+  },
+  "18523": {
+    "parent": 18500,
+    "name": "Defense Grid: Containment DLC"
+  },
+  "18530": {
+    "parent": 18500,
+    "name": "Defense Grid: Resurgence Map Pack 1"
+  },
+  "18531": {
+    "parent": 18500,
+    "name": "Defense Grid: Resurgence Map Pack 2"
+  },
+  "18532": {
+    "parent": 18500,
+    "name": "Defense Grid: Resurgence Map Pack 3"
+  },
+  "18533": {
+    "parent": 18500,
+    "name": "Defense Grid: Resurgence Map Pack 4"
+  },
+  "18534": {
+    "parent": 18500,
+    "name": "Defense Grid: The Awakening - Community Levels"
+  },
+  "20004": {
+    "parent": 20000,
+    "name": "ValveTestApp20004"
+  },
+  "20005": {
+    "parent": 20000,
+    "name": "ValveTestApp20005"
+  },
+  "20902": {
+    "parent": 20900,
+    "name": "The Witcher: Director's Cut DLC"
+  },
+  "21150": {
+    "parent": 21100,
+    "name": "F.E.A.R. 3 Hammer"
+  },
+  "21160": {
+    "parent": 21100,
+    "name": "F.E.A.R. 3 Shredder"
+  },
+  "21200": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Double XP - Self"
+  },
+  "21201": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Double XP - Team"
+  },
+  "21202": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Rodeo Pirate Pack"
+  },
+  "21203": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Unlock: Ninja Costume (CUT)"
+  },
+  "21204": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Dress Up Pack"
+  },
+  "21205": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Unlock: Weapon pack (CUT)"
+  },
+  "21206": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Unlock: Character pack (CUT)"
+  },
+  "21207": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Unlock: Gadgets pack (CUT)"
+  },
+  "21208": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Unlock: Support item pack (CUT)"
+  },
+  "21209": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Calling Card Pack 1"
+  },
+  "21210": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Calling Card Pack 2"
+  },
+  "21211": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Unlock: Personality pack (CUT)"
+  },
+  "21212": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Croc Pet"
+  },
+  "21213": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Gotham Mascot - Pretty Poison"
+  },
+  "21214": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Gotham Mascot - Harlette"
+  },
+  "21215": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Gotham Mascot - Killah Kitteh"
+  },
+  "21216": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Unlock: Premium Card Pack 3"
+  },
+  "21217": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Premium Card Pack 4"
+  },
+  "21218": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Premium Card Pack 5"
+  },
+  "21219": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Premium Card Pack 6"
+  },
+  "21220": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Premium Card Pack 7"
+  },
+  "21221": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Steamy Punk Pack"
+  },
+  "21222": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Mega XP Boost - Solo"
+  },
+  "21223": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Mega XP Boost - Team"
+  },
+  "21224": {
+    "parent": 21170,
+    "name": "Gotham City Impostors Costume Coin Boost - Solo"
+  },
+  "21225": {
+    "parent": 206210,
+    "name": "Gotham City Impostors Coming Soon DLC 1"
+  },
+  "21226": {
+    "parent": 206210,
+    "name": "Gotham City Impostors Coming Soon DLC 2"
+  },
+  "21227": {
+    "parent": 206210,
+    "name": "Gotham City Impostors Coming Soon DLC 3"
+  },
+  "21228": {
+    "parent": 206210,
+    "name": "Gotham City Impostors Coming Soon DLC 4"
+  },
+  "21960": {
+    "parent": 19900,
+    "name": "Far Cry 2: Fortunes Pack"
+  },
+  "21963": {
+    "parent": 21970,
+    "name": "R.U.S.E Mac DLC2"
+  },
+  "21964": {
+    "parent": 21970,
+    "name": "R.U.S.E Mac DLC3"
+  },
+  "21995": {
+    "parent": 21970,
+    "name": "R.U.S.E DLC2"
+  },
+  "21996": {
+    "parent": 21970,
+    "name": "R.U.S.E DLC3"
+  },
+  "21999": {
+    "parent": 21970,
+    "name": "R.U.S.E. - Preorder Bonus Key"
+  },
+  "22333": {
+    "parent": 22330,
+    "name": "Oblivion Game of the Year DLC"
+  },
+  "22360": {
+    "parent": 22350,
+    "name": "BRINK Spec Ops DLC"
+  },
+  "22361": {
+    "parent": 22350,
+    "name": "BRINK Psycho Ops DLC"
+  },
+  "22362": {
+    "parent": 22350,
+    "name": "BRINK Doom Pack DLC"
+  },
+  "22363": {
+    "parent": 22350,
+    "name": "BRINK Fallout Pack DLC"
+  },
+  "22364": {
+    "parent": 22350,
+    "name": "Brink Agents of Change DLC"
+  },
+  "22365": {
+    "parent": 22350,
+    "name": "ValveTestApp22365"
+  },
+  "22400": {
+    "parent": 22300,
+    "name": "Fallout 3 - Operation: Anchorage"
+  },
+  "22410": {
+    "parent": 22300,
+    "name": "Fallout 3 - Broken Steel"
+  },
+  "22420": {
+    "parent": 22300,
+    "name": "Fallout 3 - The Pitt"
+  },
+  "22430": {
+    "parent": 22300,
+    "name": "Fallout 3 - Mothership Zeta"
+  },
+  "22440": {
+    "parent": 22300,
+    "name": "Fallout 3 - Point Lookout"
+  },
+  "22456": {
+    "parent": 22450,
+    "name": "Hunted Assasin Pack"
+  },
+  "22460": {
+    "parent": 22380,
+    "name": "Fallout New Vegas CaravanPack"
+  },
+  "22465": {
+    "parent": 22380,
+    "name": "Fallout New Vegas ClassicPack"
+  },
+  "22470": {
+    "parent": 22380,
+    "name": "Fallout New Vegas: Courier's Stash"
+  },
+  "22475": {
+    "parent": 22380,
+    "name": "Fallout New Vegas TribalPack"
+  },
+  "22510": {
+    "parent": 22500,
+    "name": "Spectromancer: League of Heroes"
+  },
+  "22520": {
+    "parent": 22500,
+    "name": "Spectromancer: Truth & Beauty"
+  },
+  "22521": {
+    "parent": 22500,
+    "name": "Spectromancer: Gathering of Power"
+  },
+  "22618": {
+    "parent": 22610,
+    "name": "Alien Breed: Impact - PL Check"
+  },
+  "22630": {
+    "parent": 22600,
+    "name": "Worms Reloaded Preorder DLC"
+  },
+  "22631": {
+    "parent": 22600,
+    "name": "Worms Reloaded Puzzle Pack"
+  },
+  "22632": {
+    "parent": 22600,
+    "name": "Worms Reloaded Fort Booster Pack"
+  },
+  "22633": {
+    "parent": 22600,
+    "name": "Worms Reloaded Time Attack Pack"
+  },
+  "22634": {
+    "parent": 22600,
+    "name": "Worms Reloaded Retro Pack"
+  },
+  "22635": {
+    "parent": 22600,
+    "name": "Worms Reloaded - Soundtrack DLC"
+  },
+  "22636": {
+    "parent": 22600,
+    "name": "Worms Reloaded - Singleplayer DLC"
+  },
+  "22637": {
+    "parent": 22600,
+    "name": "Worms Reloaded - DE Check"
+  },
+  "22638": {
+    "parent": 22600,
+    "name": "Worms Reloaded - PL Check"
+  },
+  "22639": {
+    "parent": 22600,
+    "name": "Worms Reloaded - RU Check"
+  },
+  "22640": {
+    "parent": 22610,
+    "name": "Alien Breed Evolution: Episode 1 Preorder DLC"
+  },
+  "22641": {
+    "parent": 22650,
+    "name": "Alien Breed 2: Assault DLC"
+  },
+  "22642": {
+    "parent": 22670,
+    "name": "Alien Breed 3: Descent DLC"
+  },
+  "22658": {
+    "parent": 22650,
+    "name": "Alien Breed 2: Assault - PL Check"
+  },
+  "22678": {
+    "parent": 22670,
+    "name": "Alien Breed 3: Descent - PL Check"
+  },
+  "23455": {
+    "parent": 23450,
+    "name": "Grand Ages: Rome Expansion"
+  },
+  "23550": {
+    "parent": 23530,
+    "name": "Earth Defense Force Battle Armor Weapon Chest"
+  },
+  "23551": {
+    "parent": 23530,
+    "name": "Earth Defense Force Trooper Special Issue Enforcer Package"
+  },
+  "23552": {
+    "parent": 23530,
+    "name": "Earth Defense Force Aerialist Munitions Package"
+  },
+  "23553": {
+    "parent": 23530,
+    "name": "Earth Defense Force Tactician Advanced Tech Package"
+  },
+  "24012": {
+    "parent": 24010,
+    "name": "Train Simulator: BNSF ES44AC &amp; SD40-2 Loco Add-On"
+  },
+  "24021": {
+    "parent": 24010,
+    "name": "Train Simulator: Isle of Wight Route Add-On"
+  },
+  "24022": {
+    "parent": 24010,
+    "name": "Railworks Class08"
+  },
+  "24023": {
+    "parent": 24010,
+    "name": "Railworks Class66"
+  },
+  "24024": {
+    "parent": 24010,
+    "name": "Railworks Class158"
+  },
+  "24025": {
+    "parent": 24010,
+    "name": "Railworks 8F Pack"
+  },
+  "24026": {
+    "parent": 24010,
+    "name": "Railworks Jubilee DLC"
+  },
+  "24027": {
+    "parent": 24010,
+    "name": "RailWorks Hall Steam Locomotive Pack"
+  },
+  "24028": {
+    "parent": 24010,
+    "name": "Train Simulator: Rascal & Cottonwood Route Add-On"
+  },
+  "24029": {
+    "parent": 24010,
+    "name": "Train Simulator: Colton &amp; Northern Route Add-On"
+  },
+  "24030": {
+    "parent": 24010,
+    "name": "Railworks GXBerkshires DLC"
+  },
+  "24031": {
+    "parent": 24010,
+    "name": "Railworks SPS Northerns DLC"
+  },
+  "24032": {
+    "parent": 24010,
+    "name": "Railworks GWRBset DLC"
+  },
+  "24033": {
+    "parent": 24010,
+    "name": "Railworks ChallengerPack DLC"
+  },
+  "24034": {
+    "parent": 24010,
+    "name": "Railworks 7FScenarioPack01 DLC"
+  },
+  "24035": {
+    "parent": 24010,
+    "name": "Railworks B5ScenarioPack01 DLC"
+  },
+  "24036": {
+    "parent": 24010,
+    "name": "Train Simulator: HST Buffer Loco Add-On"
+  },
+  "24037": {
+    "parent": 24010,
+    "name": "Railworks V2Pack DLC"
+  },
+  "24038": {
+    "parent": 24010,
+    "name": "Railworks Class 37 Pack"
+  },
+  "24039": {
+    "parent": 24010,
+    "name": "Railworks Mk2e Coaches DLC"
+  },
+  "24040": {
+    "parent": 24010,
+    "name": "Railworks: Saddle Tank Pack DLC"
+  },
+  "24041": {
+    "parent": 24010,
+    "name": "Railworks A1 Tornado Pack DLC"
+  },
+  "24042": {
+    "parent": 24010,
+    "name": "Railworks Class 390 Pack DLC"
+  },
+  "24043": {
+    "parent": 24010,
+    "name": "Railworks Class 20 Pack DLC"
+  },
+  "24044": {
+    "parent": 24010,
+    "name": "Railworks Mk1Coaches DLC"
+  },
+  "24045": {
+    "parent": 24010,
+    "name": "Railworks TestTraK DLC"
+  },
+  "24046": {
+    "parent": 24010,
+    "name": "Railworks TEA Wagons DLC"
+  },
+  "24047": {
+    "parent": 24010,
+    "name": "Railworks GX Daylights DLC"
+  },
+  "24048": {
+    "parent": 24010,
+    "name": "Railworks Class 380 Pack DLC"
+  },
+  "24049": {
+    "parent": 24010,
+    "name": "Railworks Class 45 Pack DLC"
+  },
+  "24050": {
+    "parent": 24010,
+    "name": "Railworks IHH Extra Content DLC"
+  },
+  "24051": {
+    "parent": 24010,
+    "name": "Railworks NS HighNose Pack DLC"
+  },
+  "24052": {
+    "parent": 24010,
+    "name": "Railworks CN WideNose Pack DLC"
+  },
+  "24053": {
+    "parent": 24010,
+    "name": "Railworks CN SD40 Pack DLC"
+  },
+  "24054": {
+    "parent": 24010,
+    "name": "Railworks CN ES44DC Pack DLC"
+  },
+  "24055": {
+    "parent": 24010,
+    "name": "Train Simulator: Fort Kent to Eagle Lake Route Add-On"
+  },
+  "24056": {
+    "parent": 24010,
+    "name": "Railworks Project Platform"
+  },
+  "24057": {
+    "parent": 24010,
+    "name": "Railworks SF SD40 Pack DLC"
+  },
+  "24058": {
+    "parent": 24010,
+    "name": "Railworks Evening Star DLC"
+  },
+  "24059": {
+    "parent": 24010,
+    "name": "Railworks DT Wagon Pack 01 DLC"
+  },
+  "24060": {
+    "parent": 24010,
+    "name": "Railworks BN SD40 Pack DLC"
+  },
+  "24061": {
+    "parent": 24010,
+    "name": "Railworks MJA Wagons DLC"
+  },
+  "24062": {
+    "parent": 24010,
+    "name": "Railworks ATSF Warbonnet DLC"
+  },
+  "24063": {
+    "parent": 24000,
+    "name": "App Id 24000 DLC 1"
+  },
+  "24064": {
+    "parent": 24000,
+    "name": "App Id 24000 DLC 2"
+  },
+  "24065": {
+    "parent": 24010,
+    "name": "Train Simulator: Glasgow Airport Rail Link Route Add-On"
+  },
+  "24066": {
+    "parent": 24010,
+    "name": "Railworks German Wagon Pack"
+  },
+  "24067": {
+    "parent": 24010,
+    "name": "Railworks BNSF Dash9 Pack"
+  },
+  "24068": {
+    "parent": 24010,
+    "name": "Railworks Class 101 Pack"
+  },
+  "24069": {
+    "parent": 24010,
+    "name": "Railworks GR Class 143 Pack"
+  },
+  "24070": {
+    "parent": 24010,
+    "name": "Train Simulator: Fowler 4F Loco Add-On"
+  },
+  "24071": {
+    "parent": 24010,
+    "name": "Railworks Class 02 Pack"
+  },
+  "24072": {
+    "parent": 24010,
+    "name": "Railworks LightPacific Pack"
+  },
+  "24073": {
+    "parent": 24010,
+    "name": "Railworks 4MT Pack"
+  },
+  "24074": {
+    "parent": 24010,
+    "name": "Railworks CN Scenario Pack01"
+  },
+  "24075": {
+    "parent": 24010,
+    "name": "Train Simulator: Network Southeast Class 47 Loco Add-On"
+  },
+  "24076": {
+    "parent": 24010,
+    "name": "Railworks BonusScenario01 Cotswold Line"
+  },
+  "24077": {
+    "parent": 24010,
+    "name": "Railworks Class57"
+  },
+  "24078": {
+    "parent": 24010,
+    "name": "Railworks BigBoyPack"
+  },
+  "24079": {
+    "parent": 24010,
+    "name": "Railworks ThePortRoad"
+  },
+  "24080": {
+    "parent": 24010,
+    "name": "Railworks BigBoyPackCS"
+  },
+  "24081": {
+    "parent": 24010,
+    "name": "Railworks Up the Junction Add-On"
+  },
+  "24082": {
+    "parent": 24010,
+    "name": "Train Simulator: Green & Gold HST DMU Add-On"
+  },
+  "24083": {
+    "parent": 24010,
+    "name": "Train Simulator: West Coast Main Line North"
+  },
+  "24084": {
+    "parent": 24010,
+    "name": "Railworks UK LED Signals"
+  },
+  "24085": {
+    "parent": 24010,
+    "name": "Railworks Class56 DLC"
+  },
+  "24086": {
+    "parent": 24010,
+    "name": "Railworks AssetPack01"
+  },
+  "24087": {
+    "parent": 24010,
+    "name": "Railworks 2Ppack"
+  },
+  "24088": {
+    "parent": 24010,
+    "name": "Railworks BonusScenario02"
+  },
+  "24089": {
+    "parent": 24010,
+    "name": "RailWorks 2 SD70ACe Pack"
+  },
+  "24090": {
+    "parent": 24010,
+    "name": "RailWorks 2 Flying Scotsman"
+  },
+  "24091": {
+    "parent": 24010,
+    "name": "RailWorks 2 Class170Pack"
+  },
+  "24092": {
+    "parent": 24010,
+    "name": "RailWorks 2 OhioSteel"
+  },
+  "24093": {
+    "parent": 24010,
+    "name": "RailWorks 2 AllAboardCore"
+  },
+  "24094": {
+    "parent": 24010,
+    "name": "Railworks 2 Class 31 Pack"
+  },
+  "24095": {
+    "parent": 24010,
+    "name": "Train Simulator: Doncaster Works Route Add-On"
+  },
+  "24096": {
+    "parent": 24010,
+    "name": "Train Simulator: Falmouth Branch Route Add-On"
+  },
+  "24097": {
+    "parent": 24010,
+    "name": "RailWorks 2 Class 86 Pack"
+  },
+  "24098": {
+    "parent": 24010,
+    "name": "RailWorks 2 SD70M-2 Pack"
+  },
+  "24099": {
+    "parent": 24010,
+    "name": "RailWorks 2 SD70MAC Pack"
+  },
+  "24100": {
+    "parent": 201230,
+    "name": "EverQuest II: The Shadow Odyssey"
+  },
+  "24110": {
+    "parent": 201230,
+    "name": "EverQuest II: Rise of Kunark"
+  },
+  "24135": {
+    "parent": 24130,
+    "name": "EverQuest: Seeds of Destruction Item CD Key"
+  },
+  "24190": {
+    "parent": 201230,
+    "name": "Everquest II: Sentinel's Fate"
+  },
+  "24208": {
+    "parent": 24200,
+    "name": "DC Universe Online - Bane's Venom Key"
+  },
+  "24209": {
+    "parent": 24200,
+    "name": "DC Universe Online - Standard Key"
+  },
+  "24230": {
+    "parent": 201230,
+    "name": "EverQuest II: Destiny of Velious"
+  },
+  "24422": {
+    "parent": 24420,
+    "name": "Aquaria soundtrack"
+  },
+  "24440": {
+    "parent": 24400,
+    "name": "King Arthur - The Role-playing Wargame: Knights and Vassals DLC"
+  },
+  "24441": {
+    "parent": 24400,
+    "name": "King Arthur - The Role-playing Wargame: Legendary Artifacts DLC"
+  },
+  "24447": {
+    "parent": 24400,
+    "name": "King Arthur: The Saxons"
+  },
+  "24448": {
+    "parent": 24400,
+    "name": "King Arthur - The Role-playing Wargame Polish Saxon"
+  },
+  "24449": {
+    "parent": 24400,
+    "name": "King Arthur: The Druids"
+  },
+  "24450": {
+    "parent": 24400,
+    "name": "Do not use"
+  },
+  "24451": {
+    "parent": 24400,
+    "name": "King Arthur - The Role-playing Wargame Saxon DLC Hungarian"
+  },
+  "24483": {
+    "parent": 24480,
+    "name": "King Athur 2 Base_Test"
+  },
+  "24486": {
+    "parent": 24480,
+    "name": "King Athur 2 Base_Release"
+  },
+  "24487": {
+    "parent": 24480,
+    "name": "King Athur 2 Prologue_Press"
+  },
+  "24488": {
+    "parent": 24480,
+    "name": "King Athur 2 Dead Legions"
+  },
+  "24496": {
+    "parent": 24480,
+    "name": "King Athur II Base Game Game"
+  },
+  "24497": {
+    "parent": 24480,
+    "name": "King Arthur II - DLC1"
+  },
+  "24634": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - Blue Comet"
+  },
+  "24635": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - Duchess"
+  },
+  "24637": {
+    "parent": 24630,
+    "name": "Trainz Sim - PRRT1"
+  },
+  "24673": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - Aerotrain"
+  },
+  "24674": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - Blue Comet"
+  },
+  "24675": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - Duchess"
+  },
+  "24676": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - PRR T1"
+  },
+  "24677": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - Coronation Scot"
+  },
+  "24678": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - BR Class 14"
+  },
+  "24679": {
+    "parent": 24670,
+    "name": "Trainz Simulator 12 DLC - SS4 China Coal"
+  },
+  "24932": {
+    "parent": 17450,
+    "name": "Dragon Age: Origins Bonus Content"
+  },
+  "24934": {
+    "parent": 17450,
+    "name": "Dragon Age: Origins Deluxe CD Key"
+  },
+  "24935": {
+    "parent": 17450,
+    "name": "Dragon Age: Origins Deluxe CD Key"
+  },
+  "24936": {
+    "parent": 17450,
+    "name": "Dragon Age: Origins Standard CD Key"
+  },
+  "24937": {
+    "parent": 17450,
+    "name": "Dragon Age: Origins Preorder CD Key"
+  },
+  "24938": {
+    "parent": 17450,
+    "name": "Dragon Age: Origins Deluxe Game CD Key"
+  },
+  "24939": {
+    "parent": 17450,
+    "name": "Dragon Age: Origins Standard Game CD Key"
+  },
+  "24962": {
+    "parent": 24960,
+    "name": "Battlefield Bad Company 2: Promo Key (Preorder)"
+  },
+  "24963": {
+    "parent": 24960,
+    "name": "Battlefield Bad Company 2: Specact Kit DLC"
+  },
+  "24992": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Digital Deluxe Promo Key (Preorder)"
+  },
+  "24993": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Digital Deluxe Cerberus Key (Preorder)"
+  },
+  "24994": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Promo Key (Preorder)"
+  },
+  "24995": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Cerberus Key (Preorder)"
+  },
+  "24996": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Digital Deluxe Promo Key"
+  },
+  "24997": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Digital Deluxe Cerberus Key"
+  },
+  "24998": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Cerberus Key"
+  },
+  "25750": {
+    "parent": 25700,
+    "name": "Madballs Devil's Night Skin Pack"
+  },
+  "25751": {
+    "parent": 25700,
+    "name": "MiBI Skins - Evolution Assault DLC"
+  },
+  "25752": {
+    "parent": 25700,
+    "name": "MiBI Skins - Thanksgiving 09 DLC"
+  },
+  "25753": {
+    "parent": 25700,
+    "name": "MiBI Skins - Evolution Runners 09 DLC"
+  },
+  "25754": {
+    "parent": 25700,
+    "name": "MiBI Skins - Evolution Support 09 DLC"
+  },
+  "25755": {
+    "parent": 25700,
+    "name": "MiBI Skins - Evolution Heavy 09 DLC"
+  },
+  "25756": {
+    "parent": 25700,
+    "name": "MiBI Skins - Evolution Flyers DLC"
+  },
+  "25757": {
+    "parent": 25700,
+    "name": "MiBI Skins - Christmas '09 DLC"
+  },
+  "25758": {
+    "parent": 25700,
+    "name": "Madballs Anarchy Unlock Pack DLC"
+  },
+  "25759": {
+    "parent": 25700,
+    "name": "MiBI Skins - Desertion Pack DLC"
+  },
+  "25760": {
+    "parent": 25700,
+    "name": "MiBI Skins - Madballs BDI Clan Skins DLC"
+  },
+  "25761": {
+    "parent": 25700,
+    "name": "MiBI Skins - Madballs Scorched Clan Skins"
+  },
+  "25762": {
+    "parent": 25700,
+    "name": "Madballs BDI Evolution Rollup"
+  },
+  "25763": {
+    "parent": 25700,
+    "name": "Madballs Scorched Evolution Rollup"
+  },
+  "25764": {
+    "parent": 25700,
+    "name": "Madballs Holiday Skins"
+  },
+  "25765": {
+    "parent": 25700,
+    "name": "MiBI Skins - All Clan Skins Pack DLC"
+  },
+  "25806": {
+    "parent": 25800,
+    "name": "Europa Universalis III: Heir to the Throne"
+  },
+  "25808": {
+    "parent": 25800,
+    "name": "Europa Universalis III: Divine Wind"
+  },
+  "25809": {
+    "parent": 25800,
+    "name": "Europa Universalis III: Eastern - Anno Domini 1400"
+  },
+  "25810": {
+    "parent": 25800,
+    "name": "Europa Universalis III: Western - Anno Domini 1400"
+  },
+  "25811": {
+    "parent": 25800,
+    "name": "Enlightenment Sprite Pack"
+  },
+  "25812": {
+    "parent": 25800,
+    "name": "Reformation Sprite Pack"
+  },
+  "25813": {
+    "parent": 25800,
+    "name": "Medieval Sprite Pack"
+  },
+  "25814": {
+    "parent": 25800,
+    "name": "Europa Universalis III: Revolution Sprite Pack"
+  },
+  "25815": {
+    "parent": 25800,
+    "name": "Europa Universalis III: Absolutism SpritePack"
+  },
+  "25816": {
+    "parent": 25800,
+    "name": "Europa Universalis III: Revolution 2"
+  },
+  "25817": {
+    "parent": 25800,
+    "name": "Europa Universalis III: Music of the World"
+  },
+  "25892": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: US Sprite Pack"
+  },
+  "25893": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: German Sprite Pack"
+  },
+  "25896": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: German Infantry Sprite Pack"
+  },
+  "25897": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: Japanese Infantry Sprite Pack"
+  },
+  "25898": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: Soviet Sprite Pack"
+  },
+  "25899": {
+    "parent": 25890,
+    "name": "Hearts of Iron 3: Soviet Music Pack"
+  },
+  "25940": {
+    "parent": 25930,
+    "name": "East India Company: Pirate Bay"
+  },
+  "25960": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: Soviet Infantry Spritepack"
+  },
+  "25962": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: German II Sprite Pack"
+  },
+  "25970": {
+    "parent": 25890,
+    "name": "ValveTestApp25970"
+  },
+  "25985": {
+    "parent": 25980,
+    "name": "Majesty 2 - DLC"
+  },
+  "26005": {
+    "parent": 26000,
+    "name": "The Maw: Brute Force"
+  },
+  "26006": {
+    "parent": 26000,
+    "name": "The Maw: River Redirect"
+  },
+  "26007": {
+    "parent": 26000,
+    "name": "The Maw: Speeder Lane"
+  },
+  "26803": {
+    "parent": 26800,
+    "name": "Braid Soundtrack"
+  },
+  "28010": {
+    "parent": 28000,
+    "name": "Kane and Lynch 2: The Doggie Bag DLC"
+  },
+  "28011": {
+    "parent": 28000,
+    "name": "Kane and Lynch 2: Alliance Weapon Pack DLC"
+  },
+  "28012": {
+    "parent": 28000,
+    "name": "Kane and Lynch 2: Multiplayer Masks Pack DLC"
+  },
+  "28013": {
+    "parent": 28000,
+    "name": "Kane and Lynch 2: Greed Betrayal Revenge DLC"
+  },
+  "28014": {
+    "parent": 28000,
+    "name": "Kane and Lynch 2: Goodbye Kitty GUN DLC"
+  },
+  "28015": {
+    "parent": 28000,
+    "name": "Kane and Lynch 2: Alliance Assault Pack DLC"
+  },
+  "28017": {
+    "parent": 28000,
+    "name": "Kane and Lynch 2: Radio Tower DLC"
+  },
+  "28060": {
+    "parent": 28050,
+    "name": "Explosive Mission Pack"
+  },
+  "28061": {
+    "parent": 28050,
+    "name": "Tactical Enhancement Pack"
+  },
+  "29540": {
+    "parent": 29720,
+    "name": "Guild Wars: Game of the Year Edition"
+  },
+  "29560": {
+    "parent": 29720,
+    "name": "Guild Wars: Factions"
+  },
+  "29570": {
+    "parent": 29720,
+    "name": "Guild Wars: Trilogy"
+  },
+  "29580": {
+    "parent": 29720,
+    "name": "Guild Wars: Nightfall"
+  },
+  "29600": {
+    "parent": 29720,
+    "name": "Guild Wars: Game of the Year"
+  },
+  "29610": {
+    "parent": 29720,
+    "name": "Guild Wars: Factions"
+  },
+  "29620": {
+    "parent": 29720,
+    "name": "Guild Wars: Trilogy"
+  },
+  "29630": {
+    "parent": 29720,
+    "name": "Guild Wars: Nightfall"
+  },
+  "29700": {
+    "parent": 29720,
+    "name": "Guild Wars: Eye of the North"
+  },
+  "29710": {
+    "parent": 29720,
+    "name": "Guild Wars: Eye of the North (EU)"
+  },
+  "30010": {
+    "parent": 30030,
+    "name": "ValveTestApp30010"
+  },
+  "30040": {
+    "parent": 30030,
+    "name": "ValveTestApp30040"
+  },
+  "31420": {
+    "parent": 31410,
+    "name": "Zombie Driver: Summer of Slaughter DLC"
+  },
+  "31713": {
+    "parent": 31700,
+    "name": "IGW - Scorched Earth DLC"
+  },
+  "32472": {
+    "parent": 32470,
+    "name": "STAR WARS™ Empire at War: Forces of Corruption™"
+  },
+  "32830": {
+    "parent": 32800,
+    "name": "Lord of the Rings War in the North Human Pack"
+  },
+  "32831": {
+    "parent": 32800,
+    "name": "Lord of the Rings War in the North DLC Elf Pack"
+  },
+  "32832": {
+    "parent": 32800,
+    "name": "Lord of the Rings: War in the North DLC: Dwarf Pack"
+  },
+  "32833": {
+    "parent": 32800,
+    "name": "Lord of the Rings: War in the North DLC: Film Pack"
+  },
+  "32834": {
+    "parent": 32800,
+    "name": "Lord of the Rings War in the North DLC Orc Champion Sword"
+  },
+  "33242": {
+    "parent": 33220,
+    "name": "Tom Clancy's Splinter Cell Conviction - Insurgency Pack - Mac"
+  },
+  "33245": {
+    "parent": 33220,
+    "name": "Tom Clancy's Splinter Cell Conviction - Deluxe CD Key Mac"
+  },
+  "33246": {
+    "parent": 33220,
+    "name": "Tom Clancy's Splinter Cell Conviction - Standard CD Key Mac"
+  },
+  "33287": {
+    "parent": 33280,
+    "name": "James Cameron's Avatar - Standard CD Key"
+  },
+  "33288": {
+    "parent": 33280,
+    "name": "James Cameron's Avatar - Limited Edition CD Key"
+  },
+  "33325": {
+    "parent": 33320,
+    "name": "Prince of Persia: The Forgotten Sands - Deluxe CD Key"
+  },
+  "33326": {
+    "parent": 33320,
+    "name": "Prince of Persia: The Forgotten Sands - Standard CD Key"
+  },
+  "33360": {
+    "parent": 33230,
+    "name": "Assassin's Creed II - CD Key"
+  },
+  "33361": {
+    "parent": 33230,
+    "name": "Assassin's Creed II - Deluxe CD Key"
+  },
+  "33362": {
+    "parent": 33230,
+    "name": "Assassin's Creed 2 - Mac"
+  },
+  "33370": {
+    "parent": 33220,
+    "name": "Tom Clancy's Splinter Cell Conviction - Deluxe CD Key"
+  },
+  "33371": {
+    "parent": 33220,
+    "name": "Tom Clancy's Splinter Cell Conviction - Standard CD Key"
+  },
+  "33372": {
+    "parent": 33220,
+    "name": "Tom Clancy's Splinter Cell Conviction - Insurgency Pack"
+  },
+  "33428": {
+    "parent": 33420,
+    "name": "Call of Juarez: The Cartel - Preorder DLC"
+  },
+  "33435": {
+    "parent": 33420,
+    "name": "Call of Juarez: The Cartel - Preorder Pack 1"
+  },
+  "33436": {
+    "parent": 33420,
+    "name": "Call of Juarez: The Cartel - Preorder Pack 2"
+  },
+  "33446": {
+    "parent": 33440,
+    "name": "Driver San Francisco - Standard Key"
+  },
+  "33447": {
+    "parent": 33440,
+    "name": "Driver San Francisco - Deluxe Key"
+  },
+  "33448": {
+    "parent": 33440,
+    "name": "Driver San Francisco - Deluxe Key - Preorder"
+  },
+  "33456": {
+    "parent": 33440,
+    "name": "Driver San Francisco - Standard Key - Mac"
+  },
+  "33457": {
+    "parent": 33440,
+    "name": "Driver San Francisco - Deluxe Key - Mac"
+  },
+  "33933": {
+    "parent": 33930,
+    "name": "ARMA 2: Army of the Czech Republic - OLD APPID"
+  },
+  "33934": {
+    "parent": 33930,
+    "name": "Arma 2: Army of the Czech Republic DLC"
+  },
+  "33936": {
+    "parent": 33930,
+    "name": "ValveTestApp33936"
+  },
+  "33960": {
+    "parent": 33930,
+    "name": "ARMA II: British Armed Forces"
+  },
+  "34170": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - HMS Elephant"
+  },
+  "34171": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Grand Battery of the Convention"
+  },
+  "34172": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Towarczys"
+  },
+  "34173": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Royal Scots Greys"
+  },
+  "34174": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Heroes of the Napoleonic Wars"
+  },
+  "34175": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Heroes of the Napoleonic Wars + Elite Regiment"
+  },
+  "34176": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Elite Regiment"
+  },
+  "34177": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Imperial Guard Pack"
+  },
+  "34178": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Coalition Battle Pack"
+  },
+  "34179": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Peninsular Campaign"
+  },
+  "34184": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - Community Reward Unit"
+  },
+  "34189": {
+    "parent": 34030,
+    "name": "Napoleon: Total War - UNUSED Campaign"
+  },
+  "34272": {
+    "parent": 34270,
+    "name": "Comix Zone"
+  },
+  "34273": {
+    "parent": 34270,
+    "name": "Crack Down"
+  },
+  "34274": {
+    "parent": 34270,
+    "name": "Ecco the Dolphin"
+  },
+  "34275": {
+    "parent": 34270,
+    "name": "Gain Ground"
+  },
+  "34276": {
+    "parent": 34270,
+    "name": "Golden Axe"
+  },
+  "34277": {
+    "parent": 34270,
+    "name": "Shinobi 3"
+  },
+  "34278": {
+    "parent": 34270,
+    "name": "Sonic 3D Blast"
+  },
+  "34279": {
+    "parent": 34270,
+    "name": "Space Harrier II"
+  },
+  "34280": {
+    "parent": 34270,
+    "name": "Vectorman"
+  },
+  "34281": {
+    "parent": 34270,
+    "name": "Altered Beast"
+  },
+  "34282": {
+    "parent": 34270,
+    "name": "Shadow Dancer"
+  },
+  "34283": {
+    "parent": 34270,
+    "name": "Alex Kidd in the Enchanted Castle"
+  },
+  "34284": {
+    "parent": 34270,
+    "name": "Bonanza Bros"
+  },
+  "34285": {
+    "parent": 34270,
+    "name": "Columns"
+  },
+  "34286": {
+    "parent": 34270,
+    "name": "Dr. Robotnik's Mean Bean Machine"
+  },
+  "34287": {
+    "parent": 34270,
+    "name": "Ecco Jr."
+  },
+  "34288": {
+    "parent": 34270,
+    "name": "Eternal Champions"
+  },
+  "34289": {
+    "parent": 34270,
+    "name": "Fatal Labyrinth"
+  },
+  "34310": {
+    "parent": 34270,
+    "name": "Galaxy Force II"
+  },
+  "34311": {
+    "parent": 34270,
+    "name": "Kid Chameleon"
+  },
+  "34312": {
+    "parent": 34270,
+    "name": "Ristar"
+  },
+  "34313": {
+    "parent": 34270,
+    "name": "Sonic Spinball"
+  },
+  "34314": {
+    "parent": 34270,
+    "name": "Super Thunder Blade"
+  },
+  "34315": {
+    "parent": 34270,
+    "name": "Alien Storm"
+  },
+  "34316": {
+    "parent": 34270,
+    "name": "Bio-Hazard Battle"
+  },
+  "34317": {
+    "parent": 34270,
+    "name": "Columns III"
+  },
+  "34318": {
+    "parent": 34270,
+    "name": "Decap Attack"
+  },
+  "34319": {
+    "parent": 34270,
+    "name": "Ecco The Tides of Time"
+  },
+  "34342": {
+    "parent": 34330,
+    "name": "Total War: SHOGUN 2 - Sengoku Jidai Unit Pack DLC"
+  },
+  "34343": {
+    "parent": 34330,
+    "name": "Total War: SHOGUN 2 - Rise of the Samurai Campaign DLC"
+  },
+  "34344": {
+    "parent": 34330,
+    "name": "Total War: Shogun 2 - Unused DLC"
+  },
+  "34345": {
+    "parent": 34330,
+    "name": "Total War: SHOGUN 2 - Hattori Clan Pack DLC"
+  },
+  "34346": {
+    "parent": 34330,
+    "name": "Total War: SHOGUN 2 - Battle of Kawagoe"
+  },
+  "34347": {
+    "parent": 34330,
+    "name": "Total War: SHOGUN 2 - Currency Bonus DLC"
+  },
+  "34348": {
+    "parent": 34330,
+    "name": "Total War: SHOGUN 2 - Ikko Ikki Clan Pack DLC"
+  },
+  "34490": {
+    "parent": 8930,
+    "name": "Cradle of Civilization - Mediterranean (Mac)"
+  },
+  "34491": {
+    "parent": 8930,
+    "name": "Cradle of Civilization - Asia (Mac)"
+  },
+  "34492": {
+    "parent": 8930,
+    "name": "Cradle of Civilization - Americas (Mac)"
+  },
+  "34493": {
+    "parent": 8930,
+    "name": "Cradle of Civilization - Mesopotamia (Mac)"
+  },
+  "34494": {
+    "parent": 8930,
+    "name": "Civ V Digital Deluxe Content (Mac)"
+  },
+  "34495": {
+    "parent": 8930,
+    "name": "Civ and Scenario Pack - Mongols, Genghis Khan (Mac)"
+  },
+  "34496": {
+    "parent": 8930,
+    "name": "Civilization V: Explorer’s Map Pack Mac"
+  },
+  "34497": {
+    "parent": 8930,
+    "name": "Double Civ and Scenario Pack - Spain, Isabella and Inca, Pachacuti (Mac)"
+  },
+  "34498": {
+    "parent": 8930,
+    "name": "Civ Pack - Babylon Nebuchadnezzar II (Mac)"
+  },
+  "34610": {
+    "parent": 34600,
+    "name": "Order of War - Preorder Experience DLC"
+  },
+  "34611": {
+    "parent": 34600,
+    "name": "Order of War - Heavy Bomber squadrons DLC"
+  },
+  "34612": {
+    "parent": 34600,
+    "name": "Order of War - Infantry Mortar Launchers DLC"
+  },
+  "34613": {
+    "parent": 34600,
+    "name": "Order of War - Off-Map Heavy Artillery DLC"
+  },
+  "34614": {
+    "parent": 34600,
+    "name": "Order of War - Survival mission DLC"
+  },
+  "34615": {
+    "parent": 34600,
+    "name": "Order of War - Elite mission DLC"
+  },
+  "34616": {
+    "parent": 34600,
+    "name": "Order of War - Multiplayer DLC"
+  },
+  "34841": {
+    "parent": 34830,
+    "name": "Sniper: Ghost Warrior - Map Pack"
+  },
+  "34842": {
+    "parent": 34830,
+    "name": "Sniper: Ghost Warrior - Second Strike Pack"
+  },
+  "35080": {
+    "parent": 8190,
+    "name": "Just Cause 2: Bull's Eye Rifle DLC"
+  },
+  "35081": {
+    "parent": 8190,
+    "name": "Just Cause 2: Air Propulsion Gun DLC"
+  },
+  "35082": {
+    "parent": 8190,
+    "name": "Just Cause 2: Cluster Bomb Launcher DLC"
+  },
+  "35083": {
+    "parent": 8190,
+    "name": "Just Cause 2: Rico's Signature Gun DLC"
+  },
+  "35084": {
+    "parent": 8190,
+    "name": "Just Cause 2: Quad Rocket Launcher DLC"
+  },
+  "35085": {
+    "parent": 8190,
+    "name": "Just Cause 2: Multi-lock Missile Launcher DLC"
+  },
+  "35086": {
+    "parent": 8190,
+    "name": "Just Cause 2: Tuk Tuk Boom Boom DLC"
+  },
+  "35087": {
+    "parent": 8190,
+    "name": "Just Cause 2: Chevalier Ice Breaker DLC"
+  },
+  "35088": {
+    "parent": 8190,
+    "name": "Just Cause 2: F-33 DragonFly Jet Fighter DLC"
+  },
+  "35089": {
+    "parent": 8190,
+    "name": "Just Cause 2: Chevalier Classic DLC"
+  },
+  "35090": {
+    "parent": 8190,
+    "name": "Just Cause 2: Agency Hovercraft DLC"
+  },
+  "35091": {
+    "parent": 8190,
+    "name": "Just Cause 2: Monster Truck DLC"
+  },
+  "35092": {
+    "parent": 8190,
+    "name": "Just Cause 2: Dual Parachute Thrusters DLC"
+  },
+  "35093": {
+    "parent": 8190,
+    "name": "Just Cause 2: Dare Devil Parachute DLC"
+  },
+  "35094": {
+    "parent": 8190,
+    "name": "Just Cause 2: Chaos Parachute DLC"
+  },
+  "35095": {
+    "parent": 8190,
+    "name": "Just Cause 2: Camo Parachute DLC"
+  },
+  "35096": {
+    "parent": 8190,
+    "name": "Just Cause 2: Tiger Parachute DLC"
+  },
+  "35097": {
+    "parent": 8190,
+    "name": "Just Cause 2: Scorpion Parachute DLC"
+  },
+  "35098": {
+    "parent": 8190,
+    "name": "Just Cause 2: Firestorm Parachute DLC"
+  },
+  "35099": {
+    "parent": 8190,
+    "name": "Just Cause 2: Rico's Standard Parachute DLC"
+  },
+  "35100": {
+    "parent": 8190,
+    "name": "Just Cause 2: Black Market Chaos Pack DLC"
+  },
+  "35101": {
+    "parent": 8190,
+    "name": "Just Cause 2: Black Market Aerial Pack DLC"
+  },
+  "35102": {
+    "parent": 8190,
+    "name": "Just Cause 2: Black Market Boom Pack DLC"
+  },
+  "35103": {
+    "parent": 8190,
+    "name": "Just Cause 2: Ricos Signature Gun and Monster Truck Pack DLC"
+  },
+  "35134": {
+    "parent": 35130,
+    "name": "LCGOL CostumePack1"
+  },
+  "35135": {
+    "parent": 35130,
+    "name": "Lara Croft GoL: Raziel and Kain Character Pack"
+  },
+  "35136": {
+    "parent": 35130,
+    "name": "Lara Croft GoL: All the Trappings - Challenge Pack 1"
+  },
+  "35137": {
+    "parent": 35130,
+    "name": "Lara Croft GoL: Things that Go Boom - Challenge Pack 2"
+  },
+  "35138": {
+    "parent": 35130,
+    "name": "Lara Croft GoL: Hazardous Reunion - Challenge Pack 3"
+  },
+  "35417": {
+    "parent": 1250,
+    "name": "Killing Floor - PostMortem Character Pack"
+  },
+  "35418": {
+    "parent": 1250,
+    "name": "Killing Floor - The Ball Character"
+  },
+  "35419": {
+    "parent": 1250,
+    "name": "Killing Floor - London's Finest DLC Character pack"
+  },
+  "35425": {
+    "parent": 1250,
+    "name": "Killing Floor - Steampunk Character Pack"
+  },
+  "35426": {
+    "parent": 1250,
+    "name": "Killing Floor - RO2 Digital Deluxe DLC"
+  },
+  "35427": {
+    "parent": 35450,
+    "name": "Red Orchestra 2 - Digital Deluxe DLC"
+  },
+  "35429": {
+    "parent": 1250,
+    "name": "Killing Floor - Steampunk Character Pack 2"
+  },
+  "35485": {
+    "parent": 35480,
+    "name": "Dwarfs DLC"
+  },
+  "35723": {
+    "parent": 35720,
+    "name": "Trine 2 Collectors"
+  },
+  "35725": {
+    "parent": 35720,
+    "name": "Goblin Menace DLC"
+  },
+  "36632": {
+    "parent": 36630,
+    "name": "Rusty Hearts Meilin Starter Pack"
+  },
+  "36633": {
+    "parent": 36630,
+    "name": "Rusty Hearts Roselle Starter Pack"
+  },
+  "38185": {
+    "parent": 34030,
+    "name": "Napoleon: Total War- Imperial Eagle Pack"
+  },
+  "38743": {
+    "parent": 38740,
+    "name": "Cube PDF"
+  },
+  "38920": {
+    "parent": 38900,
+    "name": "Mesh Visualizer"
+  },
+  "38921": {
+    "parent": 38900,
+    "name": "Revolution Visualizer"
+  },
+  "38922": {
+    "parent": 38900,
+    "name": "Underwater Visualizer"
+  },
+  "38923": {
+    "parent": 38900,
+    "name": "Tornado Visualizer"
+  },
+  "38924": {
+    "parent": 38900,
+    "name": "DJ Table Visualizer"
+  },
+  "38925": {
+    "parent": 38900,
+    "name": "Rhythm Zone Visualizer Pack 6"
+  },
+  "38926": {
+    "parent": 38900,
+    "name": "Rhythm Zone Visualizer Pack 7"
+  },
+  "38927": {
+    "parent": 38900,
+    "name": "Rhythm Zone Visualizer Pack 8"
+  },
+  "39122": {
+    "parent": 39120,
+    "name": "RIFT - Standard Edition CD Key"
+  },
+  "39123": {
+    "parent": 39120,
+    "name": "RIFT - Collector's Edition CD Key"
+  },
+  "39124": {
+    "parent": 39120,
+    "name": "RIFT - Standard Edition CD Key (Prepurchase)"
+  },
+  "39125": {
+    "parent": 39120,
+    "name": "RIFT - Collector's Edition CD Key (Prepurchase)"
+  },
+  "39126": {
+    "parent": 39120,
+    "name": "Seven Days of RIFT - Key"
+  },
+  "39127": {
+    "parent": 39120,
+    "name": "RIFT: Ascended Gift Pack"
+  },
+  "39128": {
+    "parent": 39120,
+    "name": "RIFT - Ashes of History Edition CD Key"
+  },
+  "39129": {
+    "parent": 39120,
+    "name": "RIFT - C-Cap Tactical Shell CD Key"
+  },
+  "39180": {
+    "parent": 39160,
+    "name": "Dungeon Siege III Burning Band of Scorch DLC"
+  },
+  "39181": {
+    "parent": 39160,
+    "name": "Dungeon Siege III Talisman of the Grand Mage DLC"
+  },
+  "39182": {
+    "parent": 39160,
+    "name": "Dungeon Siege III Sacred Heart of the Legion DLC"
+  },
+  "39183": {
+    "parent": 39160,
+    "name": "Dungeon Siege III Bite of Arakun DLC"
+  },
+  "39184": {
+    "parent": 39160,
+    "name": "Dungeon Siege III Annulus of Force DLC"
+  },
+  "39185": {
+    "parent": 39160,
+    "name": "Dungeon Siege III Medallion of St. Elys DLC"
+  },
+  "39251": {
+    "parent": 39250,
+    "name": "FINAL FANTASY XI: UC Abyssea Edition - Destrier Beret Key"
+  },
+  "39261": {
+    "parent": 39260,
+    "name": "FINAL FANTASY XI: Ultimate Collection Abyssea Edition - Destrier Beret Key"
+  },
+  "39270": {
+    "parent": 39160,
+    "name": "Dungeon Siege III: Treasures of the Sun"
+  },
+  "40002": {
+    "parent": 40000,
+    "name": "Fallen Earth - Special Item Code"
+  },
+  "40003": {
+    "parent": 40000,
+    "name": "Fallen Earth - Faction T-Shirt"
+  },
+  "40004": {
+    "parent": 40000,
+    "name": "Fallen Earth - CleanerGun Promo"
+  },
+  "40005": {
+    "parent": 40000,
+    "name": "Fallen Earth - CleanerGun Ammo Promo"
+  },
+  "40006": {
+    "parent": 40000,
+    "name": "Fallen Earth F2P Trash the Hermit Crab Code"
+  },
+  "40125": {
+    "parent": 40100,
+    "name": "Supreme Commander 2 - Infinite War Battle Pack 1 Mac"
+  },
+  "40130": {
+    "parent": 40100,
+    "name": "Supreme Commander 2 - Emerald Crater Map"
+  },
+  "40131": {
+    "parent": 40100,
+    "name": "Supreme Commander 2 - QAI Prototype Facility Map"
+  },
+  "40132": {
+    "parent": 40100,
+    "name": "Supreme Commander 2 - Weddell Isle Map"
+  },
+  "40133": {
+    "parent": 40100,
+    "name": "Supreme Commander 2 - Iskellian Coast Map"
+  },
+  "40134": {
+    "parent": 40100,
+    "name": "Supreme Commander 2 - Seraphim VII Site Map"
+  },
+  "40135": {
+    "parent": 40100,
+    "name": "Supreme Commander 2 - Infinite War Battle Pack One"
+  },
+  "40136": {
+    "parent": 40100,
+    "name": "Supreme Commander 2 - Infinite War Tournament Maps"
+  },
+  "40230": {
+    "parent": 40100,
+    "name": "SC2 Infinite War Mac DLC"
+  },
+  "40391": {
+    "parent": 40390,
+    "name": "Risen 2 - Pirate's Clothes"
+  },
+  "40392": {
+    "parent": 40390,
+    "name": "Risen 2 - Treasure Isle"
+  },
+  "40393": {
+    "parent": 40390,
+    "name": "Risen 2 - Air Temple"
+  },
+  "40403": {
+    "parent": 40400,
+    "name": "AI War: The Zenith Remnant"
+  },
+  "40406": {
+    "parent": 40400,
+    "name": "AI War: Children of Neinzul"
+  },
+  "40407": {
+    "parent": 40400,
+    "name": "AI War: Light of the Spire"
+  },
+  "40408": {
+    "parent": 40400,
+    "name": "AI War: Ancient Shadows"
+  },
+  "40940": {
+    "parent": 8980,
+    "name": "Borderlands DLC: Mad Moxxi's Underdome Riot"
+  },
+  "41014": {
+    "parent": 41010,
+    "name": "Second Edition Full Game"
+  },
+  "41017": {
+    "parent": 41010,
+    "name": "Steam Pre-order DLC"
+  },
+  "41018": {
+    "parent": 41010,
+    "name": "Retail Exclusive DLC"
+  },
+  "41019": {
+    "parent": 41010,
+    "name": "Serious Sam HD: The Second Encounter - Legend of the Beast DLC"
+  },
+  "41045": {
+    "parent": 41010,
+    "name": "Fusion DLC"
+  },
+  "41046": {
+    "parent": 41010,
+    "name": "Serious Sam HD: The Second Encounter Player Models"
+  },
+  "41073": {
+    "parent": 41070,
+    "name": "DLC_Preview"
+  },
+  "41074": {
+    "parent": 41070,
+    "name": "Serious Sam 3: Jewel of the Nile"
+  },
+  "41802": {
+    "parent": 41800,
+    "name": "Gratuitous Space Battles: Tribe Expansion"
+  },
+  "41803": {
+    "parent": 41800,
+    "name": "Gratuitous Space Battles: The Order Expansion"
+  },
+  "41804": {
+    "parent": 41800,
+    "name": "Gratuitous Space Battles: Swarm"
+  },
+  "41805": {
+    "parent": 41800,
+    "name": "Gratuitous Space Battles: Nomads"
+  },
+  "41807": {
+    "parent": 41800,
+    "name": "GSB: Tribe Expansion Mac"
+  },
+  "41808": {
+    "parent": 41800,
+    "name": "GSB: Order Expansion Mac"
+  },
+  "41809": {
+    "parent": 41800,
+    "name": "GSB: Nomads Expansion Mac"
+  },
+  "41813": {
+    "parent": 41800,
+    "name": "GSB: Swarm Expansion Mac"
+  },
+  "41814": {
+    "parent": 41800,
+    "name": "Gratuitous Space Battles: Galactic Conquest"
+  },
+  "41815": {
+    "parent": 41800,
+    "name": "GSB: Galactic Conquest Mac"
+  },
+  "41816": {
+    "parent": 41800,
+    "name": "Gratuitous Space Battles - Parasites DLC"
+  },
+  "41817": {
+    "parent": 41800,
+    "name": "Gratuitous Space Battles: The Outcasts"
+  },
+  "42110": {
+    "parent": 42100,
+    "name": "ValveTestApp42110"
+  },
+  "42129": {
+    "parent": 42120,
+    "name": "Lead and Gold: Gangs of the Wild West - Forum Registration Key"
+  },
+  "42147": {
+    "parent": 42140,
+    "name": "Hamilton's Great Adventure - Retro Fever DLC"
+  },
+  "42180": {
+    "parent": 42140,
+    "name": "Hamilton's Great Adventure - DLC1"
+  },
+  "42520": {
+    "parent": 42500,
+    "name": "ValveTestApp42520"
+  },
+  "42521": {
+    "parent": 42500,
+    "name": "ValveTestApp42521"
+  },
+  "42695": {
+    "parent": 42690,
+    "name": "Call of Duty®: Modern Warfare® 3 (2011) - Collection 1"
+  },
+  "42696": {
+    "parent": 42690,
+    "name": "Call of Duty®: Modern Warfare® 3 (2011) - DLC2"
+  },
+  "42697": {
+    "parent": 42690,
+    "name": "Call of Duty®: Modern Warfare® 3 (2011) - DLC3"
+  },
+  "42698": {
+    "parent": 42690,
+    "name": "Call of Duty®: Modern Warfare® 3 (2011) Collection 4: Final Assault"
+  },
+  "42715": {
+    "parent": 42710,
+    "name": "Call of Duty: Black Ops - First Strike MP DLC"
+  },
+  "42716": {
+    "parent": 42700,
+    "name": "Call of Duty: Black Ops - First Strike DLC"
+  },
+  "42717": {
+    "parent": 42710,
+    "name": "Call of Duty: Black Ops - Escalation DLC"
+  },
+  "42718": {
+    "parent": 42700,
+    "name": "Call of Duty: Black Ops - Escalation SP DLC"
+  },
+  "42719": {
+    "parent": 42700,
+    "name": "Call of Duty: Black Ops Rezurrection DLC"
+  },
+  "42722": {
+    "parent": 42710,
+    "name": "Call of Duty: Black Ops - Annihilation DLC"
+  },
+  "42723": {
+    "parent": 42700,
+    "name": "Call of Duty: Black Ops - Annihilation SP DLC"
+  },
+  "42729": {
+    "parent": 42680,
+    "name": "Call of Duty: Modern Warfare Collection #1 (Preorder) DLC"
+  },
+  "42800": {
+    "parent": 25930,
+    "name": "East India Company: Privateer"
+  },
+  "42820": {
+    "parent": 25930,
+    "name": "East India Company: Battle of Trafalgar"
+  },
+  "42840": {
+    "parent": 25980,
+    "name": "Majesty 2 - Spell: Song of Pain"
+  },
+  "42841": {
+    "parent": 25980,
+    "name": "Majesty 2 - Spell: Incantation of Fragility"
+  },
+  "42842": {
+    "parent": 25980,
+    "name": "Majesty 2 - Mission: Nightmare Of The King"
+  },
+  "42843": {
+    "parent": 25980,
+    "name": "Majesty 2 - Mission: Hunt for the donkey"
+  },
+  "42844": {
+    "parent": 25980,
+    "name": "Majesty 2 - Temple to Lunord"
+  },
+  "42845": {
+    "parent": 25980,
+    "name": "Majesty 2 - Castle of the King"
+  },
+  "42846": {
+    "parent": 25980,
+    "name": "Majesty 2 - Evil Texture Pack"
+  },
+  "42847": {
+    "parent": 25980,
+    "name": "Majesty 2 - Graffiti Texture Pack"
+  },
+  "42848": {
+    "parent": 25980,
+    "name": "Majesty 2 - Hero Action Pack"
+  },
+  "42849": {
+    "parent": 25980,
+    "name": "Majesty 2 - 5th Generation Pack"
+  },
+  "42860": {
+    "parent": 25980,
+    "name": "Majesty 2 - Mystic Missions Pack"
+  },
+  "42881": {
+    "parent": 25980,
+    "name": "Majesty 2 - Kingmaker"
+  },
+  "42895": {
+    "parent": 42890,
+    "name": "Sword of the Stars Soundtrack"
+  },
+  "42900": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: Semper Fi Expansion"
+  },
+  "42901": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: Semper Fi Secret Weapons of WWII DLC"
+  },
+  "42902": {
+    "parent": 25890,
+    "name": "Hearts of Iron III Semper Fi: Dies Irae Gotterdammerung"
+  },
+  "42903": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: For the Motherland"
+  },
+  "42904": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: Mega German Sprite Pack"
+  },
+  "42905": {
+    "parent": 25890,
+    "name": "Hearts of Iron III: Stars and Stripes"
+  },
+  "42914": {
+    "parent": 42910,
+    "name": "Magicka: Forum Registration Key"
+  },
+  "42916": {
+    "parent": 42910,
+    "name": "Magicka DLC 3"
+  },
+  "42917": {
+    "parent": 42910,
+    "name": "Magicka: Mea Culpa DLC"
+  },
+  "42918": {
+    "parent": 42910,
+    "name": "Magicka: Vietnam"
+  },
+  "42919": {
+    "parent": 42910,
+    "name": "Magicka DLC 2"
+  },
+  "42925": {
+    "parent": 42920,
+    "name": "The Kings' Crusade: New Allies"
+  },
+  "42926": {
+    "parent": 42920,
+    "name": "The Kings' Crusade: Arabian Nights"
+  },
+  "42929": {
+    "parent": 42920,
+    "name": "The Kings' Crusade: Teutonic Knights DLC"
+  },
+  "42964": {
+    "parent": 42960,
+    "name": "Victoria II Interwar Sprite Pack"
+  },
+  "42965": {
+    "parent": 42960,
+    "name": "Victoria II: Interwar Artillery Sprite Pack"
+  },
+  "42966": {
+    "parent": 42960,
+    "name": "Victoria II: Interwar Planes Sprite Pack"
+  },
+  "42967": {
+    "parent": 42960,
+    "name": "Victoria II: Old Victoria DLC"
+  },
+  "42968": {
+    "parent": 42960,
+    "name": "Victoria II - A House Divided"
+  },
+  "43005": {
+    "parent": 43000,
+    "name": "Front Mission Evolved - Map Pack 1"
+  },
+  "43006": {
+    "parent": 43000,
+    "name": "Front Mission Evolved - Last Stand Mode"
+  },
+  "43011": {
+    "parent": 43000,
+    "name": "Front Mission Evolved - Wanzer Pack 2"
+  },
+  "43012": {
+    "parent": 43000,
+    "name": "Front Mission Evolved - Weapon Pack 1"
+  },
+  "43013": {
+    "parent": 43000,
+    "name": "Front Mission Evolved - Weapon Pack 2"
+  },
+  "43014": {
+    "parent": 43000,
+    "name": "Front Mission Evolved - Wanzer Pack 3"
+  },
+  "43015": {
+    "parent": 43000,
+    "name": "Front Mission Evolved Wanzer DLC 1"
+  },
+  "43016": {
+    "parent": 43000,
+    "name": "Front Mission Evolved Petals"
+  },
+  "43120": {
+    "parent": 43110,
+    "name": "Metro 2033 Gun Unlock"
+  },
+  "43130": {
+    "parent": 43110,
+    "name": "Metro 2033 Ranger Pack"
+  },
+  "43140": {
+    "parent": 43110,
+    "name": "Metro 2033 JP DLC 1"
+  },
+  "43163": {
+    "parent": 43160,
+    "name": "Metro: Last Light - Novel"
+  },
+  "45302": {
+    "parent": 45300,
+    "name": "Wings of Luftwaffe"
+  },
+  "45772": {
+    "parent": 45770,
+    "name": "Dead Rising 2: Off the Record Gamebreaker Skills Pack"
+  },
+  "45773": {
+    "parent": 45770,
+    "name": "Dead Rising 2: Off the Record BBQ Chef Skills Pack"
+  },
+  "45774": {
+    "parent": 45770,
+    "name": "Dead Rising 2: Off the Record COSPLAY Skills Pack"
+  },
+  "45775": {
+    "parent": 45770,
+    "name": "Dead Rising 2: Off the Record Cyborg Skills Pack"
+  },
+  "45776": {
+    "parent": 45770,
+    "name": "Dead Rising 2: Off the Record Firefighter Skills Pack"
+  },
+  "45777": {
+    "parent": 45770,
+    "name": "ValveTestApp45777"
+  },
+  "45778": {
+    "parent": 45770,
+    "name": "ValveTestApp45778"
+  },
+  "45790": {
+    "parent": 45760,
+    "name": "USFIV: Complete Brawler Pack (2011)"
+  },
+  "45791": {
+    "parent": 45760,
+    "name": "USFIV: Complete Femme Fatale Pack (2011)"
+  },
+  "45792": {
+    "parent": 45760,
+    "name": "USFIV: Complete Shadoloo Pack (2011)"
+  },
+  "45793": {
+    "parent": 45760,
+    "name": "USFIV: Complete Shoryuken Pack (2011)"
+  },
+  "45794": {
+    "parent": 45760,
+    "name": "USFIV: Complete Classic Pack (2011)"
+  },
+  "45795": {
+    "parent": 45760,
+    "name": "USFIV: Complete Challengers 1 Pack (2011)"
+  },
+  "45796": {
+    "parent": 45760,
+    "name": "USFIV: Complete Challengers 2 Pack (2011)"
+  },
+  "45797": {
+    "parent": 45760,
+    "name": "USFIV: Arcade Challengers Pack (2011)"
+  },
+  "45798": {
+    "parent": 45760,
+    "name": "USFIV: All-in 2011 Costume Pack"
+  },
+  "46342": {
+    "parent": 46340,
+    "name": "Theatre of War 2: Centauro"
+  },
+  "46362": {
+    "parent": 46360,
+    "name": "Theatre of War 2: Battle for Caen"
+  },
+  "46523": {
+    "parent": 46520,
+    "name": "Wasteland Angels DLC"
+  },
+  "46792": {
+    "parent": 46790,
+    "name": "Armada: Super Nova"
+  },
+  "47420": {
+    "parent": 47400,
+    "name": "Stronghold 3 Warwick Statue Banner DLC"
+  },
+  "47421": {
+    "parent": 47400,
+    "name": "Stronghold 3 Marksburg Statue Banner DLC"
+  },
+  "47422": {
+    "parent": 47400,
+    "name": "Stronghold 3 Tower of London DLC"
+  },
+  "47423": {
+    "parent": 47400,
+    "name": "Stronghold 3 Edinburgh DLC"
+  },
+  "47424": {
+    "parent": 47400,
+    "name": "Stronghold 3 Harlech DLC"
+  },
+  "47426": {
+    "parent": 47400,
+    "name": "Stronghold 3 Blackstaff Campaign"
+  },
+  "47720": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Digital Deluxe Game Key - Preorder"
+  },
+  "47721": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Game Key - Preorder"
+  },
+  "47722": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Digital Deluxe Game Key"
+  },
+  "47723": {
+    "parent": 24980,
+    "name": "Mass Effect 2: Game Key"
+  },
+  "47749": {
+    "parent": 17450,
+    "name": "Dragon Age: Origins - The Awakening DLC (Preorder)"
+  },
+  "47815": {
+    "parent": 47810,
+    "name": "Dragon Age: Origins - Ultimate Edition DLC CD Key"
+  },
+  "47842": {
+    "parent": 47790,
+    "name": "Medal of Honor Limited Edition Key"
+  },
+  "47843": {
+    "parent": 47790,
+    "name": "Medal of Honor Standard Edition Key"
+  },
+  "47844": {
+    "parent": 47790,
+    "name": "Battlefield 3 Open Beta Early Access"
+  },
+  "47880": {
+    "parent": 24960,
+    "name": "Battlefield: Bad Company 2 Vietnam"
+  },
+  "47892": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 World Adventures"
+  },
+  "47893": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 Ambitions"
+  },
+  "47894": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 Late Night"
+  },
+  "47895": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 High-End Loft Stuff"
+  },
+  "47896": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 Fast Lane Stuff"
+  },
+  "47897": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 Outdoor Living Stuff"
+  },
+  "47898": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 Generations"
+  },
+  "47899": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 Town Life Stuff"
+  },
+  "47911": {
+    "parent": 47900,
+    "name": "Dragon Age II - Entitlement Key"
+  },
+  "47912": {
+    "parent": 47900,
+    "name": "Dragon Age II - Preorder Entitlement Key"
+  },
+  "47930": {
+    "parent": 47890,
+    "name": "The Sims™ 3 Pets"
+  },
+  "47931": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 Master Suite Stuff"
+  },
+  "47932": {
+    "parent": 47890,
+    "name": "The Sims(TM) 3 Showtime"
+  },
+  "47933": {
+    "parent": 47890,
+    "name": "Sims 3 Showtime Standard Key"
+  },
+  "47934": {
+    "parent": 47890,
+    "name": "Sims 3 Showtime Collectors Key"
+  },
+  "47935": {
+    "parent": 47890,
+    "name": "Sims 3 Showtime Venue Key"
+  },
+  "47936": {
+    "parent": 47890,
+    "name": "The Sims 3 - Showtime Katy Perry Collectors Edition"
+  },
+  "48124": {
+    "parent": 48120,
+    "name": "the settlers 7 soundtrack"
+  },
+  "48127": {
+    "parent": 48120,
+    "name": "The Settlers 7 - CD Key"
+  },
+  "48128": {
+    "parent": 48120,
+    "name": "The Settlers 7 - Gold CD Key"
+  },
+  "48131": {
+    "parent": 48120,
+    "name": "The Settlers 7 - CD Key"
+  },
+  "48132": {
+    "parent": 48120,
+    "name": "The Settlers 7 - Gold CD Key"
+  },
+  "48136": {
+    "parent": 48120,
+    "name": "Settlers 7 - Uncharted Land"
+  },
+  "48137": {
+    "parent": 48120,
+    "name": "Settlers 7 - Conquest: The Empire Expansion"
+  },
+  "48138": {
+    "parent": 48120,
+    "name": "Settlers 7 - Downloadable Content Pack 3"
+  },
+  "48140": {
+    "parent": 48120,
+    "name": "The Settlers 7: Paths to a Kingdom The Two Kings DLC #4"
+  },
+  "48165": {
+    "parent": 48160,
+    "name": "Tom Clancy's H.A.W.X. 2 - Standard CD Key"
+  },
+  "48166": {
+    "parent": 48160,
+    "name": "Tom Clancy's H.A.W.X. 2 - Deluxe CD Key"
+  },
+  "48167": {
+    "parent": 48160,
+    "name": "Tom Clancy's H.A.W.X. 2 - Open Skies DLC"
+  },
+  "48173": {
+    "parent": 33230,
+    "name": "Assassin's Creed II - Unlockable Content Key"
+  },
+  "48185": {
+    "parent": 48180,
+    "name": "Tom Clancy's H.A.W.X. 2 - Standard CD Key"
+  },
+  "48186": {
+    "parent": 48180,
+    "name": "Tom Clancy's H.A.W.X. 2 - Deluxe CD Key"
+  },
+  "48187": {
+    "parent": 48180,
+    "name": "Tom Clancy's H.A.W.X. 2 - Open Skies DLC"
+  },
+  "48195": {
+    "parent": 48190,
+    "name": "Assassin's Creed Brotherhood - Standard CD Key"
+  },
+  "48196": {
+    "parent": 48190,
+    "name": "Assassin's Creed Brotherhood - Deluxe CD Key"
+  },
+  "48197": {
+    "parent": 48190,
+    "name": "Assassin's Creed Brotherhood - Standard CD Key Mac"
+  },
+  "48198": {
+    "parent": 48190,
+    "name": "Assassin's Creed Brotherhood - Deluxe CD Key Mac"
+  },
+  "48218": {
+    "parent": 48210,
+    "name": "The Settlers 7: Paths to a Kingdom - Deluxe Gold Edition NCSA Key"
+  },
+  "48219": {
+    "parent": 48210,
+    "name": "The Settlers 7: Paths to a Kingdom - Deluxe Gold Edition EMEA Key"
+  },
+  "48224": {
+    "parent": 48220,
+    "name": "Might and Magic Heroes VI - Deluxe Preorder Key"
+  },
+  "48225": {
+    "parent": 48220,
+    "name": "Might and Magic Heroes VI - Standard Preorder Key"
+  },
+  "48226": {
+    "parent": 48220,
+    "name": "Might and Magic Heroes VI - Deluxe Key"
+  },
+  "48227": {
+    "parent": 48220,
+    "name": "Might and Magic Heroes VI - Standard Key"
+  },
+  "48228": {
+    "parent": 48220,
+    "name": "Might and Magic Heroes Kingdoms Key"
+  },
+  "48229": {
+    "parent": 48220,
+    "name": "Might & Magic: Heroes VI - DLC1 Key"
+  },
+  "48231": {
+    "parent": 48220,
+    "name": "Might & Magic: Heroes VI - Pirates of the Savage Sea Adventure Pack"
+  },
+  "48232": {
+    "parent": 48220,
+    "name": "Might & Magic: Heroes VI - Danse Macabre Adventure Pack"
+  },
+  "48233": {
+    "parent": 48220,
+    "name": "Might & Magic: Heroes VI - Gold"
+  },
+  "48234": {
+    "parent": 48220,
+    "name": "Might & Magic: Heroes VI - Complete Edition Key"
+  },
+  "48258": {
+    "parent": 48240,
+    "name": "Anno 2070 - Standard Key"
+  },
+  "48259": {
+    "parent": 48240,
+    "name": "Anno 2070 - Deluxe Key"
+  },
+  "48705": {
+    "parent": 48700,
+    "name": "Mount & Blade: Warband - Napoleonic Wars"
+  },
+  "48802": {
+    "parent": 48800,
+    "name": "Ship Simulator Extremes Sigita Pack DLC"
+  },
+  "48803": {
+    "parent": 48800,
+    "name": "Ship Simulator Extremes Ferry DLC"
+  },
+  "48804": {
+    "parent": 48800,
+    "name": "Ship Simulator Extremes DLC CCC Winner Cargo Vessel"
+  },
+  "48805": {
+    "parent": 48800,
+    "name": "Ship Simulator Extremes DLC DenizDoga Offshore Vessel"
+  },
+  "48806": {
+    "parent": 48800,
+    "name": "Ship Simulator Extremes DLC CCC Oceana"
+  },
+  "48830": {
+    "parent": 48800,
+    "name": "Ship Sim Extremes Harbor Pilot DLC"
+  },
+  "49310": {
+    "parent": 49300,
+    "name": "Commander COTA DLC - Colonial Navy"
+  },
+  "49311": {
+    "parent": 49300,
+    "name": "Commander: Conquest of the Americas - Pirate Treasure Chest"
+  },
+  "49312": {
+    "parent": 49300,
+    "name": "Commander Conquest of the Americas - DLC3"
+  },
+  "49313": {
+    "parent": 49300,
+    "name": "Commander Conquest of the Americas - DLC4"
+  },
+  "49314": {
+    "parent": 49300,
+    "name": "Commander Conquest of the Americas - DLC5"
+  },
+  "49315": {
+    "parent": 49300,
+    "name": "Commander Conquest of the Americas - DLC6"
+  },
+  "49337": {
+    "parent": 49330,
+    "name": "Pirates of the Black Cove DLC_01"
+  },
+  "49402": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - DotP Expansion Pack 1"
+  },
+  "49403": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - DotP Expansion Pack 2"
+  },
+  "49404": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - DotP Expansion Pack 3"
+  },
+  "49406": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Persona Pack"
+  },
+  "49407": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Frontend Skins Pack 1"
+  },
+  "49408": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers In Duel Playfields Pack 1"
+  },
+  "49409": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Teeth of the Predator Unlock"
+  },
+  "49410": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Hands of Flame Unlock"
+  },
+  "49411": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Wings of Light Unlock"
+  },
+  "49412": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Eyes of Shadow Unlock"
+  },
+  "49413": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Ears of the Elves Unlock"
+  },
+  "49414": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Claws of Vengeance Unlock"
+  },
+  "49415": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Scales of Fury Unlock"
+  },
+  "49416": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Thoughts of Wind Unlock"
+  },
+  "49417": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Mind of Void Unlock"
+  },
+  "49418": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Cries of Rage Unlock"
+  },
+  "49419": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Relics of Doom Unlock"
+  },
+  "49421": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Heat of the Battle Unlock"
+  },
+  "49422": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Eons of Evil Unlock"
+  },
+  "49423": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Heart of Worlds Unlock"
+  },
+  "49424": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Weapons of the Warrior Unlock"
+  },
+  "49425": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Root of the Firemind Unlock"
+  },
+  "49426": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Master of Shadows Unlock"
+  },
+  "49427": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Teeth of the Predator Foil DLC"
+  },
+  "49428": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Hands of Flame Foil DLC"
+  },
+  "49429": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Wings of Light Foil DLC"
+  },
+  "49430": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Eyes of Shadow Foil DLC"
+  },
+  "49431": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Ears of the Elves Foil DLC"
+  },
+  "49432": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Claws of Vengeance Foil DLC"
+  },
+  "49433": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Scales of Fury Foil DLC"
+  },
+  "49434": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Thoughts of Wind Foil DLC"
+  },
+  "49435": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Mind of Void Foil DLC"
+  },
+  "49436": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Cries of Rage Foil DLC"
+  },
+  "49437": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Relics of Doom Foil DLC"
+  },
+  "49438": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Heat of the Battle Foil DLC"
+  },
+  "49439": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Eons of Evil Foil DLC"
+  },
+  "49440": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Heart of Worlds Foil DLC"
+  },
+  "49441": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Weapons of the Warrior Foil DLC"
+  },
+  "49442": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Root of the Firemind Foil DLC"
+  },
+  "49443": {
+    "parent": 49400,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers Master of Shadows Foil DLC"
+  },
+  "49473": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalker 2012: Expansion"
+  },
+  "49474": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalker 2012: Deck Pack 1"
+  },
+  "49475": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalker 2012: Deck Pack 2"
+  },
+  "49476": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalker 2012: Deck Pack 3"
+  },
+  "49477": {
+    "parent": 49470,
+    "name": "Humanoids Persona Pack"
+  },
+  "49478": {
+    "parent": 49470,
+    "name": "ValveTestApp49478"
+  },
+  "49479": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalker 2012 Persona Pack: Dragons"
+  },
+  "49490": {
+    "parent": 49470,
+    "name": "Ghoulkeeper Unlock"
+  },
+  "49491": {
+    "parent": 49470,
+    "name": "Ghoulkeeper Foil"
+  },
+  "49492": {
+    "parent": 49470,
+    "name": "Dark_Heavens_Unlock"
+  },
+  "49493": {
+    "parent": 49470,
+    "name": "Dark_Heavens_Foil"
+  },
+  "49494": {
+    "parent": 49470,
+    "name": "Forests Fury Unlock"
+  },
+  "49495": {
+    "parent": 49470,
+    "name": "Forests Fury Foil"
+  },
+  "49496": {
+    "parent": 49470,
+    "name": "Beknighted_Unlock"
+  },
+  "49497": {
+    "parent": 49470,
+    "name": "Beknighted_Foil"
+  },
+  "49498": {
+    "parent": 49470,
+    "name": "Trinity_of_Elements_Unlock"
+  },
+  "49499": {
+    "parent": 49470,
+    "name": "Trinity_of_Elements_Foil"
+  },
+  "49603": {
+    "parent": 49600,
+    "name": "Beat Hazard - iTunes unlock"
+  },
+  "49604": {
+    "parent": 49600,
+    "name": "Beat Hazard - Ultra"
+  },
+  "49605": {
+    "parent": 49600,
+    "name": "Beat Hazard: Golden Ship"
+  },
+  "50110": {
+    "parent": 8980,
+    "name": "Borderlands DLC: The Secret Armory of General Knoxx"
+  },
+  "50140": {
+    "parent": 50130,
+    "name": "Mafia II - Made Man DLC"
+  },
+  "50141": {
+    "parent": 50130,
+    "name": "Mafia II - Renegade DLC"
+  },
+  "50142": {
+    "parent": 50130,
+    "name": "Mafia II - Vegas DLC"
+  },
+  "50143": {
+    "parent": 50130,
+    "name": "Mafia II - Greaser DLC"
+  },
+  "50144": {
+    "parent": 50130,
+    "name": "Mafia II - War Hero DLC"
+  },
+  "50145": {
+    "parent": 50130,
+    "name": "Mafia II - Jimmy's Vendetta DLC"
+  },
+  "50146": {
+    "parent": 50130,
+    "name": "Mafia II - The Betrayal of Jimmy DLC"
+  },
+  "50147": {
+    "parent": 50130,
+    "name": "Mafia II - Joe's Adventures DLC"
+  },
+  "50203": {
+    "parent": 50190,
+    "name": "QA1_0000010_cnt_made_man"
+  },
+  "50204": {
+    "parent": 50190,
+    "name": "QA1_0000020_cnt_rebel_without_a_cause"
+  },
+  "50205": {
+    "parent": 50190,
+    "name": "QA1_0000030_cnt_vegas_baby"
+  },
+  "50206": {
+    "parent": 50190,
+    "name": "QA1_0000050_cnt_rags_to_riches"
+  },
+  "50207": {
+    "parent": 50190,
+    "name": "QA1_0000060_cnt_joes_adventures"
+  },
+  "50208": {
+    "parent": 50190,
+    "name": "QA1_0000070_cnt_greaser"
+  },
+  "50209": {
+    "parent": 50190,
+    "name": "QA1_0000080_cnt_war_hero"
+  },
+  "50210": {
+    "parent": 50190,
+    "name": "Mafia II - Exclusive Review"
+  },
+  "50212": {
+    "parent": 50190,
+    "name": "TEAM1 - External QA DLC #8"
+  },
+  "50213": {
+    "parent": 50220,
+    "name": "QA2_00000a0_cnt_rags_to_riches2"
+  },
+  "50214": {
+    "parent": 50240,
+    "name": "TEAM1 - Full Preview DLC #8"
+  },
+  "50215": {
+    "parent": 50260,
+    "name": "TEAM1 - Exclusive Review DLC #8"
+  },
+  "50219": {
+    "parent": 50220,
+    "name": "TEAM1 - External QA2 DLC #9"
+  },
+  "50233": {
+    "parent": 50220,
+    "name": "QA2_0000010_cnt_made_man"
+  },
+  "50234": {
+    "parent": 50220,
+    "name": "QA2_0000020_cnt_rebel_without_a_cause"
+  },
+  "50235": {
+    "parent": 50220,
+    "name": "QA2_0000030_cnt_vegas_baby"
+  },
+  "50236": {
+    "parent": 50220,
+    "name": "QA2_0000050_cnt_rags_to_riches"
+  },
+  "50237": {
+    "parent": 50220,
+    "name": "QA2_0000060_cnt_joes_adventures"
+  },
+  "50238": {
+    "parent": 50220,
+    "name": "QA2_0000070_cnt_greaser"
+  },
+  "50239": {
+    "parent": 50220,
+    "name": "QA2_0000080_cnt_war_hero"
+  },
+  "50253": {
+    "parent": 50240,
+    "name": "TEAM1 - Full Preview DLC #1"
+  },
+  "50254": {
+    "parent": 50240,
+    "name": "TEAM1 - Full Preview DLC #2"
+  },
+  "50255": {
+    "parent": 50240,
+    "name": "TEAM1 - Full Preview DLC #3"
+  },
+  "50256": {
+    "parent": 50240,
+    "name": "TEAM1 - Full Preview DLC #4"
+  },
+  "50257": {
+    "parent": 50240,
+    "name": "TEAM1 - Full Preview DLC #5"
+  },
+  "50258": {
+    "parent": 50240,
+    "name": "TEAM1 - Full Preview DLC #6"
+  },
+  "50259": {
+    "parent": 50240,
+    "name": "TEAM1 - Full Preview DLC #7"
+  },
+  "50273": {
+    "parent": 50260,
+    "name": "TEAM1 - Exclusive Review DLC #1"
+  },
+  "50274": {
+    "parent": 50260,
+    "name": "TEAM1 - Exclusive Review DLC #2"
+  },
+  "50275": {
+    "parent": 50260,
+    "name": "TEAM1 - Exclusive Review DLC #3"
+  },
+  "50276": {
+    "parent": 50260,
+    "name": "TEAM1 - Exclusive Review DLC #4"
+  },
+  "50277": {
+    "parent": 50260,
+    "name": "TEAM1 - Exclusive Review DLC #5"
+  },
+  "50278": {
+    "parent": 50260,
+    "name": "TEAM1 - Exclusive Review DLC #6"
+  },
+  "50279": {
+    "parent": 50260,
+    "name": "TEAM1 - Exclusive Review DLC #7"
+  },
+  "50410": {
+    "parent": 50400,
+    "name": "Mafia II - Made Man DLC JP"
+  },
+  "50411": {
+    "parent": 50400,
+    "name": "Mafia II - Renegade DLC JP"
+  },
+  "50412": {
+    "parent": 50400,
+    "name": "Mafia II - Vegas DLC JP"
+  },
+  "50413": {
+    "parent": 50400,
+    "name": "Mafia II - Jimmy's Vendetta DLC JP"
+  },
+  "50414": {
+    "parent": 50400,
+    "name": "Mafia II - Joe's Adventure DLC JP"
+  },
+  "50415": {
+    "parent": 50400,
+    "name": "Mafia II - Greaser DLC JP"
+  },
+  "50416": {
+    "parent": 50400,
+    "name": "Mafia II - War Hero DLC JP"
+  },
+  "50417": {
+    "parent": 50400,
+    "name": "50400 00000a0_cnt_rags_to_riches2"
+  },
+  "50430": {
+    "parent": 50420,
+    "name": "DLCAGE_0000010_cnt_made_man"
+  },
+  "50431": {
+    "parent": 50420,
+    "name": "DLCAGE_0000020_cnt_rebel_without_a_cause"
+  },
+  "50432": {
+    "parent": 50420,
+    "name": "DLCAGE_0000030_cnt_vegas_baby"
+  },
+  "50433": {
+    "parent": 50420,
+    "name": "DLCAGE_0000070_cnt_greaser"
+  },
+  "50434": {
+    "parent": 50420,
+    "name": "DLCAGE_0000080_cnt_war_hero"
+  },
+  "50435": {
+    "parent": 50420,
+    "name": "DLCAGE_0000050_cnt_rags_to_riches"
+  },
+  "50436": {
+    "parent": 50420,
+    "name": "DLCAGE_00000a0_cnt_rags_to_riches2"
+  },
+  "50437": {
+    "parent": 50420,
+    "name": "DLCAGE_0000060_cnt_joes_adventures"
+  },
+  "50438": {
+    "parent": 50420,
+    "name": "TEAM1 - DLC Age Rating DLC #1"
+  },
+  "50439": {
+    "parent": 50420,
+    "name": "TEAM1 - DLC Age Rating DLC #1"
+  },
+  "50440": {
+    "parent": 50420,
+    "name": "TEAM1 - DLC Age Rating DLC #1"
+  },
+  "50513": {
+    "parent": 50510,
+    "name": "Burn Zombie Burn Soundtrack"
+  },
+  "55112": {
+    "parent": 55110,
+    "name": "Red Faction Armageddon: DLC 1"
+  },
+  "55113": {
+    "parent": 55110,
+    "name": "Red Faction: Armageddon - Recon Pack DLC"
+  },
+  "55114": {
+    "parent": 55110,
+    "name": "Red Faction: Armageddon - Commando Pack DLC"
+  },
+  "55115": {
+    "parent": 55110,
+    "name": "Red Faction: Armageddon - Path to War DLC"
+  },
+  "55162": {
+    "parent": 55160,
+    "name": "Red Faction Armageddon - Ratings Build DLC 1"
+  },
+  "55163": {
+    "parent": 55160,
+    "name": "Red Faction Armageddon - Ratings Build DLC 2"
+  },
+  "55164": {
+    "parent": 55160,
+    "name": "Red Faction Armageddon - Ratings Build DLC 3"
+  },
+  "55182": {
+    "parent": 55180,
+    "name": "ValveTestApp55182 DLC"
+  },
+  "55203": {
+    "parent": 55100,
+    "name": "Homefront Fire Sale Map Pack DLC"
+  },
+  "55204": {
+    "parent": 55100,
+    "name": "Homefront - The Rock Map Pack"
+  },
+  "55205": {
+    "parent": 55100,
+    "name": "Homefront - Exclusive Multiplayer Shotgun DLC"
+  },
+  "55206": {
+    "parent": 55100,
+    "name": "Homefront - Multiplayer Advance Unlock Pack"
+  },
+  "55207": {
+    "parent": 55100,
+    "name": "Homefront - Camo Skin Pack"
+  },
+  "55208": {
+    "parent": 55100,
+    "name": "Homefront - Steam Exclusive"
+  },
+  "55215": {
+    "parent": 55210,
+    "name": "Homefront Japanese - Exclusive Multiplayer Shotgun DLC"
+  },
+  "55216": {
+    "parent": 55210,
+    "name": "Homefront Japanese - Multiplayer Advance Unlock Pack"
+  },
+  "55217": {
+    "parent": 55210,
+    "name": "Homefront Japanese - Camo Skin Pack"
+  },
+  "55218": {
+    "parent": 55210,
+    "name": "Homefront JPN - Steam Exclusive"
+  },
+  "55220": {
+    "parent": 55180,
+    "name": "Homefront Dev DLC 1"
+  },
+  "55221": {
+    "parent": 55180,
+    "name": "Homefront Dev DLC 2"
+  },
+  "55222": {
+    "parent": 55180,
+    "name": "Homefront Dev DLC 3"
+  },
+  "55223": {
+    "parent": 55180,
+    "name": "Homefront Dev - Steam Exclusive"
+  },
+  "55340": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Emperor's Elite Pack"
+  },
+  "55341": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Traitor Legions Pack"
+  },
+  "55342": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Blood Raven's Chapter Pack"
+  },
+  "55343": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Golden Relic Bolter"
+  },
+  "55344": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Golden Relic Chainsword"
+  },
+  "55345": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Power Sword"
+  },
+  "55346": {
+    "parent": 55150,
+    "name": "ValveTestApp55150 DLC1 - PL"
+  },
+  "55347": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Chaos Unleashed Map Pack"
+  },
+  "55348": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Dreadnought Assault"
+  },
+  "55349": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - 55349 DLC"
+  },
+  "55380": {
+    "parent": 55230,
+    "name": "Saints Row The Third - Genkibowl VII"
+  },
+  "55381": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Gangstas In Space"
+  },
+  "55382": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - The Trouble With Clones"
+  },
+  "55383": {
+    "parent": 55230,
+    "name": "ValveTestApp55383"
+  },
+  "55384": {
+    "parent": 55230,
+    "name": "ValveTestApp55384"
+  },
+  "55385": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - FUNTIME! Pack"
+  },
+  "55386": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Z Style Pack"
+  },
+  "55387": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Explosive Combat Pack"
+  },
+  "55388": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Shark Attack Pack"
+  },
+  "55389": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Money Shot Pack"
+  },
+  "55390": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Invincible Pack"
+  },
+  "55391": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Penthouse Pack"
+  },
+  "55392": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Witches and Wieners Pack"
+  },
+  "55393": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Bloodsucker Pack"
+  },
+  "55394": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Unlockable Pack"
+  },
+  "55395": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Warrior Pack"
+  },
+  "55396": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Nyte Blayde Pack"
+  },
+  "55397": {
+    "parent": 55230,
+    "name": "Saints Row: The Third Steelport Gangs Pack"
+  },
+  "55398": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Special Ops Vehicle Pack"
+  },
+  "55399": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Horror Pack"
+  },
+  "55400": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Genki Girl Pack"
+  },
+  "55409": {
+    "parent": 55230,
+    "name": "Saints Row: The Third - Genki Bowl VII (Preorder)"
+  },
+  "55470": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Legion of the Damned Armour Set"
+  },
+  "55471": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Alpha Legion Champion Armour Set"
+  },
+  "55472": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Blood Angels Veteran Armour Set"
+  },
+  "55473": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Salamanders Veteran Armour Set"
+  },
+  "55474": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Future MapPack"
+  },
+  "55475": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Iron Hands Chapter Pack DLC"
+  },
+  "55476": {
+    "parent": 55150,
+    "name": "Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC"
+  },
+  "56431": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Chaos Wargear DLC"
+  },
+  "56432": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Eldar Wargear DLC"
+  },
+  "56433": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Imperial Guard Wargear DLC"
+  },
+  "56434": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Space Marine Wargear DLC"
+  },
+  "56435": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Ork Wargear DLC"
+  },
+  "56436": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Tyranid Wargear DLC"
+  },
+  "56437": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Campaign DLC"
+  },
+  "56438": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Last Stand DLC"
+  },
+  "56439": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Multiplayer DLC"
+  },
+  "56480": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Captain Wargear DLC"
+  },
+  "56481": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Farseer Wargear DLC"
+  },
+  "56482": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Mekboy Wargear DLC"
+  },
+  "56483": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Lord General Wargear DLC"
+  },
+  "56484": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Chaos Sorcerer Wargear DLC"
+  },
+  "56485": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Hive Tyrant Wargear DLC"
+  },
+  "56486": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Blood Ravens Veteran's Helmet"
+  },
+  "56487": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Ultramarines DLC"
+  },
+  "56488": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Word Bearers Skin Pack"
+  },
+  "56489": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Death Korps of Krieg Skin Pack"
+  },
+  "56490": {
+    "parent": 56400,
+    "name": "ValveTestApp56490"
+  },
+  "56491": {
+    "parent": 56400,
+    "name": "ValveTestApp56491"
+  },
+  "56492": {
+    "parent": 56400,
+    "name": "ValveTestApp56492"
+  },
+  "56493": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Last Stand Tau Commander"
+  },
+  "56536": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Dark Angels DLC"
+  },
+  "56537": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Blood Ravens Veteran's Helmet DLC"
+  },
+  "56538": {
+    "parent": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution - Eldar Ulthwe DLC"
+  },
+  "57505": {
+    "parent": 57500,
+    "name": "All Points Bulletin - Game key"
+  },
+  "57506": {
+    "parent": 57500,
+    "name": "All Points Bulletin - Preorder key"
+  },
+  "57515": {
+    "parent": 57510,
+    "name": "All Points Bulletin - Game key"
+  },
+  "57516": {
+    "parent": 57510,
+    "name": "All Points Bulletin - Preorder key"
+  },
+  "57517": {
+    "parent": 57510,
+    "name": "All Points Bulletin - Game key"
+  },
+  "57518": {
+    "parent": 57510,
+    "name": "All Points Bulletin - Bonus Game key"
+  },
+  "57655": {
+    "parent": 57650,
+    "name": "Dungeons - Into the Dark"
+  },
+  "57656": {
+    "parent": 57650,
+    "name": "Dungeons - Map Pack"
+  },
+  "57695": {
+    "parent": 57690,
+    "name": "Tropico 4 Plantador DLC"
+  },
+  "57696": {
+    "parent": 57690,
+    "name": "Tropico 4 DLC Junta"
+  },
+  "57697": {
+    "parent": 57690,
+    "name": "Tropico 4 DLC Quick-Dry-Cement"
+  },
+  "57920": {
+    "parent": 57900,
+    "name": "SampleDLC"
+  },
+  "57921": {
+    "parent": 57900,
+    "name": "Duke's Big Package NA"
+  },
+  "57922": {
+    "parent": 57900,
+    "name": "Duke's Big Package WW"
+  },
+  "57923": {
+    "parent": 57900,
+    "name": "Duke Nukem Forever: Hail to the Icons Parody Pack"
+  },
+  "57924": {
+    "parent": 57900,
+    "name": "DNF_DLC02"
+  },
+  "57925": {
+    "parent": 57900,
+    "name": "The Doctor Who Cloned Me"
+  },
+  "57980": {
+    "parent": 57970,
+    "name": "Duke's Big Package RU"
+  },
+  "58529": {
+    "parent": 58520,
+    "name": "Blood Bowl: LE - Activation Key"
+  },
+  "58625": {
+    "parent": 58610,
+    "name": "Wargame: European Escalation - DLC1 OSX"
+  },
+  "58643": {
+    "parent": 58610,
+    "name": "Wargame: European Escalation - ''Fatal Error'' (Free DLC)"
+  },
+  "58645": {
+    "parent": 58610,
+    "name": "Wargame: European Escalation - New Battlefields"
+  },
+  "58646": {
+    "parent": 58610,
+    "name": "Wargame: European Escalation - Conquest"
+  },
+  "58647": {
+    "parent": 58610,
+    "name": "Wargame European Escalation DLC2 - OSX"
+  },
+  "58648": {
+    "parent": 58610,
+    "name": "Wargame: European Escalation - ''Commander'' (Free DLC)"
+  },
+  "58649": {
+    "parent": 58610,
+    "name": "Wargame European Escalation DLC3 OSX"
+  },
+  "60602": {
+    "parent": 60600,
+    "name": "ProtoDefense_Depot"
+  },
+  "61710": {
+    "parent": 61700,
+    "name": "Might & Magic: Clash of Heroes - I Am the Boss DLC"
+  },
+  "63003": {
+    "parent": 63000,
+    "name": "HOARD: Dynamite Roll"
+  },
+  "63004": {
+    "parent": 63000,
+    "name": "HOARD: Sandwich Pack"
+  },
+  "63005": {
+    "parent": 63000,
+    "name": "ValveTestApp63005"
+  },
+  "63210": {
+    "parent": 63200,
+    "name": "Monday Night Combat TF2 Item DLC"
+  },
+  "63211": {
+    "parent": 63200,
+    "name": "Cardboard Tube Samurai"
+  },
+  "63212": {
+    "parent": 63200,
+    "name": "Cardboard Tube Samurai with Authentic Battle Damage"
+  },
+  "63213": {
+    "parent": 63200,
+    "name": "Monday Night Combat Summer DLC"
+  },
+  "63391": {
+    "parent": 63380,
+    "name": "Sniper Elite V2 - Hitler Mission"
+  },
+  "63392": {
+    "parent": 63380,
+    "name": "Sniper Elite V2 - Rifle Pack"
+  },
+  "63398": {
+    "parent": 63380,
+    "name": "Sniper Elite V2 - The Neudorf Outpost Pack"
+  },
+  "63399": {
+    "parent": 63380,
+    "name": "Sniper Elite V2 - The Landwehr Canal Pack"
+  },
+  "63802": {
+    "parent": 63800,
+    "name": "Delve Deeper: Treasures and Tunnels"
+  },
+  "63803": {
+    "parent": 63800,
+    "name": "Delve Deeper User-Created DLC"
+  },
+  "63942": {
+    "parent": 63940,
+    "name": "Men of War: Vietnam DLC 1"
+  },
+  "63953": {
+    "parent": 63950,
+    "name": "ValveTestApp63953"
+  },
+  "63958": {
+    "parent": 63950,
+    "name": "IL-2 Sturmovik: Cliffs of Dover CD Code"
+  },
+  "63959": {
+    "parent": 63950,
+    "name": "IL-2 Sturmovik: Cliffs of Dover - Russian CD Key"
+  },
+  "64002": {
+    "parent": 64000,
+    "name": "Men of War: Assault Squad - Registration Key"
+  },
+  "64005": {
+    "parent": 64000,
+    "name": "Men of War: Assault Squad - MP Supply Pack - Alpha"
+  },
+  "64008": {
+    "parent": 64000,
+    "name": "Men of War Assault Squad - Bonus Map"
+  },
+  "64009": {
+    "parent": 64000,
+    "name": "Men of War: Assault Squad - Beta Key"
+  },
+  "64013": {
+    "parent": 64000,
+    "name": "Men of War Assault Squad - Skirmish Pack"
+  },
+  "64014": {
+    "parent": 64000,
+    "name": "Men of War: Assault Squad Bravo DLC"
+  },
+  "64016": {
+    "parent": 64000,
+    "name": "Men of War: Assault Squad - MP Supply Pack Charlie"
+  },
+  "64017": {
+    "parent": 64000,
+    "name": "Men of War: Assault Squad Skirmish Pack 2"
+  },
+  "65110": {
+    "parent": 65100,
+    "name": "Demolition Company DLC"
+  },
+  "65210": {
+    "parent": 24010,
+    "name": "Railworks 2 Granfield Branch Line DLC"
+  },
+  "65211": {
+    "parent": 24010,
+    "name": "RailWorks 2 Class 111 DLC"
+  },
+  "65212": {
+    "parent": 24010,
+    "name": "RailWorks 2 GR Class 118"
+  },
+  "65213": {
+    "parent": 24010,
+    "name": "RailWorks 2 GR Class 120 DLC"
+  },
+  "65214": {
+    "parent": 24010,
+    "name": "RailWorks 2 SW1500 Switcher DLC"
+  },
+  "65215": {
+    "parent": 24010,
+    "name": "Train Simulator: Portland Terminal Route Add-On"
+  },
+  "65216": {
+    "parent": 24010,
+    "name": "Train Simulator: Edinburgh-Glasgow Expansion Add-On"
+  },
+  "65217": {
+    "parent": 24010,
+    "name": "Train Simulator: Class 156 Loco Add-On"
+  },
+  "65218": {
+    "parent": 24010,
+    "name": "Train Simulator: Portsmouth Direct Line Route Add-On"
+  },
+  "65219": {
+    "parent": 24010,
+    "name": "Railworks 2 GR-Steuerwagen DLC"
+  },
+  "65220": {
+    "parent": 24010,
+    "name": "Railworks 2 Class 67 Pack"
+  },
+  "65221": {
+    "parent": 24010,
+    "name": "RailWorks 2 GR-SBahn"
+  },
+  "65222": {
+    "parent": 24010,
+    "name": "RailWorks 3 GWR56xx"
+  },
+  "65223": {
+    "parent": 24010,
+    "name": "RailWorks 2 GP9Pack"
+  },
+  "65224": {
+    "parent": 24010,
+    "name": "Train Simulator: Bristol-Exeter Route Add-On"
+  },
+  "65225": {
+    "parent": 24010,
+    "name": "RailWorks 2 Class 60"
+  },
+  "65226": {
+    "parent": 24010,
+    "name": "Train Simulator: Hatchet Hill Quarry Route Add-On"
+  },
+  "65227": {
+    "parent": 24010,
+    "name": "RailWorks 2 GR-ICE1"
+  },
+  "65228": {
+    "parent": 24010,
+    "name": "Train Simulator: BR Class 421 '4CIG' Loco Add-On"
+  },
+  "65229": {
+    "parent": 24010,
+    "name": "Train Simulator: Class 455 EMU Add-On"
+  },
+  "65230": {
+    "parent": 24010,
+    "name": "Railworks 2 P42DC Genesis"
+  },
+  "65231": {
+    "parent": 24010,
+    "name": "Train Simulator: Amtrak Acela Express EMU Add-On"
+  },
+  "65232": {
+    "parent": 24010,
+    "name": "Train Simulator: Northeast Corridor Route Add-On"
+  },
+  "65233": {
+    "parent": 24010,
+    "name": "Train Simulator: Horseshoe Curve Route Add-On"
+  },
+  "65234": {
+    "parent": 24010,
+    "name": "RailWorks 3 Super Express Train DLC"
+  },
+  "65235": {
+    "parent": 24010,
+    "name": "Railworks 3 Trains Vs Zombies DLC"
+  },
+  "65236": {
+    "parent": 24010,
+    "name": "Railworks 3 GWR King Pack DLC"
+  },
+  "65237": {
+    "parent": 24010,
+    "name": "Railworks 3 Class 150 Pack"
+  },
+  "65238": {
+    "parent": 24010,
+    "name": "Railworks 3 Class 50 Pack"
+  },
+  "65239": {
+    "parent": 24010,
+    "name": "Train Simulator: Donner Pass: Southern Pacific Route Add-On"
+  },
+  "65240": {
+    "parent": 24010,
+    "name": "Railworks 3 Class 33 Pack"
+  },
+  "65241": {
+    "parent": 24010,
+    "name": "Railworks 3 Class 325 Express Mail"
+  },
+  "65242": {
+    "parent": 24010,
+    "name": "Train Simulator: PRR GG1 Loco Add-On"
+  },
+  "65243": {
+    "parent": 24010,
+    "name": "Train Simulator: Ohio Steel 2 Route Add-On"
+  },
+  "65244": {
+    "parent": 24010,
+    "name": "Train Simulator: Woodhead Route Add-On"
+  },
+  "65245": {
+    "parent": 24010,
+    "name": "RailWorks 3 Intercity-Express"
+  },
+  "65246": {
+    "parent": 24010,
+    "name": "Train Simulator: Cologne - Dusseldorf Add-On"
+  },
+  "65247": {
+    "parent": 24010,
+    "name": "Train Simulator: PRR K4 Loco Add-On"
+  },
+  "65248": {
+    "parent": 24010,
+    "name": "Railworks 3 Centennial Diesel Pack"
+  },
+  "65249": {
+    "parent": 24010,
+    "name": "Train Simulator: DB Freight: 1970s Loco Add-On"
+  },
+  "65250": {
+    "parent": 24010,
+    "name": "Train Simulator: BR Class 76 &amp; 77 Loco Add-On"
+  },
+  "65251": {
+    "parent": 24010,
+    "name": "Railworks 3 AerosoftCommon"
+  },
+  "65252": {
+    "parent": 24010,
+    "name": "Train Simulator: Freightliner Class 70 Loco Add-On"
+  },
+  "65253": {
+    "parent": 24010,
+    "name": "Train Simulator: South West Trains Class 444 EMU Add-On"
+  },
+  "65254": {
+    "parent": 24010,
+    "name": "Train Simulator: E18 Loco Add-On"
+  },
+  "65255": {
+    "parent": 24010,
+    "name": "Train Simulator: Settle to Carlisle"
+  },
+  "65256": {
+    "parent": 24010,
+    "name": "Train Simulator: BR Class 423 ‘4VEP’ EMU Add-On"
+  },
+  "65257": {
+    "parent": 24010,
+    "name": "Railworks 3 Easter Rail Tour 2012"
+  },
+  "65258": {
+    "parent": 24010,
+    "name": "Train Simulator: Settle Carlisle Specials Add-On"
+  },
+  "65259": {
+    "parent": 24010,
+    "name": "Train Simulator: BNSF SD75 Loco Add-On"
+  },
+  "65732": {
+    "parent": 65730,
+    "name": "Take On Helicopters: Hinds"
+  },
+  "65733": {
+    "parent": 65730,
+    "name": "Take On Helicopters Hinds"
+  },
+  "65734": {
+    "parent": 65730,
+    "name": "Take On Noisecontrollers"
+  },
+  "65735": {
+    "parent": 65730,
+    "name": "Take On Helicopters: Rearmed"
+  },
+  "65810": {
+    "parent": 65800,
+    "name": "Elite Gear Pack"
+  },
+  "65811": {
+    "parent": 65800,
+    "name": "Advanced Technology Pack"
+  },
+  "65920": {
+    "parent": 8980,
+    "name": "Borderlands DLC: Claptrap’s New Robot Revolution"
+  },
+  "65959": {
+    "parent": 8980,
+    "name": "Duke Nukem Forever First Access Club Code"
+  },
+  "66000": {
+    "parent": 65930,
+    "name": "The Bureau: XCOM Declassified - Code Breakers"
+  },
+  "66001": {
+    "parent": 65930,
+    "name": "The Bureau: XCOM Declassified - Light Plasma Pistol"
+  },
+  "66002": {
+    "parent": 65930,
+    "name": "The Bureau: XCOM Hangar 6 R&D"
+  },
+  "66003": {
+    "parent": 65930,
+    "name": "XCOM DLC 4"
+  },
+  "67210": {
+    "parent": 67200,
+    "name": "67200 Joe's Adventures"
+  },
+  "67250": {
+    "parent": 67240,
+    "name": "67240 Jimmy's Vendetta"
+  },
+  "67310": {
+    "parent": 67300,
+    "name": "67300 Joe's Adventures"
+  },
+  "67350": {
+    "parent": 50130,
+    "name": "Mafia II - Vegas DLC"
+  },
+  "67379": {
+    "parent": 67370,
+    "name": "Darkness II Low Violence"
+  },
+  "67400": {
+    "parent": 67370,
+    "name": "Darkness II DLC 1"
+  },
+  "67401": {
+    "parent": 67370,
+    "name": "Darkess II DLC 2"
+  },
+  "67402": {
+    "parent": 67370,
+    "name": "Darkness II DLC 3"
+  },
+  "67683": {
+    "parent": 67680,
+    "name": "SO QA Test DLC"
+  },
+  "67684": {
+    "parent": 67680,
+    "name": "ValveTestApp67684"
+  },
+  "70603": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem English"
+  },
+  "70604": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem French"
+  },
+  "70605": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem German"
+  },
+  "70606": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem Italian"
+  },
+  "70607": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem Spanish"
+  },
+  "70608": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem Japanese"
+  },
+  "70609": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem Russian"
+  },
+  "70610": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem Polish"
+  },
+  "70611": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem Czech"
+  },
+  "70615": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem - Single Player Pack"
+  },
+  "70616": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem - Multi Player Pack"
+  },
+  "70617": {
+    "parent": 70600,
+    "name": "Worms Ultimate Mayhem - Customization Pack DLC"
+  },
+  "70631": {
+    "parent": 70620,
+    "name": "Worms Crazy Golf - Carnival Course DLC"
+  },
+  "71110": {
+    "parent": 34270,
+    "name": "ESWAT"
+  },
+  "71111": {
+    "parent": 34270,
+    "name": "Flicky"
+  },
+  "71112": {
+    "parent": 34270,
+    "name": "Golden Axe II"
+  },
+  "71113": {
+    "parent": 34270,
+    "name": "Sonic The Hedgehog"
+  },
+  "71114": {
+    "parent": 34270,
+    "name": "Sword of Vermillion"
+  },
+  "71115": {
+    "parent": 34270,
+    "name": "Virtua Fighter 2"
+  },
+  "71116": {
+    "parent": 34270,
+    "name": "Alien Soldier"
+  },
+  "71117": {
+    "parent": 34270,
+    "name": "Gunstar Heroes"
+  },
+  "71118": {
+    "parent": 34270,
+    "name": "Landstalker"
+  },
+  "71119": {
+    "parent": 34270,
+    "name": "Light Crusader"
+  },
+  "71120": {
+    "parent": 34270,
+    "name": "Shining Force"
+  },
+  "71160": {
+    "parent": 34270,
+    "name": "Shining Force 2"
+  },
+  "71161": {
+    "parent": 34270,
+    "name": "Shining in the Darkness"
+  },
+  "71162": {
+    "parent": 34270,
+    "name": "Sonic 3 & Knuckles"
+  },
+  "71163": {
+    "parent": 34270,
+    "name": "Sonic The Hedgehog 2"
+  },
+  "71164": {
+    "parent": 34270,
+    "name": "Streets of Rage"
+  },
+  "71165": {
+    "parent": 34270,
+    "name": "Streets of Rage 2"
+  },
+  "71166": {
+    "parent": 34270,
+    "name": "Toejam and Earl"
+  },
+  "71167": {
+    "parent": 34270,
+    "name": "Toejam and Earl in Panic on Funkotron"
+  },
+  "71168": {
+    "parent": 34270,
+    "name": "Wonder Boy III - Monster Lair"
+  },
+  "71275": {
+    "parent": 71270,
+    "name": "Football Manager 2012 - Arsenal Club DLC"
+  },
+  "72701": {
+    "parent": 22490,
+    "name": "Fallout New Vegas CaravanPack (1C)"
+  },
+  "72705": {
+    "parent": 22490,
+    "name": "Fallout New Vegas ClassicPack (1C)"
+  },
+  "72709": {
+    "parent": 22490,
+    "name": "Fallout New Vegas Courier's Stash PCR"
+  },
+  "72713": {
+    "parent": 22490,
+    "name": "Fallout New Vegas TribalPack (1C)"
+  },
+  "72730": {
+    "parent": 22380,
+    "name": "Fallout New Vegas: Dead Money"
+  },
+  "72740": {
+    "parent": 22380,
+    "name": "Fallout New Vegas: Honest Hearts"
+  },
+  "72750": {
+    "parent": 22380,
+    "name": "Fallout New Vegas Old World Blues"
+  },
+  "72760": {
+    "parent": 22380,
+    "name": "Fallout New Vegas: Lonesome Road DLC"
+  },
+  "72770": {
+    "parent": 22490,
+    "name": "Fallout New Vegas Dead Money DLC PCR"
+  },
+  "72771": {
+    "parent": 22490,
+    "name": "Fallout New Vegas Honest Hearts PCR"
+  },
+  "72772": {
+    "parent": 22490,
+    "name": "Fallout New Vegas Old World Blues PCR"
+  },
+  "72773": {
+    "parent": 22490,
+    "name": "Fallout New Vegas C Lonesome Road PCR"
+  },
+  "72774": {
+    "parent": 22490,
+    "name": "Fallout New Vegas C Gun Runners Arsenal PCR"
+  },
+  "72840": {
+    "parent": 22380,
+    "name": "Fallout New Vegas: Gun Runners' Arsenal"
+  },
+  "72902": {
+    "parent": 72900,
+    "name": "Winter Voices: Those who have no name"
+  },
+  "72903": {
+    "parent": 72900,
+    "name": "Winter Voices: Nowhere of me"
+  },
+  "72904": {
+    "parent": 72900,
+    "name": "Winter Voices: Like a crow on a wire"
+  },
+  "72905": {
+    "parent": 72900,
+    "name": "Winter Voices: Amethyst Rivers"
+  },
+  "72906": {
+    "parent": 72900,
+    "name": "Winter Voices: Secret of the Norns DLC"
+  },
+  "72907": {
+    "parent": 72900,
+    "name": "Winter Voices: Overflow"
+  },
+  "73012": {
+    "parent": 73010,
+    "name": "Cities In Motion - Design Classics DLC"
+  },
+  "73013": {
+    "parent": 73010,
+    "name": "Cities in Motion: Design Marvels"
+  },
+  "73014": {
+    "parent": 73010,
+    "name": "Cities in Motion: Design Now"
+  },
+  "73016": {
+    "parent": 73010,
+    "name": "Cities In Motion - Design Classics DLC"
+  },
+  "73017": {
+    "parent": 73010,
+    "name": "Cities in Motion: Design Marvels DLC"
+  },
+  "73018": {
+    "parent": 73010,
+    "name": "Cities In Motion - Forum Registration Key"
+  },
+  "73030": {
+    "parent": 42910,
+    "name": "Magicka: Wizard's Survival Kit"
+  },
+  "73031": {
+    "parent": 42910,
+    "name": "Magicka: Nippon"
+  },
+  "73032": {
+    "parent": 42910,
+    "name": "Magicka: Caverns"
+  },
+  "73033": {
+    "parent": 42910,
+    "name": "Magicka: Marshlands"
+  },
+  "73034": {
+    "parent": 42910,
+    "name": "Magicka: Bathrobe Unlock"
+  },
+  "73035": {
+    "parent": 42910,
+    "name": "Magicka: Final Frontier"
+  },
+  "73036": {
+    "parent": 42910,
+    "name": "Magicka: The Watchtower"
+  },
+  "73037": {
+    "parent": 42910,
+    "name": "Magicka: Frozen Lake"
+  },
+  "73038": {
+    "parent": 42910,
+    "name": "Magicka: DLC"
+  },
+  "73039": {
+    "parent": 42910,
+    "name": "Magicka: The Lonely Cruise"
+  },
+  "73040": {
+    "parent": 25980,
+    "name": "ValveTestApp73040"
+  },
+  "73041": {
+    "parent": 25980,
+    "name": "Majesty 2: Monster Kingdom"
+  },
+  "73054": {
+    "parent": 42910,
+    "name": "Magicka: Party Robes"
+  },
+  "73055": {
+    "parent": 42910,
+    "name": "Magicka: Tank Robe"
+  },
+  "73056": {
+    "parent": 42910,
+    "name": "Magicka: Support Robe"
+  },
+  "73057": {
+    "parent": 42910,
+    "name": "Magicka: Gamer Bundle"
+  },
+  "73058": {
+    "parent": 42910,
+    "name": "Magicka: The Stars Are Left"
+  },
+  "73059": {
+    "parent": 42910,
+    "name": "ValveTestApp73059"
+  },
+  "73071": {
+    "parent": 25980,
+    "name": "Majesty 2: Battles of Ardania"
+  },
+  "73088": {
+    "parent": 73080,
+    "name": "The Sword of Islam"
+  },
+  "73089": {
+    "parent": 73080,
+    "name": "Crusader Kings II Beta - Legacy of Rome BETA"
+  },
+  "73091": {
+    "parent": 42910,
+    "name": "Magicka: Holiday Spirit Item Pack"
+  },
+  "73092": {
+    "parent": 42910,
+    "name": "Magicka: Horror Props Item Pack"
+  },
+  "73093": {
+    "parent": 42910,
+    "name": "MAGICKA: THE OTHER SIDE OF THE COIN"
+  },
+  "73094": {
+    "parent": 42910,
+    "name": "Magicka: Pieces Challengepack Evil hideouts"
+  },
+  "73095": {
+    "parent": 42910,
+    "name": "MAGICKA: MEGA VILLAIN ROBES DLC"
+  },
+  "73096": {
+    "parent": 42910,
+    "name": "MAGICKA: ASPIRING MUSICIAN ROBES DLC"
+  },
+  "73097": {
+    "parent": 42910,
+    "name": "MAGICKA: PECULIAR GADGETS ITEM PACK DLC"
+  },
+  "73098": {
+    "parent": 42910,
+    "name": "MAGICKA: HEIRLOOMS ITEM PACK DLC"
+  },
+  "73099": {
+    "parent": 42910,
+    "name": "Mirror Crystal Cavern Hideout"
+  },
+  "73108": {
+    "parent": 73100,
+    "name": "Dreamlords - Starter Key"
+  },
+  "73109": {
+    "parent": 73100,
+    "name": "Dreamlords - Divine Key"
+  },
+  "73110": {
+    "parent": 42910,
+    "name": "Volcano Hideout"
+  },
+  "73111": {
+    "parent": 42910,
+    "name": "Magicka WOOT Triathlon of Terror Challange Map"
+  },
+  "73112": {
+    "parent": 42910,
+    "name": "Magicka WOOT Sporting Goods Item Pack"
+  },
+  "73113": {
+    "parent": 42910,
+    "name": "Magicka WOOT Athletic Techniques Magick Pack"
+  },
+  "73114": {
+    "parent": 42910,
+    "name": "Magicka WOOT Olympian Onslaught"
+  },
+  "73115": {
+    "parent": 42910,
+    "name": "Magicka: Dungeons and Daemons"
+  },
+  "73118": {
+    "parent": 42910,
+    "name": "Magicka: Free Jolnirs Workshop"
+  },
+  "73119": {
+    "parent": 42910,
+    "name": "Magicka: Tower of Niflheim"
+  },
+  "73120": {
+    "parent": 42910,
+    "name": "Magicka: Grimnir's Laboratory"
+  },
+  "73121": {
+    "parent": 42910,
+    "name": "Magicka: The Doctors Robe pack"
+  },
+  "73179": {
+    "parent": 73170,
+    "name": "Darkest Hour - Forum Registration Key"
+  },
+  "73180": {
+    "parent": 73010,
+    "name": "Cities in Motion: Design Now"
+  },
+  "73181": {
+    "parent": 73010,
+    "name": "Cities in Motion: Tokyo DLC"
+  },
+  "73182": {
+    "parent": 73010,
+    "name": "Cities in Motion: Tokyo DLC"
+  },
+  "73183": {
+    "parent": 73010,
+    "name": "Cities in Motion: Metro Station"
+  },
+  "73184": {
+    "parent": 73010,
+    "name": "Cities In Motion: Metro Station"
+  },
+  "73185": {
+    "parent": 73010,
+    "name": "Cities In Motion: German Cities"
+  },
+  "73186": {
+    "parent": 73010,
+    "name": "Cities In Motion: German Cities"
+  },
+  "73187": {
+    "parent": 73010,
+    "name": "Cities In Motion: US Cities"
+  },
+  "73188": {
+    "parent": 73010,
+    "name": "Cities In Motion: US Cities"
+  },
+  "73192": {
+    "parent": 73190,
+    "name": "Pride of Nations: Spanish American War"
+  },
+  "73193": {
+    "parent": 73190,
+    "name": "Pride of Nations: American Civil War"
+  },
+  "73194": {
+    "parent": 73190,
+    "name": "Pride of Nations: Franco Prussian War"
+  },
+  "73195": {
+    "parent": 73190,
+    "name": "Pride of Nations: The Scramble for Africa"
+  },
+  "80010": {
+    "parent": 80000,
+    "name": "APOX Legend"
+  },
+  "80202": {
+    "parent": 80200,
+    "name": "Denial DLC"
+  },
+  "80204": {
+    "parent": 80200,
+    "name": "Migration DLC Windows"
+  },
+  "80205": {
+    "parent": 80200,
+    "name": "Denial DLC Mac"
+  },
+  "80206": {
+    "parent": 80200,
+    "name": "Migration DLC Mac"
+  },
+  "80207": {
+    "parent": 80200,
+    "name": "FoWextras"
+  },
+  "80222": {
+    "parent": 80220,
+    "name": "Fate of the World dlc 0"
+  },
+  "90207": {
+    "parent": 90200,
+    "name": "Farming Simulator 2011: Classics"
+  },
+  "90208": {
+    "parent": 90200,
+    "name": "Farming Simulator 2011: Equipment Pack 3"
+  },
+  "90209": {
+    "parent": 90200,
+    "name": "Farming Simulator 2011: Equipment Pack 2"
+  },
+  "90210": {
+    "parent": 90200,
+    "name": "Farming Simulator 2011: Equipment Pack 1"
+  },
+  "90503": {
+    "parent": 90500,
+    "name": "Guardians of Graxia Map Pack"
+  },
+  "90504": {
+    "parent": 90500,
+    "name": "GoG_Racial_Expansion"
+  },
+  "91104": {
+    "parent": 91100,
+    "name": "Skydrift Extreme Fighters Premium Airplane Pack"
+  },
+  "91106": {
+    "parent": 91100,
+    "name": "Skydrift Gladiator Multiplayer Pack"
+  },
+  "91333": {
+    "parent": 91330,
+    "name": "Iron Front : D-Day DLC"
+  },
+  "91342": {
+    "parent": 91310,
+    "name": "Dead Island: Ripper_2.0"
+  },
+  "91345": {
+    "parent": 91310,
+    "name": "Dead Island: Bloodbath"
+  },
+  "91346": {
+    "parent": 91310,
+    "name": "Dead Island: Ryder White DLC"
+  },
+  "91602": {
+    "parent": 91600,
+    "name": "Sanctum Journalist DLC"
+  },
+  "91603": {
+    "parent": 91600,
+    "name": "ValveTestApp91603"
+  },
+  "91605": {
+    "parent": 91600,
+    "name": "Sanctum: Aftermath DLC"
+  },
+  "91606": {
+    "parent": 91600,
+    "name": "Sanctum: Killing Floor DLC"
+  },
+  "91607": {
+    "parent": 91600,
+    "name": "Sanctum: Penetrator DLC"
+  },
+  "91608": {
+    "parent": 91600,
+    "name": "Sanctum: Aftershock DLC"
+  },
+  "91609": {
+    "parent": 91600,
+    "name": "Sanctum: Yogscave DLC"
+  },
+  "91612": {
+    "parent": 91600,
+    "name": "Sanctum Map Pack"
+  },
+  "91613": {
+    "parent": 91600,
+    "name": "Sanctum: Slums DLC"
+  },
+  "91614": {
+    "parent": 91600,
+    "name": "Sanctum: Violator DLC"
+  },
+  "91615": {
+    "parent": 91600,
+    "name": "Sanctum: Cavern DLC"
+  },
+  "91616": {
+    "parent": 91600,
+    "name": "Sanctum: Christmas DLC"
+  },
+  "91617": {
+    "parent": 91600,
+    "name": "Sanctum: Tiger Hawkins DLC"
+  },
+  "91618": {
+    "parent": 91600,
+    "name": "Sanctum - Map Pack 2"
+  },
+  "91619": {
+    "parent": 91600,
+    "name": "ValveTestApp91619"
+  },
+  "91621": {
+    "parent": 91600,
+    "name": "ValveTestApp91621"
+  },
+  "91622": {
+    "parent": 91600,
+    "name": "ValveTestApp91622"
+  },
+  "91623": {
+    "parent": 91600,
+    "name": "ValveTestApp91623"
+  },
+  "91624": {
+    "parent": 91600,
+    "name": "ValveTestApp91624"
+  },
+  "91920": {
+    "parent": 91900,
+    "name": "Post Apocalyptic Mayhem: Death Area 8 DLC"
+  },
+  "91930": {
+    "parent": 91900,
+    "name": "Post Apocalyptic Mayhem DLC2"
+  },
+  "92302": {
+    "parent": 92300,
+    "name": "A.R.E.S. Berserker DLC"
+  },
+  "92303": {
+    "parent": 92300,
+    "name": "A.R.E.S.: Original Soundtrack"
+  },
+  "92502": {
+    "parent": 92500,
+    "name": "PC Gamer Episode 1"
+  },
+  "92503": {
+    "parent": 92500,
+    "name": "PC Gamer Episode 2"
+  },
+  "92504": {
+    "parent": 92500,
+    "name": "PC Gamer Episode 3"
+  },
+  "92505": {
+    "parent": 92500,
+    "name": "PC Gamer Episode 4"
+  },
+  "92506": {
+    "parent": 92500,
+    "name": "PC Gamer Episode 5"
+  },
+  "92507": {
+    "parent": 92500,
+    "name": "PC Gamer Episode 6"
+  },
+  "92508": {
+    "parent": 92500,
+    "name": "PC Gamer Episode 7"
+  },
+  "92620": {
+    "parent": 92600,
+    "name": "Xotic DLC: Pipe Works Expansion Pack"
+  },
+  "92621": {
+    "parent": 92600,
+    "name": "Xotic DLC: Temple Crypt Expansion Pack"
+  },
+  "92622": {
+    "parent": 92600,
+    "name": "Xotic DLC: Warp Field Expansion Pack"
+  },
+  "92623": {
+    "parent": 92600,
+    "name": "Xotic DLC: Collective Expansion Pack"
+  },
+  "92803": {
+    "parent": 92800,
+    "name": "SpaceChem: 63 Corvi Mission"
+  },
+  "93206": {
+    "parent": 93200,
+    "name": "Revenge of the Titans: Sandbox Mode"
+  },
+  "93207": {
+    "parent": 93200,
+    "name": "Revenge of the Titans: Soundtrack"
+  },
+  "93305": {
+    "parent": 94300,
+    "name": "ValveTestApp93305"
+  },
+  "94202": {
+    "parent": 94200,
+    "name": "Jamestown: Gunpowder, Treason and Plot"
+  },
+  "94203": {
+    "parent": 94200,
+    "name": "Jamestown Soundtrack"
+  },
+  "94205": {
+    "parent": 94200,
+    "name": "Gunpowder Plot DLC Mac"
+  },
+  "94303": {
+    "parent": 94300,
+    "name": "The Dream Machine: Chapter 3"
+  },
+  "94304": {
+    "parent": 94300,
+    "name": "The Dream Machine: Chapter 4"
+  },
+  "95502": {
+    "parent": 95500,
+    "name": "Your Doodles Are Bugged! - Easter Special"
+  },
+  "96308": {
+    "parent": 96300,
+    "name": "Ravaged Full Game DLC"
+  },
+  "96831": {
+    "parent": 96800,
+    "name": "Nexuiz Duel Mode"
+  },
+  "97106": {
+    "parent": 97100,
+    "name": "Section 8 Prejudice: Blitz Pack"
+  },
+  "97107": {
+    "parent": 97100,
+    "name": "Section 8 Prejudice: Overdrive Map Pack"
+  },
+  "97108": {
+    "parent": 97100,
+    "name": "Section 8 Prejudice: Frontier Colonies Map Pack"
+  },
+  "97300": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Apex Predator Unlock"
+  },
+  "97301": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Apex Predator Foil"
+  },
+  "97302": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Wielding Steel Unlock"
+  },
+  "97303": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Wielding Steel Foil"
+  },
+  "97304": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Realm of Illusion Unlock"
+  },
+  "97305": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Realm of Illusion Foil"
+  },
+  "97306": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Strength of Stone Unlock"
+  },
+  "97307": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Strength of Stone Foil"
+  },
+  "97308": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Guardians of the Wood Unlock"
+  },
+  "97309": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Guardians of the Wood Foil"
+  },
+  "97310": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Ancient Depths Unlock"
+  },
+  "97311": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Ancient Depths Foil"
+  },
+  "97312": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Dragon's Roar Unlock"
+  },
+  "97313": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Dragon's Roar Foil"
+  },
+  "97314": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Blood Hunger Unlock"
+  },
+  "97315": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Blood Hunger Foil"
+  },
+  "97316": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Machinations Unlock"
+  },
+  "97317": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Machinations Foil"
+  },
+  "97318": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Unquenchable Fire Unlock"
+  },
+  "97319": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Unquenchable Fire Foil"
+  },
+  "97320": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Grave Whispers Unlock"
+  },
+  "97321": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Grave Whispers Foil"
+  },
+  "97322": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Cloudburst Unlock"
+  },
+  "97323": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Cloudburst Foil"
+  },
+  "97324": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Auramancer Unlock"
+  },
+  "97325": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012 Auramancer Foil"
+  },
+  "97326": {
+    "parent": 49470,
+    "name": "March to War Unlock"
+  },
+  "97327": {
+    "parent": 49470,
+    "name": "March to War Foil"
+  },
+  "97328": {
+    "parent": 49470,
+    "name": "Magic: The Gathering - SpecialEdition Content"
+  },
+  "97350": {
+    "parent": 97330,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2013 Expansion 1"
+  },
+  "97360": {
+    "parent": 97330,
+    "name": "Duels 2013 Ajani Deck"
+  },
+  "97361": {
+    "parent": 97330,
+    "name": "Duels 2013 Ajani Foil"
+  },
+  "97362": {
+    "parent": 97330,
+    "name": "Duels 2013 Chandra Deck"
+  },
+  "97363": {
+    "parent": 97330,
+    "name": "Duels 2013 Chandra Foil"
+  },
+  "97364": {
+    "parent": 97330,
+    "name": "Duels 2013 Garruk Deck"
+  },
+  "97365": {
+    "parent": 97330,
+    "name": "Duels 2013 Garruk Foil"
+  },
+  "97366": {
+    "parent": 97330,
+    "name": "Duels 2013 Jace Deck"
+  },
+  "97367": {
+    "parent": 97330,
+    "name": "Duels 2013 Jace Foil"
+  },
+  "97368": {
+    "parent": 97330,
+    "name": "Duels 2013 Kezzik Deck"
+  },
+  "97369": {
+    "parent": 97330,
+    "name": "Duels 2013 Kezzik Foil"
+  },
+  "97370": {
+    "parent": 97330,
+    "name": "Duels 2013 Liliana Deck"
+  },
+  "97371": {
+    "parent": 97330,
+    "name": "Duels 2013 Liliana Foil"
+  },
+  "97372": {
+    "parent": 97330,
+    "name": "Duels 2013 Mandred Deck"
+  },
+  "97373": {
+    "parent": 97330,
+    "name": "Duels 2013 Mandred Foil"
+  },
+  "97374": {
+    "parent": 97330,
+    "name": "Duels 2013 Nefarox Deck"
+  },
+  "97375": {
+    "parent": 97330,
+    "name": "Duels 2013 Nefarox Foil"
+  },
+  "97376": {
+    "parent": 97330,
+    "name": "Duels 2013 Sarnek Deck"
+  },
+  "97377": {
+    "parent": 97330,
+    "name": "Duels 2013 Sarnek Foil"
+  },
+  "97378": {
+    "parent": 97330,
+    "name": "Duels 2013 Talkos Deck"
+  },
+  "97379": {
+    "parent": 97330,
+    "name": "Duels 2013 Talkos Foil"
+  },
+  "97380": {
+    "parent": 97330,
+    "name": "Duels 2013 Aura Servants Deck"
+  },
+  "97381": {
+    "parent": 97330,
+    "name": "Duels 2013 Aura Servants Foil Conversion"
+  },
+  "97382": {
+    "parent": 97330,
+    "name": "Duels 2013 Sepulchral Strength Deck Key"
+  },
+  "97383": {
+    "parent": 97330,
+    "name": "Duels 2013 Sepulchral Strength Foil Conversion"
+  },
+  "97384": {
+    "parent": 97330,
+    "name": "Duels 2013 Mindstorms Deck Key"
+  },
+  "97385": {
+    "parent": 97330,
+    "name": "Duels 2013 Mindstorms Foil Conversion"
+  },
+  "97386": {
+    "parent": 97330,
+    "name": "Duels 2013 Grinning Malice Deck Key"
+  },
+  "97387": {
+    "parent": 97330,
+    "name": "Duels 2013 Grinning Malice Foil"
+  },
+  "97388": {
+    "parent": 97330,
+    "name": "Duels 2013 Collective Might Deck Key"
+  },
+  "97389": {
+    "parent": 97330,
+    "name": "Duels 2013 Collective Might Foil"
+  },
+  "98001": {
+    "parent": 15520,
+    "name": "Aaa Accessed Content"
+  },
+  "98002": {
+    "parent": 57300,
+    "name": "Amnesia Accessed Content"
+  },
+  "98003": {
+    "parent": 12900,
+    "name": "AudioSurf Accessed Content"
+  },
+  "98004": {
+    "parent": 35460,
+    "name": "The Ball Accessed Content"
+  },
+  "98005": {
+    "parent": 63700,
+    "name": "BIT.TRIP Beat Accessed Content"
+  },
+  "98006": {
+    "parent": 26500,
+    "name": "Cogs Accessed Content"
+  },
+  "98007": {
+    "parent": 18500,
+    "name": "Defense Grid Accessed Content"
+  },
+  "98008": {
+    "parent": 15540,
+    "name": "Kick ItAccessed Content"
+  },
+  "98009": {
+    "parent": 1250,
+    "name": "Killing Floor Accessed Content"
+  },
+  "98011": {
+    "parent": 40800,
+    "name": "Super Meat Boy Accessed Content"
+  },
+  "98012": {
+    "parent": 38720,
+    "name": "RUSH Accessed Content"
+  },
+  "98014": {
+    "parent": 15500,
+    "name": "Wonderful End of the World Accessed Content"
+  },
+  "98015": {
+    "parent": 38700,
+    "name": "Toki Tori Accessed Content"
+  },
+  "98203": {
+    "parent": 98200,
+    "name": "Frozen Synapse Soundtrack (MP3)"
+  },
+  "98204": {
+    "parent": 98200,
+    "name": "Frozen Synapse Soundtrack (FLAC)"
+  },
+  "98205": {
+    "parent": 98200,
+    "name": "Frozen Synapse Soundtrack WAV"
+  },
+  "98211": {
+    "parent": 98200,
+    "name": "Frozen Synapse Red DLC"
+  },
+  "98212": {
+    "parent": 98200,
+    "name": "Frozen Synapse Red Soundtrack"
+  },
+  "98213": {
+    "parent": 98200,
+    "name": "Frozen Synapse Red Soundtrack (FLAC)"
+  },
+  "98214": {
+    "parent": 98200,
+    "name": "Frozen Synapse Red (OS X)"
+  },
+  "98420": {
+    "parent": 98400,
+    "name": "Hard Reset: Exile"
+  },
+  "98421": {
+    "parent": 98400,
+    "name": "Hard Reset: Exile DLC"
+  },
+  "98609": {
+    "parent": 98600,
+    "name": "Level & Weapon Pack"
+  },
+  "98820": {
+    "parent": 98800,
+    "name": "Realm of the Diggle Gods"
+  },
+  "98821": {
+    "parent": 98800,
+    "name": "Dungeons of Dredmor: You Have To Name The Expansion Pack"
+  },
+  "98822": {
+    "parent": 98800,
+    "name": "Dungeons of Dredmor: Conquest of the Wizardlands"
+  },
+  "99502": {
+    "parent": 99500,
+    "name": "TS2012Alpha - L2B Pipe DLC"
+  },
+  "99508": {
+    "parent": 99500,
+    "name": "TS14 99508 DLC"
+  },
+  "99509": {
+    "parent": 99500,
+    "name": "TS14 99509 DLC"
+  },
+  "99610": {
+    "parent": 8930,
+    "name": "Civilization V - Civ and Scenario Pack: Polynesia"
+  },
+  "99611": {
+    "parent": 8930,
+    "name": "Civilization V - Civ and Scenario Pack: Denmark (The Vikings)"
+  },
+  "99612": {
+    "parent": 8930,
+    "name": "Civilization V - Civ and Scenario Pack: Korea"
+  },
+  "99613": {
+    "parent": 8930,
+    "name": "Civilization V - Scenario Pack: Wonders of the Ancient World"
+  },
+  "99841": {
+    "parent": 99830,
+    "name": "Crysis 2 Limited Edition Game Code"
+  },
+  "99842": {
+    "parent": 99830,
+    "name": "Crysis 2 LE Bundle"
+  },
+  "99843": {
+    "parent": 99830,
+    "name": "Crysis 2 Standard Edition Game Code"
+  },
+  "99845": {
+    "parent": 99840,
+    "name": "ValveTestApp99845"
+  },
+  "99846": {
+    "parent": 99840,
+    "name": "ValveTestApp99846"
+  },
+  "99895": {
+    "parent": 99890,
+    "name": "Darkspore - Game Key"
+  },
+  "99896": {
+    "parent": 99890,
+    "name": "Darkspore - Limited Edition Game Key"
+  },
+  "99909": {
+    "parent": 99900,
+    "name": "Spiral Knights - Sonic CD DLC"
+  }
+}
