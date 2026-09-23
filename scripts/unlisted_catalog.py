@@ -248,7 +248,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     commands = parser.add_subparsers(dest="command", required=True)
     ceiling_cmd = commands.add_parser("ceiling", help="print Store maximum ID plus scan margin")
-    ceiling_cmd.add_argument("--margin", type=int, default=100000)
+    ceiling_cmd.add_argument("--margin", type=int, default=20000)
     scan_cmd = commands.add_parser("scan", help="scan one checkpointed ID range")
     scan_cmd.add_argument("--count", type=int, default=100000)
     scan_cmd.add_argument("--ceiling", type=int, required=True)

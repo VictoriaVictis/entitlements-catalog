@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       segments:
-        description: "0 scans only the newest IDs; 1-60 resumes the full pass for that many 100,000-ID segments (60 completes it)"
+        description: "0 scans only the newest IDs; 1-60 resumes the full pass for that many 100,000-ID segments (55 completes it)"
         required: false
         default: "0"
 

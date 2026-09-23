@@ -16,7 +16,7 @@ The catalog contains only DLC the client cannot obtain through these sources.
 
 `tools/PicsScanner` queries anonymous Steam PICS product info in consecutive
 app-ID ranges, and `scripts/unlisted_catalog.py` accumulates the DLC records it
-finds. The scan ceiling is the current Store maximum plus 100,000 IDs.
+finds. The scan ceiling is the current Store maximum plus 20,000 IDs.
 
 The twice-daily GitHub Action rescans only the newest 200,000 IDs below the
 ceiling, where new DLC appear, and commits once if the records or catalog
