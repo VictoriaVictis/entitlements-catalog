@@ -5502,5 +5502,285 @@
   "99909": {
     "parent": 99900,
     "name": "Spiral Knights - Sonic CD DLC"
+  },
+  "100973": {
+    "parent": 100970,
+    "name": "ArtRage Professional Upgrade"
+  },
+  "102000": {
+    "parent": 8930,
+    "name": "Civ and Scenario Pack - Polynesia (Mac)"
+  },
+  "102001": {
+    "parent": 8930,
+    "name": "Civ and Scenario Pack - Denmark Mac"
+  },
+  "102002": {
+    "parent": 8930,
+    "name": "CivilizationV-DLC Korea Mac"
+  },
+  "102003": {
+    "parent": 8930,
+    "name": "CivilizationV-DLC Ancient Wonders Mac"
+  },
+  "102020": {
+    "parent": 57900,
+    "name": "ValveTestApp102020"
+  },
+  "102028": {
+    "parent": 57900,
+    "name": "Hail to the Icons Parody Pack Mac"
+  },
+  "102029": {
+    "parent": 57900,
+    "name": "The Doctor Who Cloned Me Mac"
+  },
+  "102030": {
+    "parent": 57900,
+    "name": "ValveTestApp102030"
+  },
+  "102031": {
+    "parent": 57900,
+    "name": "ValveTestApp102031"
+  },
+  "102032": {
+    "parent": 57900,
+    "name": "ValveTestApp102032"
+  },
+  "102033": {
+    "parent": 57900,
+    "name": "ValveTestApp102033"
+  },
+  "102034": {
+    "parent": 57900,
+    "name": "ValveTestApp102034"
+  },
+  "102035": {
+    "parent": 57900,
+    "name": "ValveTestApp102035"
+  },
+  "102510": {
+    "parent": 102500,
+    "name": "Kingdoms of Amalur: Reckoning - Legend of Dead Kel"
+  },
+  "102511": {
+    "parent": 102500,
+    "name": "Kingdoms of Amalur: Reckoning - Teeth Of Naros"
+  },
+  "102620": {
+    "parent": 102600,
+    "name": "Orcs Must Die! - Cardboard Tube Samurai DLC"
+  },
+  "102621": {
+    "parent": 102600,
+    "name": "Orcs Must Die! - War Mage's Toolbox DLC"
+  },
+  "102622": {
+    "parent": 102600,
+    "name": "Orcs Must Die! - Artifacts of Power DLC"
+  },
+  "102623": {
+    "parent": 102600,
+    "name": "Orcs Must Die! - Lost Adventures DLC"
+  },
+  "102624": {
+    "parent": 102600,
+    "name": "Orcs Must Die! - Knight of the Order DLC"
+  },
+  "102625": {
+    "parent": 102600,
+    "name": "Orcs Must Die! - Soundtrack"
+  },
+  "102822": {
+    "parent": 102820,
+    "name": "The Sims Medieval: Pirates and Nobles"
+  },
+  "102842": {
+    "parent": 102840,
+    "name": "Shank 2 - Deprecated Depot"
+  },
+  "105410": {
+    "parent": 105400,
+    "name": "Fable III - Rebel's Weapon and Tatoo Pack"
+  },
+  "105411": {
+    "parent": 105400,
+    "name": "Fable III - Traitor's keep Quest Pack"
+  },
+  "105412": {
+    "parent": 105400,
+    "name": "Fable III - Dog Breed Set"
+  },
+  "105413": {
+    "parent": 105400,
+    "name": "Fable III - Industrial Knight Outfit"
+  },
+  "105414": {
+    "parent": 105400,
+    "name": "Fable III - Dog Outfit"
+  },
+  "105415": {
+    "parent": 105400,
+    "name": "Fable III - Understone Quest Pack"
+  },
+  "105802": {
+    "parent": 105800,
+    "name": "PixelJunk™ Eden - Original Soundtrack"
+  },
+  "106020": {
+    "parent": 106010,
+    "name": "Pandora Saga: Beginner's Package and Golden Cloak"
+  },
+  "106021": {
+    "parent": 106010,
+    "name": "Pandora Saga: Weapons of Balance Starter Pack"
+  },
+  "107010": {
+    "parent": 107000,
+    "name": "Gods and Heroes - Game Key"
+  },
+  "107011": {
+    "parent": 107000,
+    "name": "Gods and Heroes - Bonus Key"
+  },
+  "107702": {
+    "parent": 107700,
+    "name": "ValveTestApp107700 DLC"
+  },
+  "107820": {
+    "parent": 107800,
+    "name": "Rochard Soundtrack"
+  },
+  "107821": {
+    "parent": 107800,
+    "name": "Rochard - Hard Times"
+  },
+  "108220": {
+    "parent": 108210,
+    "name": "ValveTestApp108220"
+  },
+  "108230": {
+    "parent": 108200,
+    "name": "Ticket to Ride - Europe"
+  },
+  "108231": {
+    "parent": 108200,
+    "name": "Ticket to Ride - Switzerland"
+  },
+  "108232": {
+    "parent": 108200,
+    "name": "Ticket to Ride - USA 1910"
+  },
+  "108233": {
+    "parent": 108200,
+    "name": "Ticket to Ride - Legendary Asia"
+  },
+  "108726": {
+    "parent": 108710,
+    "name": "Alan Wake Developer Commentary"
+  },
+  "108727": {
+    "parent": 108710,
+    "name": "Alan Wake LatAmSpanish"
+  },
+  "109702": {
+    "parent": 109700,
+    "name": "Achron Soundtrack (mp3)"
+  },
+  "110810": {
+    "parent": 110800,
+    "name": "L.A. Noire: DLC Bundle"
+  },
+  "110902": {
+    "parent": 480,
+    "name": "pieterw test DLC"
+  },
+  "111402": {
+    "parent": 111400,
+    "name": "Bunch of Heroes DLC"
+  },
+  "111403": {
+    "parent": 111400,
+    "name": "Bunch of Heroes DLC2"
+  },
+  "111910": {
+    "parent": 111900,
+    "name": "Smaug's Treasure"
+  },
+  "111911": {
+    "parent": 111900,
+    "name": "The Hobbit Dwarves Bundle"
+  },
+  "111912": {
+    "parent": 111900,
+    "name": "The Warrior Bundle"
+  },
+  "111913": {
+    "parent": 111900,
+    "name": "The Striker Bundle"
+  },
+  "111914": {
+    "parent": 111900,
+    "name": "The Defender Bundle"
+  },
+  "111915": {
+    "parent": 111900,
+    "name": "The Tactician Bundle"
+  },
+  "111916": {
+    "parent": 111900,
+    "name": "The Enchanter Bundle"
+  },
+  "113203": {
+    "parent": 113200,
+    "name": "Binding of Isaac Soundtrack"
+  },
+  "113204": {
+    "parent": 113200,
+    "name": "Binding of Isaac: Wrath of the Lamb"
+  },
+  "113205": {
+    "parent": 113200,
+    "name": "The Binding Of Isaac - Wrath of the Lamb"
+  },
+  "113402": {
+    "parent": 113400,
+    "name": "APB Reloaded - Steam Exclusive Items"
+  },
+  "113403": {
+    "parent": 113400,
+    "name": "APB Reloaded - APB Owner Item"
+  },
+  "113404": {
+    "parent": 113420,
+    "name": "Fallen Earth - Survivalist Package"
+  },
+  "113405": {
+    "parent": 113400,
+    "name": "APB Reloaded: Urban Survival Pack"
+  },
+  "115107": {
+    "parent": 115100,
+    "name": "Costume Quest - Soundtrack"
+  },
+  "115117": {
+    "parent": 115110,
+    "name": "Stacking - Soundtrack"
+  },
+  "115307": {
+    "parent": 202990,
+    "name": "Call of Duty: Black Ops II - Polish DLC"
+  },
+  "115308": {
+    "parent": 202990,
+    "name": "Call of Duty: Black Ops II - Russian DLC"
+  },
+  "115309": {
+    "parent": 221930,
+    "name": "Call of Duty: Black Ops II - Season Pass Preorder"
+  },
+  "115340": {
+    "parent": 115320,
+    "name": "Prototype 2 RADNET Access Pack"
   }
 }
