@@ -18,7 +18,6 @@ ROOT = Path(__file__).resolve().parents[1]
 STATE = ROOT / "state" / "steam"
 CURSOR = STATE / "pics_scan.json"
 RECORDS = STATE / "pics_dlcs.json"
-MANUAL = ROOT / "manual" / "steam" / "extra-dlc.json"
 OUTPUT = ROOT / "catalogs" / "steam" / "v1" / "unlisted-dlc.json"
 STORE_API = "https://api.steampowered.com/IStoreService/GetAppList/v1/"
 
@@ -141,18 +140,12 @@ def scan(count, ceiling, scanner, frontier=False):
           f"next {1 if wrapped else start + size}")
 
 
-def build_catalog(records, manual, visible, base_references=None, store_references=None):
+def build_catalog(records, visible, base_references=None, store_references=None):
     base_references = base_references or {}
     store_references = store_references or {}
-    combined = {}
-    for dlc_id, item in records.items():
-        combined[int(dlc_id)] = (int(item["parent"]), str(item["name"]).strip())
-    # Keep curated entries as a safety net for DLC whose anonymous PICS data is absent.
-    for parent_id, entry in manual.items():
-        for dlc_id, name in entry["dlcs"].items():
-            combined[int(dlc_id)] = (int(parent_id), str(name).strip())
     result = {}
-    for dlc_id, (parent_id, name) in sorted(combined.items()):
+    for dlc_key, item in sorted(records.items(), key=lambda pair: int(pair[0])):
+        dlc_id, parent_id, name = int(dlc_key), int(item["parent"]), str(item["name"]).strip()
         if (dlc_id in visible or dlc_id in base_references.get(parent_id, ())
                 or dlc_id in store_references.get(parent_id, ())):
             continue
@@ -163,19 +156,6 @@ def build_catalog(records, manual, visible, base_references=None, store_referenc
         str(parent): {"dlcs": {str(dlc): name for dlc, name in sorted(dlcs.items())}}
         for parent, dlcs in sorted(result.items())
     }
-
-
-def unresolved_manual(manual, records):
-    remaining = {}
-    for parent, entry in manual.items():
-        dlcs = {
-            dlc_id: name for dlc_id, name in entry["dlcs"].items()
-            if dlc_id not in records or int(records[dlc_id]["parent"]) != int(parent)
-            or records[dlc_id]["name"] == f"DLC {dlc_id}"
-        }
-        if dlcs:
-            remaining[parent] = {"dlcs": dlcs}
-    return remaining
 
 
 def base_dlc_references(parents, scanner):
@@ -228,17 +208,12 @@ def store_dlc_references(parents):
 
 def publish(scanner):
     records = read_json(RECORDS, {})
-    manual = read_json(MANUAL, {})
-    remaining_manual = unresolved_manual(manual, records)
-    if remaining_manual != manual:
-        write_json(MANUAL, remaining_manual)
-    manual = remaining_manual
     visible = store_app_ids()
-    parents = {int(item["parent"]) for item in records.values()} | set(map(int, manual))
+    parents = {int(item["parent"]) for item in records.values()}
     base_references = base_dlc_references(parents, scanner)
-    candidates = build_catalog(records, manual, visible, base_references)
+    candidates = build_catalog(records, visible, base_references)
     store_references = store_dlc_references(map(int, candidates))
-    output = build_catalog(records, manual, visible, base_references, store_references)
+    output = build_catalog(records, visible, base_references, store_references)
     write_json(OUTPUT, output)
     print(f"Published {sum(len(item['dlcs']) for item in output.values())} "
           f"unlisted DLC IDs across {len(output)} games")
