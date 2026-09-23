@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       segments:
-        description: "100,000-ID segments to scan (use 60 for initial backfill)"
+        description: "100,000-ID segments to scan (use 60 for a complete pass)"
         required: false
         default: "1"
 

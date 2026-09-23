@@ -1,22 +1,24 @@
 # entitlements-catalog
 
-Public exceptions for Steam DLC discovery. The generated
+Machine-readable exceptions for entitlement discovery across digital stores.
+
+## Steam
+
+The generated
 `catalogs/steam/v1/unlisted-dlc.json` contains DLC IDs found through anonymous
 Steam product info or curated evidence that are absent from the client's normal
 discovery sources: the Steam Store app list, per-game Store DLC pages, and the
-base game's PICS `listofdlc`/depot references. It uses the same
-`{base_app_id: {"dlcs": {dlc_id: name}}}` format as the previous catalog.
+base game's PICS `listofdlc`/depot references. Its format is
+`{base_app_id: {"dlcs": {dlc_id: name}}}`.
 
-Store-visible DLC, including games with more than 64 DLC, is intentionally
-excluded: clients can retrieve it from the Store app list. The old full
-`dlc.json` mirrored that public data and is no longer maintained.
+The catalog contains only DLC the client cannot obtain through these sources.
 
 ## Discovery
 
 `tools/PicsScanner` queries anonymous Steam PICS product info in consecutive
 app-ID ranges. `scripts/unlisted_catalog.py` commits a cursor and discovered
 DLC records after each range. The twice-daily GitHub Action scans 100,000 IDs
-per run; its `segments` input can run up to 60 ranges for a full backfill. Each
+per run; its `segments` input can run up to 60 ranges for a complete pass. Each
 range is pushed separately so a failed run resumes at its last checkpoint.
 When the scan reaches the current Store maximum plus 100,000 IDs, it starts
 another pass from app ID 1.
@@ -26,9 +28,8 @@ the base game's anonymous PICS data, or its per-game Store DLC page.
 `manual/steam/extra-dlc.json` remains a curated fallback for DLC whose
 anonymous PICS metadata is unavailable. Entries are removed from this fallback
 automatically once the scan finds the same ID and parent with a useful name.
-This data cannot be guaranteed
-exhaustive: Steam may withhold product info and hidden IDs may exist above the
-current scan ceiling.
+The catalog cannot be guaranteed exhaustive: Steam may withhold product info,
+and hidden IDs may exist above the current scan ceiling.
 
 ## Local use
 
