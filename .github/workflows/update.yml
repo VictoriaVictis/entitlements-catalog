@@ -1,9 +1,14 @@
-name: Update catalog
+name: Discover unlisted Steam DLC
 
 on:
   schedule:
     - cron: "0 6,18 * * *"
   workflow_dispatch:
+    inputs:
+      segments:
+        description: "100,000-ID segments to scan (use 60 for a complete pass)"
+        required: false
+        default: "1"
 
 permissions:
   contents: write
@@ -13,46 +18,69 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update:
+  discover:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Cache state
-        uses: actions/cache@v4
-        with:
-          path: state/steam
-          key: steam-state-${{ github.run_id }}
-          restore-keys: |
-            steam-state-
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Run incremental update
-        run: python scripts/update_catalog.py --storefront steam --mode incremental --concurrency 8
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Build anonymous Steam product-info scanner
+        run: dotnet build tools/PicsScanner/PicsScanner.csproj -c Release
+
+      - name: Discover and checkpoint DLC
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-
-      - name: Check for catalog changes
-        id: check_catalog
+          SEGMENTS: ${{ inputs.segments || '1' }}
         run: |
-          if [ -n "$(git status --porcelain catalogs/steam/v1/dlc.json)" ]; then
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=false" >> "$GITHUB_OUTPUT"
+          if ! [[ "$SEGMENTS" =~ ^[0-9]+$ ]] || (( SEGMENTS < 1 || SEGMENTS > 60 )); then
+            echo "segments must be 1..60" >&2
+            exit 1
           fi
+          ceiling=$(python scripts/unlisted_catalog.py ceiling)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for ((i=0; i<SEGMENTS; i++)); do
+            for ((attempt=1; attempt<=3; attempt++)); do
+              if python scripts/unlisted_catalog.py scan \
+                --count 100000 --ceiling "$ceiling" \
+                --scanner tools/PicsScanner/bin/Release/net10.0/PicsScanner.dll; then
+                break
+              fi
+              if (( attempt == 3 )); then
+                echo "scan failed after 3 attempts; last checkpoint remains on the branch" >&2
+                exit 1
+              fi
+              echo "scan attempt $attempt failed; reconnecting in $((15 * attempt)) seconds" >&2
+              sleep $((15 * attempt))
+            done
+            git add state/steam/pics_scan.json state/steam/pics_dlcs.json
+            if ! git diff --cached --quiet; then
+              git commit -m "Checkpoint Steam product-info scan"
+              git push origin "HEAD:$GITHUB_REF_NAME"
+            fi
+            if python -c 'import json; exit(json.load(open("state/steam/pics_scan.json"))["next_app_id"] != 1)'; then
+              break
+            fi
+          done
 
-      - name: Commit changes
-        if: steps.check_catalog.outputs.changed == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          file_pattern: "catalogs/steam/v1/dlc.json state/steam/**"
-          commit_message: "Update entitlements catalog"
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+      - name: Publish Store-unlisted DLC
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+        run: |
+          python scripts/unlisted_catalog.py publish \
+            --scanner tools/PicsScanner/bin/Release/net10.0/PicsScanner.dll
+          git add catalogs/steam/v1/unlisted-dlc.json manual/steam/extra-dlc.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update unlisted Steam DLC catalog"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
