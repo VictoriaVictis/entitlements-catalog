@@ -24,7 +24,9 @@ another pass from app ID 1.
 Publishing removes IDs found by `IStoreService/GetAppList(include_dlc=true)`,
 the base game's anonymous PICS data, or its per-game Store DLC page.
 `manual/steam/extra-dlc.json` remains a curated fallback for DLC whose
-anonymous PICS metadata is unavailable. This data cannot be guaranteed
+anonymous PICS metadata is unavailable. Entries are removed from this fallback
+automatically once the scan finds the same ID and parent with a useful name.
+This data cannot be guaranteed
 exhaustive: Steam may withhold product info and hidden IDs may exist above the
 current scan ceiling.
 

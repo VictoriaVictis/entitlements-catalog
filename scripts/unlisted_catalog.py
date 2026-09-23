@@ -162,6 +162,19 @@ def build_catalog(records, manual, visible, base_references=None, store_referenc
     }
 
 
+def unresolved_manual(manual, records):
+    remaining = {}
+    for parent, entry in manual.items():
+        dlcs = {
+            dlc_id: name for dlc_id, name in entry["dlcs"].items()
+            if dlc_id not in records or int(records[dlc_id]["parent"]) != int(parent)
+            or records[dlc_id]["name"] == f"DLC {dlc_id}"
+        }
+        if dlcs:
+            remaining[parent] = {"dlcs": dlcs}
+    return remaining
+
+
 def base_dlc_references(parents, scanner):
     with tempfile.TemporaryDirectory() as temp:
         input_path = Path(temp) / "parents.json"
@@ -201,6 +214,10 @@ def store_dlc_references(parents):
 def publish(scanner):
     records = read_json(RECORDS, {})
     manual = read_json(MANUAL, {})
+    remaining_manual = unresolved_manual(manual, records)
+    if remaining_manual != manual:
+        write_json(MANUAL, remaining_manual)
+    manual = remaining_manual
     visible = store_app_ids()
     parents = {int(item["parent"]) for item in records.values()} | set(map(int, manual))
     base_references = base_dlc_references(parents, scanner)

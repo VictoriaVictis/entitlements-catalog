@@ -13,6 +13,16 @@ spec.loader.exec_module(catalog)
 
 
 class CatalogTests(unittest.TestCase):
+    def test_curated_fallback_shrinks_when_product_info_is_found(self):
+        manual = {"2": {"dlcs": {"30": "curated", "40": "still missing", "50": "better name"}}}
+        records = {
+            "30": {"parent": 2, "name": "PICS name"},
+            "50": {"parent": 2, "name": "DLC 50"},
+        }
+        self.assertEqual(catalog.unresolved_manual(manual, records), {
+            "2": {"dlcs": {"40": "still missing", "50": "better name"}},
+        })
+
     def test_catalog_keeps_only_unlisted_ids_and_curated_names(self):
         records = {
             "30": {"parent": 2, "name": "PICS name"},

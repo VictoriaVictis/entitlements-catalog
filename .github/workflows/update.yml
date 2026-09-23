@@ -69,7 +69,7 @@ jobs:
         run: |
           python scripts/unlisted_catalog.py publish \
             --scanner tools/PicsScanner/bin/Release/net10.0/PicsScanner.dll
-          git add catalogs/steam/v1/unlisted-dlc.json
+          git add catalogs/steam/v1/unlisted-dlc.json manual/steam/extra-dlc.json
           if ! git diff --cached --quiet; then
             git commit -m "Update unlisted Steam DLC catalog"
             git push origin "HEAD:$GITHUB_REF_NAME"
