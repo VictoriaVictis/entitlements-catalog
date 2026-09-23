@@ -339391,6 +339391,10 @@
     "parent": 4964780,
     "name": "Puzzles Trees Artbook"
   },
+  "5273560": {
+    "parent": 4505150,
+    "name": "THE WELL IS NOT EMPTY - Spoon Pack"
+  },
   "5273670": {
     "parent": 3896680,
     "name": "Quick Translate - BYOK"
@@ -339462,5 +339466,33 @@
   "5294560": {
     "parent": 3623530,
     "name": "Deified - Artbook"
+  },
+  "5295740": {
+    "parent": 5205880,
+    "name": "Undealt - Aureon"
+  },
+  "5295760": {
+    "parent": 5205880,
+    "name": "Undealt - Kessa"
+  },
+  "5295770": {
+    "parent": 5205880,
+    "name": "Undealt - Thalen"
+  },
+  "5295780": {
+    "parent": 5205880,
+    "name": "Undealt - Veyra"
+  },
+  "5295800": {
+    "parent": 5205880,
+    "name": "Undealt - Lyriel"
+  },
+  "5295860": {
+    "parent": 2988050,
+    "name": "Little Red - Supporter Upgrade"
+  },
+  "5296080": {
+    "parent": 5205880,
+    "name": "Undealt - Gorak"
   }
 }
