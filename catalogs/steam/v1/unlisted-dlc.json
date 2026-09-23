@@ -985,7 +985,6 @@
       "260304": "Company of Heroes 2 - Free Weekend",
       "260305": "Company of Heroes 2 - The Western Front Armies",
       "260308": "Company of Heroes 2 - The Western Front Armies",
-      "260309": "Company of Heroes 2 - The Western Front Armies _MARKETING PAGE",
       "260310": "Company of Heroes 2 - German Commander: Close Air Support Doctrine",
       "260311": "Company of Heroes 2 - Soviet Commander: Advanced Warfare Tactics",
       "260312": "Company of Heroes 2 -  TWFA Pre Order",
@@ -1003,9 +1002,6 @@
       "260324": "Company of Heroes 2 - US Skin: (L) Winterized US Field Camouflage",
       "260325": "Company of Heroes 2 - US Skin: (M) Winterized US Field Camouflage",
       "260326": "Company of Heroes 2 - US Skin: (H) Winterized US Field Camouflage",
-      "287370": "COH2 - The Western Front Armies: US Forces",
-      "287371": "COH2 - The Western Front Armies: Oberkommando West",
-      "317850": "Company of Heroes 2 - Ardennes Assault",
       "344250": "Company of Heroes 2 - Soviet Skin: (L) Three Color Leningrad Front",
       "344251": "Company of Heroes 2 - Soviet Skin: (M) Three Color Leningrad Front",
       "344252": "Company of Heroes 2 - Soviet Skin: (H) Three Color Leningrad Front",
@@ -1051,7 +1047,6 @@
       "344424": "Company of Heroes 2 - Soviet Skin: (H) Makeshift Sand Southern Front",
       "344650": "Company of Heroes 2 - German Skin: (M) Field Applied Whitewash Pattern",
       "344662": "Company of Heroes 2 - German Skin: (M) Three Color Disruptive Pattern",
-      "365820": "Company of Heroes 2 - The British Forces",
       "371840": "Company of Heroes 2 - USF - Forward Assault Company",
       "371841": "Company of Heroes 2 - OKW - Firestorm Doctrine",
       "371842": "Company of Heroes 2 - USF - Tactical Support Company",
@@ -1125,8 +1120,7 @@
   },
   "236850": {
     "dlcs": {
-      "834360": "Europa Universalis IV: Ultimate Unit Pack",
-      "957010": "Europa Universalis IV: Dharma Collection - Terminating 103673"
+      "834360": "Europa Universalis IV: Ultimate Unit Pack"
     }
   },
   "240540": {
@@ -7120,11 +7114,6 @@
   "2206150": {
     "dlcs": {
       "2221720": "Hot And Lovely ：Charm - adult patch"
-    }
-  },
-  "2215790": {
-    "dlcs": {
-      "3200600": "Supporter Edition"
     }
   },
   "2224630": {

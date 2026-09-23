@@ -13,25 +13,15 @@ spec.loader.exec_module(catalog)
 
 
 class CatalogTests(unittest.TestCase):
-    def test_curated_fallback_shrinks_when_product_info_is_found(self):
-        manual = {"2": {"dlcs": {"30": "curated", "40": "still missing", "50": "better name"}}}
+    def test_catalog_keeps_only_unlisted_ids(self):
         records = {
-            "30": {"parent": 2, "name": "PICS name"},
-            "50": {"parent": 2, "name": "DLC 50"},
+            "30": {"parent": 2, "name": " PICS name "},
+            "40": {"parent": 2, "name": "on Store DLC page"},
+            "10": {"parent": 1, "name": "in Store app list"},
+            "20": {"parent": 1, "name": "in base game product info"},
         }
-        self.assertEqual(catalog.unresolved_manual(manual, records), {
-            "2": {"dlcs": {"40": "still missing", "50": "better name"}},
-        })
-
-    def test_catalog_keeps_only_unlisted_ids_and_curated_names(self):
-        records = {
-            "30": {"parent": 2, "name": "PICS name"},
-            "10": {"parent": 1, "name": "visible"},
-            "20": {"parent": 1, "name": "hidden"},
-        }
-        manual = {"2": {"dlcs": {"30": "Curated name", "40": "manual only"}}}
-        self.assertEqual(catalog.build_catalog(records, manual, {10}, {1: {20}}, {2: {40}}), {
-            "2": {"dlcs": {"30": "Curated name"}},
+        self.assertEqual(catalog.build_catalog(records, {10}, {1: {20}}, {2: {40}}), {
+            "2": {"dlcs": {"30": "PICS name"}},
         })
 
     def test_scan_repeats_safely_and_wraps_only_at_ceiling(self):
@@ -56,6 +46,10 @@ class CatalogTests(unittest.TestCase):
                     "next_app_id": 1, "completed_passes": 1,
                 })
                 self.assertEqual(set(json.loads(records.read_text())), {"1", "3"})
+
+                catalog.scan(2, 10, Path("scanner.dll"), frontier=True)
+                self.assertEqual(json.loads(cursor.read_text())["next_app_id"], 1)
+                self.assertEqual(set(json.loads(records.read_text())), {"1", "3", "9"})
 
 
 if __name__ == "__main__":
