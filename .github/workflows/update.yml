@@ -67,7 +67,8 @@ jobs:
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
         run: |
-          python scripts/unlisted_catalog.py publish
+          python scripts/unlisted_catalog.py publish \
+            --scanner tools/PicsScanner/bin/Release/net10.0/PicsScanner.dll
           git add catalogs/steam/v1/unlisted-dlc.json
           if ! git diff --cached --quiet; then
             git commit -m "Update unlisted Steam DLC catalog"

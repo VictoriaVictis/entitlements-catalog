@@ -20,8 +20,7 @@ class CatalogTests(unittest.TestCase):
             "20": {"parent": 1, "name": "hidden"},
         }
         manual = {"2": {"dlcs": {"30": "Curated name", "40": "manual only"}}}
-        self.assertEqual(catalog.build_catalog(records, manual, {10, 40}), {
-            "1": {"dlcs": {"20": "hidden"}},
+        self.assertEqual(catalog.build_catalog(records, manual, {10}, {1: {20}}, {2: {40}}), {
             "2": {"dlcs": {"30": "Curated name"}},
         })
 

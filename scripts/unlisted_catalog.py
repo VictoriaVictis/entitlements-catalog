@@ -1,6 +1,7 @@
 """Discover DLC via Steam product info and publish only Store-unlisted IDs."""
 
 import argparse
+import concurrent.futures
 import json
 import os
 import subprocess
@@ -137,7 +138,9 @@ def scan(count, ceiling, scanner):
           f"next {1 if wrapped else start + size}")
 
 
-def build_catalog(records, manual, visible):
+def build_catalog(records, manual, visible, base_references=None, store_references=None):
+    base_references = base_references or {}
+    store_references = store_references or {}
     combined = {}
     for dlc_id, item in records.items():
         combined[int(dlc_id)] = (int(item["parent"]), str(item["name"]).strip())
@@ -147,7 +150,8 @@ def build_catalog(records, manual, visible):
             combined[int(dlc_id)] = (int(parent_id), str(name).strip())
     result = {}
     for dlc_id, (parent_id, name) in sorted(combined.items()):
-        if dlc_id in visible:
+        if (dlc_id in visible or dlc_id in base_references.get(parent_id, ())
+                or dlc_id in store_references.get(parent_id, ())):
             continue
         if dlc_id <= 0 or parent_id <= 0 or not name:
             raise ValueError(f"Invalid DLC record: {dlc_id}")
@@ -158,11 +162,51 @@ def build_catalog(records, manual, visible):
     }
 
 
-def publish():
+def base_dlc_references(parents, scanner):
+    with tempfile.TemporaryDirectory() as temp:
+        input_path = Path(temp) / "parents.json"
+        output_path = Path(temp) / "references.json"
+        input_path.write_text(json.dumps(sorted(parents)), encoding="utf-8")
+        subprocess.run(["dotnet", str(scanner), "--references", str(input_path), str(output_path)], check=True)
+        data = read_json(output_path, None)
+    if data is None or not isinstance(data.get("references"), dict):
+        raise RuntimeError("scanner did not return base DLC references")
+    return {int(parent): set(map(int, ids)) for parent, ids in data["references"].items()}
+
+
+def store_dlc_references(parents):
+    def fetch(parent):
+        url = f"https://store.steampowered.com/dlc/{parent}/ajaxgetdlclist?cc=us&l=english"
+        for attempt in range(3):
+            try:
+                request = urllib.request.Request(url, headers={"User-Agent": "entitlements-catalog/2"})
+                with urllib.request.urlopen(request, timeout=20) as response:
+                    data = json.load(response)
+                if int(data.get("success", 0)) != 1:
+                    return parent, None
+                return parent, {int(item["appid"]) for item in data.get("dlcs", [])}
+            except (urllib.error.URLError, TimeoutError, ValueError, KeyError):
+                if attempt < 2:
+                    time.sleep(1 << attempt)
+        return parent, None
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+        results = dict(pool.map(fetch, parents))
+    failures = sum(ids is None for ids in results.values())
+    if failures:
+        print(f"Store DLC pages unavailable for {failures} games; retaining their candidates", file=sys.stderr)
+    return {parent: ids for parent, ids in results.items() if ids is not None}
+
+
+def publish(scanner):
     records = read_json(RECORDS, {})
     manual = read_json(MANUAL, {})
     visible = store_app_ids()
-    output = build_catalog(records, manual, visible)
+    parents = {int(item["parent"]) for item in records.values()} | set(map(int, manual))
+    base_references = base_dlc_references(parents, scanner)
+    candidates = build_catalog(records, manual, visible, base_references)
+    store_references = store_dlc_references(map(int, candidates))
+    output = build_catalog(records, manual, visible, base_references, store_references)
     write_json(OUTPUT, output)
     print(f"Published {sum(len(item['dlcs']) for item in output.values())} "
           f"unlisted DLC IDs across {len(output)} games")
@@ -177,7 +221,8 @@ def main():
     scan_cmd.add_argument("--count", type=int, default=100000)
     scan_cmd.add_argument("--ceiling", type=int, required=True)
     scan_cmd.add_argument("--scanner", type=Path, required=True)
-    commands.add_parser("publish", help="publish PICS and curated IDs absent from Store")
+    publish_cmd = commands.add_parser("publish", help="publish DLC absent from client discovery sources")
+    publish_cmd.add_argument("--scanner", type=Path, required=True)
     args = parser.parse_args()
     if args.command == "ceiling":
         ids = store_app_ids(include_all=True)
@@ -188,7 +233,7 @@ def main():
     elif args.command == "scan":
         scan(args.count, args.ceiling, args.scanner)
     else:
-        publish()
+        publish(args.scanner)
 
 
 if __name__ == "__main__":
