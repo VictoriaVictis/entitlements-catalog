@@ -50,9 +50,19 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           for ((i=0; i<SEGMENTS; i++)); do
-            python scripts/unlisted_catalog.py scan \
-              --count 100000 --ceiling "$ceiling" \
-              --scanner tools/PicsScanner/bin/Release/net10.0/PicsScanner.dll
+            for ((attempt=1; attempt<=3; attempt++)); do
+              if python scripts/unlisted_catalog.py scan \
+                --count 100000 --ceiling "$ceiling" \
+                --scanner tools/PicsScanner/bin/Release/net10.0/PicsScanner.dll; then
+                break
+              fi
+              if (( attempt == 3 )); then
+                echo "scan failed after 3 attempts; last checkpoint remains on the branch" >&2
+                exit 1
+              fi
+              echo "scan attempt $attempt failed; reconnecting in $((15 * attempt)) seconds" >&2
+              sleep $((15 * attempt))
+            done
             git add state/steam/pics_scan.json state/steam/pics_dlcs.json
             if ! git diff --cached --quiet; then
               git commit -m "Checkpoint Steam product-info scan"
