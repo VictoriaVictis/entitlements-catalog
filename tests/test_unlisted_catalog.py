@@ -24,6 +24,27 @@ class CatalogTests(unittest.TestCase):
             "2": {"dlcs": {"30": "PICS name"}},
         })
 
+    def test_shards_mirror_the_catalog(self):
+        with tempfile.TemporaryDirectory() as temp:
+            shards = Path(temp)
+            (shards / "7.json").write_text('{"dlcs": {"8": "gone"}}', encoding="utf-8")
+            catalog.write_shards({
+                "2": {"dlcs": {"30": "hidden"}},
+                "5": {"dlcs": {"50": "other"}},
+            }, shards)
+            self.assertEqual(sorted(path.name for path in shards.iterdir()), ["2.json", "5.json"])
+            self.assertEqual(json.loads((shards / "2.json").read_text(encoding="utf-8")),
+                             {"dlcs": {"30": "hidden"}})
+
+            unchanged = (shards / "5.json").stat().st_mtime_ns
+            catalog.write_shards({
+                "2": {"dlcs": {"30": "hidden", "31": "new"}},
+                "5": {"dlcs": {"50": "other"}},
+            }, shards)
+            self.assertEqual(json.loads((shards / "2.json").read_text(encoding="utf-8"))["dlcs"],
+                             {"30": "hidden", "31": "new"})
+            self.assertEqual((shards / "5.json").stat().st_mtime_ns, unchanged)
+
     def test_scan_repeats_safely_and_wraps_only_at_ceiling(self):
         with tempfile.TemporaryDirectory() as temp:
             state = Path(temp)

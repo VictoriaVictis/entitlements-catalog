@@ -19,6 +19,8 @@ STATE = ROOT / "state" / "steam"
 CURSOR = STATE / "pics_scan.json"
 RECORDS = STATE / "pics_dlcs.json"
 OUTPUT = ROOT / "catalogs" / "steam" / "v1" / "unlisted-dlc.json"
+# One {"dlcs": {...}} file per base game, so a client downloads only its own entry.
+SHARDS = ROOT / "catalogs" / "steam" / "v1" / "unlisted-dlc"
 STORE_API = "https://api.steampowered.com/IStoreService/GetAppList/v1/"
 
 
@@ -158,6 +160,20 @@ def build_catalog(records, visible, base_references=None, store_references=None)
     }
 
 
+def write_shards(output, directory=None):
+    """Write one file per base game; remove files of games no longer listed."""
+    directory = directory or SHARDS
+    directory.mkdir(parents=True, exist_ok=True)
+    for app_id, entry in output.items():
+        path = directory / f"{app_id}.json"
+        # Unchanged files are left alone so each publish commits only real changes.
+        if read_json(path, None) != entry:
+            write_json(path, entry)
+    for path in directory.glob("*.json"):
+        if path.stem not in output:
+            path.unlink()
+
+
 def base_dlc_references(parents, scanner):
     with tempfile.TemporaryDirectory() as temp:
         input_path = Path(temp) / "parents.json"
@@ -215,6 +231,7 @@ def publish(scanner):
     store_references = store_dlc_references(map(int, candidates))
     output = build_catalog(records, visible, base_references, store_references)
     write_json(OUTPUT, output)
+    write_shards(output)
     print(f"Published {sum(len(item['dlcs']) for item in output.values())} "
           f"unlisted DLC IDs across {len(output)} games")
 

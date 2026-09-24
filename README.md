@@ -12,6 +12,11 @@ base game's PICS `listofdlc`/depot references. Its format is
 
 The catalog contains only DLC the client cannot obtain through these sources.
 
+Publishing also writes one file per base game,
+`catalogs/steam/v1/unlisted-dlc/<base_app_id>.json`, holding that game's
+`{"dlcs": {dlc_id: name}}` entry, so a client can fetch only the game it runs.
+A game without unlisted DLC has no file.
+
 ## Discovery
 
 `tools/PicsScanner` queries anonymous Steam PICS product info in consecutive
