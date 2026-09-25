@@ -338489,7 +338489,7 @@
   },
   "5170410": {
     "parent": 4898790,
-    "name": "Crosstalk: The Minimal Instruction Set Computer"
+    "name": "Crosstalk: The DANGLING Computer Superarchitecture"
   },
   "5170560": {
     "parent": 1374860,
@@ -339083,6 +339083,10 @@
     "parent": 801550,
     "name": "VAIL VR Ionwave Character and Weapon Skin Bundle"
   },
+  "5217390": {
+    "parent": 5180840,
+    "name": "Goliath Rogue - Supporter pack"
+  },
   "5217520": {
     "parent": 1355100,
     "name": "Witch Please Artbook"
@@ -339134,6 +339138,10 @@
   "5222280": {
     "parent": 5036970,
     "name": "AFKTower - The Court of the Night"
+  },
+  "5224130": {
+    "parent": 2195910,
+    "name": "Darkenstein 3D: Total Trampage"
   },
   "5224590": {
     "parent": 2176130,
@@ -339287,6 +339295,10 @@
     "parent": 1264710,
     "name": "Love and Sex: Second Base - Cupid's game"
   },
+  "5241370": {
+    "parent": 2475460,
+    "name": "SOS OPS! - OVERBOOKED"
+  },
   "5241500": {
     "parent": 1498550,
     "name": "Infinity: HexaDome - Gata Legends & BeatBox"
@@ -339419,6 +339431,10 @@
     "parent": 4263880,
     "name": "Kepler 186F - Voice Pack: Linda"
   },
+  "5256550": {
+    "parent": 3971950,
+    "name": "In Falsus - Virtual Singers Song Pack"
+  },
   "5257000": {
     "parent": 4263880,
     "name": "Kepler 186F - Voice Pack: Ms. Rabbit"
@@ -339451,6 +339467,10 @@
     "parent": 5117590,
     "name": "Skeleton Island: Speed Boots"
   },
+  "5260690": {
+    "parent": 5079510,
+    "name": "ソウルテイマー: 砂暦の都"
+  },
   "5261440": {
     "parent": 5117590,
     "name": "Skeleton Island: Magic Jetpack"
@@ -339470,6 +339490,10 @@
   "5262060": {
     "parent": 5198810,
     "name": "Idler Coin Pusher - Roulette Infinity"
+  },
+  "5264050": {
+    "parent": 5079510,
+    "name": "ソウルテイマー:裂空の航路"
   },
   "5264730": {
     "parent": 3817640,
@@ -339515,6 +339539,14 @@
     "parent": 5007850,
     "name": "Puzzles Tools Artbook"
   },
+  "5270380": {
+    "parent": 3222640,
+    "name": "Wild West Pioneers - Official Companion"
+  },
+  "5270390": {
+    "parent": 3222640,
+    "name": "Wild West Pioneers - Official Cookbook"
+  },
   "5271300": {
     "parent": 4964780,
     "name": "Puzzles Trees Artbook"
@@ -339542,6 +339574,18 @@
   "5275540": {
     "parent": 2255310,
     "name": "Px2d - Three Kingdoms Theme - Side-scrolling Character - Expansion Pack 001"
+  },
+  "5276200": {
+    "parent": 2463560,
+    "name": "The Ripe Blood Anthology: This World Is Just for the Two of Us - Supporter Pack"
+  },
+  "5278160": {
+    "parent": 1403650,
+    "name": "Everdream Valley - Coloring Pages"
+  },
+  "5278170": {
+    "parent": 1403650,
+    "name": "Everdream Valley - Official Artbook"
   },
   "5281220": {
     "parent": 4181340,
@@ -339678,5 +339722,25 @@
   "5313820": {
     "parent": 4943020,
     "name": "DeskFamiliar - RIVET Character Pack"
+  },
+  "5314200": {
+    "parent": 3995560,
+    "name": "Настоящие пазлы - Сказочные домики"
+  },
+  "5314670": {
+    "parent": 5229750,
+    "name": "Blackout - Night Vision"
+  },
+  "5315710": {
+    "parent": 5196540,
+    "name": "DAWN OF THE ROTTEN ONLINE"
+  },
+  "5317350": {
+    "parent": 4432150,
+    "name": "Soulstonia - Summoner Expansion"
+  },
+  "5320070": {
+    "parent": 1478980,
+    "name": "Pinball Pirates With Fire and Sword"
   }
 }
