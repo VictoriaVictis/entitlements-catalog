@@ -338763,6 +338763,10 @@
     "parent": 5088340,
     "name": "The Team Seven - Director DLC"
   },
+  "5188110": {
+    "parent": 4898790,
+    "name": "Crosstalk: House of the Hacker"
+  },
   "5188120": {
     "parent": 4898790,
     "name": "Crosstalk: Terminal Insanity"
@@ -338951,6 +338955,10 @@
     "parent": 4603410,
     "name": "NeuralBeat Studio: AI FX Studio"
   },
+  "5207480": {
+    "parent": 2980270,
+    "name": "Hackhub: Bug Bounty"
+  },
   "5207820": {
     "parent": 3106240,
     "name": "Rich & Youn: Calendar 2027"
@@ -339022,6 +339030,10 @@
   "5213790": {
     "parent": 4651910,
     "name": "新人修女蕾蒂希雅 - Artbook"
+  },
+  "5213830": {
+    "parent": 1706510,
+    "name": "Songs of Glimmerwick - Supporter Pack"
   },
   "5213860": {
     "parent": 897330,
@@ -339150,6 +339162,10 @@
   "5225030": {
     "parent": 4277000,
     "name": "大凶 - 开发者支持包"
+  },
+  "5225260": {
+    "parent": 4682560,
+    "name": "VaultBox - Video Generation"
   },
   "5225420": {
     "parent": 5066400,
@@ -339307,6 +339323,10 @@
     "parent": 4961110,
     "name": "NEVER TURN BACK - Chapter 2: The Forest"
   },
+  "5242530": {
+    "parent": 1696950,
+    "name": "Scottside - Supporter Pack"
+  },
   "5243420": {
     "parent": 2893580,
     "name": "AI-VJ - Egyptians Visuals"
@@ -339318,6 +339338,10 @@
   "5243840": {
     "parent": 2618160,
     "name": "Legends of Starkadia Supporter Pack"
+  },
+  "5243870": {
+    "parent": 1302240,
+    "name": "Labyrinthine: Lost in the Sands"
   },
   "5244530": {
     "parent": 5227040,
@@ -339467,6 +339491,10 @@
     "parent": 5117590,
     "name": "Skeleton Island: Speed Boots"
   },
+  "5260330": {
+    "parent": 4964730,
+    "name": "MapCity United Kingdom"
+  },
   "5260690": {
     "parent": 5079510,
     "name": "ソウルテイマー: 砂暦の都"
@@ -339587,6 +339615,18 @@
     "parent": 1403650,
     "name": "Everdream Valley - Official Artbook"
   },
+  "5280220": {
+    "parent": 5084200,
+    "name": "Task Bar Cube: Character Pack"
+  },
+  "5280250": {
+    "parent": 5084200,
+    "name": "Task Bar Cube: Support Package"
+  },
+  "5280270": {
+    "parent": 5084200,
+    "name": "Task Bar Cube: Inventory Package"
+  },
   "5281220": {
     "parent": 4181340,
     "name": "The Anomaly Detective - Support Pack"
@@ -339619,6 +339659,10 @@
     "parent": 3879850,
     "name": "Catharage Supporter Pack"
   },
+  "5285480": {
+    "parent": 3845830,
+    "name": "Glass Masquerade 4: Constellations - Tarots"
+  },
   "5286770": {
     "parent": 5070160,
     "name": "无为修仙传‑红颜仙途"
@@ -339639,9 +339683,17 @@
     "parent": 4946460,
     "name": "Journeybound Idle - Anime Portrait Pack"
   },
+  "5290570": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - Bohr Builder"
+  },
   "5290800": {
     "parent": 4655940,
     "name": "Eternal Eden™ Resurgence Randomizer"
+  },
+  "5292390": {
+    "parent": 4600990,
+    "name": "Clash of Crests - Eaters of the Dead"
   },
   "5294380": {
     "parent": 4612490,
@@ -339703,6 +339755,10 @@
     "parent": 5120160,
     "name": "Proximity - Supporter Pack"
   },
+  "5304050": {
+    "parent": 4600990,
+    "name": "Clash of Crests - Dangers and Wonders"
+  },
   "5306080": {
     "parent": 5305500,
     "name": "StickType - StickLady"
@@ -339719,9 +339775,21 @@
     "parent": 3980450,
     "name": "Настоящие пазлы - Лагуна"
   },
+  "5310000": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - Cutpoint"
+  },
+  "5313190": {
+    "parent": 4599500,
+    "name": "Dotty Bead: Wonders of the Brass Machine"
+  },
   "5313820": {
     "parent": 4943020,
     "name": "DeskFamiliar - RIVET Character Pack"
+  },
+  "5313840": {
+    "parent": 4947900,
+    "name": "증강 윷놀이 - 무지개 이름"
   },
   "5314200": {
     "parent": 3995560,
@@ -339742,5 +339810,9 @@
   "5320070": {
     "parent": 1478980,
     "name": "Pinball Pirates With Fire and Sword"
+  },
+  "5321170": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - Laser Sneks"
   }
 }
