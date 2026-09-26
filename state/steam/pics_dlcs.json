@@ -339391,6 +339391,10 @@
     "parent": 2987180,
     "name": "ACTION GAME MAKER - Dusk of the Elves Orchestral Dark fantasy Music Pack"
   },
+  "5246550": {
+    "parent": 5063200,
+    "name": "我在地狱等着你-美术音源素材包"
+  },
   "5246590": {
     "parent": 837510,
     "name": "Pixel Game Maker MV - Dusk of the Elves Orchestral Dark fantasy Music Pack"
@@ -339414,6 +339418,10 @@
   "5249080": {
     "parent": 342200,
     "name": "MechWarrior Online™ - Corvus Legendary Mech Pack"
+  },
+  "5249360": {
+    "parent": 5249350,
+    "name": "Hedge Knight - Supporter Pack"
   },
   "5249470": {
     "parent": 5247380,
@@ -339498,6 +339506,10 @@
   "5260690": {
     "parent": 5079510,
     "name": "ソウルテイマー: 砂暦の都"
+  },
+  "5261390": {
+    "parent": 3816000,
+    "name": "Flowers and Deities - Thief Prince Expansion Pack"
   },
   "5261440": {
     "parent": 5117590,
@@ -339614,6 +339626,10 @@
   "5278170": {
     "parent": 1403650,
     "name": "Everdream Valley - Official Artbook"
+  },
+  "5278720": {
+    "parent": 4414270,
+    "name": "PawMart Tiny Market - Supporter Pack"
   },
   "5280220": {
     "parent": 5084200,
@@ -339739,6 +339755,10 @@
     "parent": 4898790,
     "name": "Crosstalk: The Experiments of the Connectome"
   },
+  "5299290": {
+    "parent": 5247100,
+    "name": "Ammerow: Lands Beyond — The Expedition Collection"
+  },
   "5299680": {
     "parent": 5230000,
     "name": "Splash Park Tycoon - Supporter Pack"
@@ -339755,6 +339775,10 @@
     "parent": 5120160,
     "name": "Proximity - Supporter Pack"
   },
+  "5303420": {
+    "parent": 5005680,
+    "name": "CatPoker猫扑克-FoundationPack创始人礼包"
+  },
   "5304050": {
     "parent": 4600990,
     "name": "Clash of Crests - Dangers and Wonders"
@@ -339770,6 +339794,14 @@
   "5306100": {
     "parent": 5305500,
     "name": "StickType - Colors"
+  },
+  "5307150": {
+    "parent": 5304340,
+    "name": "Spirit Gems - Supporter Pack"
+  },
+  "5307860": {
+    "parent": 5016220,
+    "name": "Pixel Airport Tycoon 3D - Aircraft Pack 2"
   },
   "5309750": {
     "parent": 3980450,
