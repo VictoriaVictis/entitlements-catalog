@@ -338769,7 +338769,7 @@
   },
   "5188120": {
     "parent": 4898790,
-    "name": "Crosstalk: Terminal Insanity"
+    "name": "Crosstalk: Terminal Insanity Legacy"
   },
   "5188340": {
     "parent": 4340600,
@@ -338926,6 +338926,10 @@
   "5202160": {
     "parent": 769560,
     "name": "月圆之夜 - 命定的猎手（经典模式）"
+  },
+  "5202650": {
+    "parent": 3218710,
+    "name": "Everlusting Life - Mascot Kalahiki"
   },
   "5202830": {
     "parent": 2315050,
@@ -339323,6 +339327,10 @@
     "parent": 1498550,
     "name": "Infinity: HexaDome - Gata Legends & BeatBox"
   },
+  "5241570": {
+    "parent": 3832490,
+    "name": "Antivirus Survivors 2003 Professional: Supporter's Pack"
+  },
   "5241870": {
     "parent": 4961110,
     "name": "NEVER TURN BACK - Chapter 2: The Forest"
@@ -339523,6 +339531,10 @@
     "parent": 4964730,
     "name": "MapCity United Kingdom"
   },
+  "5260390": {
+    "parent": 5255400,
+    "name": "Animate Desktop - Supporter Pack"
+  },
   "5260690": {
     "parent": 5079510,
     "name": "ソウルテイマー: 砂暦の都"
@@ -339622,6 +339634,10 @@
   "5273670": {
     "parent": 3896680,
     "name": "Quick Translate - BYOK"
+  },
+  "5273740": {
+    "parent": 2866670,
+    "name": "NBA The Run - 2000's Legends"
   },
   "5273920": {
     "parent": 4754110,
@@ -339771,6 +339787,10 @@
     "parent": 2988050,
     "name": "Little Red - Supporter Upgrade"
   },
+  "5296050": {
+    "parent": 897330,
+    "name": "Coloring Pixels - Halloween 8 Pack"
+  },
   "5296080": {
     "parent": 5205880,
     "name": "Undealt - Gorak"
@@ -339878,5 +339898,9 @@
   "5321170": {
     "parent": 4281680,
     "name": "Cambell's Oddity Box - Laser Sneks"
+  },
+  "5324200": {
+    "parent": 5019660,
+    "name": "Run, Jesus, Run! - Creator Live Icon Pack"
   }
 }
