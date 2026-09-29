@@ -339823,6 +339823,10 @@
     "parent": 5005680,
     "name": "CatPoker猫扑克-FoundationPack创始人礼包"
   },
+  "5303750": {
+    "parent": 5303740,
+    "name": "One More Wave - Three More Planes"
+  },
   "5304050": {
     "parent": 4600990,
     "name": "Clash of Crests - Dangers and Wonders"
@@ -339850,6 +339854,10 @@
   "5307860": {
     "parent": 5016220,
     "name": "Pixel Airport Tycoon 3D - Aircraft Pack 2"
+  },
+  "5309730": {
+    "parent": 3496510,
+    "name": "AI Roommate: Legacy Full Access"
   },
   "5309750": {
     "parent": 3980450,
@@ -339902,5 +339910,13 @@
   "5324200": {
     "parent": 5019660,
     "name": "Run, Jesus, Run! - Creator Live Icon Pack"
+  },
+  "5344650": {
+    "parent": 470220,
+    "name": "Uno - Legacy Edition - 2026 - Ubisoft Activation"
+  },
+  "5344660": {
+    "parent": 470220,
+    "name": "Uno - Ultimate Edition - 2026 - Ubisoft Activation"
   }
 }
