@@ -338407,6 +338407,10 @@
     "parent": 4340510,
     "name": "Alehundred - Full Game Unlock"
   },
+  "5162180": {
+    "parent": 5105650,
+    "name": "Love, Death & My Daughter - Supporter Pack"
+  },
   "5162230": {
     "parent": 4590700,
     "name": "HiFi Streamer Pro - Lumen Visualizer Plugin"
@@ -338454,6 +338458,18 @@
   "5167130": {
     "parent": 4650440,
     "name": "スイカゲーム ぷらねっと 太陽系"
+  },
+  "5167410": {
+    "parent": 1912410,
+    "name": "Minecraft Dungeons II Deluxe Upgrade"
+  },
+  "5167590": {
+    "parent": 3428880,
+    "name": "BRIO World - Railway: Horse Ranch"
+  },
+  "5167600": {
+    "parent": 3428880,
+    "name": "BRIO World - Railway: Police & Metro"
   },
   "5168100": {
     "parent": 4819300,
@@ -338810,6 +338826,10 @@
   "5191110": {
     "parent": 3363810,
     "name": "Hidden Dogs - Tricks & Treats"
+  },
+  "5191250": {
+    "parent": 620980,
+    "name": "Beat Saber - ROSÉ & Bruno Mars - APT."
   },
   "5192150": {
     "parent": 460930,
@@ -339179,6 +339199,10 @@
     "parent": 5066400,
     "name": "Desktop Halfpipe - Halfpipe Pocket: Roast Story"
   },
+  "5225660": {
+    "parent": 5060630,
+    "name": "Baseball Bat Hero: Premium Ultra Extreme Definitive Edition"
+  },
   "5225960": {
     "parent": 65800,
     "name": "Dungeon Defenders - Retro Mecha E.V. Skin"
@@ -339467,6 +339491,10 @@
     "parent": 65800,
     "name": "Dungeon Defenders - Samurai Guardian Skin"
   },
+  "5254320": {
+    "parent": 65800,
+    "name": "Dungeon Defenders - Forest Fairy Warden Skin"
+  },
   "5254970": {
     "parent": 4439670,
     "name": "GOBBLE - Sights and Sounds Art Book"
@@ -339591,6 +339619,14 @@
     "parent": 4912480,
     "name": "ePaperCraft SHIRYU - Multilingual Manual"
   },
+  "5269530": {
+    "parent": 2321470,
+    "name": "Deep Rock Galactic: Survivor - Knockout Expansion"
+  },
+  "5269540": {
+    "parent": 1732430,
+    "name": "Neighbors: Suburban Warfare - Early Access Backer Rewards"
+  },
   "5269770": {
     "parent": 4657600,
     "name": "ONLY FARMS 🍑 - wallpapers 18+"
@@ -339646,6 +339682,10 @@
   "5274470": {
     "parent": 2255310,
     "name": "Px2d - Journey to the West Theme Character Expansion Pack 001"
+  },
+  "5275110": {
+    "parent": 4600990,
+    "name": "Clash of Crests - Wallace, The Lion of the North"
   },
   "5275540": {
     "parent": 2255310,
@@ -339819,6 +339859,10 @@
     "parent": 5120160,
     "name": "Proximity - Supporter Pack"
   },
+  "5301660": {
+    "parent": 5034300,
+    "name": "Cosmo Cat - Supporter Pack"
+  },
   "5303420": {
     "parent": 5005680,
     "name": "CatPoker猫扑克-FoundationPack创始人礼包"
@@ -339863,9 +339907,17 @@
     "parent": 3980450,
     "name": "Настоящие пазлы - Лагуна"
   },
+  "5309860": {
+    "parent": 2845790,
+    "name": "Life as a Lich — Pantheon of Bones"
+  },
   "5310000": {
     "parent": 4281680,
     "name": "Cambell's Oddity Box - Cutpoint"
+  },
+  "5311220": {
+    "parent": 2615290,
+    "name": "Mostroscopy - Ankhnubis & Dr. Lovelace"
   },
   "5313190": {
     "parent": 4599500,
@@ -339886,6 +339938,10 @@
   "5314670": {
     "parent": 5229750,
     "name": "Blackout - Night Vision"
+  },
+  "5315060": {
+    "parent": 5314260,
+    "name": "Freakopoly - Task Editor"
   },
   "5315710": {
     "parent": 5196540,
@@ -339910,6 +339966,14 @@
   "5324200": {
     "parent": 5019660,
     "name": "Run, Jesus, Run! - Creator Live Icon Pack"
+  },
+  "5324920": {
+    "parent": 4281270,
+    "name": "Geobeast - Atlas ancien"
+  },
+  "5324930": {
+    "parent": 4281270,
+    "name": "Geobeast - Planète bleue"
   },
   "5344650": {
     "parent": 470220,
