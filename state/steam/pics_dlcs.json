@@ -338443,6 +338443,10 @@
     "parent": 2367470,
     "name": "Jigsaw Puzzle World - Greece"
   },
+  "5165030": {
+    "parent": 4685090,
+    "name": "Hold'em Fold'em Poker - Cheat Pack!"
+  },
   "5165260": {
     "parent": 4602410,
     "name": "Union Max Guidebook"
@@ -339087,6 +339091,10 @@
     "parent": 4144680,
     "name": "DOA6LR Hitomi Stahltradition: Jade"
   },
+  "5214010": {
+    "parent": 4791250,
+    "name": "電卓 - Desktop Mate Widgets 重音テト DLC"
+  },
   "5214260": {
     "parent": 3079210,
     "name": "Field Supply: Helicopter Survival Vest & SPH-4 Patriot"
@@ -339250,6 +339258,10 @@
   "5229410": {
     "parent": 5198120,
     "name": "Femboy Apocalypse Wallpaper Pack"
+  },
+  "5230150": {
+    "parent": 4685090,
+    "name": "Hold'em Fold'em Poker - Shithead Pack!"
   },
   "5230190": {
     "parent": 5009270,
@@ -339619,6 +339631,10 @@
     "parent": 4912480,
     "name": "ePaperCraft SHIRYU - Multilingual Manual"
   },
+  "5268610": {
+    "parent": 3171380,
+    "name": "Shenaniguns - Magic"
+  },
   "5269530": {
     "parent": 2321470,
     "name": "Deep Rock Galactic: Survivor - Knockout Expansion"
@@ -339691,9 +339707,21 @@
     "parent": 2255310,
     "name": "Px2d - Three Kingdoms Theme - Side-scrolling Character - Expansion Pack 001"
   },
+  "5276140": {
+    "parent": 526870,
+    "name": "Core Values Expansion"
+  },
   "5276200": {
     "parent": 2463560,
     "name": "The Ripe Blood Anthology: This World Is Just for the Two of Us - Supporter Pack"
+  },
+  "5276890": {
+    "parent": 5271360,
+    "name": "ChessGuardians - Lichess.org"
+  },
+  "5276900": {
+    "parent": 5271360,
+    "name": "ChessGuardians - Chess.com"
   },
   "5278160": {
     "parent": 1403650,
@@ -339706,6 +339734,10 @@
   "5278720": {
     "parent": 4414270,
     "name": "PawMart Tiny Market - Supporter Pack"
+  },
+  "5278910": {
+    "parent": 5277750,
+    "name": "REUNITE! Artbook"
   },
   "5280220": {
     "parent": 5084200,
@@ -339899,6 +339931,10 @@
     "parent": 5016220,
     "name": "Pixel Airport Tycoon 3D - Aircraft Pack 2"
   },
+  "5309410": {
+    "parent": 4516310,
+    "name": "Clicker Complex: Vira’s Private Stream - Endless Summer"
+  },
   "5309730": {
     "parent": 3496510,
     "name": "AI Roommate: Legacy Full Access"
@@ -339947,6 +339983,10 @@
     "parent": 5196540,
     "name": "DAWN OF THE ROTTEN ONLINE"
   },
+  "5316730": {
+    "parent": 5033710,
+    "name": "Yume Tenshi Artbook"
+  },
   "5317350": {
     "parent": 4432150,
     "name": "Soulstonia - Summoner Expansion"
@@ -339974,6 +340014,14 @@
   "5324930": {
     "parent": 4281270,
     "name": "Geobeast - Planète bleue"
+  },
+  "5331590": {
+    "parent": 5145270,
+    "name": "Silicon Sprint: Data Center Incremental - Supporter Pack"
+  },
+  "5332230": {
+    "parent": 5012890,
+    "name": "Three Nights: Moonfall - Blood Moon Edition"
   },
   "5344650": {
     "parent": 470220,
