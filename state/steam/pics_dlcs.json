@@ -338655,6 +338655,10 @@
     "parent": 2959890,
     "name": "Idol of the town"
   },
+  "5179960": {
+    "parent": 4678210,
+    "name": "Little Elementals - The Oopsie Pack"
+  },
   "5180220": {
     "parent": 5118620,
     "name": "Fort Providence"
@@ -338866,6 +338870,10 @@
   "5193950": {
     "parent": 3990270,
     "name": "Touhou Random Tower Defense - Character Pack2"
+  },
+  "5194700": {
+    "parent": 4955820,
+    "name": "autocycle-light - Premium Skins & Heads"
   },
   "5194830": {
     "parent": 4803740,
@@ -339211,6 +339219,10 @@
     "parent": 2195910,
     "name": "Darkenstein 3D: Total Trampage"
   },
+  "5224430": {
+    "parent": 1602000,
+    "name": "Hotel Architect - Poolside Paradise"
+  },
   "5224590": {
     "parent": 2176130,
     "name": "Tower! Simulator 3 - PHOG Airport"
@@ -339375,6 +339387,10 @@
     "parent": 1264710,
     "name": "Love and Sex: Second Base - Cupid's game"
   },
+  "5241320": {
+    "parent": 2367470,
+    "name": "Jigsaw Puzzle World - Dolphins & Whales"
+  },
   "5241370": {
     "parent": 2475460,
     "name": "SOS OPS! - OVERBOOKED"
@@ -339487,9 +339503,17 @@
     "parent": 5248190,
     "name": "Hell Healers - Supporter Pack"
   },
+  "5248280": {
+    "parent": 2211170,
+    "name": "Unrailed 2: Back on Track – On-Board Bistro"
+  },
   "5248710": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Mini-Dungeons Bundle #061-065"
+  },
+  "5248770": {
+    "parent": 2661300,
+    "name": "Grounded 2 - Cereal Promotional Pack"
   },
   "5249080": {
     "parent": 342200,
@@ -339659,6 +339683,10 @@
     "parent": 3171380,
     "name": "Shenaniguns - Magic"
   },
+  "5269390": {
+    "parent": 3366710,
+    "name": "Color-A-Cube - Horror Pack Deluxe"
+  },
   "5269530": {
     "parent": 2321470,
     "name": "Deep Rock Galactic: Survivor - Knockout Expansion"
@@ -339666,6 +339694,18 @@
   "5269540": {
     "parent": 1732430,
     "name": "Neighbors: Suburban Warfare - Early Access Backer Rewards"
+  },
+  "5269570": {
+    "parent": 3144230,
+    "name": "Modern Warships - Pirate's Spirit Bundle"
+  },
+  "5269580": {
+    "parent": 3144230,
+    "name": "Modern Warships - Sands of Destiny Bundle"
+  },
+  "5269590": {
+    "parent": 3144230,
+    "name": "Modern Warships - Crown & Shadows Bundle"
   },
   "5269770": {
     "parent": 4657600,
@@ -339755,6 +339795,14 @@
     "parent": 2463560,
     "name": "The Ripe Blood Anthology: This World Is Just for the Two of Us - Supporter Pack"
   },
+  "5276400": {
+    "parent": 2808930,
+    "name": "Lust Goddess — Mascot Morana Halloween"
+  },
+  "5276410": {
+    "parent": 2808930,
+    "name": "Lust Goddess — Mascot Salma Halloween"
+  },
   "5276890": {
     "parent": 5271360,
     "name": "ChessGuardians - Lichess.org"
@@ -339774,6 +339822,10 @@
   "5278720": {
     "parent": 4414270,
     "name": "PawMart Tiny Market - Supporter Pack"
+  },
+  "5278860": {
+    "parent": 3176720,
+    "name": "Royalty Free-For-All: Wet Floor Guys DLC"
   },
   "5278910": {
     "parent": 5277750,
@@ -339831,6 +339883,14 @@
     "parent": 2463560,
     "name": "The Ripe Blood Anthology: This World Is Just for the Two of Us - In Pursuit of Perfection"
   },
+  "5283750": {
+    "parent": 3948760,
+    "name": "Find My Frogs: Branches - Paper"
+  },
+  "5283820": {
+    "parent": 2067820,
+    "name": "RetroSpace Artbook"
+  },
   "5284590": {
     "parent": 3879850,
     "name": "Catharage Supporter Pack"
@@ -339838,6 +339898,10 @@
   "5284690": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Carcass Crawler Issue #1 - The official Old- School Essentials Zine"
+  },
+  "5285330": {
+    "parent": 1932360,
+    "name": "Death Duel VR - Light Infantry Pack"
   },
   "5285480": {
     "parent": 3845830,
@@ -339850,6 +339914,18 @@
   "5286770": {
     "parent": 5070160,
     "name": "无为修仙传‑红颜仙途"
+  },
+  "5286820": {
+    "parent": 1426440,
+    "name": "MICROVOLTS: Recharged - 2026 AUTUMN SEASON Starter Pack : Platinum"
+  },
+  "5286830": {
+    "parent": 1426440,
+    "name": "MICROVOLTS: Recharged - 2026 AUTUMN SEASON Starter Pack : Gold"
+  },
+  "5286840": {
+    "parent": 1426440,
+    "name": "MICROVOLTS: Recharged - 2026 AUTUMN SEASON Starter Pack : Silver"
   },
   "5287380": {
     "parent": 4587610,
@@ -339870,6 +339946,10 @@
   "5287800": {
     "parent": 3347110,
     "name": "全城追缉3-画质增强包"
+  },
+  "5288340": {
+    "parent": 3921360,
+    "name": "DEFLATE - Rhythm Composer 808 Original Track Pack"
   },
   "5288720": {
     "parent": 4517460,
@@ -339902,6 +339982,10 @@
   "5291640": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Treasury of the Orient"
+  },
+  "5291720": {
+    "parent": 5221540,
+    "name": "Emojix - Artbook"
   },
   "5292390": {
     "parent": 4600990,
@@ -339951,6 +340035,10 @@
     "parent": 5205880,
     "name": "Undealt - Gorak"
   },
+  "5296150": {
+    "parent": 2772990,
+    "name": "Spooky Pass"
+  },
   "5297190": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Dragonlance: Dragons of Hope"
@@ -339995,6 +340083,10 @@
     "parent": 4600990,
     "name": "Clash of Crests - Dangers and Wonders"
   },
+  "5305210": {
+    "parent": 4967790,
+    "name": "Catson Files: Wizard Town - Support Pack"
+  },
   "5306040": {
     "parent": 5098640,
     "name": "Screen Regions Premium"
@@ -340014,6 +340106,14 @@
   "5307150": {
     "parent": 5304340,
     "name": "Spirit Gems - Supporter Pack"
+  },
+  "5307370": {
+    "parent": 2211170,
+    "name": "Unrailed 2: Back on Track – Fun n'Games Item Pack"
+  },
+  "5307380": {
+    "parent": 3530820,
+    "name": "Puzzling Places - Monthly Pack #48 - Harvest Season"
   },
   "5307860": {
     "parent": 5016220,
@@ -340127,6 +340227,18 @@
     "parent": 5142170,
     "name": "VHS Chaos - Supporter Pack"
   },
+  "5326840": {
+    "parent": 1478980,
+    "name": "Pinball Pirates Dances With Mohicans"
+  },
+  "5327080": {
+    "parent": 2451010,
+    "name": "PROJECT HUNT - .45-70 Frontier Access Pack"
+  },
+  "5327110": {
+    "parent": 4291130,
+    "name": "Professional Chef - Pizza Pack"
+  },
   "5329930": {
     "parent": 2255310,
     "name": "Px2d - Character Footwear - Expansion Pack 001"
@@ -340143,6 +340255,18 @@
     "parent": 5012890,
     "name": "Three Nights: Moonfall - Blood Moon Edition"
   },
+  "5333230": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Cosmere - Mistborn Scenarios"
+  },
+  "5335460": {
+    "parent": 5024350,
+    "name": "WICK - Founder's Pack"
+  },
+  "5338130": {
+    "parent": 2578400,
+    "name": "Bible Trivia - Exodus"
+  },
   "5341570": {
     "parent": 2578400,
     "name": "Bible Trivia – Dynasties"
@@ -340154,5 +340278,13 @@
   "5344660": {
     "parent": 470220,
     "name": "Uno - Ultimate Edition - 2026 - Ubisoft Activation"
+  },
+  "5348570": {
+    "parent": 3980450,
+    "name": "Настоящие пазлы - Каньоны: Лагуна (изображения)"
+  },
+  "5350480": {
+    "parent": 3995560,
+    "name": "Настоящие пазлы - Париж: Сказочные домики (изображения)"
   }
 }
