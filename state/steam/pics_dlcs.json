@@ -339339,6 +339339,10 @@
     "parent": 5084590,
     "name": "StarryNightTeaParty - Windows Cursor"
   },
+  "5232700": {
+    "parent": 5156550,
+    "name": "The Inkspire – Character Expansion Pack"
+  },
   "5232920": {
     "parent": 5226040,
     "name": "Taskbar Armory - Supporter Pack"
@@ -339350,6 +339354,10 @@
   "5236240": {
     "parent": 2999500,
     "name": "STUNTBOOST - Supporter Pack"
+  },
+  "5236770": {
+    "parent": 4157130,
+    "name": "Dark Pals: The 2nd Floor"
   },
   "5237010": {
     "parent": 3639070,
@@ -339563,6 +339571,18 @@
     "parent": 5255280,
     "name": "Beluga Polo - All Content"
   },
+  "5255460": {
+    "parent": 5248290,
+    "name": "Roomy - FoodandDrinkPack"
+  },
+  "5255480": {
+    "parent": 5248290,
+    "name": "Roomy - LivingPack"
+  },
+  "5255490": {
+    "parent": 5248290,
+    "name": "Roomy - OfficePack"
+  },
   "5255770": {
     "parent": 4263880,
     "name": "Kepler 186F - Voice Pack: Linda"
@@ -339678,6 +339698,14 @@
   "5266170": {
     "parent": 4912480,
     "name": "ePaperCraft SHIRYU - Multilingual Manual"
+  },
+  "5266820": {
+    "parent": 5248290,
+    "name": "Roomy - Residential Pack"
+  },
+  "5266830": {
+    "parent": 5248290,
+    "name": "Roomy - Victorian Pack"
   },
   "5268610": {
     "parent": 3171380,
@@ -339854,6 +339882,18 @@
   "5280270": {
     "parent": 5084200,
     "name": "Task Bar Cube: Inventory Package"
+  },
+  "5280360": {
+    "parent": 4149910,
+    "name": "Guildamation - Zyrella the Succubus DLC"
+  },
+  "5280380": {
+    "parent": 4149910,
+    "name": "Guildamation - Golden Appearance"
+  },
+  "5280410": {
+    "parent": 4149910,
+    "name": "Guildamation - Black Appearance"
   },
   "5281220": {
     "parent": 4181340,
@@ -340083,6 +340123,10 @@
     "parent": 4600990,
     "name": "Clash of Crests - Dangers and Wonders"
   },
+  "5304380": {
+    "parent": 5248290,
+    "name": "Roomy - Fishing"
+  },
   "5305210": {
     "parent": 4967790,
     "name": "Catson Files: Wizard Town - Support Pack"
@@ -340102,6 +340146,10 @@
   "5306100": {
     "parent": 5305500,
     "name": "StickType - Colors"
+  },
+  "5306480": {
+    "parent": 3496510,
+    "name": "AI Roommate: Paws at Home"
   },
   "5307150": {
     "parent": 5304340,
@@ -340211,6 +340259,10 @@
     "parent": 2176130,
     "name": "Tower! Simulator 3 - EGGD Airport"
   },
+  "5322050": {
+    "parent": 4774660,
+    "name": "Book Organizer - DLC"
+  },
   "5324200": {
     "parent": 5019660,
     "name": "Run, Jesus, Run! - Creator Live Icon Pack"
@@ -340263,9 +340315,25 @@
     "parent": 5024350,
     "name": "WICK - Founder's Pack"
   },
+  "5337430": {
+    "parent": 4050310,
+    "name": "Dead by Instinct - Supporter Upgrade"
+  },
   "5338130": {
     "parent": 2578400,
     "name": "Bible Trivia - Exodus"
+  },
+  "5339510": {
+    "parent": 4599500,
+    "name": "Dotty Bead: Wonders of the Campervan Life"
+  },
+  "5340300": {
+    "parent": 5339360,
+    "name": "Your Cat - Cat exercise wheel"
+  },
+  "5340320": {
+    "parent": 5339360,
+    "name": "Your Cat - Fish tank"
   },
   "5341570": {
     "parent": 2578400,
@@ -340279,9 +340347,21 @@
     "parent": 470220,
     "name": "Uno - Ultimate Edition - 2026 - Ubisoft Activation"
   },
+  "5347120": {
+    "parent": 5062990,
+    "name": "Shatranj Puzzles - Endgames Pack"
+  },
+  "5348330": {
+    "parent": 5248290,
+    "name": "Roomy - Horror Pack"
+  },
   "5348570": {
     "parent": 3980450,
     "name": "Настоящие пазлы - Каньоны: Лагуна (изображения)"
+  },
+  "5350300": {
+    "parent": 3898800,
+    "name": "Toy Town Mayhem - Supporter Pack!"
   },
   "5350480": {
     "parent": 3995560,
