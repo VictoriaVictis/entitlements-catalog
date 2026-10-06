@@ -340051,6 +340051,62 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Grim Tokens - Broken Oaths"
   },
+  "5291400": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Unknown Normality"
+  },
+  "5291410": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Pieces of Cake"
+  },
+  "5291420": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Sugar Crush"
+  },
+  "5291430": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Eggster Mania"
+  },
+  "5291440": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Expérience 64"
+  },
+  "5291450": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Mechanical turk"
+  },
+  "5291470": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Patch Day No Play"
+  },
+  "5291480": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Don't feed the Troll"
+  },
+  "5291500": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Cursed Wins"
+  },
+  "5291510": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Gambit One can you be"
+  },
+  "5291520": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Magnum Opus"
+  },
+  "5291530": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Go for Broke"
+  },
+  "5291540": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Shadow Work"
+  },
+  "5291550": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - DarkChess"
+  },
   "5291640": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Treasury of the Orient"
@@ -340067,9 +340123,41 @@
     "parent": 4612490,
     "name": "Original Oil Paintings 終末生徒 The Last Student"
   },
+  "5294390": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Endgame Theory"
+  },
+  "5294400": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Touch It Play It"
+  },
   "5294430": {
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - Sicilian Squad"
+  },
+  "5294440": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Mask of Bishop"
+  },
+  "5294450": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Cool Board Game"
+  },
+  "5294460": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Classic Forever"
+  },
+  "5294470": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Battle for Olympus"
+  },
+  "5294480": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Faster Higher Stronger"
+  },
+  "5294490": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Deep Blue TimeMind"
   },
   "5294560": {
     "parent": 3623530,
@@ -340130,6 +340218,10 @@
   "5299290": {
     "parent": 5247100,
     "name": "Ammerow: Lands Beyond — The Expedition Collection"
+  },
+  "5299490": {
+    "parent": 5084060,
+    "name": "Button Down: Lost & Found Pack"
   },
   "5299680": {
     "parent": 5230000,
@@ -340363,6 +340455,10 @@
     "parent": 5012890,
     "name": "Three Nights: Moonfall - Blood Moon Edition"
   },
+  "5332490": {
+    "parent": 3634590,
+    "name": "Coloring Voxels - Halloween 2 Pack"
+  },
   "5333230": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Cosmere - Mistborn Scenarios"
@@ -340371,9 +340467,41 @@
     "parent": 5024350,
     "name": "WICK - Founder's Pack"
   },
+  "5337200": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Happy Bird Day"
+  },
+  "5337210": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Daily Reality"
+  },
+  "5337220": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Put a Tiger in Your Engine"
+  },
+  "5337240": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Rook & Roll"
+  },
+  "5337330": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Lux No Money No Honey"
+  },
+  "5337340": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Sacrifice of God mode"
+  },
+  "5337350": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Empire of New Age"
+  },
   "5337430": {
     "parent": 4050310,
     "name": "Dead by Instinct - Supporter Upgrade"
+  },
+  "5337920": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Captain Zoo"
   },
   "5338130": {
     "parent": 2578400,
@@ -340419,6 +340547,10 @@
     "parent": 5248290,
     "name": "Roomy - Horror Pack"
   },
+  "5348550": {
+    "parent": 381210,
+    "name": "Dead by Daylight: Charity Chest"
+  },
   "5348570": {
     "parent": 3980450,
     "name": "Настоящие пазлы - Каньоны: Лагуна (изображения)"
@@ -340438,5 +340570,17 @@
   "5360040": {
     "parent": 2116280,
     "name": "Lady of Dreams - Legacy Supporter"
+  },
+  "5362370": {
+    "parent": 5036700,
+    "name": "Pixel Coloring World – Journey to Japan Vol. 4"
+  },
+  "5368650": {
+    "parent": 4220670,
+    "name": "THE DOUBLE - CHAPTER 3"
+  },
+  "5368660": {
+    "parent": 4220670,
+    "name": "THE DOUBLE - CHAPTER 4 || FINAL"
   }
 }
