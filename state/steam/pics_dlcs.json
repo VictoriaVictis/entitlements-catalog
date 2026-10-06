@@ -339055,6 +339055,10 @@
     "parent": 1551160,
     "name": "Combat Mission: Cold War - Battle Pack"
   },
+  "5210340": {
+    "parent": 552620,
+    "name": "ATOM RPG - Plague Island"
+  },
   "5210440": {
     "parent": 4898790,
     "name": "Crosstalk: Cubejuggler"
@@ -340391,6 +340395,10 @@
     "parent": 2578400,
     "name": "Bible Trivia – Dynasties"
   },
+  "5344580": {
+    "parent": 5342780,
+    "name": "喵～该工作啦！ Nya! Back to Work - 开发者支持包 1 / Supporter Pack 1"
+  },
   "5344650": {
     "parent": 470220,
     "name": "Uno - Legacy Edition - 2026 - Ubisoft Activation"
@@ -340422,5 +340430,13 @@
   "5350480": {
     "parent": 3995560,
     "name": "Настоящие пазлы - Париж: Сказочные домики (изображения)"
+  },
+  "5358550": {
+    "parent": 5333290,
+    "name": "GRID DEFENSE: GRID WAR - Full Access"
+  },
+  "5360040": {
+    "parent": 2116280,
+    "name": "Lady of Dreams - Legacy Supporter"
   }
 }
