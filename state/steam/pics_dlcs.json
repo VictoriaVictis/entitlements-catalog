@@ -339535,6 +339535,10 @@
     "parent": 5063200,
     "name": "我在地狱等着你-美术音源素材包"
   },
+  "5246570": {
+    "parent": 1868140,
+    "name": "DAVE THE DIVER - Subnautica 2 Content Pack"
+  },
   "5246590": {
     "parent": 837510,
     "name": "Pixel Game Maker MV - Dusk of the Elves Orchestral Dark fantasy Music Pack"
@@ -339622,6 +339626,10 @@
   "5254330": {
     "parent": 65800,
     "name": "Dungeon Defenders - Kijo Summoner Skin"
+  },
+  "5254880": {
+    "parent": 1957780,
+    "name": "Ghosts of Tabor - Liquid Death DLC"
   },
   "5254970": {
     "parent": 4439670,
@@ -339810,6 +339818,10 @@
   "5269390": {
     "parent": 3366710,
     "name": "Color-A-Cube - Horror Pack Deluxe"
+  },
+  "5269470": {
+    "parent": 1097580,
+    "name": "CUSTOM ORDER MAID 3D2 Empire Maid Cafe NTR Side 1 & Side 2"
   },
   "5269530": {
     "parent": 2321470,
@@ -340147,6 +340159,10 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Grim Tokens - Broken Oaths"
   },
+  "5291210": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - London System"
+  },
   "5291220": {
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - CheckMate in Five"
@@ -340163,9 +340179,17 @@
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - Song of FreeStyle"
   },
+  "5291270": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Wasted Potential"
+  },
   "5291280": {
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - Blunder Accuracy"
+  },
+  "5291300": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - CrossOver CosPlay"
   },
   "5291400": {
     "parent": 3823570,
@@ -340326,6 +340350,14 @@
   "5297190": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Dragonlance: Dragons of Hope"
+  },
+  "5297300": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Angel of Love and Death"
+  },
+  "5297580": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - The Gate of Worlds - Level-6"
   },
   "5298170": {
     "parent": 4898790,
@@ -340511,6 +340543,10 @@
     "parent": 4848100,
     "name": "Blood Without a Name: Roads of Veyrath"
   },
+  "5321130": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Risk it all for Love"
+  },
   "5321170": {
     "parent": 4281680,
     "name": "Cambell's Oddity Box - Laser Sneks"
@@ -340647,6 +340683,10 @@
     "parent": 2255310,
     "name": "Px2d - Character Footwear - Expansion Pack 001"
   },
+  "5330830": {
+    "parent": 4256040,
+    "name": "Frog Garden Prop Hat - Supporter DLC"
+  },
   "5331170": {
     "parent": 4977360,
     "name": "Lowmoor - Supporter Pack"
@@ -340755,6 +340795,10 @@
     "parent": 5062990,
     "name": "Shatranj Puzzles - Endgames Pack"
   },
+  "5347270": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - GemSnap"
+  },
   "5347850": {
     "parent": 5070160,
     "name": "无为修仙传‑狂龙现世"
@@ -340771,6 +340815,10 @@
     "parent": 3980450,
     "name": "Настоящие пазлы - Каньоны: Лагуна (изображения)"
   },
+  "5349440": {
+    "parent": 4936770,
+    "name": "Puzzles Meteorites Artbook"
+  },
   "5350300": {
     "parent": 3898800,
     "name": "Toy Town Mayhem - Supporter Pack!"
@@ -340778,6 +340826,14 @@
   "5350480": {
     "parent": 3995560,
     "name": "Настоящие пазлы - Париж: Сказочные домики (изображения)"
+  },
+  "5356600": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Dungeon Crawl Classics #113: Temple of the Blind Sultan"
+  },
+  "5357570": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Mutant Crawl Classics #6: The Apocalypse Ark"
   },
   "5358550": {
     "parent": 5333290,
@@ -340790,6 +340846,10 @@
   "5362370": {
     "parent": 5036700,
     "name": "Pixel Coloring World – Journey to Japan Vol. 4"
+  },
+  "5362830": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Pathfinder(R) for Savage Worlds: Carrion Crown Boxed Set"
   },
   "5364390": {
     "parent": 4685090,
@@ -340811,12 +340871,40 @@
     "parent": 4220670,
     "name": "THE DOUBLE - CHAPTER 4 || FINAL"
   },
+  "5370700": {
+    "parent": 1478980,
+    "name": "Pinball Fantasy Zombie Halloween Express"
+  },
+  "5370800": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - City Of Heroes"
+  },
+  "5371970": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Pathfinder 2 RPG - Lost Omens: Cheliax, Infernal Inheritance"
+  },
   "5373410": {
     "parent": 5358610,
     "name": "Desktop Cozy Cat Tree – Water Park"
   },
+  "5374070": {
+    "parent": 3690030,
+    "name": "The Last Gas Station: Winter Resort"
+  },
   "5374940": {
     "parent": 5229930,
     "name": "Supporter Pack"
+  },
+  "5375600": {
+    "parent": 5242160,
+    "name": "TWENTY+ Full Access"
+  },
+  "5376060": {
+    "parent": 1478980,
+    "name": "Sailor Strong: Iron Fist Fight Pinball"
+  },
+  "5377970": {
+    "parent": 1478980,
+    "name": "Musketeers All For One and One For All Pinball"
   }
 }
