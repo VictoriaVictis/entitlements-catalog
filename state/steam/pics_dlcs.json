@@ -339459,6 +339459,10 @@
     "parent": 2893580,
     "name": "AI-VJ - Cyber Punk Visuals"
   },
+  "5243440": {
+    "parent": 2893580,
+    "name": "AI-VJ - Biolumine Visuals"
+  },
   "5243840": {
     "parent": 2618160,
     "name": "Legends of Starkadia Supporter Pack"
@@ -339626,6 +339630,10 @@
   "5253680": {
     "parent": 635260,
     "name": "CarX Drift Racing Online - FreshX"
+  },
+  "5254180": {
+    "parent": 2808930,
+    "name": "Lust Goddess — Mascot Diya"
   },
   "5254310": {
     "parent": 65800,
@@ -339995,6 +340003,10 @@
     "parent": 1403650,
     "name": "Everdream Valley - Official Artbook"
   },
+  "5278410": {
+    "parent": 4710740,
+    "name": "高难规则包"
+  },
   "5278720": {
     "parent": 4414270,
     "name": "PawMart Tiny Market - Supporter Pack"
@@ -340203,6 +340215,14 @@
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - CrossOver CosPlay"
   },
+  "5291370": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Eternal Soulmate"
+  },
+  "5291390": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Raid Over Life"
+  },
   "5291400": {
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - Unknown Normality"
@@ -340282,6 +340302,10 @@
   "5294400": {
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - Touch It Play It"
+  },
+  "5294420": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Castle Before Break"
   },
   "5294430": {
     "parent": 3823570,
@@ -340422,6 +340446,10 @@
   "5304050": {
     "parent": 4600990,
     "name": "Clash of Crests - Dangers and Wonders"
+  },
+  "5304330": {
+    "parent": 5159730,
+    "name": "Touhou Garden of the Yukkuri - Supporter Pack"
   },
   "5304380": {
     "parent": 5248290,
@@ -340719,6 +340747,10 @@
     "parent": 3634590,
     "name": "Coloring Voxels - Halloween 2 Pack"
   },
+  "5332860": {
+    "parent": 3374640,
+    "name": "Crown Of Hispania Digital Artbook"
+  },
   "5333230": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Cosmere - Mistborn Scenarios"
@@ -340726,6 +340758,10 @@
   "5335460": {
     "parent": 5024350,
     "name": "WICK - Founder's Pack"
+  },
+  "5336320": {
+    "parent": 1478980,
+    "name": "Pinball Pirate Fantasy Gladiators"
   },
   "5337200": {
     "parent": 3823570,
@@ -340738,6 +340774,10 @@
   "5337220": {
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - Put a Tiger in Your Engine"
+  },
+  "5337230": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Fashion Victory"
   },
   "5337240": {
     "parent": 3823570,
@@ -340767,6 +340807,10 @@
     "parent": 4617230,
     "name": "Retail Rivals: Kitchen Chaos"
   },
+  "5337900": {
+    "parent": 3823570,
+    "name": "Choc Tactic for Chess Master - Flower Power"
+  },
   "5337920": {
     "parent": 3823570,
     "name": "Choc Tactic for Chess Master - Captain Zoo"
@@ -340795,6 +340839,10 @@
     "parent": 2578400,
     "name": "Bible Trivia – Dynasties"
   },
+  "5343790": {
+    "parent": 1803390,
+    "name": "Bounty Drag Racing - Pro Mod Pack 8"
+  },
   "5344580": {
     "parent": 5342780,
     "name": "喵～该工作啦！ Nya! Back to Work - 开发者支持包 1 / Supporter Pack 1"
@@ -340807,9 +340855,25 @@
     "parent": 470220,
     "name": "Uno - Ultimate Edition - 2026 - Ubisoft Activation"
   },
+  "5345310": {
+    "parent": 2254990,
+    "name": "Permafrost - Official Companion"
+  },
+  "5345320": {
+    "parent": 2254990,
+    "name": "Permafrost - Official Cookbook"
+  },
   "5345380": {
     "parent": 3301060,
     "name": "Desktop Mate IA DLC"
+  },
+  "5346770": {
+    "parent": 2254990,
+    "name": "Frozen Metropolis - A Permafrost Novel"
+  },
+  "5347030": {
+    "parent": 2964090,
+    "name": "World of Warships: Legends – Rage Unbound"
   },
   "5347120": {
     "parent": 5062990,
@@ -340859,6 +340923,10 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Dungeon Crawl Classics #113: Temple of the Blind Sultan"
   },
+  "5357220": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Clockwork Dice Pack"
+  },
   "5357570": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Mutant Crawl Classics #6: The Apocalypse Ark"
@@ -340867,6 +340935,10 @@
     "parent": 5333290,
     "name": "GRID DEFENSE: GRID WAR - Full Access"
   },
+  "5359960": {
+    "parent": 4710400,
+    "name": "Deep Sea Fish - Devil's Triangle"
+  },
   "5360020": {
     "parent": 5232290,
     "name": "Puzzle Algae Artbook"
@@ -340874,6 +340946,22 @@
   "5360040": {
     "parent": 2116280,
     "name": "Lady of Dreams - Legacy Supporter"
+  },
+  "5362180": {
+    "parent": 3742720,
+    "name": "Sobakistan: The Land of Dogs - Comic book"
+  },
+  "5362190": {
+    "parent": 3742720,
+    "name": "Sobakistan: Pups - Comic book"
+  },
+  "5362200": {
+    "parent": 3742720,
+    "name": "Sobakistan: The Process - Comic book"
+  },
+  "5362210": {
+    "parent": 3742720,
+    "name": "Sobakistan: The Garden of Bones - Comic book"
   },
   "5362370": {
     "parent": 5036700,
@@ -340890,6 +340978,10 @@
   "5365600": {
     "parent": 5227040,
     "name": "Cozy Jigsaw - Anime"
+  },
+  "5367770": {
+    "parent": 3973780,
+    "name": "GORA - Ranch Wardens"
   },
   "5368330": {
     "parent": 2367470,
@@ -340946,5 +341038,13 @@
   "5377970": {
     "parent": 1478980,
     "name": "Musketeers All For One and One For All Pinball"
+  },
+  "5383230": {
+    "parent": 4600990,
+    "name": "Clash of Crests - The Friar's Scepter"
+  },
+  "5392460": {
+    "parent": 4749880,
+    "name": "Desktop Bouncer - Zumball Spinners"
   }
 }
