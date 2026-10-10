@@ -339419,6 +339419,10 @@
     "parent": 1425000,
     "name": "EndlessAlice: Alice Yukata"
   },
+  "5240540": {
+    "parent": 4267800,
+    "name": "塔防山贼模拟器 - 支持者包 Supporters Pack"
+  },
   "5240850": {
     "parent": 1422130,
     "name": "SimRail - The Railway Simulator: BR 285"
@@ -339667,6 +339671,10 @@
     "parent": 5248290,
     "name": "Roomy - FoodandDrinkPack"
   },
+  "5255470": {
+    "parent": 5248290,
+    "name": "Roomy - KitchenandShopsPack"
+  },
   "5255480": {
     "parent": 5248290,
     "name": "Roomy - LivingPack"
@@ -339834,6 +339842,10 @@
   "5268610": {
     "parent": 3171380,
     "name": "Shenaniguns - Magic"
+  },
+  "5268900": {
+    "parent": 2016590,
+    "name": "Dark and Darker - EAS11 Seasonal Pack"
   },
   "5269390": {
     "parent": 3366710,
@@ -340383,6 +340395,10 @@
     "parent": 2772990,
     "name": "Spooky Pass"
   },
+  "5296290": {
+    "parent": 1379670,
+    "name": "Crash'em Derby - Halloween Paint Job Pack"
+  },
   "5297190": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Dragonlance: Dragons of Hope"
@@ -340426,6 +340442,10 @@
   "5301660": {
     "parent": 5034300,
     "name": "Cosmo Cat - Supporter Pack"
+  },
+  "5302280": {
+    "parent": 3700410,
+    "name": "Scope: Nightmare Elites Pack"
   },
   "5302660": {
     "parent": 5198140,
@@ -340563,6 +340583,30 @@
     "parent": 5196540,
     "name": "DAWN OF THE ROTTEN ONLINE"
   },
+  "5315930": {
+    "parent": 4823890,
+    "name": "Gold Edition Visual Pack"
+  },
+  "5315940": {
+    "parent": 4823890,
+    "name": "Space Aliens Pack"
+  },
+  "5315950": {
+    "parent": 4823890,
+    "name": "Retro Card Art Pack"
+  },
+  "5315970": {
+    "parent": 4823890,
+    "name": "Seasonal Holiday Themes Pack"
+  },
+  "5315980": {
+    "parent": 4823890,
+    "name": "Premium Card Backs Pack"
+  },
+  "5315990": {
+    "parent": 4823890,
+    "name": "Premium Table Themes Pack"
+  },
   "5316390": {
     "parent": 777130,
     "name": "Blush Blush - Beard Bundle"
@@ -340574,6 +340618,14 @@
   "5317350": {
     "parent": 4432150,
     "name": "Soulstonia - Summoner Expansion"
+  },
+  "5319930": {
+    "parent": 4504390,
+    "name": "Game Pulse - 1983 Season Set"
+  },
+  "5319940": {
+    "parent": 4504390,
+    "name": "Game Pulse - 2015 Season Set"
   },
   "5320070": {
     "parent": 1478980,
@@ -340915,6 +340967,10 @@
     "parent": 3995560,
     "name": "Настоящие пазлы - Париж: Сказочные домики (изображения)"
   },
+  "5353520": {
+    "parent": 2581950,
+    "name": "Tiny Aquarium: Creepy Waters Supporter's Pack"
+  },
   "5356560": {
     "parent": 3875890,
     "name": "Darkway: Lore of the City of Ink"
@@ -340946,6 +341002,10 @@
   "5360040": {
     "parent": 2116280,
     "name": "Lady of Dreams - Legacy Supporter"
+  },
+  "5361320": {
+    "parent": 4904220,
+    "name": "The Shed"
   },
   "5362180": {
     "parent": 3742720,
@@ -341043,8 +341103,36 @@
     "parent": 4600990,
     "name": "Clash of Crests - The Friar's Scepter"
   },
+  "5388580": {
+    "parent": 5249210,
+    "name": "NekoTrak - Support Pack"
+  },
+  "5389010": {
+    "parent": 5389000,
+    "name": "Infinite Night 2 - Barbarian"
+  },
+  "5389020": {
+    "parent": 5389000,
+    "name": "Infinite Night 2 - Mage"
+  },
+  "5389030": {
+    "parent": 5389000,
+    "name": "Infinite Night 2 - Necromancer"
+  },
+  "5389290": {
+    "parent": 5208510,
+    "name": "Embersong: History Is Yours - New Blood, Old Empires"
+  },
   "5392460": {
     "parent": 4749880,
     "name": "Desktop Bouncer - Zumball Spinners"
+  },
+  "5392620": {
+    "parent": 5013430,
+    "name": "EZY Virtual TableTop Builder — Помощница Изи"
+  },
+  "5400220": {
+    "parent": 5358500,
+    "name": "Revving: Engine Simulator - Every Engine"
   }
 }
