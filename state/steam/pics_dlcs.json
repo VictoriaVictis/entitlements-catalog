@@ -340995,6 +340995,10 @@
     "parent": 2581950,
     "name": "Tiny Aquarium: Creepy Waters Supporter's Pack"
   },
+  "5355210": {
+    "parent": 5292700,
+    "name": "Scope Creep: The Board Game - Supporter Pack"
+  },
   "5356560": {
     "parent": 3875890,
     "name": "Darkway: Lore of the City of Ink"
@@ -341162,6 +341166,10 @@
   "5392620": {
     "parent": 5013430,
     "name": "EZY Virtual TableTop Builder — Помощница Изи"
+  },
+  "5396820": {
+    "parent": 5392600,
+    "name": "SPECTR: Rekindle the World - Prism Supporter Pack"
   },
   "5400220": {
     "parent": 5358500,
