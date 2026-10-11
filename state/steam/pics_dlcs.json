@@ -340475,6 +340475,10 @@
     "parent": 5248290,
     "name": "Roomy - Fishing"
   },
+  "5304810": {
+    "parent": 5060460,
+    "name": "Jack Achievements simulaotr guide"
+  },
   "5305210": {
     "parent": 4967790,
     "name": "Catson Files: Wizard Town - Support Pack"
@@ -340767,6 +340771,10 @@
     "parent": 1478980,
     "name": "Pinball Pirates Dances With Mohicans"
   },
+  "5327070": {
+    "parent": 2451010,
+    "name": "PROJECT HUNT - Double-Barrel Shotgun Pack"
+  },
   "5327080": {
     "parent": 2451010,
     "name": "PROJECT HUNT - .45-70 Frontier Access Pack"
@@ -340774,6 +340782,10 @@
   "5327110": {
     "parent": 4291130,
     "name": "Professional Chef - Pizza Pack"
+  },
+  "5327280": {
+    "parent": 5295220,
+    "name": "ORI 显卡加速 - Windows"
   },
   "5329680": {
     "parent": 4972270,
