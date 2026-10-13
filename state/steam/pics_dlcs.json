@@ -340947,6 +340947,10 @@
     "parent": 470220,
     "name": "Uno - Ultimate Edition - 2026 - Ubisoft Activation"
   },
+  "5344680": {
+    "parent": 5322620,
+    "name": "Follow Suit: Member"
+  },
   "5345310": {
     "parent": 2254990,
     "name": "Permafrost - Official Companion"
@@ -341039,6 +341043,10 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Mutant Crawl Classics #6: The Apocalypse Ark"
   },
+  "5357810": {
+    "parent": 5357680,
+    "name": "O'BLOCK - Complete Supporter Pack"
+  },
   "5358550": {
     "parent": 5333290,
     "name": "GRID DEFENSE: GRID WAR - Full Access"
@@ -341123,6 +341131,10 @@
     "parent": 3973780,
     "name": "GORA - Ranch Wardens"
   },
+  "5367950": {
+    "parent": 3511030,
+    "name": "Mini Cozy Room : Lo-Fi - Halloween Pack"
+  },
   "5368330": {
     "parent": 2367470,
     "name": "Jigsaw Puzzle World - Bicycles"
@@ -341159,6 +341171,10 @@
     "parent": 3690030,
     "name": "The Last Gas Station: Winter Resort"
   },
+  "5374840": {
+    "parent": 4437140,
+    "name": "if you stay - creator support pack"
+  },
   "5374940": {
     "parent": 5229930,
     "name": "Supporter Pack"
@@ -341187,9 +341203,17 @@
     "parent": 4600990,
     "name": "Clash of Crests - The Friar's Scepter"
   },
+  "5383520": {
+    "parent": 5227410,
+    "name": "RealSub Local Translation Model"
+  },
   "5385430": {
     "parent": 5191000,
     "name": "Тройной след: Пятый след (изображения)"
+  },
+  "5386580": {
+    "parent": 3314580,
+    "name": "Trash Day - Stinky Rich Supporter Pack"
   },
   "5388580": {
     "parent": 5249210,
