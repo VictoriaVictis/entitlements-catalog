@@ -339607,6 +339607,10 @@
     "parent": 5247380,
     "name": "Memory Wastes - Full Version"
   },
+  "5250300": {
+    "parent": 2828710,
+    "name": "Valor Mortis Deluxe Upgrade"
+  },
   "5250470": {
     "parent": 3769780,
     "name": "Among Us Ranked - Submerged"
@@ -339618,6 +339622,10 @@
   "5251140": {
     "parent": 4842670,
     "name": "PC FISH – Sunken Treasures Pack"
+  },
+  "5252210": {
+    "parent": 4803740,
+    "name": "Hansa Forever: Knarrs of Vikings"
   },
   "5252760": {
     "parent": 5198070,
@@ -340563,6 +340571,10 @@
     "parent": 2615290,
     "name": "Mostroscopy - Ankhnubis & Dr. Lovelace"
   },
+  "5311290": {
+    "parent": 5279790,
+    "name": "《只有她知曉光輝的名字》倒數壁紙及動畫原片"
+  },
   "5312600": {
     "parent": 5036700,
     "name": "Pixel Coloring World – Colorful Stories Vol. 1"
@@ -340823,6 +340835,10 @@
     "parent": 5145270,
     "name": "Silicon Sprint: Data Center Incremental - Supporter Pack"
   },
+  "5332130": {
+    "parent": 2590240,
+    "name": "METRO 2039 Deluxe Edition Upgrade"
+  },
   "5332230": {
     "parent": 5012890,
     "name": "Three Nights: Moonfall - Blood Moon Edition"
@@ -341023,6 +341039,10 @@
     "parent": 2581950,
     "name": "Tiny Aquarium: Creepy Waters Supporter's Pack"
   },
+  "5353670": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Off-Shoulder Sweater (Red)"
+  },
   "5355210": {
     "parent": 5292700,
     "name": "Scope Creep: The Board Game - Supporter Pack"
@@ -341066,6 +341086,10 @@
   "5361320": {
     "parent": 4904220,
     "name": "The Shed"
+  },
+  "5361900": {
+    "parent": 4882810,
+    "name": "BoxParty - Cardexa +"
   },
   "5362180": {
     "parent": 3742720,
@@ -341163,6 +341187,10 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Pathfinder 2 RPG - Lost Omens: Cheliax, Infernal Inheritance"
   },
+  "5372720": {
+    "parent": 5222830,
+    "name": "もにぶい / MONIV - 機能拡張パック"
+  },
   "5373410": {
     "parent": 5358610,
     "name": "Desktop Cozy Cat Tree – Water Park"
@@ -341199,6 +341227,10 @@
     "parent": 1478980,
     "name": "Musketeers All For One and One For All Pinball"
   },
+  "5378710": {
+    "parent": 4568300,
+    "name": "Sueños VS Pesadillas - Episode 1"
+  },
   "5383230": {
     "parent": 4600990,
     "name": "Clash of Crests - The Friar's Scepter"
@@ -341206,6 +341238,10 @@
   "5383520": {
     "parent": 5227410,
     "name": "RealSub Local Translation Model"
+  },
+  "5384810": {
+    "parent": 1137750,
+    "name": "Farmer's Life - Time to Celebrate DLC"
   },
   "5385430": {
     "parent": 5191000,
@@ -341235,6 +341271,10 @@
     "parent": 5208510,
     "name": "Embersong: History Is Yours - New Blood, Old Empires"
   },
+  "5389930": {
+    "parent": 3744080,
+    "name": "Mining Merchant - Dino Discovery"
+  },
   "5392460": {
     "parent": 4749880,
     "name": "Desktop Bouncer - Zumball Spinners"
@@ -341255,8 +341295,28 @@
     "parent": 4599500,
     "name": "Dotty Bead: Wonders of the Cloudy Candy House"
   },
+  "5398910": {
+    "parent": 2176130,
+    "name": "Tower! Simulator 3 - CYWG Airport"
+  },
   "5400220": {
     "parent": 5358500,
     "name": "Revving: Engine Simulator - Every Engine"
+  },
+  "5405770": {
+    "parent": 781000,
+    "name": "Mystic Space - Supporter Pack"
+  },
+  "5415270": {
+    "parent": 5325220,
+    "name": "DeskHugs: Desktop Friends - Supporter Pack 1"
+  },
+  "5415280": {
+    "parent": 5325220,
+    "name": "DeskHugs: Desktop Friends - Supporter Pack 2"
+  },
+  "5421190": {
+    "parent": 2807960,
+    "name": "Battlefield™ 6 Game of the Year Edition Marker"
   }
 }
