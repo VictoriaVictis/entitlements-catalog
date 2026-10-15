@@ -340127,6 +340127,10 @@
     "parent": 4771610,
     "name": "The Hidden Camp - Durin & Dance Music"
   },
+  "5283580": {
+    "parent": 1641960,
+    "name": "Forever Skies – Okapi Conservation Artifact"
+  },
   "5283710": {
     "parent": 2463560,
     "name": "The Ripe Blood Anthology: This World Is Just for the Two of Us - In Pursuit of Perfection"
@@ -340571,6 +340575,10 @@
     "parent": 5016220,
     "name": "Pixel Airport Tycoon 3D - Aircraft Pack 2"
   },
+  "5308330": {
+    "parent": 620980,
+    "name": "Beat Saber - Ray Parker Jr. - Ghostbusters"
+  },
   "5309410": {
     "parent": 4516310,
     "name": "Clicker Complex: Vira’s Private Stream - Endless Summer"
@@ -340602,6 +340610,10 @@
   "5311290": {
     "parent": 5279790,
     "name": "《只有她知曉光輝的名字》倒數壁紙及動畫原片"
+  },
+  "5311650": {
+    "parent": 1222300,
+    "name": "Into The Flames - Retro Truck Pack 3"
   },
   "5312600": {
     "parent": 5036700,
@@ -340867,6 +340879,10 @@
     "parent": 5295220,
     "name": "ORI 显卡加速 - Windows"
   },
+  "5328720": {
+    "parent": 4920310,
+    "name": "Ludus Deceptor – Divine Card"
+  },
   "5329680": {
     "parent": 4972270,
     "name": "修仙模拟器-「道友护持」"
@@ -340990,6 +341006,10 @@
   "5338130": {
     "parent": 2578400,
     "name": "Bible Trivia - Exodus"
+  },
+  "5338760": {
+    "parent": 4341650,
+    "name": "The Night We Met - Walkthrough"
   },
   "5339390": {
     "parent": 5315830,
@@ -341171,9 +341191,17 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Old-School Essentials Adventure Anthology 2"
   },
+  "5351800": {
+    "parent": 257730,
+    "name": "Infinity Wars - Supporter Pack"
+  },
   "5352060": {
     "parent": 4391870,
     "name": "Bounty Pro Pulling - Four Wheel Drive Pack 1"
+  },
+  "5353050": {
+    "parent": 1097580,
+    "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic Happy Funny October ALL in ONE Pack"
   },
   "5353120": {
     "parent": 3914300,
@@ -341246,6 +341274,10 @@
   "5361900": {
     "parent": 4882810,
     "name": "BoxParty - Cardexa +"
+  },
+  "5361960": {
+    "parent": 4685090,
+    "name": "Hold'em Fold'em Poker - Deep Freeze"
   },
   "5362180": {
     "parent": 3742720,
@@ -341419,6 +341451,42 @@
     "parent": 5277080,
     "name": "Bloom Blow - Lingering Scent"
   },
+  "5379760": {
+    "parent": 5302110,
+    "name": "搶孤 - 經驗加成"
+  },
+  "5379770": {
+    "parent": 5302110,
+    "name": "搶孤 - 戰鬥節奏倍率"
+  },
+  "5379780": {
+    "parent": 5302110,
+    "name": "搶孤 - 功德加成"
+  },
+  "5379790": {
+    "parent": 5302110,
+    "name": "搶孤 - 精華資源加成"
+  },
+  "5379800": {
+    "parent": 5302110,
+    "name": "搶孤 - 支援職業"
+  },
+  "5379810": {
+    "parent": 5302110,
+    "name": "搶孤 - 成長裝備符文"
+  },
+  "5379820": {
+    "parent": 5302110,
+    "name": "搶孤 - 96格包包"
+  },
+  "5379840": {
+    "parent": 5302110,
+    "name": "搶孤 - 離線收益16小時"
+  },
+  "5379850": {
+    "parent": 5302110,
+    "name": "搶孤 - 鑄造石掉落十倍"
+  },
   "5382450": {
     "parent": 3301090,
     "name": "RealEscape - Under the Lethe Pack"
@@ -341479,6 +341547,10 @@
     "parent": 4431750,
     "name": "Restitutor: Three Kingdoms United"
   },
+  "5391930": {
+    "parent": 2174500,
+    "name": "Parasite Black - Armor of the Gods"
+  },
   "5392460": {
     "parent": 4749880,
     "name": "Desktop Bouncer - Zumball Spinners"
@@ -341519,6 +341591,10 @@
     "parent": 5358500,
     "name": "Revving: Engine Simulator - Every Engine"
   },
+  "5400850": {
+    "parent": 3419520,
+    "name": "Quarantine Zone: The Last Check - Miami Supporter Pack"
+  },
   "5401020": {
     "parent": 5185580,
     "name": "PARRYGON - Afterlight"
@@ -341551,6 +341627,10 @@
     "parent": 4422970,
     "name": "Morse Depths: WWII - Digital Artbook"
   },
+  "5411770": {
+    "parent": 2477010,
+    "name": "Ticket to Ride®: Pennsylvania Expansion"
+  },
   "5414770": {
     "parent": 5411990,
     "name": "No One Runs Alone - Support Pack"
@@ -341579,6 +341659,10 @@
     "parent": 2807960,
     "name": "Battlefield™ 6 Game of the Year Edition Marker"
   },
+  "5421580": {
+    "parent": 4336790,
+    "name": "Cyan Soul - Extra Skins."
+  },
   "5422240": {
     "parent": 4281680,
     "name": "Cambell's Oddity Box - Goalf"
@@ -341594,6 +341678,10 @@
   "5428560": {
     "parent": 1470810,
     "name": "Plushy Store Tidy Up - FREE character customization pack"
+  },
+  "5436000": {
+    "parent": 5279790,
+    "name": "《只有她知曉光輝的名字》- 第一章"
   },
   "5436060": {
     "parent": 5382160,
