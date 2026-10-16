@@ -340115,6 +340115,10 @@
     "parent": 4403650,
     "name": "烧纸钱 烧香 拜佛 拜神 悼念亲友 - 可视化界面"
   },
+  "5282450": {
+    "parent": 5134730,
+    "name": "TAKE MY BOMB(SUPPORT PACK)"
+  },
   "5283070": {
     "parent": 4771610,
     "name": "The Hidden Camp - B-Duke & Dance Music"
@@ -340498,6 +340502,10 @@
   "5301660": {
     "parent": 5034300,
     "name": "Cosmo Cat - Supporter Pack"
+  },
+  "5301730": {
+    "parent": 1217060,
+    "name": "Gunfire Reborn - Lunar Melody"
   },
   "5302280": {
     "parent": 3700410,
@@ -341027,6 +341035,10 @@
     "parent": 5339360,
     "name": "Your Cat - Fish tank"
   },
+  "5340700": {
+    "parent": 4431860,
+    "name": "Hex Seculum — Spider Goddess Invasion"
+  },
   "5340710": {
     "parent": 4431860,
     "name": "Hex Seculum — Gaheera Continent"
@@ -341215,6 +341227,10 @@
     "parent": 1333350,
     "name": "Angel Legion-DLC Off-Shoulder Sweater (Red)"
   },
+  "5353680": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Off-Shoulder Sweater (Purple)"
+  },
   "5354010": {
     "parent": 5191000,
     "name": "Тройной след - Пятый след"
@@ -341371,6 +341387,10 @@
     "parent": 4220670,
     "name": "THE DOUBLE - CHAPTER 4 || FINAL"
   },
+  "5368720": {
+    "parent": 5363330,
+    "name": "Pixel Painter - Brush Designer"
+  },
   "5370700": {
     "parent": 1478980,
     "name": "Pinball Fantasy Zombie Halloween Express"
@@ -341394,6 +341414,10 @@
   "5373410": {
     "parent": 5358610,
     "name": "Desktop Cozy Cat Tree – Water Park"
+  },
+  "5373780": {
+    "parent": 3971950,
+    "name": "In Falsus - CHUNITHM Collaboration Song Pack"
   },
   "5374070": {
     "parent": 3690030,
@@ -341511,6 +341535,10 @@
     "parent": 3314580,
     "name": "Trash Day - Stinky Rich Supporter Pack"
   },
+  "5387650": {
+    "parent": 4982850,
+    "name": "Captive 3000 Story Book and Guide"
+  },
   "5388580": {
     "parent": 5249210,
     "name": "NekoTrak - Support Pack"
@@ -341571,6 +341599,34 @@
     "parent": 4275160,
     "name": "REVERSA - Cosmetics Pack"
   },
+  "5395330": {
+    "parent": 5375250,
+    "name": "徹底清掃 - 式典セット"
+  },
+  "5395340": {
+    "parent": 5375250,
+    "name": "徹底清掃 - 囚人風セット"
+  },
+  "5395360": {
+    "parent": 5375250,
+    "name": "徹底清掃 - グラフィック柄セット"
+  },
+  "5395370": {
+    "parent": 5375250,
+    "name": "徹底清掃 - 和柄セット"
+  },
+  "5395380": {
+    "parent": 5375250,
+    "name": "徹底清掃 - サンタセット"
+  },
+  "5395390": {
+    "parent": 5375250,
+    "name": "徹底清掃 - 浴衣セット"
+  },
+  "5395400": {
+    "parent": 5375250,
+    "name": "徹底清掃 - ユーティリティセット"
+  },
   "5396820": {
     "parent": 5392600,
     "name": "SPECTR: Rekindle the World - Prism Supporter Pack"
@@ -341578,6 +341634,14 @@
   "5397220": {
     "parent": 4599500,
     "name": "Dotty Bead: Wonders of the Cloudy Candy House"
+  },
+  "5398170": {
+    "parent": 5391940,
+    "name": "Dub With Friends - Voice Changer Pack"
+  },
+  "5398180": {
+    "parent": 5391940,
+    "name": "Dub With Friends - Supporter Pack"
   },
   "5398910": {
     "parent": 2176130,
@@ -341607,6 +341671,10 @@
     "parent": 5185580,
     "name": "PARRYGON - Ember Pack"
   },
+  "5401750": {
+    "parent": 4023460,
+    "name": "Atomica Supporter Pack"
+  },
   "5402060": {
     "parent": 4600990,
     "name": "Clash of Crests - The Maid of Orléans"
@@ -341619,6 +341687,10 @@
     "parent": 781000,
     "name": "Mystic Space - Supporter Pack"
   },
+  "5407140": {
+    "parent": 5084060,
+    "name": "Button Down: Twin Pack"
+  },
   "5407430": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Advanced Races Compendium"
@@ -341627,9 +341699,17 @@
     "parent": 4422970,
     "name": "Morse Depths: WWII - Digital Artbook"
   },
+  "5409520": {
+    "parent": 4963530,
+    "name": "PHOSPHOR - Halloween Pack"
+  },
   "5411770": {
     "parent": 2477010,
     "name": "Ticket to Ride®: Pennsylvania Expansion"
+  },
+  "5413660": {
+    "parent": 5401870,
+    "name": "Unlimited Triggers"
   },
   "5414770": {
     "parent": 5411990,
@@ -341667,9 +341747,17 @@
     "parent": 4281680,
     "name": "Cambell's Oddity Box - Goalf"
   },
+  "5423210": {
+    "parent": 2234650,
+    "name": "The Artisans"
+  },
   "5424100": {
     "parent": 5017140,
     "name": "Idle Pixel Maids - Very High AI Model Pack"
+  },
+  "5424250": {
+    "parent": 4430560,
+    "name": "Survivor Joe Lost Island - Conquest"
   },
   "5424410": {
     "parent": 5364070,
@@ -341679,6 +341767,18 @@
     "parent": 1470810,
     "name": "Plushy Store Tidy Up - FREE character customization pack"
   },
+  "5430300": {
+    "parent": 3167710,
+    "name": "Piworld - Permanent Premium Status"
+  },
+  "5431730": {
+    "parent": 2622100,
+    "name": "Footy Bash - Premiership Edition"
+  },
+  "5433430": {
+    "parent": 5167420,
+    "name": "Mimic Busters Supporter Pack"
+  },
   "5436000": {
     "parent": 5279790,
     "name": "《只有她知曉光輝的名字》- 第一章"
@@ -341686,5 +341786,17 @@
   "5436060": {
     "parent": 5382160,
     "name": "Cutteridge Estate - Gracious Host Pack"
+  },
+  "5443060": {
+    "parent": 1864790,
+    "name": "1BITDRAGON – Lord Skeleton Sound Pack"
+  },
+  "5443200": {
+    "parent": 4504390,
+    "name": "Game Pulse - 2026 Playoff Set"
+  },
+  "5443400": {
+    "parent": 5437060,
+    "name": "Game Master: Full Toolkit"
   }
 }
