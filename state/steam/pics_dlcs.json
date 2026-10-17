@@ -340639,6 +340639,10 @@
     "parent": 5036700,
     "name": "Pixel Coloring World – Pixel Adventures Vol. 2"
   },
+  "5312990": {
+    "parent": 5305980,
+    "name": "汉字过五关 - 西凉旧道"
+  },
   "5313060": {
     "parent": 5036700,
     "name": "Pixel Coloring World – Tropical Adventures Vol. 3"
@@ -341315,6 +341319,14 @@
     "parent": 1803390,
     "name": "Bounty Drag Racing - Pro Mod Pack 8"
   },
+  "5344230": {
+    "parent": 5335830,
+    "name": "Vagina Sancta - Bremen Red"
+  },
+  "5344250": {
+    "parent": 5335830,
+    "name": "Vagina Sancta - Biricik Wine"
+  },
   "5344580": {
     "parent": 5342780,
     "name": "喵～该工作啦！ Nya! Back to Work - 开发者支持包 1 / Supporter Pack 1"
@@ -341603,6 +341615,14 @@
     "parent": 5363330,
     "name": "Pixel Painter - Brush Designer"
   },
+  "5369120": {
+    "parent": 5061590,
+    "name": "Puzzle Beetles Artbook"
+  },
+  "5369930": {
+    "parent": 5061570,
+    "name": "Puzzle Butterflies Artbook"
+  },
   "5370700": {
     "parent": 1478980,
     "name": "Pinball Fantasy Zombie Halloween Express"
@@ -341739,9 +341759,29 @@
     "parent": 5302110,
     "name": "搶孤 - 鑄造石掉落十倍"
   },
+  "5380980": {
+    "parent": 5061650,
+    "name": "Puzzle Crustaceans Artbook"
+  },
+  "5381030": {
+    "parent": 5232210,
+    "name": "Puzzle Dolphins Artbook"
+  },
+  "5381430": {
+    "parent": 5061600,
+    "name": "Puzzle Fire Artbook"
+  },
+  "5382050": {
+    "parent": 5151410,
+    "name": "Puzzle Fireworks Artbook"
+  },
   "5382450": {
     "parent": 3301090,
     "name": "RealEscape - Under the Lethe Pack"
+  },
+  "5382990": {
+    "parent": 5232240,
+    "name": "Puzzle Jungle Artbook"
   },
   "5383230": {
     "parent": 4600990,
@@ -341951,6 +341991,10 @@
     "parent": 5401870,
     "name": "Unlimited Triggers"
   },
+  "5414000": {
+    "parent": 2359470,
+    "name": "Strayed - Reaper Skin Pack"
+  },
   "5414770": {
     "parent": 5411990,
     "name": "No One Runs Alone - Support Pack"
@@ -342046,5 +342090,9 @@
   "5443400": {
     "parent": 5437060,
     "name": "Game Master: Full Toolkit"
+  },
+  "5449980": {
+    "parent": 5306270,
+    "name": "无定武章 — MOD 制作工具"
   }
 }
