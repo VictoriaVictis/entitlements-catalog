@@ -341939,6 +341939,10 @@
     "parent": 2176130,
     "name": "Tower! Simulator 3 - CYWG Airport"
   },
+  "5399110": {
+    "parent": 5372270,
+    "name": "Flux Fall – Golden Hour"
+  },
   "5400110": {
     "parent": 5043180,
     "name": "CoasterWorks – Frightening Flights"
@@ -341994,6 +341998,18 @@
   "5408900": {
     "parent": 4422970,
     "name": "Morse Depths: WWII - Digital Artbook"
+  },
+  "5409040": {
+    "parent": 5372270,
+    "name": "Flux Fall – Magma Pack"
+  },
+  "5409050": {
+    "parent": 5372270,
+    "name": "Flux Fall – Frost Pack"
+  },
+  "5409060": {
+    "parent": 5372270,
+    "name": "Flux Fall – Abyss Pack"
   },
   "5409520": {
     "parent": 4963530,
@@ -342090,6 +342106,10 @@
   "5433430": {
     "parent": 5167420,
     "name": "Mimic Busters Supporter Pack"
+  },
+  "5435760": {
+    "parent": 4055330,
+    "name": "Brain Candy Voice Overs"
   },
   "5436000": {
     "parent": 5279790,
