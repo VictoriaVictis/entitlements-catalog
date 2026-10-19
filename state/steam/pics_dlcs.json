@@ -340795,6 +340795,10 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - The Gate of Worlds"
   },
+  "5321340": {
+    "parent": 5314760,
+    "name": "DOT: KillBox TD - Supporter Pack"
+  },
   "5321470": {
     "parent": 2176130,
     "name": "Tower! Simulator 3 - EGGD Airport"
@@ -341438,6 +341442,10 @@
   "5348570": {
     "parent": 3980450,
     "name": "Настоящие пазлы - Каньоны: Лагуна (изображения)"
+  },
+  "5348990": {
+    "parent": 4163030,
+    "name": "Cat Chess - Samurai Cats"
   },
   "5349440": {
     "parent": 4936770,
@@ -342147,6 +342155,10 @@
     "parent": 2807960,
     "name": "Battlefield™ 6 Game of the Year Edition Marker"
   },
+  "5421450": {
+    "parent": 342200,
+    "name": "MechWarrior Online™ - Perseus Booster Pack"
+  },
   "5421580": {
     "parent": 4336790,
     "name": "Cyan Soul - Extra Skins."
@@ -342211,6 +342223,38 @@
     "parent": 2583300,
     "name": "Simulator of Ukraine 1991 - Play for Crimea"
   },
+  "5440410": {
+    "parent": 5223810,
+    "name": "Fenrir's Ragnarök – Fenrir & Puffel: Die Hasen kommen"
+  },
+  "5440420": {
+    "parent": 5223810,
+    "name": "Fenrir's Ragnarök – Die Nornen"
+  },
+  "5440430": {
+    "parent": 5223810,
+    "name": "Fenrir's Ragnarök – Die Kinder Lokis"
+  },
+  "5440440": {
+    "parent": 5223810,
+    "name": "Fenrir's Ragnarök – Die Boten Yggdrasils"
+  },
+  "5440450": {
+    "parent": 5223810,
+    "name": "Fenrir's Ragnarök – Asgards Glanz"
+  },
+  "5440460": {
+    "parent": 5223810,
+    "name": "Fenrir's Ragnarök – Drachenblut"
+  },
+  "5440480": {
+    "parent": 5223810,
+    "name": "Fenrir's Ragnarök – Frost, Flut & Treue"
+  },
+  "5440800": {
+    "parent": 252530,
+    "name": "OMSI 2 Add-on O560 III Series"
+  },
   "5441020": {
     "parent": 5398810,
     "name": "The Last Wish — Artbook & Wallpapers"
@@ -342242,6 +342286,10 @@
   "5449980": {
     "parent": 5306270,
     "name": "无定武章 — MOD 制作工具"
+  },
+  "5456270": {
+    "parent": 5332430,
+    "name": "Kur - Endless Descent - Ashipu"
   },
   "5456280": {
     "parent": 5332430,
