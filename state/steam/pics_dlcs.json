@@ -342087,6 +342087,10 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Advanced Races Compendium"
   },
+  "5407570": {
+    "parent": 787790,
+    "name": "Epic Roller Coasters - Dinosaur Hunt"
+  },
   "5408900": {
     "parent": 4422970,
     "name": "Morse Depths: WWII - Digital Artbook"
@@ -342187,6 +342191,10 @@
     "parent": 5364070,
     "name": "HELL CONTROL — Infernal Style Pack"
   },
+  "5427540": {
+    "parent": 4481440,
+    "name": "妹控即是正义第一卷"
+  },
   "5428560": {
     "parent": 1470810,
     "name": "Plushy Store Tidy Up - FREE character customization pack"
@@ -342194,6 +342202,10 @@
   "5429280": {
     "parent": 4972140,
     "name": "Pandora Battle - Luna AI"
+  },
+  "5429350": {
+    "parent": 4204190,
+    "name": "大国崛起：1949"
   },
   "5430300": {
     "parent": 3167710,
@@ -342218,6 +342230,10 @@
   "5436060": {
     "parent": 5382160,
     "name": "Cutteridge Estate - Gracious Host Pack"
+  },
+  "5436820": {
+    "parent": 801550,
+    "name": "VAIL VR Vrata Character and Weapon Skin Bundle"
   },
   "5439720": {
     "parent": 2583300,
@@ -342278,6 +342294,22 @@
   "5447030": {
     "parent": 1478980,
     "name": "Pinball Halloween Exquisite Eccentric Circus Special Edition"
+  },
+  "5448220": {
+    "parent": 3986140,
+    "name": "Aerospace Engineering Sandbox: Weapons Pack"
+  },
+  "5448240": {
+    "parent": 3986140,
+    "name": "Aerospace Engineering Sandbox: Nuclear Pack"
+  },
+  "5448250": {
+    "parent": 3986140,
+    "name": "Aerospace Engineering Sandbox: Royal Escort Pack"
+  },
+  "5448260": {
+    "parent": 3986140,
+    "name": "Aerospace Engineering Sandbox: Complete Bundle"
   },
   "5448330": {
     "parent": 5005680,
