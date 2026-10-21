@@ -341871,6 +341871,10 @@
     "parent": 5302110,
     "name": "搶孤 - 鑄造石掉落十倍"
   },
+  "5380590": {
+    "parent": 2443700,
+    "name": "8D Creators – Legacy Edition"
+  },
   "5380980": {
     "parent": 5061650,
     "name": "Puzzle Crustaceans Artbook"
@@ -342450,6 +342454,14 @@
   "5449980": {
     "parent": 5306270,
     "name": "无定武章 — MOD 制作工具"
+  },
+  "5455260": {
+    "parent": 5186550,
+    "name": "What's Wrong with My Drawing - Inventory Expansion Pack 2"
+  },
+  "5455270": {
+    "parent": 5186550,
+    "name": "What's Wrong with My Drawing - Starter Pack"
   },
   "5456270": {
     "parent": 5332430,
