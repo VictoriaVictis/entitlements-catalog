@@ -340659,6 +340659,10 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - The Realm"
   },
+  "5310220": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Dungeon Crawl Classics #91: Journey to the Center of Aereth"
+  },
   "5311220": {
     "parent": 2615290,
     "name": "Mostroscopy - Ankhnubis & Dr. Lovelace"
@@ -341463,6 +341467,10 @@
     "parent": 4936770,
     "name": "Puzzles Meteorites Artbook"
   },
+  "5349790": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Allies & Enemies"
+  },
   "5350300": {
     "parent": 3898800,
     "name": "Toy Town Mayhem - Supporter Pack!"
@@ -341807,6 +341815,10 @@
     "parent": 1478980,
     "name": "Sailor Strong: Iron Fist Fight Pinball"
   },
+  "5376320": {
+    "parent": 4594290,
+    "name": "Honeymoon Waifu - Secret Island Nights"
+  },
   "5376400": {
     "parent": 5365790,
     "name": "Steam & Steel"
@@ -342091,6 +342103,10 @@
     "parent": 5358500,
     "name": "Revving: Engine Simulator - Every Engine"
   },
+  "5400770": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - The Spear of Horrendous Iron"
+  },
   "5400840": {
     "parent": 4319910,
     "name": "Campfire: Night Two - The Bard Of Death"
@@ -342110,6 +342126,10 @@
   "5401040": {
     "parent": 5185580,
     "name": "PARRYGON - Ember Pack"
+  },
+  "5401680": {
+    "parent": 2087540,
+    "name": "Escape from Playtime - Founders Pack"
   },
   "5401750": {
     "parent": 4023460,
@@ -342166,6 +342186,10 @@
   "5409520": {
     "parent": 4963530,
     "name": "PHOSPHOR - Halloween Pack"
+  },
+  "5411410": {
+    "parent": 4030830,
+    "name": "Focus Grove - Magical Evening DLC"
   },
   "5411760": {
     "parent": 5168280,
@@ -342451,9 +342475,17 @@
     "parent": 5005680,
     "name": "CatPoker猫扑克 雪国喵旅组合包"
   },
+  "5448580": {
+    "parent": 3757820,
+    "name": "9 Souls - Chapter Two"
+  },
   "5449980": {
     "parent": 5306270,
     "name": "无定武章 — MOD 制作工具"
+  },
+  "5455250": {
+    "parent": 5186550,
+    "name": "What's Wrong with My Drawing - Inventory Expansion Pack 1"
   },
   "5455260": {
     "parent": 5186550,
@@ -342491,8 +342523,28 @@
     "parent": 2205850,
     "name": "Dwarves: Glory, Death and Loot - Bards & Alchemists"
   },
+  "5458020": {
+    "parent": 1478980,
+    "name": "Haunted Ghost Pirates Halloween Pinball"
+  },
+  "5458030": {
+    "parent": 1478980,
+    "name": "Game’s Afoot Pinball"
+  },
   "5466650": {
     "parent": 4898790,
     "name": "Crosstalk: The Bloat and Greed Edition"
+  },
+  "5472100": {
+    "parent": 3830780,
+    "name": "《下一段路途》— 刮刮卡全收集包"
+  },
+  "5473390": {
+    "parent": 5455490,
+    "name": "hold space. - The Other Keys"
+  },
+  "5475370": {
+    "parent": 1478980,
+    "name": "FIRST CLASS PINBALL FLIGHT 747"
   }
 }
