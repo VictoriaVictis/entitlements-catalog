@@ -341283,6 +341283,10 @@
     "parent": 5315830,
     "name": "P2Peek - Supporter Pack"
   },
+  "5339490": {
+    "parent": 5303120,
+    "name": "Attack of J - ArtBook"
+  },
   "5339510": {
     "parent": 4599500,
     "name": "Dotty Bead: Wonders of the Campervan Life"
@@ -341523,6 +341527,10 @@
     "parent": 1333350,
     "name": "Angel Legion-DLC Off-Shoulder Sweater (White)"
   },
+  "5353660": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Off-Shoulder Sweater (Black)"
+  },
   "5353670": {
     "parent": 1333350,
     "name": "Angel Legion-DLC Off-Shoulder Sweater (Red)"
@@ -341743,6 +341751,10 @@
     "parent": 4220670,
     "name": "THE DOUBLE - CHAPTER 4 || FINAL"
   },
+  "5368710": {
+    "parent": 5175600,
+    "name": "Sports Club Support Pack"
+  },
   "5368720": {
     "parent": 5363330,
     "name": "Pixel Painter - Brush Designer"
@@ -341907,6 +341919,10 @@
     "parent": 2991650,
     "name": "DAWN AEROWAR - Pack 4K"
   },
+  "5378370": {
+    "parent": 3886870,
+    "name": "Harem Fantasy - Healing Kiss"
+  },
   "5378380": {
     "parent": 3886870,
     "name": "Harem Fantasy - Frozen Lust"
@@ -342058,6 +342074,10 @@
   "5389930": {
     "parent": 3744080,
     "name": "Mining Merchant - Dino Discovery"
+  },
+  "5390130": {
+    "parent": 2274120,
+    "name": "NSFW Solitaire - Cumshots Video"
   },
   "5391360": {
     "parent": 1515220,
@@ -342943,6 +342963,10 @@
     "parent": 2257440,
     "name": "Tom the Postgirl - Artbook"
   },
+  "5445950": {
+    "parent": 2274120,
+    "name": "NSFW Solitaire - Femboy Wife"
+  },
   "5447030": {
     "parent": 1478980,
     "name": "Pinball Halloween Exquisite Eccentric Circus Special Edition"
@@ -342979,6 +343003,10 @@
     "parent": 5306270,
     "name": "无定武章 — MOD 制作工具"
   },
+  "5451100": {
+    "parent": 5324320,
+    "name": "Puzzle Peace - Cozy Classics Pack"
+  },
   "5452070": {
     "parent": 2176130,
     "name": "Tower! Simulator 3 - RCTP Airport"
@@ -342998,6 +343026,38 @@
   "5452720": {
     "parent": 4397180,
     "name": "Your Friend's Mom - Extra Pack"
+  },
+  "5454110": {
+    "parent": 5061640,
+    "name": "Puzzle Whales Artbook"
+  },
+  "5454120": {
+    "parent": 5232300,
+    "name": "Puzzle Water Flowers Artbook"
+  },
+  "5454140": {
+    "parent": 5151400,
+    "name": "Puzzle Sweets Artbook"
+  },
+  "5454150": {
+    "parent": 5232220,
+    "name": "Puzzle Stones Artbook"
+  },
+  "5454160": {
+    "parent": 5151420,
+    "name": "Puzzle Spiders Artbook"
+  },
+  "5454170": {
+    "parent": 5061610,
+    "name": "Puzzle Snakes Artbook"
+  },
+  "5454180": {
+    "parent": 5151440,
+    "name": "Puzzle Shrimps Artbook"
+  },
+  "5454190": {
+    "parent": 5061630,
+    "name": "Puzzle Sharks Artbook"
   },
   "5455250": {
     "parent": 5186550,
@@ -343055,6 +343115,30 @@
     "parent": 1478980,
     "name": "Game’s Afoot Pinball"
   },
+  "5458470": {
+    "parent": 3738830,
+    "name": "FIRE STATE - 众筹奖励"
+  },
+  "5458480": {
+    "parent": 3738830,
+    "name": "FIRE STATE - 众筹黄金版"
+  },
+  "5458490": {
+    "parent": 3738830,
+    "name": "FIRE STATE - 众筹豪华版"
+  },
+  "5458500": {
+    "parent": 3738830,
+    "name": "FIRE STATE - 众筹终极版"
+  },
+  "5458510": {
+    "parent": 3738830,
+    "name": "FIRE STATE - 众筹终极典藏版"
+  },
+  "5460280": {
+    "parent": 65800,
+    "name": "Dungeon Defenders - Shaman Hero DLC"
+  },
   "5460820": {
     "parent": 4201270,
     "name": "MMA Empire - Sandbox Mode"
@@ -343074,6 +343158,10 @@
   "5466500": {
     "parent": 5379330,
     "name": "Hazzard Hearth: Emerald Zombies"
+  },
+  "5466510": {
+    "parent": 5379330,
+    "name": "Hazzard Hearth: Extra Choices"
   },
   "5466650": {
     "parent": 4898790,
@@ -343107,6 +343195,10 @@
     "parent": 5455490,
     "name": "hold space. - The Other Keys"
   },
+  "5475310": {
+    "parent": 2542400,
+    "name": "Map: Istanbul"
+  },
   "5475370": {
     "parent": 1478980,
     "name": "FIRST CLASS PINBALL FLIGHT 747"
@@ -343135,9 +343227,25 @@
     "parent": 5264830,
     "name": "Boardroom Wars: Fight for Kashistan - Wallpaper Pack"
   },
+  "5478550": {
+    "parent": 1478980,
+    "name": "Fall of Rome Pinball"
+  },
   "5479110": {
     "parent": 5022920,
     "name": "Chess Town - Supporter Pack"
+  },
+  "5479300": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Burning Cathedral"
+  },
+  "5479310": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Ashen Fields"
+  },
+  "5479320": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Ember Forge"
   },
   "5480500": {
     "parent": 5100710,
@@ -343146,5 +343254,9 @@
   "5481520": {
     "parent": 1478980,
     "name": "Brawling Sailors Pinball"
+  },
+  "5488850": {
+    "parent": 5185890,
+    "name": "Zombies Aren't Real - Supporter Pack"
   }
 }
