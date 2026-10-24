@@ -342159,6 +342159,10 @@
     "parent": 5375250,
     "name": "徹底清掃 - ユーティリティセット"
   },
+  "5395710": {
+    "parent": 3689660,
+    "name": "夜巡守则 Part.2"
+  },
   "5395730": {
     "parent": 3095960,
     "name": "周易六爻占卜游戏 - 批八字"
@@ -342414,6 +342418,10 @@
   "5402060": {
     "parent": 4600990,
     "name": "Clash of Crests - The Maid of Orléans"
+  },
+  "5402440": {
+    "parent": 3954570,
+    "name": "Lamplight Yard - Military Supply Line"
   },
   "5402480": {
     "parent": 5170320,
@@ -343047,6 +343055,22 @@
     "parent": 4397180,
     "name": "Your Friend's Mom - Extra Pack"
   },
+  "5453290": {
+    "parent": 5415190,
+    "name": "COLLEC — Collector's Edition"
+  },
+  "5453300": {
+    "parent": 5415190,
+    "name": "COLLEC — Patron"
+  },
+  "5453310": {
+    "parent": 5415190,
+    "name": "COLLEC — All nine worlds"
+  },
+  "5454070": {
+    "parent": 5061340,
+    "name": "Puzzle Wild Cats Artbook"
+  },
   "5454110": {
     "parent": 5061640,
     "name": "Puzzle Whales Artbook"
@@ -343086,6 +343110,30 @@
   "5454230": {
     "parent": 5232260,
     "name": "Puzzle Rain Artbook"
+  },
+  "5454240": {
+    "parent": 5232310,
+    "name": "Puzzle Penguins Artbook"
+  },
+  "5454250": {
+    "parent": 5151450,
+    "name": "Puzzle Nuts Artbook"
+  },
+  "5454260": {
+    "parent": 5232250,
+    "name": "Puzzle Musical Instruments Artbook"
+  },
+  "5454270": {
+    "parent": 5061660,
+    "name": "Puzzle Mollusks Artbook"
+  },
+  "5454280": {
+    "parent": 5061620,
+    "name": "Puzzle Marine Fish Artbook"
+  },
+  "5454290": {
+    "parent": 5232270,
+    "name": "Puzzle Lakes Artbook"
   },
   "5455250": {
     "parent": 5186550,
@@ -343143,6 +343191,10 @@
     "parent": 1478980,
     "name": "Game’s Afoot Pinball"
   },
+  "5458360": {
+    "parent": 4890880,
+    "name": "Witness Elimination Program - Drawbook"
+  },
   "5458470": {
     "parent": 3738830,
     "name": "FIRE STATE - 众筹奖励"
@@ -343183,6 +343235,10 @@
     "parent": 5462800,
     "name": "Massive Army Battle - Sandbox Pack"
   },
+  "5463930": {
+    "parent": 5014530,
+    "name": "Cats to Mars：Planet Myao Myao"
+  },
   "5464250": {
     "parent": 1478980,
     "name": "CHOCOLATETEER CHOCOLATE PINBALL PRALINES SYMPHONY"
@@ -343219,9 +343275,17 @@
     "parent": 3995560,
     "name": "Настоящие пазлы - Монстры"
   },
+  "5471820": {
+    "parent": 4974130,
+    "name": "Prison Anomaly - Supporter Pack"
+  },
   "5472100": {
     "parent": 3830780,
     "name": "《下一段路途》— 刮刮卡全收集包"
+  },
+  "5473330": {
+    "parent": 5473320,
+    "name": "Detective Club: The First Casebook"
   },
   "5473390": {
     "parent": 5455490,
