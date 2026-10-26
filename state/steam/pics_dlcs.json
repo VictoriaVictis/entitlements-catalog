@@ -341915,6 +341915,18 @@
     "parent": 5229930,
     "name": "Supporter Pack"
   },
+  "5374970": {
+    "parent": 1343400,
+    "name": "RuneScape: 1 Month Membership + Brewster Bundle"
+  },
+  "5374980": {
+    "parent": 1343400,
+    "name": "RuneScape: 1 Month Membership + Bistromancer Bundle"
+  },
+  "5374990": {
+    "parent": 1343400,
+    "name": "RuneScape: 12 Month Membership + Forgemaster Bundle"
+  },
   "5375480": {
     "parent": 1478980,
     "name": "Pinball: American Revolution Adventure - Secrets of 1776"
@@ -342143,6 +342155,14 @@
     "parent": 4995030,
     "name": "Folded Fables: Tidy Up The Dragon Hoard Supporter Pack (PDF Coloring Book)"
   },
+  "5393570": {
+    "parent": 5382570,
+    "name": "Rêverie: Midnight at Valcombe"
+  },
+  "5393590": {
+    "parent": 5382570,
+    "name": "Rêverie: The Bread of the Last Morning"
+  },
   "5394660": {
     "parent": 4275160,
     "name": "REVERSA - Immortal Pack"
@@ -342242,6 +342262,10 @@
   "5398180": {
     "parent": 5391940,
     "name": "Dub With Friends - Supporter Pack"
+  },
+  "5398660": {
+    "parent": 5041530,
+    "name": "Put Your Toys Away Together - Supporter Pack"
   },
   "5398910": {
     "parent": 2176130,
@@ -342423,6 +342447,10 @@
     "parent": 3419520,
     "name": "Quarantine Zone: The Last Check - Miami Supporter Pack"
   },
+  "5400910": {
+    "parent": 2982220,
+    "name": "Hunter: Space Pirates - Halloween Special"
+  },
   "5401020": {
     "parent": 5185580,
     "name": "PARRYGON - Afterlight"
@@ -342462,6 +342490,26 @@
   "5403090": {
     "parent": 1407560,
     "name": "Hot Mic - VIP"
+  },
+  "5403530": {
+    "parent": 2414410,
+    "name": "Tri City Monsters - Artbook"
+  },
+  "5403990": {
+    "parent": 251570,
+    "name": "The Wraith Witch Armor Set"
+  },
+  "5404000": {
+    "parent": 251570,
+    "name": "The Scarlet Scoundrel Armor Set"
+  },
+  "5404020": {
+    "parent": 251570,
+    "name": "The Red Riding Armor Set"
+  },
+  "5404580": {
+    "parent": 2581410,
+    "name": "Stygian: Outer Gods The Heretic's Arsenal Pack"
   },
   "5405770": {
     "parent": 781000,
@@ -342755,9 +342803,21 @@
     "parent": 1763550,
     "name": "Tatuball: Good Things Go"
   },
+  "5418140": {
+    "parent": 4834840,
+    "name": "Ecstatica - 8K pre-rendered backgrounds"
+  },
+  "5418150": {
+    "parent": 4834840,
+    "name": "Ecstatica - DOSBox version"
+  },
   "5418880": {
     "parent": 4930500,
     "name": "盯着你！桌面喵小西 - 支持者美术设定集"
+  },
+  "5419680": {
+    "parent": 3312250,
+    "name": "FEAR OF FAITH - Warmaiden"
   },
   "5419890": {
     "parent": 4753760,
@@ -342810,6 +342870,10 @@
   "5424410": {
     "parent": 5364070,
     "name": "HELL CONTROL — Infernal Style Pack"
+  },
+  "5426610": {
+    "parent": 2615290,
+    "name": "Mostroscopy - Comic Book #2"
   },
   "5427540": {
     "parent": 4481440,
@@ -342902,6 +342966,10 @@
   "5430300": {
     "parent": 3167710,
     "name": "Piworld - Permanent Premium Status"
+  },
+  "5431380": {
+    "parent": 4895300,
+    "name": "Waifu Armor"
   },
   "5431730": {
     "parent": 2622100,
@@ -342999,6 +343067,10 @@
     "parent": 5223810,
     "name": "Fenrir's Ragnarök – Frost, Flut & Treue"
   },
+  "5440550": {
+    "parent": 4140700,
+    "name": "Cash is King! - The Official Book"
+  },
   "5440800": {
     "parent": 252530,
     "name": "OMSI 2 Add-on O560 III Series"
@@ -343034,6 +343106,10 @@
   "5445440": {
     "parent": 1478980,
     "name": "Pinball Western Halloween Haunted House"
+  },
+  "5445690": {
+    "parent": 2581410,
+    "name": "Stygian: Outer Gods Digital Artbook"
   },
   "5445770": {
     "parent": 2257440,
@@ -343295,6 +343371,10 @@
     "parent": 3738830,
     "name": "FIRE STATE - 众筹终极典藏版"
   },
+  "5458980": {
+    "parent": 4109210,
+    "name": "H.A.T. Systems Unlock"
+  },
   "5459020": {
     "parent": 5020310,
     "name": "Profile Pack 1 – Sakura"
@@ -343351,9 +343431,17 @@
     "parent": 5453450,
     "name": "Femboy Futa Monster Girls Wallpaper Pack"
   },
+  "5465750": {
+    "parent": 5459270,
+    "name": "Revenge on the 13th Floor - Supporter pack"
+  },
   "5466190": {
     "parent": 3727090,
     "name": "Horses of Hoofprint Bay - Supporter Pack"
+  },
+  "5466440": {
+    "parent": 3857400,
+    "name": "Screenbreak - Mega Lobby"
   },
   "5466500": {
     "parent": 5379330,
@@ -343378,6 +343466,10 @@
   "5467980": {
     "parent": 3914300,
     "name": "Настоящие пазлы - Морские обитатели"
+  },
+  "5468910": {
+    "parent": 2758910,
+    "name": "Chef's Adventure: Sous-Chef ( Supporter Pack )"
   },
   "5469280": {
     "parent": 3980450,
@@ -343419,6 +343511,10 @@
     "parent": 5455490,
     "name": "hold space. - The Other Keys"
   },
+  "5475190": {
+    "parent": 4823890,
+    "name": "Halloween Spooky Pack"
+  },
   "5475310": {
     "parent": 2542400,
     "name": "Map: Istanbul"
@@ -343451,9 +343547,21 @@
     "parent": 5264830,
     "name": "Boardroom Wars: Fight for Kashistan - Wallpaper Pack"
   },
+  "5477900": {
+    "parent": 4262620,
+    "name": "The Alighieri Circle - Digital Artbook"
+  },
   "5478550": {
     "parent": 1478980,
     "name": "Fall of Rome Pinball"
+  },
+  "5478730": {
+    "parent": 5478680,
+    "name": "Pixel Pause - Christmas Pack"
+  },
+  "5478740": {
+    "parent": 5478680,
+    "name": "Pixel Pause - Steampunk Pack"
   },
   "5479110": {
     "parent": 5022920,
@@ -343475,6 +343583,22 @@
     "parent": 4452620,
     "name": "Thieves and Gold - Supporter Pack"
   },
+  "5480010": {
+    "parent": 4408320,
+    "name": "Battle Bears Gold - Classic Skins & Jukebox Songs"
+  },
+  "5480030": {
+    "parent": 4408320,
+    "name": "Battle Bears Gold - Overclock Skins, Weapons & Jukebox Song"
+  },
+  "5480040": {
+    "parent": 4408320,
+    "name": "Battle Bears Gold - Gold Skins Pack"
+  },
+  "5480060": {
+    "parent": 4408320,
+    "name": "Battle Bears Gold - Bling Pack: Weapon, Rare Songs & Gas"
+  },
   "5480500": {
     "parent": 5100710,
     "name": "Orbital Madness - SUPPORT PACK"
@@ -343482,6 +343606,10 @@
   "5481520": {
     "parent": 1478980,
     "name": "Brawling Sailors Pinball"
+  },
+  "5481770": {
+    "parent": 3700580,
+    "name": "Livber: Smoke and Mirrors - True Ending"
   },
   "5481830": {
     "parent": 1478980,
@@ -343507,8 +343635,48 @@
     "parent": 5185890,
     "name": "Zombies Aren't Real - Supporter Pack"
   },
+  "5488860": {
+    "parent": 5294070,
+    "name": "Chaos Table - Costume Pack"
+  },
   "5488970": {
     "parent": 5264930,
     "name": "归墟行 - \"黑白相间\" 发色"
+  },
+  "5491030": {
+    "parent": 5478680,
+    "name": "Pixel Pause - Stained Glass Pack"
+  },
+  "5491090": {
+    "parent": 5490140,
+    "name": "富翁派对 - 高级时装 / Rich Bash - Premium Fashion"
+  },
+  "5492520": {
+    "parent": 5190390,
+    "name": "Yule Dads - Supporter Pack"
+  },
+  "5493190": {
+    "parent": 1478980,
+    "name": "MONTEREY JACK ADVENTURES  FORTUNE & FURY PINBALL"
+  },
+  "5493230": {
+    "parent": 1478980,
+    "name": "MISS MAPLE FLAPS OUT AGAIN PINBALL"
+  },
+  "5494230": {
+    "parent": 5452650,
+    "name": "Draemony - Complete Stash"
+  },
+  "5494680": {
+    "parent": 3869490,
+    "name": "GeneBreak - Digital Story & Artbook"
+  },
+  "5496750": {
+    "parent": 5404940,
+    "name": "Road Riot: Wild Rides Supporter Pack"
+  },
+  "5496870": {
+    "parent": 5090060,
+    "name": "Starlathe - Supporter Pack"
   }
 }
