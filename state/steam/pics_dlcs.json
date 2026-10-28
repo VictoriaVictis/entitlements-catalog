@@ -341507,6 +341507,10 @@
     "parent": 4281680,
     "name": "Cambell's Oddity Box - GemSnap"
   },
+  "5347390": {
+    "parent": 3132870,
+    "name": "DarkSwitch - Digital Artbook"
+  },
   "5347770": {
     "parent": 3651310,
     "name": "Little Shops - DLC"
@@ -341610,6 +341614,10 @@
   "5354510": {
     "parent": 5253240,
     "name": "Rally Racing VR: Xtreme Speed Challenge - Unlock All Tracks"
+  },
+  "5354600": {
+    "parent": 223750,
+    "name": "DCS: Su-25T Operation Red Storm Campaign by Ugra Media"
   },
   "5354730": {
     "parent": 4459600,
@@ -341803,6 +341811,10 @@
     "parent": 4144680,
     "name": "DOA6LR Nyotengu Demonic Tengu: Twilight"
   },
+  "5366820": {
+    "parent": 4140700,
+    "name": "Cash is King! - Supporter Pack"
+  },
   "5366970": {
     "parent": 4487060,
     "name": "Northgard Battlegrounds Supporter Pack"
@@ -341818,6 +341830,10 @@
   "5367950": {
     "parent": 3511030,
     "name": "Mini Cozy Room : Lo-Fi - Halloween Pack"
+  },
+  "5368180": {
+    "parent": 223750,
+    "name": "DCS: F-14B(U) Speed & Angels Campaign by Reflected Simulations"
   },
   "5368330": {
     "parent": 2367470,
@@ -342903,6 +342919,10 @@
     "parent": 2807960,
     "name": "Battlefield™ 6 Game of the Year Edition Marker"
   },
+  "5421260": {
+    "parent": 1492070,
+    "name": "Sker Ritual - Shrunken Head"
+  },
   "5421430": {
     "parent": 4433100,
     "name": "The Phone from Another World: My First Love-Amaria's Voice Collection"
@@ -343095,6 +343115,14 @@
     "parent": 4317790,
     "name": "Last Pirates: Die Together - Supporter Pack"
   },
+  "5434160": {
+    "parent": 1652580,
+    "name": "Imperial Grace - Guidebook"
+  },
+  "5434180": {
+    "parent": 1652580,
+    "name": "Imperial Grace - Artbook"
+  },
   "5435330": {
     "parent": 2425740,
     "name": "竹书纪年：赵云别传"
@@ -343150,6 +343178,10 @@
   "5440550": {
     "parent": 4140700,
     "name": "Cash is King! - The Official Book"
+  },
+  "5440670": {
+    "parent": 2411200,
+    "name": "Underkeep - Supporter Pack"
   },
   "5440800": {
     "parent": 252530,
@@ -343595,6 +343627,10 @@
     "parent": 2758910,
     "name": "Chef's Adventure: Sous-Chef ( Supporter Pack )"
   },
+  "5468980": {
+    "parent": 3043740,
+    "name": "Calculate It — Supporter Pack"
+  },
   "5469280": {
     "parent": 3980450,
     "name": "Настоящие пазлы - Дом на природе"
@@ -343655,6 +343691,38 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Kingdoms Pumpkin Patch Map Pack"
   },
+  "5473890": {
+    "parent": 4573090,
+    "name": "Pibcremental - Supporter Pack"
+  },
+  "5475060": {
+    "parent": 2930280,
+    "name": "0101 - Binary Bonus Levels"
+  },
+  "5475070": {
+    "parent": 2930280,
+    "name": "0101 - Gates Bonus Levels"
+  },
+  "5475090": {
+    "parent": 2930280,
+    "name": "0101 - Picross Bonus Levels"
+  },
+  "5475100": {
+    "parent": 2930280,
+    "name": "0101 - Memory Bonus Levels"
+  },
+  "5475110": {
+    "parent": 2930280,
+    "name": "0101 - Life Bonus Levels"
+  },
+  "5475120": {
+    "parent": 2930280,
+    "name": "0101 - Shift Bonus Levels"
+  },
+  "5475130": {
+    "parent": 2930280,
+    "name": "0101 - Crack Bonus Levels"
+  },
   "5475190": {
     "parent": 4823890,
     "name": "Halloween Spooky Pack"
@@ -343678,6 +343746,10 @@
   "5476010": {
     "parent": 1478980,
     "name": "THE MIDNIGHT TRAINS PINBALL EXPRESS"
+  },
+  "5476480": {
+    "parent": 2780700,
+    "name": "Hidden Cats in Spooky Carnival - Printable PDF Coloring Book and Poster"
   },
   "5476490": {
     "parent": 2906250,
@@ -343763,6 +343835,14 @@
     "parent": 1478980,
     "name": "RESTAURANTS A Culinary Adventure Pinball"
   },
+  "5483440": {
+    "parent": 4952980,
+    "name": "My Party Is Grinding - Stash Pack II"
+  },
+  "5483450": {
+    "parent": 4952980,
+    "name": "My Party Is Grinding - Vanguard Party"
+  },
   "5483980": {
     "parent": 3248550,
     "name": "Pizza Empire - Supporter Pack"
@@ -343843,6 +343923,10 @@
     "parent": 5190390,
     "name": "Yule Dads - Supporter Pack"
   },
+  "5492830": {
+    "parent": 3528300,
+    "name": "Fawe Gold - Permanent Upgrade"
+  },
   "5493050": {
     "parent": 1892370,
     "name": "Riding to Bounce City - Tentacles Set A"
@@ -343875,9 +343959,17 @@
     "parent": 1478980,
     "name": "SPACE TRANSPORT TYCOON PINBALL"
   },
+  "5493270": {
+    "parent": 1478980,
+    "name": "Shearluck Ohms & Baker Street Mysteries Pinball"
+  },
   "5494230": {
     "parent": 5452650,
     "name": "Draemony - Complete Stash"
+  },
+  "5494320": {
+    "parent": 4689480,
+    "name": "Relax Puzzle - Winter Fantasy Pack"
   },
   "5494680": {
     "parent": 3869490,
@@ -343890,6 +343982,10 @@
   "5496750": {
     "parent": 5404940,
     "name": "Road Riot: Wild Rides Supporter Pack"
+  },
+  "5496800": {
+    "parent": 3403700,
+    "name": "University Days - Bonus Pack 4"
   },
   "5496870": {
     "parent": 5090060,
@@ -343907,6 +344003,14 @@
     "parent": 5480960,
     "name": "Grave Ambition - Supporter Pack: The Baron's Regalia"
   },
+  "5502780": {
+    "parent": 1478980,
+    "name": "POSEIDON VS NEPTUNE PINBALL"
+  },
+  "5502790": {
+    "parent": 1478980,
+    "name": "POSEIDON TRIDENT OF THE DEEP PINBALL"
+  },
   "5502900": {
     "parent": 5016220,
     "name": "Pixel Airport Tycoon 3D - Your Own Airline"
@@ -343914,5 +344018,25 @@
   "5503040": {
     "parent": 4385800,
     "name": "Misfit: The ReBirth of Death: The Hallowed Eve DLC"
+  },
+  "5503710": {
+    "parent": 4889740,
+    "name": "Mow My World - Undeath World"
+  },
+  "5505340": {
+    "parent": 4481760,
+    "name": "Stones: Second Cut"
+  },
+  "5505480": {
+    "parent": 5006180,
+    "name": "Warmachine: Rogue-Scout - Green Sun"
+  },
+  "5507720": {
+    "parent": 5355000,
+    "name": "Xenowave Survivor - Bio-Swarm & Apex Arsenal"
+  },
+  "5510420": {
+    "parent": 381210,
+    "name": "Dead by Daylight: Terrifier"
   }
 }
