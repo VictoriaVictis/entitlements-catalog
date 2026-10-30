@@ -341907,6 +341907,14 @@
     "parent": 5061570,
     "name": "Puzzle Butterflies Artbook"
   },
+  "5370400": {
+    "parent": 5349960,
+    "name": "Wallpaper Cat : Artbook DLC"
+  },
+  "5370460": {
+    "parent": 5349960,
+    "name": "Wallpaper Cat: Kitten Coat Pack DLC"
+  },
   "5370700": {
     "parent": 1478980,
     "name": "Pinball Fantasy Zombie Halloween Express"
@@ -342394,6 +342402,18 @@
   "5398180": {
     "parent": 5391940,
     "name": "Dub With Friends - Supporter Pack"
+  },
+  "5398550": {
+    "parent": 1449180,
+    "name": "Traxion - Supporter Pack"
+  },
+  "5398570": {
+    "parent": 1591590,
+    "name": "Traxion 2 - Supporter Pack"
+  },
+  "5398580": {
+    "parent": 1595890,
+    "name": "Traxion 3000 - Supporter Pack"
   },
   "5398660": {
     "parent": 5041530,
@@ -343103,6 +343123,10 @@
     "parent": 4481440,
     "name": "妹控即是正义第一卷"
   },
+  "5428220": {
+    "parent": 4189880,
+    "name": "O2Jam : The Beginning - KAZ <Hi Jack> Pack"
+  },
   "5428560": {
     "parent": 1470810,
     "name": "Plushy Store Tidy Up - FREE character customization pack"
@@ -343374,6 +343398,10 @@
   "5445440": {
     "parent": 1478980,
     "name": "Pinball Western Halloween Haunted House"
+  },
+  "5445520": {
+    "parent": 1477590,
+    "name": "EZ2ON REBOOT : R - PUMP IT UP RISE Collaboration DLC"
   },
   "5445690": {
     "parent": 2581410,
@@ -343727,6 +343755,10 @@
     "parent": 5462800,
     "name": "Massive Army Battle - Sandbox Pack"
   },
+  "5463530": {
+    "parent": 2602010,
+    "name": "MechDrachen: Elite Cosmetic Pack"
+  },
   "5463700": {
     "parent": 2490960,
     "name": "创始人福利包"
@@ -344003,6 +344035,10 @@
     "parent": 5100710,
     "name": "Orbital Madness - SUPPORT PACK"
   },
+  "5481390": {
+    "parent": 3189340,
+    "name": "Dungeons of Eternity - Halloween Cosmetics Bundle"
+  },
   "5481520": {
     "parent": 1478980,
     "name": "Brawling Sailors Pinball"
@@ -344034,6 +344070,10 @@
   "5484030": {
     "parent": 1742440,
     "name": "COP BASTARD - Digital Compendium"
+  },
+  "5484660": {
+    "parent": 2899240,
+    "name": "BUZZ or DIE Digital Artbook"
   },
   "5485080": {
     "parent": 5055340,
@@ -344078,6 +344118,10 @@
   "5488970": {
     "parent": 5264930,
     "name": "归墟行 - \"黑白相间\" 发色"
+  },
+  "5489570": {
+    "parent": 3218710,
+    "name": "Everlusting Life - Mascot Ammata"
   },
   "5489950": {
     "parent": 5055340,
@@ -344191,9 +344235,25 @@
     "parent": 5090060,
     "name": "Starlathe - Supporter Pack"
   },
+  "5497430": {
+    "parent": 2808930,
+    "name": "Lust Goddess — Mascot Cyphra"
+  },
   "5499530": {
     "parent": 5352440,
     "name": "RETURN TO 1990 - Chapter 4: Reckoning"
+  },
+  "5499910": {
+    "parent": 4927420,
+    "name": "Idle of the Dead: Engineer"
+  },
+  "5499920": {
+    "parent": 4927420,
+    "name": "Idle of the Dead: Butcher"
+  },
+  "5499930": {
+    "parent": 4927420,
+    "name": "Idle of the Dead: Radio Host"
   },
   "5500100": {
     "parent": 4599500,
@@ -344210,6 +344270,10 @@
   "5501520": {
     "parent": 5480960,
     "name": "Grave Ambition - Supporter Pack: The Baron's Regalia"
+  },
+  "5502070": {
+    "parent": 2901810,
+    "name": "Supermrket: Gafas!!"
   },
   "5502780": {
     "parent": 1478980,
@@ -344266,6 +344330,10 @@
   "5510420": {
     "parent": 381210,
     "name": "Dead by Daylight: Terrifier"
+  },
+  "5513590": {
+    "parent": 4842670,
+    "name": "PC FISH - Halloween Haunts Pack"
   },
   "5513900": {
     "parent": 4522520,
