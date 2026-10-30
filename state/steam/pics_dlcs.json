@@ -341647,6 +341647,10 @@
     "parent": 5292700,
     "name": "Scope Creep: The Board Game - Supporter Pack"
   },
+  "5355230": {
+    "parent": 1652580,
+    "name": "Bonus : Mature Content DLC"
+  },
   "5356560": {
     "parent": 3875890,
     "name": "Darkway: Lore of the City of Ink"
@@ -341902,6 +341906,10 @@
   "5369120": {
     "parent": 5061590,
     "name": "Puzzle Beetles Artbook"
+  },
+  "5369430": {
+    "parent": 464350,
+    "name": "Screeps: World - Pixelization Deluxe Upgrade"
   },
   "5369930": {
     "parent": 5061570,
@@ -342871,6 +342879,14 @@
     "parent": 977490,
     "name": "Jigsaw Masterpieces : Fireworks and Nightscape"
   },
+  "5413230": {
+    "parent": 3053950,
+    "name": "Dungeon Rampage - DLC: Sushi Chef Skin"
+  },
+  "5413430": {
+    "parent": 3053950,
+    "name": "Dungeon Rampage - DLC: Chieftain Berserker Skin"
+  },
   "5413620": {
     "parent": 3678970,
     "name": "TBH : Task Bar Hero - Material Stash Pack"
@@ -343047,6 +343063,18 @@
     "parent": 4834840,
     "name": "Ecstatica - DOSBox version"
   },
+  "5418160": {
+    "parent": 4834850,
+    "name": "Ecstatica II - 8K pre-rendered backgrounds"
+  },
+  "5418170": {
+    "parent": 4834850,
+    "name": "Ecstatica II - DOSBOX version"
+  },
+  "5418190": {
+    "parent": 3855940,
+    "name": "AURA 2: Lust of the Gods - The Locked Panties"
+  },
   "5418880": {
     "parent": 4930500,
     "name": "盯着你！桌面喵小西 - 支持者美术设定集"
@@ -343086,6 +343114,14 @@
   "5421700": {
     "parent": 4756450,
     "name": "Evercursed: Act I - Artworks Collection"
+  },
+  "5421750": {
+    "parent": 5083730,
+    "name": "Capitalize - Recycling Industry"
+  },
+  "5421760": {
+    "parent": 5083730,
+    "name": "Capitalize - Luxury Industry"
   },
   "5422240": {
     "parent": 4281680,
@@ -343255,6 +343291,10 @@
     "parent": 3700580,
     "name": "Livber: Smoke and Mirrors - Playable Kindle Version"
   },
+  "5433140": {
+    "parent": 3444020,
+    "name": "我在地府打麻将：月圆奇谭"
+  },
   "5433430": {
     "parent": 5167420,
     "name": "Mimic Busters Supporter Pack"
@@ -343266,6 +343306,10 @@
   "5434130": {
     "parent": 4317790,
     "name": "Last Pirates: Die Together - Supporter Pack"
+  },
+  "5434140": {
+    "parent": 761830,
+    "name": "Mr. Prepper: Supporter Pack"
   },
   "5434160": {
     "parent": 1652580,
@@ -343307,9 +343351,17 @@
     "parent": 5031210,
     "name": "Rise of the Merchants - Official Cookbook"
   },
+  "5439550": {
+    "parent": 3868850,
+    "name": "MISHA - Mood Wardrobe"
+  },
   "5439720": {
     "parent": 2583300,
     "name": "Simulator of Ukraine 1991 - Play for Crimea"
+  },
+  "5439860": {
+    "parent": 4110680,
+    "name": "SURI: The Seventh Note  Digital Deluxe"
   },
   "5440410": {
     "parent": 5223810,
@@ -344031,6 +344083,10 @@
     "parent": 4408320,
     "name": "Battle Bears Gold - Bling Pack: Weapon, Rare Songs & Gas"
   },
+  "5480330": {
+    "parent": 5287260,
+    "name": "Little Pac Base"
+  },
   "5480500": {
     "parent": 5100710,
     "name": "Orbital Madness - SUPPORT PACK"
@@ -344054,6 +344110,10 @@
   "5481990": {
     "parent": 1478980,
     "name": "RESTAURANTS A Culinary Adventure Pinball"
+  },
+  "5482240": {
+    "parent": 4149910,
+    "name": "Guildamation: Dolly - Sheep Girl Follower"
   },
   "5483440": {
     "parent": 4952980,
@@ -344079,9 +344139,21 @@
     "parent": 5055340,
     "name": "Lord of the Grind- Supporter Pack"
   },
+  "5485310": {
+    "parent": 3787390,
+    "name": "Love or Lust Beach Stories: Artbook"
+  },
+  "5485320": {
+    "parent": 3787390,
+    "name": "Love or Lust Beach Stories: Wallpapers Pack"
+  },
   "5486260": {
     "parent": 5339360,
     "name": "Your Cat - Special Colors"
+  },
+  "5486530": {
+    "parent": 3994790,
+    "name": "DJ Life Simulator - Supporter Pack"
   },
   "5486750": {
     "parent": 5004790,
@@ -344207,6 +344279,10 @@
     "parent": 1478980,
     "name": "Shearluck Ohms & Baker Street Mysteries Pinball"
   },
+  "5494000": {
+    "parent": 1372150,
+    "name": "Fish Game - Plant Cryptocoryne Pack"
+  },
   "5494230": {
     "parent": 5452650,
     "name": "Draemony - Complete Stash"
@@ -344319,6 +344395,18 @@
     "parent": 3925730,
     "name": "Furry Roommates - 18+ Adult Only Patch"
   },
+  "5506790": {
+    "parent": 1478980,
+    "name": "PIE PINBALL"
+  },
+  "5506800": {
+    "parent": 1478980,
+    "name": "SODA PINBALL"
+  },
+  "5506810": {
+    "parent": 1478980,
+    "name": "TACO PINBALL"
+  },
   "5507720": {
     "parent": 5355000,
     "name": "Xenowave Survivor - Bio-Swarm & Apex Arsenal"
@@ -344327,9 +344415,25 @@
     "parent": 5264930,
     "name": "归墟行 - \"冰魄霜蓝\" EA专属发色"
   },
+  "5508860": {
+    "parent": 4885100,
+    "name": "KeyPet - Gu Ting An"
+  },
+  "5509260": {
+    "parent": 4559630,
+    "name": "Between Us: Reckoning - 4K Wallpapers Pack"
+  },
   "5510420": {
     "parent": 381210,
     "name": "Dead by Daylight: Terrifier"
+  },
+  "5510890": {
+    "parent": 5352310,
+    "name": "Rising Star - Impact Lab"
+  },
+  "5513140": {
+    "parent": 5361040,
+    "name": "DD33 - Supporter Pack"
   },
   "5513590": {
     "parent": 4842670,
@@ -344363,6 +344467,10 @@
     "parent": 5472140,
     "name": "Knight’s Reckoning - Mount Pack 6"
   },
+  "5516040": {
+    "parent": 5463710,
+    "name": "Cards: Tidy Up! - Supporter Pack"
+  },
   "5516850": {
     "parent": 5009490,
     "name": "百夜炼诡录职业包-玄弓客"
@@ -344370,6 +344478,38 @@
   "5517400": {
     "parent": 2640020,
     "name": "Monkey - Early Supporter Bundle"
+  },
+  "5518470": {
+    "parent": 1478980,
+    "name": "PINBALL FIREFIGHTERS ENGINE COMPANY NO. 77"
+  },
+  "5518480": {
+    "parent": 5504190,
+    "name": "ZERO MASS: Deep Field Operations"
+  },
+  "5518500": {
+    "parent": 5504190,
+    "name": "ZERO MASS: Crew Operations"
+  },
+  "5518540": {
+    "parent": 5504190,
+    "name": "ZERO MASS: Custom Colours Supporter Pack"
+  },
+  "5525240": {
+    "parent": 1478980,
+    "name": "PRETZEL PINBALL"
+  },
+  "5526360": {
+    "parent": 5513350,
+    "name": "Kitty Supporter Pack"
+  },
+  "5526370": {
+    "parent": 5513350,
+    "name": "Bunny Supporter Pack"
+  },
+  "5526380": {
+    "parent": 5513350,
+    "name": "Sweets Supporter Pack"
   },
   "5529860": {
     "parent": 4530370,
