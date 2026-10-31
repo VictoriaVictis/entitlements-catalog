@@ -341923,6 +341923,10 @@
     "parent": 5349960,
     "name": "Wallpaper Cat: Kitten Coat Pack DLC"
   },
+  "5370680": {
+    "parent": 3296060,
+    "name": "Supporter Pack"
+  },
   "5370700": {
     "parent": 1478980,
     "name": "Pinball Fantasy Zombie Halloween Express"
@@ -342094,6 +342098,10 @@
   "5378180": {
     "parent": 2991650,
     "name": "DAWN AEROWAR - Pack 4K"
+  },
+  "5378230": {
+    "parent": 5008260,
+    "name": "ShootyCraft - Cosmetic Supporter Pack"
   },
   "5378370": {
     "parent": 3886870,
@@ -343147,6 +343155,10 @@
     "parent": 5364070,
     "name": "HELL CONTROL — Infernal Style Pack"
   },
+  "5424670": {
+    "parent": 4956920,
+    "name": "Thicc Magic - Supporter Pack"
+  },
   "5425970": {
     "parent": 3046540,
     "name": "10 Second Mixtape: Backstage Pass"
@@ -343911,6 +343923,10 @@
     "parent": 5452650,
     "name": "Draemony - Echo Portals"
   },
+  "5471100": {
+    "parent": 5282780,
+    "name": "Supporter Pack"
+  },
   "5471790": {
     "parent": 3995560,
     "name": "Настоящие пазлы - Монстры"
@@ -344051,6 +344067,14 @@
     "parent": 5022920,
     "name": "Chess Town - Supporter Pack"
   },
+  "5479130": {
+    "parent": 2208570,
+    "name": "Dark Hours - Cyberpunk Pack"
+  },
+  "5479140": {
+    "parent": 2208570,
+    "name": "Dark Hours - Steampunk Pack"
+  },
   "5479300": {
     "parent": 4973460,
     "name": "The Ash Remembers – Hero Background: The Burning Cathedral"
@@ -344086,6 +344110,10 @@
   "5480330": {
     "parent": 5287260,
     "name": "Little Pac Base"
+  },
+  "5480340": {
+    "parent": 5287260,
+    "name": "Little Pac Ultimate Upgrade (Need Little Pac Base)"
   },
   "5480500": {
     "parent": 5100710,
@@ -344379,9 +344407,33 @@
     "parent": 1519140,
     "name": "[NEOLITHIC] GER Editor"
   },
+  "5503650": {
+    "parent": 4952800,
+    "name": "Ablahshikar - Traveller's Armamentarium Vol. I"
+  },
   "5503710": {
     "parent": 4889740,
     "name": "Mow My World - Undeath World"
+  },
+  "5504900": {
+    "parent": 5486620,
+    "name": "JiivJiiv - Supporter Pack: Golden Farm"
+  },
+  "5504910": {
+    "parent": 5486620,
+    "name": "JiivJiiv - Sakura and Kodomo no Hi"
+  },
+  "5504920": {
+    "parent": 5486620,
+    "name": "JiivJiiv - Anatolian Spring: Hıdrellez"
+  },
+  "5504930": {
+    "parent": 5486620,
+    "name": "JiivJiiv - Japan"
+  },
+  "5504940": {
+    "parent": 5486620,
+    "name": "JiivJiiv - Tulip Era and the Janissary Corps"
   },
   "5505340": {
     "parent": 4481760,
@@ -344407,6 +344459,10 @@
     "parent": 1478980,
     "name": "TACO PINBALL"
   },
+  "5507710": {
+    "parent": 5355660,
+    "name": "Song Bao's Dating Adventure"
+  },
   "5507720": {
     "parent": 5355000,
     "name": "Xenowave Survivor - Bio-Swarm & Apex Arsenal"
@@ -344430,6 +344486,26 @@
   "5510890": {
     "parent": 5352310,
     "name": "Rising Star - Impact Lab"
+  },
+  "5511210": {
+    "parent": 5486620,
+    "name": "JiivJiiv - Chinese Village"
+  },
+  "5511220": {
+    "parent": 5486620,
+    "name": "JiivJiiv - Korean Village"
+  },
+  "5511230": {
+    "parent": 5486620,
+    "name": "JiivJiiv - English Village"
+  },
+  "5511240": {
+    "parent": 5486620,
+    "name": "JiivJiiv - French Village"
+  },
+  "5511260": {
+    "parent": 5486620,
+    "name": "JiivJiiv - German Village"
   },
   "5513140": {
     "parent": 5361040,
@@ -344494,6 +344570,10 @@
   "5518540": {
     "parent": 5504190,
     "name": "ZERO MASS: Custom Colours Supporter Pack"
+  },
+  "5520400": {
+    "parent": 5230220,
+    "name": "言葉遠征 - JLPT-地狱之旅"
   },
   "5525240": {
     "parent": 1478980,
