@@ -342751,6 +342751,14 @@
     "parent": 1679990,
     "name": "Hentai Sexy - Fest DLC"
   },
+  "5406580": {
+    "parent": 2239670,
+    "name": "Glory to the Heroes - Field Edition Upgrade"
+  },
+  "5406590": {
+    "parent": 2239670,
+    "name": "Glory to the Heroes - Supporter Edition Upgrade"
+  },
   "5406600": {
     "parent": 1679990,
     "name": "Hentai Sexy - Fest DLC 2"
@@ -343947,6 +343955,14 @@
     "parent": 3980450,
     "name": "Настоящие пазлы - Дом на природе"
   },
+  "5469810": {
+    "parent": 5418360,
+    "name": "Touch Grass, Pls! - Scent of Grass"
+  },
+  "5469820": {
+    "parent": 5418360,
+    "name": "Touch Grass, Pls! - Grass Supporter"
+  },
   "5470650": {
     "parent": 5452650,
     "name": "Draemony - Vale Portals"
@@ -344450,6 +344466,10 @@
   "5503710": {
     "parent": 4889740,
     "name": "Mow My World - Undeath World"
+  },
+  "5504890": {
+    "parent": 4204190,
+    "name": "大国崛起：1953"
   },
   "5504900": {
     "parent": 5486620,
