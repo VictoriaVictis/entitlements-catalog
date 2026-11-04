@@ -341843,6 +341843,10 @@
     "parent": 3219630,
     "name": "Halloween (2018)"
   },
+  "5366160": {
+    "parent": 2320980,
+    "name": "Loftia - Supporter Pack"
+  },
   "5366490": {
     "parent": 4144680,
     "name": "DOA6LR Nyotengu Demonic Tengu Bundle"
@@ -342929,23 +342933,23 @@
   },
   "5413230": {
     "parent": 3053950,
-    "name": "Dungeon Rampage - DLC: Sushi Chef Skin"
+    "name": "Dungeon Rampage Remastered - DLC: Sushi Chef Skin"
   },
   "5413430": {
     "parent": 3053950,
-    "name": "Dungeon Rampage - DLC: Chieftain Berserker Skin"
+    "name": "Dungeon Rampage Remastered - DLC: Chieftain Berserker Skin"
   },
   "5413440": {
     "parent": 3053950,
-    "name": "Dungeon Rampage - DLC: Santa Ranger Skin"
+    "name": "Dungeon Rampage Remastered - DLC: Santa Ranger Skin"
   },
   "5413450": {
     "parent": 3053950,
-    "name": "Dungeon Rampage - DLC: Shadow Wolf Pet"
+    "name": "Dungeon Rampage Remastered - DLC: Shadow Wolf Pet"
   },
   "5413460": {
     "parent": 3053950,
-    "name": "Dungeon Rampage - DLC: Venom Dragon Pet"
+    "name": "Dungeon Rampage Remastered - DLC: Venom Dragon Pet"
   },
   "5413620": {
     "parent": 3678970,
@@ -343199,6 +343203,18 @@
     "parent": 2139460,
     "name": "Once Human - Ocean Expansion: Isles of Abyss Bonus Pack"
   },
+  "5424050": {
+    "parent": 5422900,
+    "name": "Codys Collectathon - DLC Pack 1"
+  },
+  "5424060": {
+    "parent": 5422900,
+    "name": "Codys Collectathon - DLC Pack 2"
+  },
+  "5424070": {
+    "parent": 5422900,
+    "name": "Codys Collectathon - DLC Pack 3"
+  },
   "5424100": {
     "parent": 5017140,
     "name": "Idle Pixel Maids - Very High AI Model Pack"
@@ -343399,6 +343415,10 @@
     "parent": 2425740,
     "name": "竹书纪年：赵云别传"
   },
+  "5435640": {
+    "parent": 1497850,
+    "name": "SNIPER_DLC1"
+  },
   "5435760": {
     "parent": 4055330,
     "name": "Brain Candy Voice Overs"
@@ -343422,6 +343442,10 @@
   "5439000": {
     "parent": 5031210,
     "name": "Rise of the Merchants - Official Cookbook"
+  },
+  "5439300": {
+    "parent": 5319550,
+    "name": "文字刷宝录 Text Loot Codex 支持者包"
   },
   "5439390": {
     "parent": 1333350,
@@ -343494,6 +343518,10 @@
   "5442480": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Treasury of the Pharoahs (PFRPG)"
+  },
+  "5442910": {
+    "parent": 5442520,
+    "name": "Blocade Plus"
   },
   "5443060": {
     "parent": 1864790,
@@ -344063,6 +344091,10 @@
     "parent": 5455490,
     "name": "hold space. - The Other Keys"
   },
+  "5473690": {
+    "parent": 1406340,
+    "name": "Black Maou and Rainbow Kingdom - Co-op Mode DLC"
+  },
   "5473790": {
     "parent": 4243990,
     "name": "Path of Idle: Old Gods Rising - Halloween Transmog"
@@ -344142,6 +344174,10 @@
   "5476870": {
     "parent": 5264830,
     "name": "Boardroom Wars: Fight for Kashistan - Wallpaper Pack"
+  },
+  "5477300": {
+    "parent": 4225280,
+    "name": "Corpus et Spiritus - Supporter Pack"
   },
   "5477900": {
     "parent": 4262620,
@@ -344250,6 +344286,10 @@
   "5482680": {
     "parent": 5245310,
     "name": "挂机魔王 II - 魔王契约·支持者包"
+  },
+  "5482700": {
+    "parent": 5245310,
+    "name": "挂机魔王 II - 堕落圣骑士·职业扩展"
   },
   "5483440": {
     "parent": 4952980,
@@ -344363,6 +344403,10 @@
     "parent": 5055340,
     "name": "Lord of the Grind- Active Dungeon Aura"
   },
+  "5490190": {
+    "parent": 5058280,
+    "name": "Grazed - Supporter Pack"
+  },
   "5491030": {
     "parent": 5478680,
     "name": "Pixel Pause - Stained Glass Pack"
@@ -344382,6 +344426,10 @@
   "5491700": {
     "parent": 5480250,
     "name": "Femboy Futa Casino Wallpaper Pack"
+  },
+  "5492100": {
+    "parent": 5491950,
+    "name": "OpenSheet 1e SRD - Full Unlock"
   },
   "5492240": {
     "parent": 104900,
@@ -344470,6 +344518,10 @@
   "5497430": {
     "parent": 2808930,
     "name": "Lust Goddess — Mascot Cyphra"
+  },
+  "5497750": {
+    "parent": 1497850,
+    "name": "SNIPER_DLC2"
   },
   "5497820": {
     "parent": 4200960,
@@ -344563,6 +344615,10 @@
     "parent": 4889740,
     "name": "Mow My World - Undeath World"
   },
+  "5504650": {
+    "parent": 2508290,
+    "name": "Tax-Force  - Supporter Pack"
+  },
   "5504890": {
     "parent": 4204190,
     "name": "大国崛起：1953"
@@ -344631,6 +344687,10 @@
     "parent": 4559630,
     "name": "Between Us: Reckoning - 4K Wallpapers Pack"
   },
+  "5509310": {
+    "parent": 4413220,
+    "name": "Streetball Legends - Full Game"
+  },
   "5509770": {
     "parent": 2274120,
     "name": "NSFW Solitaire - Squirts Video"
@@ -344670,6 +344730,14 @@
   "5511300": {
     "parent": 3986140,
     "name": "Aerospace Engineering Sandbox: Planets Pack"
+  },
+  "5512040": {
+    "parent": 4630400,
+    "name": "Directors Cut: Train – Bonnie & Clyde"
+  },
+  "5512760": {
+    "parent": 4204190,
+    "name": "大国崛起：1945"
   },
   "5513140": {
     "parent": 5361040,
@@ -344755,6 +344823,10 @@
     "parent": 3049140,
     "name": "Choice of Life: Modern Ages - Wallpapers"
   },
+  "5525230": {
+    "parent": 1478980,
+    "name": "HOT DOG PINBALL"
+  },
   "5525240": {
     "parent": 1478980,
     "name": "PRETZEL PINBALL"
@@ -344818,5 +344890,61 @@
   "5530550": {
     "parent": 5055340,
     "name": "Lord of the Grind- Unlimited Auto Skill Limit"
+  },
+  "5530720": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Pathfinder 2 RPG - Feybound"
+  },
+  "5533500": {
+    "parent": 1266470,
+    "name": "Real VR Fishing - Great Lakes & Oceans DLC"
+  },
+  "5534440": {
+    "parent": 3634590,
+    "name": "Coloring Voxels - Laboratory Pack"
+  },
+  "5535030": {
+    "parent": 3914300,
+    "name": "Настоящие пазлы - Котята: Морские обитатели (изображения)"
+  },
+  "5536970": {
+    "parent": 3980450,
+    "name": "Настоящие пазлы - Каньоны: Дом на природе (изображения)"
+  },
+  "5537400": {
+    "parent": 1478980,
+    "name": "Primal World Pinball T. Rex Breakout"
+  },
+  "5537430": {
+    "parent": 1478980,
+    "name": "Primal World Pinball Volcano Island"
+  },
+  "5537440": {
+    "parent": 1478980,
+    "name": "Primal World Pinball Lost Valley"
+  },
+  "5537450": {
+    "parent": 1478980,
+    "name": "Primal World Pinball River of Giants"
+  },
+  "5538290": {
+    "parent": 3583790,
+    "name": "Virtual Skate - Deck Pack 1"
+  },
+  "5538510": {
+    "parent": 5408030,
+    "name": "Supporter Pack: Cycle of the First Dawn - Visions of the Realms"
+  },
+  "5538990": {
+    "parent": 5530970,
+    "name": "Task Bar Quest — Ash Ronin"
+  },
+  "5539010": {
+    "parent": 5530970,
+    "name": "Task Bar Quest — Raven Mage"
+  },
+  "5540090": {
+    "parent": 5335850,
+    "name": "Idle Abyss Princesses - The Demon Urn"
   }
 }
