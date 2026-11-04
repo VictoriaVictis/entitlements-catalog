@@ -344091,6 +344091,10 @@
     "parent": 5455490,
     "name": "hold space. - The Other Keys"
   },
+  "5473430": {
+    "parent": 1527950,
+    "name": "Wartales - Expansion: Knights of Fardensa"
+  },
   "5473690": {
     "parent": 1406340,
     "name": "Black Maou and Rainbow Kingdom - Co-op Mode DLC"
@@ -344258,6 +344262,10 @@
   "5480710": {
     "parent": 3058550,
     "name": "REWOLBOROUGH: Official Artwork DLC"
+  },
+  "5480730": {
+    "parent": 842180,
+    "name": "5th Anniversary Prison Skins"
   },
   "5481390": {
     "parent": 3189340,
@@ -344799,6 +344807,10 @@
     "parent": 5504190,
     "name": "ZERO MASS: Deep Field Operations"
   },
+  "5518490": {
+    "parent": 5504190,
+    "name": "ZERO MASS: Aquilo Station"
+  },
   "5518500": {
     "parent": 5504190,
     "name": "ZERO MASS: Crew Operations"
@@ -344814,6 +344826,10 @@
   "5520410": {
     "parent": 4737360,
     "name": "Ero Fighters Digital Artbook"
+  },
+  "5521410": {
+    "parent": 5411880,
+    "name": "REGENTIE - Golden Throne"
   },
   "5524150": {
     "parent": 5142170,
@@ -344863,6 +344879,18 @@
     "parent": 5513350,
     "name": "Sweets Supporter Pack"
   },
+  "5527870": {
+    "parent": 5283340,
+    "name": "Plague Inc: The Board Game - Patient Zero Pack"
+  },
+  "5527880": {
+    "parent": 5283340,
+    "name": "Plague Inc: The Board Game - Extreme Events pack"
+  },
+  "5528120": {
+    "parent": 5283340,
+    "name": "Plague Inc: The Board Game - Designer Diseases"
+  },
   "5528840": {
     "parent": 5486070,
     "name": "Ore Heads - Animal Onesies"
@@ -344894,6 +344922,10 @@
   "5530720": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Pathfinder 2 RPG - Feybound"
+  },
+  "5531060": {
+    "parent": 5187960,
+    "name": "Touchline Platinum"
   },
   "5533500": {
     "parent": 1266470,
@@ -344946,5 +344978,9 @@
   "5540090": {
     "parent": 5335850,
     "name": "Idle Abyss Princesses - The Demon Urn"
+  },
+  "5543210": {
+    "parent": 5540160,
+    "name": "Simple Animated Wallpapers - Supporter Pack"
   }
 }
