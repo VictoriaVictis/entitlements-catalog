@@ -342399,6 +342399,10 @@
     "parent": 3095960,
     "name": "周易六爻占卜游戏 - 批八字"
   },
+  "5395780": {
+    "parent": 4885070,
+    "name": "Pay Back Girls: Character DLC Vol.1"
+  },
   "5396820": {
     "parent": 5392600,
     "name": "SPECTR: Rekindle the World - Prism Supporter Pack"
@@ -343659,6 +343663,26 @@
     "parent": 1904160,
     "name": "Trainz Plus DLC - VR C Locomotive - SRHC Pack"
   },
+  "5450660": {
+    "parent": 4144680,
+    "name": "DOA6LR Minato Weekend Mission Bundle"
+  },
+  "5450670": {
+    "parent": 4144680,
+    "name": "DOA6LR Minato Weekend Mission: Alpha Wolf"
+  },
+  "5450680": {
+    "parent": 4144680,
+    "name": "DOA6LR Minato Weekend Mission: Bravo Rabbit"
+  },
+  "5450690": {
+    "parent": 4144680,
+    "name": "DOA6LR Minato Weekend Mission: Charlie Fox"
+  },
+  "5450700": {
+    "parent": 4144680,
+    "name": "DOA6LR Minato Weekend Mission: Delta Frog"
+  },
   "5451010": {
     "parent": 5096660,
     "name": "怪談寺 - 攻略PDF"
@@ -343878,6 +343902,10 @@
   "5458510": {
     "parent": 3738830,
     "name": "FIRE STATE - 众筹终极典藏版"
+  },
+  "5458750": {
+    "parent": 3530820,
+    "name": "Puzzling Places - World Tour - Premium Pack"
   },
   "5458800": {
     "parent": 5079490,
@@ -344331,6 +344359,10 @@
     "parent": 5055340,
     "name": "Lord of the Grind- Supporter Pack"
   },
+  "5485230": {
+    "parent": 1910150,
+    "name": "Walk of Life Supporter Pack"
+  },
   "5485310": {
     "parent": 3787390,
     "name": "Love or Lust Beach Stories: Artbook"
@@ -344342,6 +344374,10 @@
   "5486260": {
     "parent": 5339360,
     "name": "Your Cat - Special Colors"
+  },
+  "5486430": {
+    "parent": 5421290,
+    "name": "Ember and Ash: The Cradle – 18+ Content"
   },
   "5486530": {
     "parent": 3994790,
@@ -344534,6 +344570,90 @@
   "5497820": {
     "parent": 4200960,
     "name": "Thief: A Remaster Diary & Novel Preview"
+  },
+  "5497870": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Mistmoor"
+  },
+  "5497880": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Eyrie"
+  },
+  "5497890": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Rift"
+  },
+  "5497900": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: Mirror Lake"
+  },
+  "5497910": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Emberlands"
+  },
+  "5497920": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: Standstill"
+  },
+  "5497930": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Growing Court"
+  },
+  "5497940": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Hearth"
+  },
+  "5497950": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Lost Dominion"
+  },
+  "5497960": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Wound"
+  },
+  "5497980": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: The Quiet Chamber"
+  },
+  "5497990": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Background: Beyond the Causeway"
+  },
+  "5498000": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Campfire Set: Quiet Flames"
+  },
+  "5498010": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Number Style Set: Ember, Frost, Parchment"
+  },
+  "5498020": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Weather Set: Ashfall, Embers, Frostflurry, Mist"
+  },
+  "5498030": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Skin: Kaelen the Emberbearer"
+  },
+  "5498040": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Skin: Dorn the Sparkscout"
+  },
+  "5498050": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Skin: Veyl the Runeburner"
+  },
+  "5498060": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Skin: Sera the Ember Lioness"
+  },
+  "5498070": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Skin: Nyx the Emberblade"
+  },
+  "5498080": {
+    "parent": 4973460,
+    "name": "The Ash Remembers – Hero Skin: Liraël, Mistress of the Blaze"
   },
   "5498550": {
     "parent": 4089000,
@@ -344755,6 +344875,10 @@
     "parent": 4842670,
     "name": "PC FISH - Halloween Haunts Pack"
   },
+  "5513750": {
+    "parent": 4749880,
+    "name": "Desktop Bouncer - Squishy Merge"
+  },
   "5513900": {
     "parent": 4522520,
     "name": "若诅咒以爱之名 - 万俟睫鼠标光标扩展包"
@@ -344826,6 +344950,10 @@
   "5520410": {
     "parent": 4737360,
     "name": "Ero Fighters Digital Artbook"
+  },
+  "5520560": {
+    "parent": 2176130,
+    "name": "Tower! Simulator 3 - RJAA Airport"
   },
   "5521410": {
     "parent": 5411880,
