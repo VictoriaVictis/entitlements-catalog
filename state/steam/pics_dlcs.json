@@ -342467,6 +342467,22 @@
     "parent": 5391940,
     "name": "Dub With Friends - Supporter Pack"
   },
+  "5398280": {
+    "parent": 4463730,
+    "name": "Sexpatch: Horny Capes - Animations Pack"
+  },
+  "5398290": {
+    "parent": 4463730,
+    "name": "Sexpatch: Horny Capes - Digital Artbook"
+  },
+  "5398300": {
+    "parent": 4463730,
+    "name": "Sexpatch: Horny Capes - Wallpapers Pack"
+  },
+  "5398320": {
+    "parent": 4463730,
+    "name": "Sexpatch: Horny Capes - Hot Mess"
+  },
   "5398550": {
     "parent": 1449180,
     "name": "Traxion - Supporter Pack"
@@ -342514,6 +342530,10 @@
   "5399460": {
     "parent": 2205740,
     "name": "Sexy Elf - Desert DLC 2"
+  },
+  "5399470": {
+    "parent": 2205740,
+    "name": "Sexy Elf - Desert DLC 3"
   },
   "5399480": {
     "parent": 2205740,
@@ -343211,6 +343231,10 @@
     "parent": 4281680,
     "name": "Cambell's Oddity Box - Goalf"
   },
+  "5422520": {
+    "parent": 4794170,
+    "name": "Swarmslam - Supporter Pack"
+  },
   "5423210": {
     "parent": 2234650,
     "name": "The Artisans"
@@ -343354,6 +343378,14 @@
   "5430300": {
     "parent": 3167710,
     "name": "Piworld - Permanent Premium Status"
+  },
+  "5431240": {
+    "parent": 3911020,
+    "name": "Anime Art Generator – AI Illustration Pack"
+  },
+  "5431250": {
+    "parent": 3911020,
+    "name": "Anime Art Generator – Furry & Anthro Art Pack"
   },
   "5431380": {
     "parent": 4895300,
@@ -344167,6 +344199,14 @@
     "parent": 4573090,
     "name": "Pibcremental - Supporter Pack"
   },
+  "5473990": {
+    "parent": 4116260,
+    "name": "In-Security - Darius NTR"
+  },
+  "5474010": {
+    "parent": 4116260,
+    "name": "In-Security - Gary NTR"
+  },
   "5475060": {
     "parent": 2930280,
     "name": "0101 - Binary Bonus Levels"
@@ -344394,6 +344434,10 @@
   "5482680": {
     "parent": 5245310,
     "name": "挂机魔王 II - 魔王契约·支持者包"
+  },
+  "5482690": {
+    "parent": 5245310,
+    "name": "挂机魔王 II - 深渊远征·远古魔宠"
   },
   "5482700": {
     "parent": 5245310,
@@ -344627,6 +344671,18 @@
     "parent": 2451010,
     "name": "PROJECT HUNT - Skull Rider"
   },
+  "5496370": {
+    "parent": 4613510,
+    "name": "Adunata Seats x2"
+  },
+  "5496380": {
+    "parent": 4613510,
+    "name": "Adunata Seats x4"
+  },
+  "5496390": {
+    "parent": 4613510,
+    "name": "Adunata Seats x6"
+  },
   "5496750": {
     "parent": 5404940,
     "name": "Road Riot: Wild Rides Supporter Pack"
@@ -344738,6 +344794,10 @@
   "5498550": {
     "parent": 4089000,
     "name": "Vampolitics: Vassals of the Void - Supporter Pack"
+  },
+  "5499440": {
+    "parent": 2776270,
+    "name": "Beetleball - The Gluttonous Gourmand's Glorious Gâteau Skin Pack"
   },
   "5499530": {
     "parent": 5352440,
@@ -344963,6 +345023,10 @@
     "parent": 4749880,
     "name": "Desktop Bouncer - Squishy Merge"
   },
+  "5513870": {
+    "parent": 2776270,
+    "name": "Beetleball - The Autumnstic Belated Chitinous Dung-lightfully Eerie (...) Skin Pack"
+  },
   "5513900": {
     "parent": 4522520,
     "name": "若诅咒以爱之名 - 万俟睫鼠标光标扩展包"
@@ -345018,6 +345082,14 @@
   "5517400": {
     "parent": 2640020,
     "name": "Monkey - Early Supporter Bundle"
+  },
+  "5518000": {
+    "parent": 2694490,
+    "name": "Path of Exile 2 - Early Access Supporter Pack"
+  },
+  "5518320": {
+    "parent": 3260140,
+    "name": "流亡黯道2 - 搶先體驗贊助者包"
   },
   "5518470": {
     "parent": 1478980,
@@ -345098,6 +345170,10 @@
   "5525660": {
     "parent": 1478980,
     "name": "Railway Tea Car Pinball"
+  },
+  "5525720": {
+    "parent": 1478980,
+    "name": "Industrial Roastery Pinball"
   },
   "5526360": {
     "parent": 5513350,
@@ -345243,6 +345319,10 @@
     "parent": 5439210,
     "name": "Awesome Captcha - Supporter Pack"
   },
+  "5542000": {
+    "parent": 5518020,
+    "name": "Red Eye Empire - Supporter Pack"
+  },
   "5543210": {
     "parent": 5540160,
     "name": "Simple Animated Wallpapers - Supporter Pack"
@@ -345259,8 +345339,28 @@
     "parent": 4749880,
     "name": "Desktop Bouncer - Squishy Sweets"
   },
+  "5546270": {
+    "parent": 5544530,
+    "name": "Totally Under Control! - Overtime"
+  },
+  "5548140": {
+    "parent": 4617500,
+    "name": "Revenant Survivors - Supporter Pack"
+  },
   "5551680": {
     "parent": 5314260,
     "name": "Freakopoly - Sole Mates Pack"
+  },
+  "5551870": {
+    "parent": 5396440,
+    "name": "Pop! Jelly PangPang - Full Version Unlock"
+  },
+  "5553580": {
+    "parent": 4872180,
+    "name": "Nutshot Simulator - Athletic Supporter Pack"
+  },
+  "5553790": {
+    "parent": 5396440,
+    "name": "Pop! Jelly PangPang - Drum Festival"
   }
 }
