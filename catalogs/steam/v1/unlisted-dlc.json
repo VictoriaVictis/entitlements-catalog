@@ -7022,6 +7022,7 @@
       "4200750": "Call of Duty®: Black Ops 7 - BlackCell (Season 03)",
       "4200760": "Call of Duty®: Black Ops 7 - BlackCell (Season 04)",
       "4200770": "Call of Duty®: Black Ops 7 - BlackCell (Season 05)",
+      "4200780": "Call of Duty®: Black Ops 7 - BlackCell (Season 06)",
       "4269880": "Call of Duty® - Free Weekend",
       "4435520": "Call of Duty®: Modern Warfare® 4 - Standard Edition Pack 1",
       "4435530": "Call of Duty®: Modern Warfare® 4 - Standard Edition Pack 2",
@@ -7685,6 +7686,11 @@
     "dlcs": {
       "4843890": "Femboy Pirates Supporter Pack",
       "4843900": "Femboy Pirates Wallpaper Pack"
+    }
+  },
+  "5014530": {
+    "dlcs": {
+      "5463930": "Cats to Mars：Planet Myao Myao"
     }
   }
 }
