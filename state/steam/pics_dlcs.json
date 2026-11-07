@@ -344163,6 +344163,10 @@
     "parent": 4992990,
     "name": "Horny Asylum :  The Undercroft"
   },
+  "5472640": {
+    "parent": 4233930,
+    "name": "MatchBuzz - Notification Design Pack"
+  },
   "5472820": {
     "parent": 897330,
     "name": "Coloring Pixels - Skylines Pack"
@@ -344795,6 +344799,10 @@
     "parent": 4089000,
     "name": "Vampolitics: Vassals of the Void - Supporter Pack"
   },
+  "5499260": {
+    "parent": 5473930,
+    "name": "Follyvale - Supporter Pack"
+  },
   "5499440": {
     "parent": 2776270,
     "name": "Beetleball - The Gluttonous Gourmand's Glorious Gâteau Skin Pack"
@@ -345186,6 +345194,18 @@
   "5526380": {
     "parent": 5513350,
     "name": "Sweets Supporter Pack"
+  },
+  "5526780": {
+    "parent": 3649730,
+    "name": "Legend Battles Solo PvE"
+  },
+  "5527080": {
+    "parent": 3649730,
+    "name": "Legend Battles Co-op PvE & PvPvE"
+  },
+  "5527270": {
+    "parent": 3649730,
+    "name": "Legend Battles Aurora"
   },
   "5527870": {
     "parent": 5283340,
