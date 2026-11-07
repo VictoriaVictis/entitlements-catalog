@@ -342999,6 +342999,26 @@
     "parent": 2359470,
     "name": "Strayed - Reaper Skin Pack"
   },
+  "5414250": {
+    "parent": 5273050,
+    "name": "Your Friend's Mom 2 - Classic Mommy"
+  },
+  "5414260": {
+    "parent": 5273050,
+    "name": "Your Friend's Mom 2 - Strict Mommy"
+  },
+  "5414620": {
+    "parent": 5273050,
+    "name": "Your Friend's Mom 2 - Daddy Pack"
+  },
+  "5414630": {
+    "parent": 5273050,
+    "name": "Your Friend's Mom 2 - Retro Horror Pack"
+  },
+  "5414640": {
+    "parent": 5273050,
+    "name": "Your Friend's Mom 2 - Anime Waifu Pack"
+  },
   "5414770": {
     "parent": 5411990,
     "name": "No One Runs Alone - Support Pack"
@@ -344003,6 +344023,18 @@
     "parent": 4201270,
     "name": "MMA Empire - Sandbox Mode"
   },
+  "5461250": {
+    "parent": 5307510,
+    "name": "Gravity Chain - Nova Pack"
+  },
+  "5461260": {
+    "parent": 5307510,
+    "name": "Gravity Chain - Singularity Pack"
+  },
+  "5461290": {
+    "parent": 5307510,
+    "name": "Gravity Chain - Golden Saga Pack"
+  },
   "5461400": {
     "parent": 5079490,
     "name": "WDR：弹窗保卫战-弥赛亚"
@@ -344463,6 +344495,18 @@
     "parent": 1742440,
     "name": "COP BASTARD - Digital Compendium"
   },
+  "5484500": {
+    "parent": 4626180,
+    "name": "INTERNS - Artbook"
+  },
+  "5484510": {
+    "parent": 4626180,
+    "name": "INTERNS - Wallpapers Pack"
+  },
+  "5484520": {
+    "parent": 4626180,
+    "name": "INTERNS - Animations Pack"
+  },
   "5484580": {
     "parent": 5407690,
     "name": "Catjong 7: Purradise Heights Full Version Unlock"
@@ -344630,6 +344674,10 @@
   "5493200": {
     "parent": 1478980,
     "name": "BIG CHEESE PINBALL"
+  },
+  "5493210": {
+    "parent": 1478980,
+    "name": "OLD CHICAGO TOWN SPEAKEASY PINBALL"
   },
   "5493220": {
     "parent": 1478980,
@@ -345171,6 +345219,10 @@
     "parent": 1478980,
     "name": "Mint Tea Salon Pinball"
   },
+  "5525630": {
+    "parent": 1478980,
+    "name": "Garden Tea Party Pinball"
+  },
   "5525650": {
     "parent": 1478980,
     "name": "Herbal Apothecary Tea Pinball"
@@ -345351,6 +345403,10 @@
     "parent": 5402860,
     "name": "公主-沐"
   },
+  "5544720": {
+    "parent": 5366690,
+    "name": "My Own Roguelike: RPG - Swordsman"
+  },
   "5545500": {
     "parent": 4749880,
     "name": "Desktop Bouncer - Squishy Pool"
@@ -345359,6 +345415,10 @@
     "parent": 4749880,
     "name": "Desktop Bouncer - Squishy Sweets"
   },
+  "5545890": {
+    "parent": 1478980,
+    "name": "PIGEON POST THE GREAT AIRMAIL ADVENTURE PINBALL"
+  },
   "5546270": {
     "parent": 5544530,
     "name": "Totally Under Control! - Overtime"
@@ -345366,6 +345426,10 @@
   "5548140": {
     "parent": 4617500,
     "name": "Revenant Survivors - Supporter Pack"
+  },
+  "5549430": {
+    "parent": 5054940,
+    "name": "Echoes of Desire – Chapter 2"
   },
   "5551680": {
     "parent": 5314260,
