@@ -342727,6 +342727,10 @@
     "parent": 1407560,
     "name": "Hot Mic - VIP"
   },
+  "5403100": {
+    "parent": 5135440,
+    "name": "DPS - Convenience Pack"
+  },
   "5403530": {
     "parent": 2414410,
     "name": "Tri City Monsters - Artbook"
@@ -343410,6 +343414,10 @@
   "5431250": {
     "parent": 3911020,
     "name": "Anime Art Generator – Furry & Anthro Art Pack"
+  },
+  "5431260": {
+    "parent": 3911020,
+    "name": "Anime Art Generator – Anime Character Art Pack"
   },
   "5431380": {
     "parent": 4895300,
@@ -344943,6 +344951,10 @@
     "parent": 4889740,
     "name": "Mow My World - Undeath World"
   },
+  "5504140": {
+    "parent": 5482860,
+    "name": "Death Pool Club - After Hours Collection"
+  },
   "5504650": {
     "parent": 2508290,
     "name": "Tax-Force  - Supporter Pack"
@@ -345095,6 +345107,10 @@
     "parent": 4522520,
     "name": "若诅咒以爱之名 - 万俟睫鼠标光标扩展包"
   },
+  "5513930": {
+    "parent": 4985540,
+    "name": "TASMON: Convenience Pack"
+  },
   "5515210": {
     "parent": 5472140,
     "name": "Knight’s Reckoning - Mount Pack 1"
@@ -345206,6 +345222,10 @@
   "5521000": {
     "parent": 4002930,
     "name": "My Ex-Future Family 3: Endgame Artbook"
+  },
+  "5521250": {
+    "parent": 2686570,
+    "name": "Waltz & Jam - Digital Artbook"
   },
   "5521410": {
     "parent": 5411880,
@@ -345359,6 +345379,30 @@
     "parent": 1266470,
     "name": "Real VR Fishing - Great Lakes & Oceans DLC"
   },
+  "5534240": {
+    "parent": 5468140,
+    "name": "Voxmons - Auto Attack"
+  },
+  "5534260": {
+    "parent": 5468140,
+    "name": "Voxmons - Auto Hatch"
+  },
+  "5534270": {
+    "parent": 5468140,
+    "name": "Voxmons - AFK Booster"
+  },
+  "5534280": {
+    "parent": 5468140,
+    "name": "Voxmons - Team Slots +10"
+  },
+  "5534290": {
+    "parent": 5468140,
+    "name": "Voxmons - Hatch +5"
+  },
+  "5534300": {
+    "parent": 5468140,
+    "name": "Voxmons - Market Listings +5"
+  },
   "5534440": {
     "parent": 3634590,
     "name": "Coloring Voxels - Laboratory Pack"
@@ -345438,6 +345482,18 @@
   "5542000": {
     "parent": 5518020,
     "name": "Red Eye Empire - Supporter Pack"
+  },
+  "5542210": {
+    "parent": 5519390,
+    "name": "Salva's Chess - Piece Sets"
+  },
+  "5542670": {
+    "parent": 5118500,
+    "name": "Safari-TV - Supporter Pack"
+  },
+  "5542680": {
+    "parent": 5118500,
+    "name": "Safari-TV - Community Pack"
   },
   "5543210": {
     "parent": 5540160,
