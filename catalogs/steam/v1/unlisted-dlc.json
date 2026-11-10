@@ -7653,11 +7653,6 @@
       "4642980": "LittleRunner Chain"
     }
   },
-  "4530370": {
-    "dlcs": {
-      "5529860": "Football Manager 27 - Free Weekend"
-    }
-  },
   "4669360": {
     "dlcs": {
       "4772110": "Bridgetxt - Annual VIP",
@@ -7685,6 +7680,11 @@
   "5014530": {
     "dlcs": {
       "5463930": "Cats to Mars：Planet Myao Myao"
+    }
+  },
+  "5401870": {
+    "dlcs": {
+      "5413660": "Unlimited Triggers"
     }
   }
 }

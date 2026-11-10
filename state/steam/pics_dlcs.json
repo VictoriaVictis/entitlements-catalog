@@ -343603,6 +343603,10 @@
     "parent": 4140700,
     "name": "Cash is King! - The Official Book"
   },
+  "5440640": {
+    "parent": 4191110,
+    "name": "Vampire: The Masquerade - Oaths & Ashes - Digital Artbook"
+  },
   "5440670": {
     "parent": 2411200,
     "name": "Underkeep - Supporter Pack"
@@ -343631,9 +343635,21 @@
     "parent": 5442520,
     "name": "Blocade Plus"
   },
+  "5442930": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Starbreaker: Star Marines"
+  },
+  "5443050": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Deadlands: the Weird West Quick Chase Deck"
+  },
   "5443060": {
     "parent": 1864790,
     "name": "1BITDRAGON – Lord Skeleton Sound Pack"
+  },
+  "5443120": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Savage Tales of Horror 3"
   },
   "5443200": {
     "parent": 4504390,
@@ -344471,6 +344487,10 @@
     "parent": 842180,
     "name": "5th Anniversary Prison Skins"
   },
+  "5480810": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Starbreaker: Star Marines Archetypes"
+  },
   "5480920": {
     "parent": 360940,
     "name": "The Mean Greens Plastic Warfare: Wrestling Superstar \"DDP\" - DLC Character"
@@ -344751,6 +344771,14 @@
     "parent": 1478980,
     "name": "Shearluck Ohms & Baker Street Mysteries Pinball"
   },
+  "5493320": {
+    "parent": 2826790,
+    "name": "Stormforge - Supporter Pack"
+  },
+  "5493520": {
+    "parent": 615780,
+    "name": "Nancy Drew®: Treasure in the Royal Tower Strategy Guide"
+  },
   "5494000": {
     "parent": 1372150,
     "name": "Fish Game - Plant Cryptocoryne Pack"
@@ -344890,6 +344918,10 @@
   "5498080": {
     "parent": 4973460,
     "name": "The Ash Remembers – Hero Skin: Liraël, Mistress of the Blaze"
+  },
+  "5498270": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Starbreaker: Star Marshals"
   },
   "5498550": {
     "parent": 4089000,
@@ -345275,6 +345307,10 @@
     "parent": 4002930,
     "name": "My Ex-Future Family 3: Endgame Artbook"
   },
+  "5521050": {
+    "parent": 5521040,
+    "name": "Koyland - Steam Kulesi Paketi"
+  },
   "5521250": {
     "parent": 2686570,
     "name": "Waltz and Jam - Digital Artbook"
@@ -345282,6 +345318,10 @@
   "5521410": {
     "parent": 5411880,
     "name": "REGENTIE - Golden Throne"
+  },
+  "5521560": {
+    "parent": 5167670,
+    "name": "Starlight Cove - Supporter Pack"
   },
   "5522470": {
     "parent": 4002930,
@@ -345354,6 +345394,10 @@
   "5525730": {
     "parent": 1478980,
     "name": "Coffee Plantation Adventure Pinball"
+  },
+  "5525780": {
+    "parent": 1478980,
+    "name": "Coffee Pinball — Retro Diner"
   },
   "5526360": {
     "parent": 5513350,
@@ -345515,6 +345559,10 @@
     "parent": 1478980,
     "name": "Primal World Pinball River of Giants"
   },
+  "5537590": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - The Secret World - North America (SWADE)"
+  },
   "5537870": {
     "parent": 5486070,
     "name": "Ore Heads - Legends of the Thousand Realms"
@@ -345562,6 +345610,10 @@
   "5539820": {
     "parent": 4600990,
     "name": "Clash of Crests - The Wild Marches"
+  },
+  "5539840": {
+    "parent": 1308700,
+    "name": "Wizardry: The Five Ordeals - Collaboration Portraits \"Marfusha:Sentinel Girls\""
   },
   "5540090": {
     "parent": 5335850,
@@ -345638,6 +345690,10 @@
   "5548140": {
     "parent": 4617500,
     "name": "Revenant Survivors - Supporter Pack"
+  },
+  "5548340": {
+    "parent": 1422130,
+    "name": "SimRail - The Railway Simulator: Lublin Region"
   },
   "5549430": {
     "parent": 5054940,
@@ -345718,5 +345774,25 @@
   "5559370": {
     "parent": 5539580,
     "name": "Hex Appeal Femboy Futa Witches Wallpaper Pack"
+  },
+  "5564860": {
+    "parent": 5086530,
+    "name": "PUCKVPUCK - Goal Explosion Pack"
+  },
+  "5565420": {
+    "parent": 1926590,
+    "name": "Nancy Drew®: Mystery of the Seven Keys™ Strategy Guide"
+  },
+  "5565960": {
+    "parent": 572740,
+    "name": "Nancy Drew®: The Secret of Shadow Ranch Strategy Guide"
+  },
+  "5566180": {
+    "parent": 31830,
+    "name": "Nancy Drew®: Curse of Blackmoor Manor Strategy Guide"
+  },
+  "5566290": {
+    "parent": 31930,
+    "name": "Nancy Drew®: The White Wolf of Icicle Creek Strategy Guide"
   }
 }
