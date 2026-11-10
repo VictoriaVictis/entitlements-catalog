@@ -343555,6 +343555,10 @@
     "parent": 1333350,
     "name": "Angel Legion-DLC Starlit Veil Dance (Blue)"
   },
+  "5439420": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Starlit Veil Dance (Orange)"
+  },
   "5439550": {
     "parent": 3868850,
     "name": "MISHA - Mood Wardrobe"
@@ -344523,6 +344527,10 @@
     "parent": 4952980,
     "name": "My Party Is Grinding - Vanguard Party"
   },
+  "5483610": {
+    "parent": 5407720,
+    "name": "Cozy Cat Match 2 Full Version Unlock"
+  },
   "5483980": {
     "parent": 3248550,
     "name": "Pizza Empire - Supporter Pack"
@@ -345269,7 +345277,7 @@
   },
   "5521250": {
     "parent": 2686570,
-    "name": "Waltz & Jam - Digital Artbook"
+    "name": "Waltz and Jam - Digital Artbook"
   },
   "5521410": {
     "parent": 5411880,
@@ -345479,6 +345487,14 @@
     "parent": 3914300,
     "name": "Настоящие пазлы - Котята: Морские обитатели (изображения)"
   },
+  "5535760": {
+    "parent": 5535750,
+    "name": "Tanks & Trebuchets - Supporter Pack"
+  },
+  "5535770": {
+    "parent": 5535750,
+    "name": "Tanks & Trebuchets - All Upgrades & Cosmetics Unlocked"
+  },
   "5536970": {
     "parent": 3980450,
     "name": "Настоящие пазлы - Каньоны: Дом на природе (изображения)"
@@ -345511,6 +345527,14 @@
     "parent": 5013430,
     "name": "EZY Virtual TableTop Builder — Interactive Table"
   },
+  "5538380": {
+    "parent": 5390450,
+    "name": "Reel to the Stars - Legends Pack"
+  },
+  "5538390": {
+    "parent": 5390450,
+    "name": "Reel to the Stars - Demon Realm Pack"
+  },
   "5538510": {
     "parent": 5408030,
     "name": "Supporter Pack: Cycle of the First Dawn - Visions of the Realms"
@@ -345526,6 +345550,10 @@
   "5539600": {
     "parent": 5128170,
     "name": "PROPERTY INSPECTION: DIRECTOR'S CUT"
+  },
+  "5539700": {
+    "parent": 4604330,
+    "name": "CYBER92 DATAWAR (Legacy Game)"
   },
   "5539810": {
     "parent": 4600990,
@@ -345647,6 +345675,10 @@
     "parent": 4872180,
     "name": "Nutshot Simulator - Athletic Supporter Pack"
   },
+  "5553590": {
+    "parent": 5277080,
+    "name": "Bloom Blow - Foreign Soil"
+  },
   "5553790": {
     "parent": 5396440,
     "name": "Pop! Jelly PangPang - Drum Festival"
@@ -345654,6 +345686,30 @@
   "5556960": {
     "parent": 4677750,
     "name": "Grid Lands - Supporter Pack"
+  },
+  "5557570": {
+    "parent": 5545970,
+    "name": "Guildlands - Market Pass"
+  },
+  "5557590": {
+    "parent": 5545970,
+    "name": "Guildlands - Founder's Pack"
+  },
+  "5557600": {
+    "parent": 5545970,
+    "name": "Guildlands - Necromancer Class"
+  },
+  "5557610": {
+    "parent": 5545970,
+    "name": "Guildlands - Beastmaster Class"
+  },
+  "5557620": {
+    "parent": 5545970,
+    "name": "Guildlands - Artificer Class"
+  },
+  "5558000": {
+    "parent": 880130,
+    "name": "Lawless Lands Forsaken Grounds"
   },
   "5559350": {
     "parent": 5539580,
