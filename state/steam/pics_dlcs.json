@@ -342759,6 +342759,10 @@
     "parent": 5402310,
     "name": "RemparZ Complete"
   },
+  "5404280": {
+    "parent": 236390,
+    "name": "War Thunder - F/A-18D Pack"
+  },
   "5404580": {
     "parent": 2581410,
     "name": "Stygian: Outer Gods The Heretic's Arsenal Pack"
@@ -343215,6 +343219,14 @@
     "parent": 3855940,
     "name": "AURA 2: Lust of the Gods - The Locked Panties"
   },
+  "5418700": {
+    "parent": 4791250,
+    "name": "Calculator - Desktop Mate Widgets Yuzuki Yukari DLC"
+  },
+  "5418710": {
+    "parent": 4791250,
+    "name": "Calculator - Desktop Mate Widgets Kizuna Akari DLC"
+  },
   "5418880": {
     "parent": 4930500,
     "name": "盯着你！桌面喵小西 - 支持者美术设定集"
@@ -343266,6 +343278,10 @@
   "5421760": {
     "parent": 5083730,
     "name": "Capitalize - Luxury Industry"
+  },
+  "5422230": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - Wyrdlands"
   },
   "5422240": {
     "parent": 4281680,
@@ -343863,6 +343879,10 @@
     "parent": 5415190,
     "name": "COLLEC — All nine worlds"
   },
+  "5454060": {
+    "parent": 5451420,
+    "name": "Murder Mystery Online - 초치성"
+  },
   "5454070": {
     "parent": 5061340,
     "name": "Puzzle Wild Cats Artbook"
@@ -344059,6 +344079,10 @@
     "parent": 5084060,
     "name": "Button Down: Tool Pack"
   },
+  "5460000": {
+    "parent": 5451420,
+    "name": "Murder Mystery Online - 사흘"
+  },
   "5460280": {
     "parent": 65800,
     "name": "Dungeon Defenders - Shaman Hero DLC"
@@ -344254,6 +344278,10 @@
   "5472830": {
     "parent": 897330,
     "name": "Coloring Pixels - Advent 8 Pack"
+  },
+  "5472860": {
+    "parent": 1474930,
+    "name": "Heavy Cargo - The Truck Simulator: Miami Vibes Pack"
   },
   "5473330": {
     "parent": 5473320,
@@ -344586,6 +344614,10 @@
   "5485080": {
     "parent": 5055340,
     "name": "Lord of the Grind- Supporter Pack"
+  },
+  "5485110": {
+    "parent": 4256690,
+    "name": "Shards Of Solitude - The Roots Of Evil"
   },
   "5485230": {
     "parent": 1910150,
@@ -344922,6 +344954,10 @@
   "5498270": {
     "parent": 1196310,
     "name": "Fantasy Grounds - Starbreaker: Star Marshals"
+  },
+  "5498540": {
+    "parent": 4780870,
+    "name": "Aleef - Egg Wardrobe Supporter Pack"
   },
   "5498550": {
     "parent": 4089000,
@@ -345739,9 +345775,17 @@
     "parent": 5396440,
     "name": "Pop! Jelly PangPang - Drum Festival"
   },
+  "5554980": {
+    "parent": 236390,
+    "name": "War Thunder - Stingray II Pack"
+  },
   "5556960": {
     "parent": 4677750,
     "name": "Grid Lands - Supporter Pack"
+  },
+  "5557300": {
+    "parent": 1481170,
+    "name": "ZEPHON - Arsenal of Ruin"
   },
   "5557570": {
     "parent": 5545970,
@@ -345775,6 +345819,10 @@
     "parent": 5539580,
     "name": "Hex Appeal Femboy Futa Witches Wallpaper Pack"
   },
+  "5563290": {
+    "parent": 5245310,
+    "name": "挂机魔王 II - 无尽狩猎·成长扩展"
+  },
   "5564860": {
     "parent": 5086530,
     "name": "PUCKVPUCK - Goal Explosion Pack"
@@ -345794,5 +345842,25 @@
   "5566290": {
     "parent": 31930,
     "name": "Nancy Drew®: The White Wolf of Icicle Creek Strategy Guide"
+  },
+  "5570850": {
+    "parent": 4368110,
+    "name": "Orcavan: Idle RPG - Starter Pack!"
+  },
+  "5574340": {
+    "parent": 5161380,
+    "name": "Draw My Home: Age of Pharaohs"
+  },
+  "5574350": {
+    "parent": 5161380,
+    "name": "Draw My Home: Island Captain"
+  },
+  "5576110": {
+    "parent": 3273260,
+    "name": "Lost Host – Supporter Pack"
+  },
+  "5579750": {
+    "parent": 5370160,
+    "name": "挂机传奇 - 薪火同行·开发者支持包"
   }
 }
