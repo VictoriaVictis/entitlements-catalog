@@ -343527,6 +343527,10 @@
     "parent": 1652580,
     "name": "Imperial Grace - Artbook"
   },
+  "5434900": {
+    "parent": 5084240,
+    "name": "四渡赤水模拟器 - 委员长模式扩展包 (Four Crossings of Chishui River Simulator - Generalissimo Mode Expansion Pack)"
+  },
   "5435200": {
     "parent": 1101120,
     "name": "Gunsmith Simulator - Wild West DLC"
@@ -344687,6 +344691,10 @@
     "parent": 5204830,
     "name": "Deleted Wiki: Clean Up the Lost Files - Supporter Pack"
   },
+  "5488530": {
+    "parent": 5461480,
+    "name": "Steam Whistle Simulator PRO"
+  },
   "5488650": {
     "parent": 4149910,
     "name": "Guildamation: Tidy - Cat Girl Follower"
@@ -345139,6 +345147,46 @@
     "parent": 5355000,
     "name": "Xenowave Survivor - Bio-Swarm & Apex Arsenal"
   },
+  "5508270": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - RPG Monsters Asset Pack 4"
+  },
+  "5508280": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - RPG Monsters Asset Pack 5"
+  },
+  "5508290": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - NEONPIXEL - Anime Interiors Collection"
+  },
+  "5508300": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - 16-bit Fantasy Base Pack Time of Day Expansion"
+  },
+  "5508310": {
+    "parent": 1096900,
+    "name": "RPG Maker MZ - Three Kingdoms - Lousang Village Tileset"
+  },
+  "5508360": {
+    "parent": 363890,
+    "name": "RPG Maker MV - RPG Monsters Asset Pack 4"
+  },
+  "5508370": {
+    "parent": 363890,
+    "name": "RPG Maker MV - RPG Monsters Asset Pack 5"
+  },
+  "5508380": {
+    "parent": 363890,
+    "name": "RPG Maker MV - NEONPIXEL - Anime Interiors Collection"
+  },
+  "5508390": {
+    "parent": 363890,
+    "name": "RPG Maker MV - 16-bit Fantasy Base Pack Time of Day Expansion"
+  },
+  "5508400": {
+    "parent": 363890,
+    "name": "RPG Maker MV - Three Kingdoms - Lousang Village Tileset"
+  },
   "5508610": {
     "parent": 5264930,
     "name": "归墟行 - \"冰魄霜蓝\" EA专属发色"
@@ -345146,6 +345194,38 @@
   "5508860": {
     "parent": 4885100,
     "name": "KeyPet - Gu Ting An"
+  },
+  "5509010": {
+    "parent": 5467680,
+    "name": "Charmosaic - Cozy Corners"
+  },
+  "5509020": {
+    "parent": 5467680,
+    "name": "Charmosaic - Paws & Whiskers"
+  },
+  "5509030": {
+    "parent": 5467680,
+    "name": "Charmosaic - Blooming Days"
+  },
+  "5509040": {
+    "parent": 5467680,
+    "name": "Charmosaic - Wild Horizons"
+  },
+  "5509050": {
+    "parent": 5467680,
+    "name": "Charmosaic - Sweet Delights"
+  },
+  "5509060": {
+    "parent": 5467680,
+    "name": "Charmosaic - Sea Breeze"
+  },
+  "5509070": {
+    "parent": 5467680,
+    "name": "Charmosaic - Wild Encounters"
+  },
+  "5509090": {
+    "parent": 5467680,
+    "name": "Charmosaic - Postcard Places"
   },
   "5509260": {
     "parent": 4559630,
@@ -345283,6 +345363,10 @@
     "parent": 5463710,
     "name": "Cards: Tidy Up! - Supporter Pack"
   },
+  "5516110": {
+    "parent": 3662680,
+    "name": "Warlocks Nexus - Supporter Pack DLC"
+  },
   "5516850": {
     "parent": 5009490,
     "name": "百夜炼诡录职业包-玄弓客"
@@ -345355,6 +345439,14 @@
     "parent": 2176130,
     "name": "Tower! Simulator 3 - RJAA Airport"
   },
+  "5520920": {
+    "parent": 935360,
+    "name": "ItazuraVR - Glasses 2"
+  },
+  "5520930": {
+    "parent": 1047160,
+    "name": "ItazuraVR SfW - Glasses 2"
+  },
   "5520940": {
     "parent": 4002930,
     "name": "My Ex-Future Family 3: Endgame Premium Edition"
@@ -345390,6 +345482,10 @@
   "5521560": {
     "parent": 5167670,
     "name": "Starlight Cove - Supporter Pack"
+  },
+  "5522280": {
+    "parent": 5031210,
+    "name": "Rise of the Merchants - Supporter"
   },
   "5522470": {
     "parent": 4002930,
@@ -345490,6 +345586,34 @@
   "5527270": {
     "parent": 3649730,
     "name": "Legend Battles Aurora"
+  },
+  "5527420": {
+    "parent": 553520,
+    "name": "Trainz 2019 DLC - GySEV SGP Pack"
+  },
+  "5527430": {
+    "parent": 2987180,
+    "name": "ACTION GAME MAKER G - RPG Monsters Asset Pack 4"
+  },
+  "5527440": {
+    "parent": 2987180,
+    "name": "ACTION GAME MAKER G - RPG Monsters Asset Pack 5"
+  },
+  "5527500": {
+    "parent": 1784570,
+    "name": "Trainz 2022 DLC - GySEV SGP Pack"
+  },
+  "5527510": {
+    "parent": 1904160,
+    "name": "Trainz Plus DLC - GySEV SGP Pack"
+  },
+  "5527580": {
+    "parent": 837510,
+    "name": "Pixel Game Maker MV - RPG Monsters Asset Pack 4"
+  },
+  "5527590": {
+    "parent": 837510,
+    "name": "Pixel Game Maker MV - RPG Monsters Asset Pack 5"
   },
   "5527870": {
     "parent": 5283340,
@@ -345594,6 +345718,10 @@
   "5534440": {
     "parent": 3634590,
     "name": "Coloring Voxels - Laboratory Pack"
+  },
+  "5534520": {
+    "parent": 5242520,
+    "name": "放置地下城：深渊王座"
   },
   "5534620": {
     "parent": 5533460,
@@ -345819,6 +345947,10 @@
     "parent": 5396440,
     "name": "Pop! Jelly PangPang - Drum Festival"
   },
+  "5554550": {
+    "parent": 1870300,
+    "name": "SOVL - Undying Dynasties"
+  },
   "5554980": {
     "parent": 236390,
     "name": "War Thunder - Stingray II Pack"
@@ -345867,6 +345999,10 @@
     "parent": 5539580,
     "name": "Hex Appeal Femboy Futa Witches Wallpaper Pack"
   },
+  "5560550": {
+    "parent": 2717010,
+    "name": "KALPA: Cosmic Symphony - Forte V Pack"
+  },
   "5563290": {
     "parent": 5245310,
     "name": "挂机魔王 II - 无尽狩猎·成长扩展"
@@ -345874,6 +346010,10 @@
   "5564860": {
     "parent": 5086530,
     "name": "PUCKVPUCK - Goal Explosion Pack"
+  },
+  "5565140": {
+    "parent": 4058120,
+    "name": "Drive UP: Together - Supporter Pack"
   },
   "5565420": {
     "parent": 1926590,
@@ -345890,6 +346030,10 @@
   "5566290": {
     "parent": 31930,
     "name": "Nancy Drew®: The White Wolf of Icicle Creek Strategy Guide"
+  },
+  "5567130": {
+    "parent": 2706980,
+    "name": "Whirlight - A Long Journey Diary"
   },
   "5570460": {
     "parent": 31820,
@@ -345910,6 +346054,10 @@
   "5571020": {
     "parent": 31880,
     "name": "Nancy Drew®: Secret of the Old Clock Strategy Guide"
+  },
+  "5571030": {
+    "parent": 4811700,
+    "name": "Mancalero - Table Tournament"
   },
   "5571130": {
     "parent": 31810,
@@ -345943,6 +346091,14 @@
     "parent": 4149910,
     "name": "Guildamation - Red Appearance"
   },
+  "5573310": {
+    "parent": 4986510,
+    "name": "HBZ_Supporter_Pack"
+  },
+  "5573890": {
+    "parent": 4842670,
+    "name": "PC FISH - Autumn Harvest Pack"
+  },
   "5574060": {
     "parent": 1036950,
     "name": "Super Jigsaw Puzzle: Generations - Ice"
@@ -345959,6 +346115,18 @@
     "parent": 5161380,
     "name": "Draw My Home: Island Captain"
   },
+  "5574360": {
+    "parent": 5161380,
+    "name": "Draw My Home: Ocean"
+  },
+  "5574370": {
+    "parent": 5161380,
+    "name": "Draw My Home: Elf Treehouse"
+  },
+  "5574380": {
+    "parent": 5161380,
+    "name": "Draw My Home: Ancient China"
+  },
   "5576110": {
     "parent": 3273260,
     "name": "Lost Host – Supporter Pack"
@@ -345971,6 +346139,18 @@
     "parent": 4603410,
     "name": "NeuralBeat Studio - Retro Soundtrack Studio"
   },
+  "5578030": {
+    "parent": 5577260,
+    "name": "Soulkindle: Christmas Pack"
+  },
+  "5578040": {
+    "parent": 5577260,
+    "name": "Soulkindle: Easter Pack"
+  },
+  "5578050": {
+    "parent": 5577260,
+    "name": "Soulkindle: Halloween Pack"
+  },
   "5579750": {
     "parent": 5370160,
     "name": "挂机传奇 - 薪火同行·开发者支持包"
@@ -345982,6 +346162,10 @@
   "5582950": {
     "parent": 4702360,
     "name": "Gold, Rose & Chrome Pack"
+  },
+  "5584910": {
+    "parent": 3138230,
+    "name": "Bureau Clerk Goes Berserk! [An Additional Lap of the Gods Tale]"
   },
   "5585330": {
     "parent": 2529770,
