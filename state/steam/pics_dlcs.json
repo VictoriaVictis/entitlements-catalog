@@ -342935,6 +342935,10 @@
     "parent": 4030830,
     "name": "Focus Grove - Magical Evening DLC"
   },
+  "5411740": {
+    "parent": 270880,
+    "name": "American Truck Simulator - Route 66 Paint Jobs Pack"
+  },
   "5411760": {
     "parent": 5168280,
     "name": "S.S.D. SCP-1373 - Indie Donation DLC"
@@ -343678,6 +343682,14 @@
   "5443400": {
     "parent": 5437060,
     "name": "Game Master: Full Toolkit"
+  },
+  "5443610": {
+    "parent": 2694490,
+    "name": "Path of Exile 2 - Archon of Ash Supporter Pack"
+  },
+  "5443620": {
+    "parent": 2694490,
+    "name": "Path of Exile 2 - Archon of Rebirth Supporter Pack"
   },
   "5444800": {
     "parent": 5352440,
@@ -344755,6 +344767,10 @@
     "parent": 5190390,
     "name": "Yule Dads - Supporter Pack"
   },
+  "5492600": {
+    "parent": 4878480,
+    "name": "BordQ Pro License"
+  },
   "5492830": {
     "parent": 3528300,
     "name": "Fawe Gold - Permanent Upgrade"
@@ -345111,6 +345127,10 @@
     "parent": 1478980,
     "name": "TACO PINBALL"
   },
+  "5507130": {
+    "parent": 498310,
+    "name": "RPG in a Box - Quagling Starter Pack"
+  },
   "5507710": {
     "parent": 5355660,
     "name": "Song Bao's Dating Adventure"
@@ -345142,6 +345162,10 @@
   "5510420": {
     "parent": 381210,
     "name": "Dead by Daylight: Terrifier"
+  },
+  "5510600": {
+    "parent": 5494850,
+    "name": "Age of Me - The Chosen One"
   },
   "5510830": {
     "parent": 4079960,
@@ -345191,6 +345215,10 @@
     "parent": 4204190,
     "name": "大国崛起：1945"
   },
+  "5512940": {
+    "parent": 5147000,
+    "name": "Supporter Storage Pack"
+  },
   "5513140": {
     "parent": 5361040,
     "name": "DD33 - Supporter Pack"
@@ -345214,6 +345242,10 @@
   "5513930": {
     "parent": 4985540,
     "name": "TASMON: Convenience Pack"
+  },
+  "5514160": {
+    "parent": 5514130,
+    "name": "循环扫雷 - 扩展包"
   },
   "5515210": {
     "parent": 5472140,
@@ -345503,6 +345535,14 @@
     "parent": 1196310,
     "name": "Fantasy Grounds - Pathfinder 2 RPG - Feybound"
   },
+  "5530990": {
+    "parent": 3260140,
+    "name": "流亡黯道2 - 重生統治者贊助包"
+  },
+  "5531000": {
+    "parent": 3260140,
+    "name": "流亡黯道2 - 灰燼統治者贊助者"
+  },
   "5531040": {
     "parent": 5187960,
     "name": "Touchline Standard"
@@ -345610,6 +345650,10 @@
   "5538320": {
     "parent": 5013430,
     "name": "EZY Virtual TableTop Builder — Interactive Table"
+  },
+  "5538360": {
+    "parent": 537680,
+    "name": "Sheep Tag 2 Supporter Pack"
   },
   "5538380": {
     "parent": 5390450,
@@ -345811,6 +345855,10 @@
     "parent": 880130,
     "name": "Lawless Lands Forsaken Grounds"
   },
+  "5558430": {
+    "parent": 4956460,
+    "name": "AMERICAN LIFE SIMULATOR - Pro Equipment Pack"
+  },
   "5559350": {
     "parent": 5539580,
     "name": "Hex Appeal Femboy Futa Witches Supporter Pack"
@@ -345843,9 +345891,65 @@
     "parent": 31930,
     "name": "Nancy Drew®: The White Wolf of Icicle Creek Strategy Guide"
   },
+  "5570460": {
+    "parent": 31820,
+    "name": "Nancy Drew®: The Haunted Carousel Strategy Guide"
+  },
+  "5570540": {
+    "parent": 4623570,
+    "name": "Deskrawl: Idle ARPG - Stash Pack"
+  },
+  "5570720": {
+    "parent": 615770,
+    "name": "Nancy Drew®: Message in a Haunted Mansion Strategy Guide"
+  },
   "5570850": {
     "parent": 4368110,
     "name": "Orcavan: Idle RPG - Starter Pack!"
+  },
+  "5571020": {
+    "parent": 31880,
+    "name": "Nancy Drew®: Secret of the Old Clock Strategy Guide"
+  },
+  "5571130": {
+    "parent": 31810,
+    "name": "Nancy Drew®: Last Train to Blue Moon Canyon Strategy Guide"
+  },
+  "5571390": {
+    "parent": 31800,
+    "name": "Nancy Drew®: Danger by Design Strategy Guide"
+  },
+  "5571480": {
+    "parent": 31860,
+    "name": "Nancy Drew®: Legend of the Crystal Skull Strategy Guide"
+  },
+  "5571520": {
+    "parent": 615730,
+    "name": "Nancy Drew®: The Final Scene Strategy Guide"
+  },
+  "5571670": {
+    "parent": 200080,
+    "name": "Nancy Drew®: Shadow at the Water's Edge Strategy Guide"
+  },
+  "5571910": {
+    "parent": 4149910,
+    "name": "Guildamation: Betsy - Cow Girl Follower"
+  },
+  "5571970": {
+    "parent": 4149910,
+    "name": "Guildamation - Blue Appearance"
+  },
+  "5571980": {
+    "parent": 4149910,
+    "name": "Guildamation - Red Appearance"
+  },
+  "5574060": {
+    "parent": 1036950,
+    "name": "Super Jigsaw Puzzle: Generations - Ice"
+  },
+  "5574090": {
+    "parent": 5573570,
+    "name": "Dungeon Tavern - Digital Artbook"
   },
   "5574340": {
     "parent": 5161380,
@@ -345859,8 +345963,28 @@
     "parent": 3273260,
     "name": "Lost Host – Supporter Pack"
   },
+  "5576550": {
+    "parent": 3827150,
+    "name": "Offline Translation Model"
+  },
+  "5576660": {
+    "parent": 4603410,
+    "name": "NeuralBeat Studio - Retro Soundtrack Studio"
+  },
   "5579750": {
     "parent": 5370160,
     "name": "挂机传奇 - 薪火同行·开发者支持包"
+  },
+  "5581100": {
+    "parent": 5007580,
+    "name": "Path of the Idle Cultivator - Supporter Pack"
+  },
+  "5582950": {
+    "parent": 4702360,
+    "name": "Gold, Rose & Chrome Pack"
+  },
+  "5585330": {
+    "parent": 2529770,
+    "name": "Chromosome Evil 2 artbook"
   }
 }
