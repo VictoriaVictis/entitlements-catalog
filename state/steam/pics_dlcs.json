@@ -343323,6 +343323,10 @@
     "parent": 4430560,
     "name": "Survivor Joe Lost Island - Conquest"
   },
+  "5424360": {
+    "parent": 4510830,
+    "name": "Myth of Empires: Throne - Voidbound Realm"
+  },
   "5424410": {
     "parent": 5364070,
     "name": "HELL CONTROL — Infernal Style Pack"
@@ -343582,6 +343586,10 @@
   "5439420": {
     "parent": 1333350,
     "name": "Angel Legion-DLC Starlit Veil Dance (Orange)"
+  },
+  "5439430": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Starlit Veil Dance (Black)"
   },
   "5439550": {
     "parent": 3868850,
@@ -344547,6 +344555,10 @@
     "parent": 360940,
     "name": "The Mean Greens - Plastic Warfare: Wrestling Superstar \"Sonny Onoo\" - DLC Character"
   },
+  "5481280": {
+    "parent": 5412000,
+    "name": "Baloot - بلوت"
+  },
   "5481390": {
     "parent": 3189340,
     "name": "Dungeons of Eternity - Halloween Cosmetics Bundle"
@@ -344606,6 +344618,18 @@
   "5484030": {
     "parent": 1742440,
     "name": "COP BASTARD - Digital Compendium"
+  },
+  "5484120": {
+    "parent": 669330,
+    "name": "Mechabellum: Dieselpunk - Scorpion Elite Battle Contract"
+  },
+  "5484130": {
+    "parent": 669330,
+    "name": "Mechabellum: Dieselpunk - Fortress Elite Battle Contract"
+  },
+  "5484140": {
+    "parent": 669330,
+    "name": "Mechabellum: Royal - Raiden Elite Battle Contract"
   },
   "5484500": {
     "parent": 4626180,
@@ -344838,6 +344862,14 @@
   "5493520": {
     "parent": 615780,
     "name": "Nancy Drew®: Treasure in the Royal Tower Strategy Guide"
+  },
+  "5493840": {
+    "parent": 5412000,
+    "name": "Ludo - لودو"
+  },
+  "5493850": {
+    "parent": 5412000,
+    "name": "Jackaroo - جاكارو"
   },
   "5494000": {
     "parent": 1372150,
@@ -345691,6 +345723,10 @@
     "parent": 5187960,
     "name": "Touchline Platinum"
   },
+  "5532390": {
+    "parent": 5134730,
+    "name": "TAKE MY BOMB - Hallowin DLC"
+  },
   "5532920": {
     "parent": 1412310,
     "name": "Girls! Girls! Girls!? - Open to Close: A Nanase Christmas"
@@ -345963,6 +345999,10 @@
     "parent": 5396440,
     "name": "Pop! Jelly PangPang - Drum Festival"
   },
+  "5554080": {
+    "parent": 2767030,
+    "name": "Marvel Rivals – Enabling In-Game Performance (Experimental)"
+  },
   "5554550": {
     "parent": 1870300,
     "name": "SOVL - Undying Dynasties"
@@ -345970,6 +346010,10 @@
   "5554980": {
     "parent": 236390,
     "name": "War Thunder - Stingray II Pack"
+  },
+  "5555760": {
+    "parent": 5361230,
+    "name": "Goblin & Glory - Supporter Pack"
   },
   "5556020": {
     "parent": 5382160,
@@ -346054,6 +346098,14 @@
   "5567130": {
     "parent": 2706980,
     "name": "Whirlight - A Long Journey Diary"
+  },
+  "5568140": {
+    "parent": 4294490,
+    "name": "KOTAMON: 18+ Blue Edition"
+  },
+  "5568150": {
+    "parent": 4294490,
+    "name": "KOTAMON: 18+ Red Edition"
   },
   "5568480": {
     "parent": 5283340,
@@ -346198,5 +346250,9 @@
   "5585330": {
     "parent": 2529770,
     "name": "Chromosome Evil 2 artbook"
+  },
+  "5587740": {
+    "parent": 4018330,
+    "name": "Lord of Undead - Supporter Pack"
   }
 }
