@@ -345095,6 +345095,10 @@
     "parent": 5016220,
     "name": "Pixel Airport Tycoon 3D - Your Own Airline"
   },
+  "5503000": {
+    "parent": 1478980,
+    "name": "PIRATE PIE PINBALL"
+  },
   "5503040": {
     "parent": 4385800,
     "name": "Misfit: The ReBirth of Death: The Hallowed Eve DLC"
@@ -345671,6 +345675,10 @@
     "parent": 5486070,
     "name": "Ore Heads - Animal Onesies"
   },
+  "5529020": {
+    "parent": 3856460,
+    "name": "Cursed Words: The Madness Of Michael"
+  },
   "5529260": {
     "parent": 5522270,
     "name": "Mummy Issues Femboy Futa Pharaohs Supporter Pack"
@@ -345967,6 +345975,10 @@
     "parent": 4886320,
     "name": "海陸空四國大戰 - 戰役擴充包"
   },
+  "5550290": {
+    "parent": 2359470,
+    "name": "Strayed - Biker Clothing Pack"
+  },
   "5550310": {
     "parent": 1414640,
     "name": "Early Quest Remake"
@@ -345974,6 +345986,10 @@
   "5551070": {
     "parent": 5531390,
     "name": "Runeborn - Ashes of the Realm Premium"
+  },
+  "5551300": {
+    "parent": 5454530,
+    "name": "Screen Translator CUDA DLC"
   },
   "5551680": {
     "parent": 5314260,
@@ -346082,6 +346098,10 @@
   "5565420": {
     "parent": 1926590,
     "name": "Nancy Drew®: Mystery of the Seven Keys™ Strategy Guide"
+  },
+  "5565930": {
+    "parent": 5273080,
+    "name": "Ball Pit Cleanup - Supporter Pack"
   },
   "5565960": {
     "parent": 572740,
@@ -346207,6 +346227,10 @@
     "parent": 5161380,
     "name": "Draw My Home: Ancient China"
   },
+  "5575660": {
+    "parent": 3451970,
+    "name": "Backrooms Anomaly - Pool Dip"
+  },
   "5576110": {
     "parent": 3273260,
     "name": "Lost Host – Supporter Pack"
@@ -346239,6 +346263,10 @@
     "parent": 5007580,
     "name": "Path of the Idle Cultivator - Supporter Pack"
   },
+  "5581420": {
+    "parent": 5579720,
+    "name": "Pillars Party - Christmas Pack"
+  },
   "5582950": {
     "parent": 4702360,
     "name": "Gold, Rose & Chrome Pack"
@@ -346254,5 +346282,17 @@
   "5587740": {
     "parent": 4018330,
     "name": "Lord of Undead - Supporter Pack"
+  },
+  "5592320": {
+    "parent": 5452650,
+    "name": "Draemony - Echo Wings"
+  },
+  "5592330": {
+    "parent": 5452650,
+    "name": "Draemony - Legendary Wings"
+  },
+  "5601070": {
+    "parent": 5218100,
+    "name": "Ballpark Days Editor"
   }
 }
