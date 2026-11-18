@@ -343939,6 +343939,46 @@
     "parent": 5415190,
     "name": "COLLEC — All nine worlds"
   },
+  "5453730": {
+    "parent": 39120,
+    "name": "RIFT - Starter Pack"
+  },
+  "5453740": {
+    "parent": 39120,
+    "name": "RIFT - Celestial Unicorn Power Pack"
+  },
+  "5453760": {
+    "parent": 39120,
+    "name": "RIFT - Winter Spirit Wings Power Pack"
+  },
+  "5453770": {
+    "parent": 39120,
+    "name": "RIFT - Armored Amethyst Tiger Power Pack"
+  },
+  "5453780": {
+    "parent": 39120,
+    "name": "RIFT - Flamescale Tegulisk Power Pack"
+  },
+  "5453800": {
+    "parent": 39120,
+    "name": "RIFT - Summer Splash Power Pack"
+  },
+  "5453810": {
+    "parent": 39120,
+    "name": "RIFT - Bloodrotten Greathound Power Pack"
+  },
+  "5453820": {
+    "parent": 39120,
+    "name": "RIFT - Elegant Bewitched Duster Power Pack"
+  },
+  "5453870": {
+    "parent": 39120,
+    "name": "RIFT - Soulborne Kitsune Power Pack"
+  },
+  "5453890": {
+    "parent": 39120,
+    "name": "RIFT - Goblin Poison Dragon Power Pack"
+  },
   "5454060": {
     "parent": 5451420,
     "name": "Murder Mystery Online - 초치성"
@@ -345775,6 +345815,10 @@
     "parent": 577230,
     "name": "Oath of Heaven: Enhanced Edition"
   },
+  "5527640": {
+    "parent": 248390,
+    "name": "Craft The World - Primal Craft"
+  },
   "5527870": {
     "parent": 5283340,
     "name": "Plague Inc: The Board Game - Patient Zero Pack"
@@ -345818,6 +345862,10 @@
   "5530550": {
     "parent": 5055340,
     "name": "Lord of the Grind- Unlimited Auto Skill Limit"
+  },
+  "5530590": {
+    "parent": 39120,
+    "name": "RIFT - Glacial Ursin Power Pack"
   },
   "5530720": {
     "parent": 1196310,
@@ -345995,6 +346043,10 @@
     "parent": 4600990,
     "name": "Clash of Crests - The Wild Marches"
   },
+  "5539830": {
+    "parent": 4600990,
+    "name": "Clash of Crests - The Purple and the Fire"
+  },
   "5539840": {
     "parent": 1308700,
     "name": "Wizardry: The Five Ordeals - Collaboration Portraits \"Marfusha:Sentinel Girls\""
@@ -346006,6 +346058,10 @@
   "5540310": {
     "parent": 5439210,
     "name": "Awesome Captcha - Supporter Pack"
+  },
+  "5541630": {
+    "parent": 4600990,
+    "name": "Clash of Crests - The Golden Spurs"
   },
   "5541640": {
     "parent": 4600990,
@@ -346531,6 +346587,10 @@
     "parent": 4702360,
     "name": "Gold, Rose & Chrome Pack"
   },
+  "5583360": {
+    "parent": 5583240,
+    "name": "If you die, you die! - Station Archive Access"
+  },
   "5584000": {
     "parent": 5583630,
     "name": "Desperate City Sportcar"
@@ -346546,6 +346606,10 @@
   "5585330": {
     "parent": 2529770,
     "name": "Chromosome Evil 2 artbook"
+  },
+  "5587010": {
+    "parent": 5586930,
+    "name": "DeadPoly Desert Axe"
   },
   "5587740": {
     "parent": 4018330,
@@ -346579,6 +346643,14 @@
     "parent": 4985540,
     "name": "TASMON: Talisman & Berry Permanent Pass"
   },
+  "5596810": {
+    "parent": 1125030,
+    "name": "Hentai Ninja Garden - Chapter 2"
+  },
+  "5596820": {
+    "parent": 1125030,
+    "name": "Hentai Ninja Garden - Chapter 3"
+  },
   "5597080": {
     "parent": 5208830,
     "name": "Method in the Witchness: Lucis Quest"
@@ -346590,6 +346662,10 @@
   "5597350": {
     "parent": 4903900,
     "name": "Find Cats 9: Storybook Adventure"
+  },
+  "5597880": {
+    "parent": 2873750,
+    "name": "Pool of Madness - Voidhunter’s Stash"
   },
   "5597900": {
     "parent": 5529340,
@@ -346630,6 +346706,10 @@
   "5601170": {
     "parent": 5000810,
     "name": "When Life Gives You Lemons - DUCK"
+  },
+  "5601270": {
+    "parent": 3873760,
+    "name": "足球经理自走棋-放置桌宠扩展包"
   },
   "5602580": {
     "parent": 5601240,
@@ -346682,6 +346762,30 @@
   "5607950": {
     "parent": 5352660,
     "name": "Arrange & Restore – Starter Companions"
+  },
+  "5608240": {
+    "parent": 2852350,
+    "name": "Racing (2 Player Cooperation Edition) - Breakthrough Gaming Arcade"
+  },
+  "5608250": {
+    "parent": 2852350,
+    "name": "Racing (3 Player Cooperation Edition) - Breakthrough Gaming Arcade"
+  },
+  "5608260": {
+    "parent": 2852350,
+    "name": "Racing (4 Player Cooperation Edition) - Breakthrough Gaming Arcade"
+  },
+  "5608270": {
+    "parent": 2852350,
+    "name": "Racing (2 Player Cooperation Edition) (Challenge Mode) - Breakthrough Gaming Arcade"
+  },
+  "5608280": {
+    "parent": 2851660,
+    "name": "Skateboarding 2 - Breakthrough Gaming Arcade"
+  },
+  "5608290": {
+    "parent": 2805140,
+    "name": "Football 2 - Breakthrough Gaming Arcade"
   },
   "5608610": {
     "parent": 5352660,
