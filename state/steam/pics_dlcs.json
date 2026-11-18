@@ -344603,6 +344603,10 @@
     "parent": 3189340,
     "name": "Dungeons of Eternity - Halloween Cosmetics Bundle"
   },
+  "5481460": {
+    "parent": 2468300,
+    "name": "DommeBreaker: Shizuru"
+  },
   "5481520": {
     "parent": 1478980,
     "name": "Brawling Sailors Pinball"
@@ -344942,6 +344946,10 @@
   "5494680": {
     "parent": 3869490,
     "name": "GeneBreak - Digital Story & Artbook"
+  },
+  "5495350": {
+    "parent": 4418110,
+    "name": "Squomb - Supporter Pack"
   },
   "5496200": {
     "parent": 2451010,
@@ -345403,6 +345411,10 @@
     "parent": 2901810,
     "name": "Supermrket: Soaps"
   },
+  "5511930": {
+    "parent": 5057770,
+    "name": "StoneEra - Supporter Pack"
+  },
   "5512040": {
     "parent": 4630400,
     "name": "Directors Cut: Train – Bonnie & Clyde"
@@ -345598,6 +345610,22 @@
   "5521410": {
     "parent": 5411880,
     "name": "REGENTIE - Golden Throne"
+  },
+  "5521420": {
+    "parent": 2534870,
+    "name": "Soundweave - 6 Virtual Cables"
+  },
+  "5521430": {
+    "parent": 2534870,
+    "name": "Soundweave - 8 Virtual Cables"
+  },
+  "5521440": {
+    "parent": 2534870,
+    "name": "Soundweave - 15 Virtual Cables"
+  },
+  "5521450": {
+    "parent": 2534870,
+    "name": "Soundweave - 30 Virtual Cables"
   },
   "5521560": {
     "parent": 5167670,
@@ -346051,6 +346079,14 @@
     "parent": 1478980,
     "name": "PIGEON POST THE GREAT AIRMAIL ADVENTURE PINBALL"
   },
+  "5545910": {
+    "parent": 5259860,
+    "name": "Quartermaster's Seal"
+  },
+  "5545920": {
+    "parent": 5259860,
+    "name": "Tutor's Seal"
+  },
   "5546000": {
     "parent": 4809000,
     "name": "SYSTEM_REBOOT - THE WORM"
@@ -346074,6 +346110,10 @@
   "5548340": {
     "parent": 1422130,
     "name": "SimRail - The Railway Simulator: Lublin Region"
+  },
+  "5548520": {
+    "parent": 3307120,
+    "name": "Kitty Powers' Matchmaker Makeover - Dinners & Dilemmas Pack"
   },
   "5549430": {
     "parent": 5054940,
@@ -346110,6 +346150,10 @@
   "5551870": {
     "parent": 5396440,
     "name": "Pop! Jelly PangPang - Full Version Unlock"
+  },
+  "5552190": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - House of Krampus (SD)"
   },
   "5552230": {
     "parent": 1478980,
@@ -346415,6 +346459,10 @@
     "parent": 4603410,
     "name": "NeuralBeat Studio - Retro Soundtrack Studio"
   },
+  "5576860": {
+    "parent": 3446300,
+    "name": "Mountain Legends 5 - Full Game Unlock"
+  },
   "5577810": {
     "parent": 1803390,
     "name": "Bounty Drag Racing - Outlaw Pack 12"
@@ -346471,6 +346519,14 @@
     "parent": 5579720,
     "name": "Pillars Party - Christmas Pack"
   },
+  "5582720": {
+    "parent": 4703450,
+    "name": "Another Zombie Shooter - Level 2"
+  },
+  "5582730": {
+    "parent": 4703450,
+    "name": "Another Zombie Shooter - Level 3"
+  },
   "5582950": {
     "parent": 4702360,
     "name": "Gold, Rose & Chrome Pack"
@@ -346506,6 +346562,10 @@
   "5592330": {
     "parent": 5452650,
     "name": "Draemony - Legendary Wings"
+  },
+  "5592400": {
+    "parent": 3752410,
+    "name": "DispatchControl Police"
   },
   "5592640": {
     "parent": 2274120,
@@ -346547,6 +346607,14 @@
     "parent": 5597230,
     "name": "The Perfect Fight - Full Game"
   },
+  "5598750": {
+    "parent": 3752410,
+    "name": "DispatchControl 911"
+  },
+  "5598790": {
+    "parent": 3812600,
+    "name": "ReStory: Chill Electronics Repairs - Commodore Content Pack"
+  },
   "5599010": {
     "parent": 4437270,
     "name": "The Last Embrace: Book One - Official Walkthrough"
@@ -346563,6 +346631,26 @@
     "parent": 5000810,
     "name": "When Life Gives You Lemons - DUCK"
   },
+  "5602580": {
+    "parent": 5601240,
+    "name": "OVERSPRAY - PREMIUM"
+  },
+  "5602590": {
+    "parent": 5601240,
+    "name": "OVERSPRAY - Founder's Pack"
+  },
+  "5604140": {
+    "parent": 5591850,
+    "name": "PitchMates - Supporters' Club: Supporter"
+  },
+  "5604150": {
+    "parent": 5591850,
+    "name": "PitchMates - Supporters' Club: Ultras"
+  },
+  "5605510": {
+    "parent": 4951840,
+    "name": "Infi-Knight - Supporter Pack"
+  },
   "5605550": {
     "parent": 4914650,
     "name": "Crownfront - Supporter Pack"
@@ -346570,6 +346658,42 @@
   "5605660": {
     "parent": 4358330,
     "name": "Home Alone The Invasion PART I Prologue"
+  },
+  "5606210": {
+    "parent": 5583980,
+    "name": "Six Kingdoms: Eternal War - Campaign Pack"
+  },
+  "5606220": {
+    "parent": 5583980,
+    "name": "Six Kingdoms: Eternal War - Arena Pack"
+  },
+  "5606230": {
+    "parent": 5583980,
+    "name": "Six Kingdoms: Eternal War - Supporter Pack"
+  },
+  "5606240": {
+    "parent": 5583980,
+    "name": "Six Kingdoms: Eternal War - Supporter Upgrade"
+  },
+  "5606950": {
+    "parent": 1407990,
+    "name": "First Touch - Founder Pack"
+  },
+  "5607950": {
+    "parent": 5352660,
+    "name": "Arrange & Restore – Starter Companions"
+  },
+  "5608610": {
+    "parent": 5352660,
+    "name": "Arrange & Restore – Cozy Companions"
+  },
+  "5608620": {
+    "parent": 5352660,
+    "name": "Arrange & Restore – Jungle Companions"
+  },
+  "5608630": {
+    "parent": 5352660,
+    "name": "Arrange & Restore – Oddball Companions"
   },
   "5613330": {
     "parent": 5583300,
