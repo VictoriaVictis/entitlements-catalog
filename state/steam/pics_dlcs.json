@@ -343871,6 +343871,26 @@
     "parent": 4144680,
     "name": "DOA6LR Minato Weekend Mission: Delta Frog"
   },
+  "5450710": {
+    "parent": 4144680,
+    "name": "DOA6LR Honoka Melty Sweet Bundle"
+  },
+  "5450720": {
+    "parent": 4144680,
+    "name": "DOA6LR Honoka Melty Sweet: Berry Cotton"
+  },
+  "5450730": {
+    "parent": 4144680,
+    "name": "DOA6LR Honoka Melty Sweet: Soda Jelly"
+  },
+  "5450740": {
+    "parent": 4144680,
+    "name": "DOA6LR Honoka Melty Sweet: Zunda Mochi"
+  },
+  "5450750": {
+    "parent": 4144680,
+    "name": "DOA6LR Honoka Melty Sweet: Lemon Whipped Cream"
+  },
   "5451010": {
     "parent": 5096660,
     "name": "怪談寺 - 攻略PDF"
@@ -344323,6 +344343,10 @@
     "parent": 3980450,
     "name": "Настоящие пазлы - Дом на природе"
   },
+  "5469780": {
+    "parent": 5465230,
+    "name": "Townlet - Supporter Pack"
+  },
   "5469810": {
     "parent": 5418360,
     "name": "Touch Grass, Pls! - Scent of Grass"
@@ -344770,6 +344794,10 @@
   "5486260": {
     "parent": 5339360,
     "name": "Your Cat - Special Colors"
+  },
+  "5486370": {
+    "parent": 3530820,
+    "name": "Puzzling Places - DaVinci's Last Supper"
   },
   "5486430": {
     "parent": 5421290,
@@ -345535,6 +345563,10 @@
     "parent": 3662680,
     "name": "Warlocks Nexus - Supporter Pack DLC"
   },
+  "5516430": {
+    "parent": 2875740,
+    "name": "Anime Girl Puzzles - Abigail"
+  },
   "5516850": {
     "parent": 5009490,
     "name": "百夜炼诡录职业包-玄弓客"
@@ -345610,6 +345642,10 @@
   "5520560": {
     "parent": 2176130,
     "name": "Tower! Simulator 3 - RJAA Airport"
+  },
+  "5520700": {
+    "parent": 3301060,
+    "name": "Desktop Mate OИE DLC"
   },
   "5520920": {
     "parent": 935360,
@@ -345931,6 +345967,10 @@
     "parent": 1412310,
     "name": "Girls! Girls! Girls!? - Open to Close: A Nanase Christmas"
   },
+  "5533030": {
+    "parent": 1761380,
+    "name": "Otherworld Legends - Licco"
+  },
   "5533500": {
     "parent": 1266470,
     "name": "Real VR Fishing - Great Lakes & Oceans DLC"
@@ -346091,6 +346131,10 @@
     "parent": 5439210,
     "name": "Awesome Captcha - Supporter Pack"
   },
+  "5541020": {
+    "parent": 5099900,
+    "name": "Bundoro - Supporter Pack"
+  },
   "5541630": {
     "parent": 4600990,
     "name": "Clash of Crests - The Golden Spurs"
@@ -346214,6 +346258,10 @@
   "5549960": {
     "parent": 4886320,
     "name": "海陸空四國大戰 - 戰役擴充包"
+  },
+  "5550050": {
+    "parent": 552990,
+    "name": "World of Warships – 9 Years on Steam Pack"
   },
   "5550290": {
     "parent": 2359470,
@@ -346427,6 +346475,10 @@
     "parent": 5283340,
     "name": "Plague Inc: The Board Game - Armageddon"
   },
+  "5568550": {
+    "parent": 5395920,
+    "name": "Frog Collector – Supporter Pack"
+  },
   "5568750": {
     "parent": 5348620,
     "name": "Tidy Up the Wonderlands of Mirad - Faraway Lands Supporter Pack"
@@ -346483,6 +346535,10 @@
     "parent": 200080,
     "name": "Nancy Drew®: Shadow at the Water's Edge Strategy Guide"
   },
+  "5571790": {
+    "parent": 5063150,
+    "name": "ちるキャン△：放課後キャンプパック"
+  },
   "5571910": {
     "parent": 4149910,
     "name": "Guildamation: Betsy - Cow Girl Follower"
@@ -346494,6 +346550,10 @@
   "5571980": {
     "parent": 4149910,
     "name": "Guildamation - Red Appearance"
+  },
+  "5572430": {
+    "parent": 5039610,
+    "name": "纸嫁衣8千子树-原画与设定集"
   },
   "5573310": {
     "parent": 4986510,
@@ -346687,6 +346747,14 @@
     "parent": 5298740,
     "name": "DDDig - Ardbeg DLC"
   },
+  "5595250": {
+    "parent": 4122580,
+    "name": "Card Storm Idle HD - Double Damage"
+  },
+  "5595310": {
+    "parent": 4122580,
+    "name": "Card Storm Idle HD - Double Stars"
+  },
   "5596810": {
     "parent": 1125030,
     "name": "Hentai Ninja Garden - Chapter 2"
@@ -346851,6 +346919,22 @@
     "parent": 5352660,
     "name": "Arrange & Restore – Oddball Companions"
   },
+  "5609910": {
+    "parent": 5513350,
+    "name": "Up, Up! Neon Stairs: Murasame Supporter Pack"
+  },
+  "5609920": {
+    "parent": 5513350,
+    "name": "Up, Up! Neon Stairs: Excalibur Supporter Pack"
+  },
+  "5609930": {
+    "parent": 5513350,
+    "name": "Up, Up! Neon Stairs: Mjolnir Supporter Pack"
+  },
+  "5610090": {
+    "parent": 5011370,
+    "name": "Lowbar Legends – Premium Charter"
+  },
   "5610400": {
     "parent": 1521490,
     "name": "My Dream Sport Dating Simulator - Supporter Pack"
@@ -346862,6 +346946,10 @@
   "5613340": {
     "parent": 5583300,
     "name": "Femboy Futa Cruise Wallpaper Pack"
+  },
+  "5614140": {
+    "parent": 3301840,
+    "name": "凡修—交易扩展"
   },
   "5623610": {
     "parent": 5565060,
