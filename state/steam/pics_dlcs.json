@@ -345695,6 +345695,26 @@
     "parent": 4193300,
     "name": "Fleshborn - Supporter Pack"
   },
+  "5524980": {
+    "parent": 5466570,
+    "name": "賴瑞的調酒研究室 - 賴瑞・香腸派對攻略包"
+  },
+  "5524990": {
+    "parent": 5466570,
+    "name": "賴瑞的調酒研究室 - 凱凱・欣欣攻略包"
+  },
+  "5525000": {
+    "parent": 5466570,
+    "name": "賴瑞的調酒研究室 - 文文・藝寶・藝文攻略包"
+  },
+  "5525020": {
+    "parent": 5466570,
+    "name": "賴瑞的調酒研究室 - 萌西・錡哥攻略包"
+  },
+  "5525040": {
+    "parent": 5466570,
+    "name": "賴瑞的調酒研究室 - 雅英攻略包"
+  },
   "5525230": {
     "parent": 1478980,
     "name": "HOT DOG PINBALL"
@@ -345859,6 +345879,14 @@
     "parent": 4530370,
     "name": "Football Manager 27 - Free Weekend"
   },
+  "5530110": {
+    "parent": 3065800,
+    "name": "Marathon Access"
+  },
+  "5530120": {
+    "parent": 3065800,
+    "name": "Marathon Required Content 1"
+  },
   "5530550": {
     "parent": 5055340,
     "name": "Lord of the Grind- Unlimited Auto Skill Limit"
@@ -345966,6 +345994,10 @@
   "5536970": {
     "parent": 3980450,
     "name": "Настоящие пазлы - Каньоны: Дом на природе (изображения)"
+  },
+  "5537390": {
+    "parent": 1478980,
+    "name": "PRIMAL WORLD PINBALL THE AGE OF GIANTS RETURNS"
   },
   "5537400": {
     "parent": 1478980,
@@ -346559,6 +346591,10 @@
     "parent": 5577260,
     "name": "Soulkindle: Halloween Pack"
   },
+  "5578400": {
+    "parent": 3150460,
+    "name": "Gloomy Clues: Shock Therapy"
+  },
   "5579750": {
     "parent": 5370160,
     "name": "挂机传奇 - 薪火同行·开发者支持包"
@@ -346598,6 +346634,10 @@
   "5584170": {
     "parent": 5553700,
     "name": "世界樹と護符の約束 - Phase 1：葉冠編"
+  },
+  "5584900": {
+    "parent": 5584340,
+    "name": "Drive Beyond Horizons City Sniperrifle"
   },
   "5584910": {
     "parent": 3138230,
@@ -346642,6 +346682,10 @@
   "5593800": {
     "parent": 4985540,
     "name": "TASMON: Talisman & Berry Permanent Pass"
+  },
+  "5593850": {
+    "parent": 5298740,
+    "name": "DDDig - Ardbeg DLC"
   },
   "5596810": {
     "parent": 1125030,
@@ -346694,6 +346738,10 @@
   "5599010": {
     "parent": 4437270,
     "name": "The Last Embrace: Book One - Official Walkthrough"
+  },
+  "5599210": {
+    "parent": 4736820,
+    "name": "Ghost Trap: Underworld - Supporter Pack"
   },
   "5600250": {
     "parent": 5478190,
@@ -346755,6 +346803,10 @@
     "parent": 5583980,
     "name": "Six Kingdoms: Eternal War - Supporter Upgrade"
   },
+  "5606580": {
+    "parent": 4736820,
+    "name": "Ghost Trap: Underworld - Supporter Pack 2"
+  },
   "5606950": {
     "parent": 1407990,
     "name": "First Touch - Founder Pack"
@@ -346799,6 +346851,10 @@
     "parent": 5352660,
     "name": "Arrange & Restore – Oddball Companions"
   },
+  "5610400": {
+    "parent": 1521490,
+    "name": "My Dream Sport Dating Simulator - Supporter Pack"
+  },
   "5613330": {
     "parent": 5583300,
     "name": "Femboy Futa Cruise Supporter Pack"
@@ -346806,5 +346862,9 @@
   "5613340": {
     "parent": 5583300,
     "name": "Femboy Futa Cruise Wallpaper Pack"
+  },
+  "5623610": {
+    "parent": 5565060,
+    "name": "SUPER FIGHTERS -LEGENDS- | Character - Abby (EPIC)"
   }
 }
