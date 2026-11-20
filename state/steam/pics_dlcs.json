@@ -345675,6 +345675,10 @@
     "parent": 5358040,
     "name": "宇宙創世記カグラ - 文明創世ラボ"
   },
+  "5520000": {
+    "parent": 5509420,
+    "name": "ALOES Tactics - 4K Graphics Pack"
+  },
   "5520400": {
     "parent": 5230220,
     "name": "言葉遠征 - JLPT-地狱之旅"
@@ -346079,6 +346083,10 @@
     "parent": 5535750,
     "name": "Tanks & Trebuchets - All Upgrades & Cosmetics Unlocked"
   },
+  "5536450": {
+    "parent": 5102260,
+    "name": "Mini Crime City - Pirate Pack"
+  },
   "5536970": {
     "parent": 3980450,
     "name": "Настоящие пазлы - Каньоны: Дом на природе (изображения)"
@@ -346306,6 +346314,10 @@
   "5549960": {
     "parent": 4886320,
     "name": "海陸空四國大戰 - 戰役擴充包"
+  },
+  "5550000": {
+    "parent": 5169160,
+    "name": "CRUMB Advanced - Supporter"
   },
   "5550050": {
     "parent": 552990,
@@ -346675,6 +346687,10 @@
     "parent": 4024440,
     "name": "Haunted Heist - Supporter Pack"
   },
+  "5576630": {
+    "parent": 5102260,
+    "name": "Mini Crime City - Monkey Pack"
+  },
   "5576660": {
     "parent": 4603410,
     "name": "NeuralBeat Studio - Retro Soundtrack Studio"
@@ -346737,7 +346753,7 @@
   },
   "5581100": {
     "parent": 5007580,
-    "name": "Path of the Idle Cultivator - Supporter Pack"
+    "name": "Path of the Incremental Cultivator - Supporter Pack"
   },
   "5581420": {
     "parent": 5579720,
@@ -346767,6 +346783,10 @@
     "parent": 5553700,
     "name": "世界樹と護符の約束 - Phase 1：葉冠編"
   },
+  "5584330": {
+    "parent": 5259730,
+    "name": "Dub Party - Online Phone Pass"
+  },
   "5584900": {
     "parent": 5584340,
     "name": "Drive Beyond Horizons City Sniperrifle"
@@ -346778,6 +346798,10 @@
   "5585330": {
     "parent": 2529770,
     "name": "Chromosome Evil 2 artbook"
+  },
+  "5585660": {
+    "parent": 5545000,
+    "name": "Lily: Containment Protocol-ASMR, Goodnight, My Favorite Human"
   },
   "5585730": {
     "parent": 5507390,
@@ -346794,6 +346818,10 @@
   "5588410": {
     "parent": 5345040,
     "name": "Stick A Fork - Supporter Pack"
+  },
+  "5589420": {
+    "parent": 5102260,
+    "name": "Mini Crime City - Frog Pack"
   },
   "5591170": {
     "parent": 5341410,
