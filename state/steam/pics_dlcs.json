@@ -345447,6 +345447,10 @@
     "parent": 5352310,
     "name": "Rising Star - Impact Lab"
   },
+  "5511100": {
+    "parent": 787790,
+    "name": "Epic Roller Coasters - Winx Club"
+  },
   "5511210": {
     "parent": 5486620,
     "name": "JiivJiiv - Chinese Village"
@@ -345595,6 +345599,34 @@
     "parent": 5513350,
     "name": "Up, Up! Neon Stairs: Gold Supporter Pack"
   },
+  "5517220": {
+    "parent": 5282510,
+    "name": "Shadow Realms RPG - Supporter Pack"
+  },
+  "5517230": {
+    "parent": 5282510,
+    "name": "Shadow Realms RPG - Character Slot I"
+  },
+  "5517240": {
+    "parent": 5282510,
+    "name": "Shadow Realms RPG - Character Slot II"
+  },
+  "5517250": {
+    "parent": 5282510,
+    "name": "Shadow Realms RPG - Character Slot III"
+  },
+  "5517260": {
+    "parent": 5282510,
+    "name": "Shadow Realms RPG - Bag Space +500"
+  },
+  "5517270": {
+    "parent": 5282510,
+    "name": "Shadow Realms RPG - Lifetime Legend"
+  },
+  "5517290": {
+    "parent": 5282510,
+    "name": "Shadow Realms RPG - Frostreign Season Pass"
+  },
   "5517400": {
     "parent": 2640020,
     "name": "Monkey - Early Supporter Bundle"
@@ -345630,6 +345662,10 @@
   "5518540": {
     "parent": 5504190,
     "name": "ZERO MASS: Custom Colours Supporter Pack"
+  },
+  "5519260": {
+    "parent": 5358040,
+    "name": "宇宙創世記カグラ - 文明創世ラボ"
   },
   "5520400": {
     "parent": 5230220,
@@ -346483,6 +346519,10 @@
     "parent": 5348620,
     "name": "Tidy Up the Wonderlands of Mirad - Faraway Lands Supporter Pack"
   },
+  "5568930": {
+    "parent": 5552320,
+    "name": "Cafe Kinship: the game - Champions"
+  },
   "5569700": {
     "parent": 5031490,
     "name": "My Desktop Cat - Supporter Pack"
@@ -346603,6 +346643,10 @@
     "parent": 3827150,
     "name": "Offline Translation Model"
   },
+  "5576590": {
+    "parent": 4024440,
+    "name": "Haunted Heist - Supporter Pack"
+  },
   "5576660": {
     "parent": 4603410,
     "name": "NeuralBeat Studio - Retro Soundtrack Studio"
@@ -346707,6 +346751,10 @@
     "parent": 2529770,
     "name": "Chromosome Evil 2 artbook"
   },
+  "5585730": {
+    "parent": 5507390,
+    "name": "Return to college:Rising Talent"
+  },
   "5587010": {
     "parent": 5586930,
     "name": "DeadPoly Desert Axe"
@@ -346738,6 +346786,18 @@
   "5593120": {
     "parent": 3782080,
     "name": "中国式地雷女：蓝巧后日谈·花与蝉的冬夏"
+  },
+  "5593400": {
+    "parent": 5585760,
+    "name": "Pixel Card Clash – Zukunftsmaschinen"
+  },
+  "5593420": {
+    "parent": 5585760,
+    "name": "Pixel Card Clash – Fantasiewesen"
+  },
+  "5593430": {
+    "parent": 5585760,
+    "name": "Pixel Card Clash – Multiplayer"
   },
   "5593800": {
     "parent": 4985540,
@@ -346951,8 +347011,40 @@
     "parent": 3301840,
     "name": "凡修—交易扩展"
   },
+  "5614920": {
+    "parent": 5105490,
+    "name": "Sorcerous 2 Digital Art Book"
+  },
+  "5618530": {
+    "parent": 3221720,
+    "name": "SIGILLVM: RESONANCE – Episodes 18+"
+  },
+  "5620490": {
+    "parent": 5583630,
+    "name": "Desperate City Van"
+  },
+  "5620500": {
+    "parent": 5583630,
+    "name": "Desperate City PoliceCar"
+  },
+  "5620510": {
+    "parent": 5583630,
+    "name": "Desperate City MuscleCar"
+  },
+  "5620520": {
+    "parent": 5583630,
+    "name": "Desperate City Taxi"
+  },
+  "5620530": {
+    "parent": 5583630,
+    "name": "Desperate City Sedan"
+  },
   "5623610": {
     "parent": 5565060,
     "name": "SUPER FIGHTERS -LEGENDS- | Character - Abby (EPIC)"
+  },
+  "5641540": {
+    "parent": 4066520,
+    "name": "Supporter Pack"
   }
 }
