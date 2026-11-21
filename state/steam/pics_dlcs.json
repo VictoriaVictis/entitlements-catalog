@@ -344791,6 +344791,10 @@
     "parent": 4301580,
     "name": "Greedy - Supporter Pack"
   },
+  "5485810": {
+    "parent": 5485540,
+    "name": "The Gloaming Hand - First Light Pack"
+  },
   "5486260": {
     "parent": 5339360,
     "name": "Your Cat - Special Colors"
@@ -346287,6 +346291,10 @@
     "parent": 5544530,
     "name": "Totally Under Control! - Overtime"
   },
+  "5546960": {
+    "parent": 4923490,
+    "name": "Warden Campaigns – Fifth Edition SRD Pack"
+  },
   "5547940": {
     "parent": 5329870,
     "name": "らくがきスマッシュ / Doodle Smash - うれしい拡張パック"
@@ -346839,6 +346847,10 @@
     "parent": 3752410,
     "name": "DispatchControl Police"
   },
+  "5592600": {
+    "parent": 5485540,
+    "name": "The Gloaming Hand - Sundown"
+  },
   "5592640": {
     "parent": 2274120,
     "name": "NSFW Solitaire - Bunny Girl Video"
@@ -346946,6 +346958,10 @@
   "5601270": {
     "parent": 3873760,
     "name": "足球经理自走棋-放置桌宠扩展包"
+  },
+  "5601910": {
+    "parent": 3925820,
+    "name": "Proximity Core - Overlay & Extras"
   },
   "5602050": {
     "parent": 1333350,
@@ -347067,6 +347083,14 @@
     "parent": 1521490,
     "name": "My Dream Sport Dating Simulator - Supporter Pack"
   },
+  "5611680": {
+    "parent": 5485540,
+    "name": "The Gloaming Hand - Midnight"
+  },
+  "5611700": {
+    "parent": 5485540,
+    "name": "The Gloaming Hand - Daybreak"
+  },
   "5613330": {
     "parent": 5583300,
     "name": "Femboy Futa Cruise Supporter Pack"
@@ -347083,9 +347107,21 @@
     "parent": 5105490,
     "name": "Sorcerous 2 Digital Art Book"
   },
+  "5616640": {
+    "parent": 5005100,
+    "name": "Corgi Corgi Cor! : Hair bow."
+  },
   "5616880": {
     "parent": 2808930,
     "name": "Lust Goddess — Mascot Arxia"
+  },
+  "5617650": {
+    "parent": 5485540,
+    "name": "The Gloaming Hand - Patron of the Gloaming"
+  },
+  "5617910": {
+    "parent": 5005100,
+    "name": "Corgi Corgi Cor ! : Supporter Pack"
   },
   "5618530": {
     "parent": 3221720,
@@ -347118,6 +347154,10 @@
   "5623610": {
     "parent": 5565060,
     "name": "SUPER FIGHTERS -LEGENDS- | Character - Abby (EPIC)"
+  },
+  "5639290": {
+    "parent": 3431760,
+    "name": "Desire's Burgers - 18+ Adult Only Content"
   },
   "5641540": {
     "parent": 4066520,
