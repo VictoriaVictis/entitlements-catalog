@@ -344791,6 +344791,10 @@
     "parent": 4301580,
     "name": "Greedy - Supporter Pack"
   },
+  "5485780": {
+    "parent": 5218850,
+    "name": "God'n Spy Add-on for Geo-Political Simulator 2027 Edition"
+  },
   "5485810": {
     "parent": 5485540,
     "name": "The Gloaming Hand - First Light Pack"
@@ -346067,6 +346071,10 @@
     "parent": 5187960,
     "name": "Touchline Platinum"
   },
+  "5531820": {
+    "parent": 4580330,
+    "name": "Spy Carnival - Supporter Pack"
+  },
   "5532390": {
     "parent": 5134730,
     "name": "TAKE MY BOMB - Hallowin DLC"
@@ -346078,6 +346086,10 @@
   "5533030": {
     "parent": 1761380,
     "name": "Otherworld Legends - Licco"
+  },
+  "5533210": {
+    "parent": 5523020,
+    "name": "One More Chest! - Cursed Seas"
   },
   "5533500": {
     "parent": 1266470,
@@ -346375,6 +346387,10 @@
     "parent": 1422130,
     "name": "SimRail - The Railway Simulator: Lublin Region"
   },
+  "5548450": {
+    "parent": 1272080,
+    "name": "PAYDAY 3: Tom Clancy's Ghost Recon Crimebond"
+  },
   "5548520": {
     "parent": 3307120,
     "name": "Kitty Powers' Matchmaker Makeover - Dinners & Dilemmas Pack"
@@ -346427,6 +346443,10 @@
     "parent": 5396440,
     "name": "Pop! Jelly PangPang - Full Version Unlock"
   },
+  "5552130": {
+    "parent": 1677980,
+    "name": "Unmatched: Digital Edition - Sun's Origin"
+  },
   "5552190": {
     "parent": 1196310,
     "name": "Fantasy Grounds - House of Krampus (SD)"
@@ -346475,6 +346495,10 @@
     "parent": 4601900,
     "name": "Debug Your Heart: A World With You"
   },
+  "5554940": {
+    "parent": 5523020,
+    "name": "Supporter Pack"
+  },
   "5554980": {
     "parent": 236390,
     "name": "War Thunder - Stingray II Pack"
@@ -346490,6 +346514,10 @@
   "5556510": {
     "parent": 898580,
     "name": "Premium Bowling - Forgotten Lanes Alley"
+  },
+  "5556540": {
+    "parent": 1169040,
+    "name": "Necesse - Jingle Jam Charity Panda Pack"
   },
   "5556740": {
     "parent": 5515850,
@@ -346586,6 +346614,10 @@
   "5564320": {
     "parent": 4277640,
     "name": "SaveShe_LoveOfTheBeauty"
+  },
+  "5564370": {
+    "parent": 1196310,
+    "name": "Fantasy Grounds - Kingdoms Elven Autumn Map Pack"
   },
   "5564500": {
     "parent": 4784510,
@@ -346743,6 +346775,10 @@
     "parent": 5039610,
     "name": "纸嫁衣8千子树-原画与设定集"
   },
+  "5573050": {
+    "parent": 2280360,
+    "name": "Scarecrow: 90s Crime Story – Digital Artbook"
+  },
   "5573310": {
     "parent": 4986510,
     "name": "HBZ_Supporter_Pack"
@@ -346754,6 +346790,10 @@
   "5574060": {
     "parent": 1036950,
     "name": "Super Jigsaw Puzzle: Generations - Ice"
+  },
+  "5574070": {
+    "parent": 1036950,
+    "name": "Super Jigsaw Puzzle: Generations - Bugs 3"
   },
   "5574090": {
     "parent": 5573570,
@@ -346891,9 +346931,21 @@
     "parent": 5553700,
     "name": "世界樹と護符の約束 - Phase 1：葉冠編"
   },
+  "5584190": {
+    "parent": 5524760,
+    "name": "Task Bar Deads - Dog Rex"
+  },
   "5584330": {
     "parent": 5259730,
     "name": "Dub Party - Online Phone Pass"
+  },
+  "5584350": {
+    "parent": 5524760,
+    "name": "Task Bar Deads - Extra Inventory"
+  },
+  "5584470": {
+    "parent": 5524760,
+    "name": "Task Bar Deads - Extra Boost"
   },
   "5584900": {
     "parent": 5584340,
@@ -346934,6 +346986,14 @@
   "5589420": {
     "parent": 5102260,
     "name": "Mini Crime City - Frog Pack"
+  },
+  "5590380": {
+    "parent": 1808500,
+    "name": "ARC Raiders - The Shepherd Set"
+  },
+  "5590850": {
+    "parent": 341040,
+    "name": "Wars Across the World: Tripoli 1801"
   },
   "5591170": {
     "parent": 5341410,
@@ -346990,6 +347050,10 @@
   "5595310": {
     "parent": 4122580,
     "name": "Card Storm Idle HD - Double Stars"
+  },
+  "5596770": {
+    "parent": 5497040,
+    "name": "挂机伏魔录 - 斩魔传承·开发者支持包"
   },
   "5596810": {
     "parent": 1125030,
@@ -347066,6 +347130,14 @@
   "5601270": {
     "parent": 3873760,
     "name": "足球经理自走棋-放置桌宠扩展包"
+  },
+  "5601290": {
+    "parent": 5402860,
+    "name": "勇者喵傳說 - 第二章：晴信與最後一顆丸子"
+  },
+  "5601610": {
+    "parent": 1333350,
+    "name": "Angel Legion-DLC Street Spotlight F"
   },
   "5601910": {
     "parent": 3925820,
@@ -347271,6 +347343,10 @@
     "parent": 5565060,
     "name": "SUPER FIGHTERS -LEGENDS- | Character - Abby (EPIC)"
   },
+  "5623930": {
+    "parent": 4832480,
+    "name": "POTUS Election Sim - The Margin"
+  },
   "5624920": {
     "parent": 1470810,
     "name": "Plushy Store Tidy Up - Plushy Barn Achievement Pack"
@@ -347282,6 +347358,14 @@
   "5626020": {
     "parent": 3768660,
     "name": "About a Boy - Digital Artbook"
+  },
+  "5628380": {
+    "parent": 5398150,
+    "name": "Battle SHIRYU - VOICE BATTLER SHIRYU"
+  },
+  "5629050": {
+    "parent": 4912480,
+    "name": "ePaperCraft SHIRYU - VOICE BATTLER SHIRYU"
   },
   "5629100": {
     "parent": 1125030,
