@@ -345791,6 +345791,26 @@
     "parent": 5167670,
     "name": "Starlight Cove - Supporter Pack"
   },
+  "5521960": {
+    "parent": 5413650,
+    "name": "Deck'em Down - Malachar the Hexbinder"
+  },
+  "5521970": {
+    "parent": 5413650,
+    "name": "Deck'em Down - Ysolde the Velvet Blade"
+  },
+  "5521980": {
+    "parent": 5413650,
+    "name": "Deck'em Down - Aurelio the Golden Prince"
+  },
+  "5521990": {
+    "parent": 5413650,
+    "name": "Deck'em Down - Silas the Silver Tongue"
+  },
+  "5522000": {
+    "parent": 5413650,
+    "name": "Deck'em Down - Fenris the Moonhowl"
+  },
   "5522170": {
     "parent": 4059620,
     "name": "PixelHeroScramble Plus : Digital ArtBook & Soundtrack"
@@ -346335,6 +346355,14 @@
     "parent": 4923490,
     "name": "Warden Campaigns – Fifth Edition SRD Pack"
   },
+  "5547280": {
+    "parent": 4823250,
+    "name": "Incremental Pain Profit - Support Pack"
+  },
+  "5547520": {
+    "parent": 4823250,
+    "name": "Incremental Pain Profit - Pirate Theme Pack"
+  },
   "5547940": {
     "parent": 5329870,
     "name": "らくがきスマッシュ / Doodle Smash - うれしい拡張パック"
@@ -346462,6 +346490,10 @@
   "5556510": {
     "parent": 898580,
     "name": "Premium Bowling - Forgotten Lanes Alley"
+  },
+  "5556740": {
+    "parent": 5515850,
+    "name": "Gramps & Whiskers - Holiday Pack"
   },
   "5556960": {
     "parent": 4677750,
@@ -347251,6 +347283,14 @@
     "parent": 3768660,
     "name": "About a Boy - Digital Artbook"
   },
+  "5629100": {
+    "parent": 1125030,
+    "name": "Hentai Ninja Garden - Night of a Hundred Lanterns"
+  },
+  "5629620": {
+    "parent": 1466750,
+    "name": "Hentai Queens - Artbook"
+  },
   "5630920": {
     "parent": 5140980,
     "name": "The Odyssey: Threads of Fate - Supporter Pack"
@@ -347274,5 +347314,9 @@
   "5647660": {
     "parent": 2274120,
     "name": "NSFW Solitaire - Lesbian Love Video"
+  },
+  "5648280": {
+    "parent": 2475780,
+    "name": "THE SHRiNK Episode 5"
   }
 }
