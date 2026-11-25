@@ -345859,6 +345859,10 @@
     "parent": 5466570,
     "name": "賴瑞的調酒研究室 - 萌西・錡哥攻略包"
   },
+  "5525030": {
+    "parent": 5466570,
+    "name": "賴瑞的調酒研究室 - 黛黛・妮可攻略包"
+  },
   "5525040": {
     "parent": 5466570,
     "name": "賴瑞的調酒研究室 - 雅英攻略包"
@@ -347363,6 +347367,10 @@
     "parent": 5398150,
     "name": "Battle SHIRYU - VOICE BATTLER SHIRYU"
   },
+  "5628810": {
+    "parent": 4021110,
+    "name": "Factory Time - Supporter Pack"
+  },
   "5629050": {
     "parent": 4912480,
     "name": "ePaperCraft SHIRYU - VOICE BATTLER SHIRYU"
@@ -347375,9 +347383,57 @@
     "parent": 1466750,
     "name": "Hentai Queens - Artbook"
   },
+  "5630820": {
+    "parent": 4390480,
+    "name": "Highland Haven - Supporter Pack"
+  },
   "5630920": {
     "parent": 5140980,
     "name": "The Odyssey: Threads of Fate - Supporter Pack"
+  },
+  "5631080": {
+    "parent": 4603410,
+    "name": "NeuralBeat Studio - AI Song & Vocal Studio"
+  },
+  "5632150": {
+    "parent": 5584340,
+    "name": "Drive Beyond Horizons City AK47"
+  },
+  "5632160": {
+    "parent": 5584340,
+    "name": "Drive Beyond Horizons City M4"
+  },
+  "5632170": {
+    "parent": 5584340,
+    "name": "Drive Beyond Horizons City Scar"
+  },
+  "5632180": {
+    "parent": 5584340,
+    "name": "Drive Beyond Horizons City Shotgun"
+  },
+  "5632200": {
+    "parent": 5584340,
+    "name": "Drive Beyond Horizons City SCAR20"
+  },
+  "5632420": {
+    "parent": 5586930,
+    "name": "DeadPoly Desert Mallet"
+  },
+  "5632430": {
+    "parent": 5586930,
+    "name": "DeadPoly Desert Metal Hatchet"
+  },
+  "5632440": {
+    "parent": 5586930,
+    "name": "DeadPoly Desert Metal PickAxe"
+  },
+  "5632450": {
+    "parent": 5586930,
+    "name": "DeadPoly Desert Shovel"
+  },
+  "5632460": {
+    "parent": 5586930,
+    "name": "DeadPoly Desert Curved Sword"
   },
   "5636620": {
     "parent": 3320410,
