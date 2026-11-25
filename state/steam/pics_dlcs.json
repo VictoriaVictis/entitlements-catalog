@@ -345703,6 +345703,10 @@
     "parent": 5504190,
     "name": "ZERO MASS: Custom Colours Supporter Pack"
   },
+  "5518910": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - Robo Revenge"
+  },
   "5519260": {
     "parent": 5358040,
     "name": "宇宙創世記カグラ - 文明創世ラボ"
@@ -346343,6 +346347,10 @@
     "parent": 4749880,
     "name": "Desktop Bouncer - Squishy Sweets"
   },
+  "5545630": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - Skyline Stack"
+  },
   "5545890": {
     "parent": 1478980,
     "name": "PIGEON POST THE GREAT AIRMAIL ADVENTURE PINBALL"
@@ -346471,6 +346479,10 @@
     "parent": 2216690,
     "name": "Turret Girl - Artbook 2 NSFW"
   },
+  "5553440": {
+    "parent": 5405240,
+    "name": "ISEKAI TRUCK - Chapter 2, 3, 4"
+  },
   "5553580": {
     "parent": 4872180,
     "name": "Nutshot Simulator - Athletic Supporter Pack"
@@ -346486,6 +346498,18 @@
   "5554080": {
     "parent": 2767030,
     "name": "Marvel Rivals – Enabling In-Game Performance (Experimental)"
+  },
+  "5554270": {
+    "parent": 5029630,
+    "name": "Hero DLC"
+  },
+  "5554280": {
+    "parent": 5029630,
+    "name": "Priest DLC"
+  },
+  "5554290": {
+    "parent": 5029630,
+    "name": "Treasure Hunter DLC"
   },
   "5554310": {
     "parent": 856880,
@@ -346851,6 +346875,10 @@
     "parent": 3446300,
     "name": "Mountain Legends 5 - Full Game Unlock"
   },
+  "5577570": {
+    "parent": 5577510,
+    "name": "Lyran Defense - Light the Beacon"
+  },
   "5577810": {
     "parent": 1803390,
     "name": "Bounty Drag Racing - Outlaw Pack 12"
@@ -346903,6 +346931,10 @@
     "parent": 5020310,
     "name": "Dub Together: Profile Pack 2 – Russian Winter"
   },
+  "5580630": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - Cubaria"
+  },
   "5581100": {
     "parent": 5007580,
     "name": "Path of the Incremental Cultivator - Supporter Pack"
@@ -346910,6 +346942,10 @@
   "5581420": {
     "parent": 5579720,
     "name": "Pillars Party - Christmas Pack"
+  },
+  "5582100": {
+    "parent": 4281680,
+    "name": "Cambell's Oddity Box - Cog Dash"
   },
   "5582720": {
     "parent": 4703450,
@@ -346926,6 +346962,10 @@
   "5583360": {
     "parent": 5583240,
     "name": "If you die, you die! - Station Archive Access"
+  },
+  "5583500": {
+    "parent": 5057800,
+    "name": "When Chests Rain Tons of Loot - Sandbox & Looks"
   },
   "5584000": {
     "parent": 5583630,
@@ -347055,9 +347095,21 @@
     "parent": 4122580,
     "name": "Card Storm Idle HD - Double Stars"
   },
+  "5596330": {
+    "parent": 4593480,
+    "name": "Eden Camp - Naughty Activities"
+  },
+  "5596370": {
+    "parent": 3607040,
+    "name": "Waifu Discovered 3 - Alter Egos"
+  },
   "5596770": {
     "parent": 5497040,
     "name": "挂机伏魔录 - 斩魔传承·开发者支持包"
+  },
+  "5596780": {
+    "parent": 5497040,
+    "name": "挂机伏魔录 - 天外剑尊·职业扩展包"
   },
   "5596810": {
     "parent": 1125030,
@@ -347247,6 +347299,10 @@
     "parent": 5352660,
     "name": "Arrange & Restore – Oddball Companions"
   },
+  "5609040": {
+    "parent": 4593480,
+    "name": "Eden Camp - Supporter Pack"
+  },
   "5609910": {
     "parent": 5513350,
     "name": "Up, Up! Neon Stairs: Murasame Supporter Pack"
@@ -347351,6 +347407,10 @@
     "parent": 4832480,
     "name": "POTUS Election Sim - The Margin"
   },
+  "5624780": {
+    "parent": 5609660,
+    "name": "我们不用很麻烦很累就可以变强！支持者包"
+  },
   "5624920": {
     "parent": 1470810,
     "name": "Plushy Store Tidy Up - Plushy Barn Achievement Pack"
@@ -347435,6 +347495,10 @@
     "parent": 5586930,
     "name": "DeadPoly Desert Curved Sword"
   },
+  "5635180": {
+    "parent": 4906500,
+    "name": "S.A.M. - Stasis Asset Management Case File"
+  },
   "5636620": {
     "parent": 3320410,
     "name": "DLC Thot on Trial High Quality 4K Wallpapers"
@@ -347447,6 +347511,10 @@
     "parent": 4066520,
     "name": "Supporter Pack"
   },
+  "5642920": {
+    "parent": 5402860,
+    "name": "勇者喵傳說 - 神奇建築師-雷邇"
+  },
   "5643590": {
     "parent": 3301840,
     "name": "凡修—功法自动修炼"
@@ -347458,5 +347526,9 @@
   "5648280": {
     "parent": 2475780,
     "name": "THE SHRiNK Episode 5"
+  },
+  "5657010": {
+    "parent": 5382240,
+    "name": "I SUCK DICKS AND HATE AI: HAPPY NEW SLOP"
   }
 }
